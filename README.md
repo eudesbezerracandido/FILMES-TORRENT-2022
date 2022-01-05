@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] PROCURAR E DESTRUIR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AVMUMXELA5SGUADVMQ3KXK4CH3I37XQ2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uLurpF4Ay29oTnfsJJBXwWNuCmS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No filme Procurar e Destruir BluRay 1080p Dual Áudio, Quando o Ranger americano John Cutter não consegue salvar uma família mantida refém e perde toda a sua equipe em uma batalha com o infame negociante de armas ucraniano Igor Rodin, John é dispensado do exército. Três anos depois, ele é abordado por seu antigo general para ir em uma missão contratada privada quando Igor reaparece.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] HARRY POTTER- 20 ANOS DE MAGIA-DE VOLTA A HOGWARTS ( LEGENDADO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed391ff07b3a9f1be5e3a882efc6beca916a2912</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/bhY813zHKJStgUwl9kfBA3WDDPS.jpg</thumbnail>
