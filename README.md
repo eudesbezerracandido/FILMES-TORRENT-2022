@@ -34,6 +34,22 @@
 <info>A família Beecroft está louca para gastar a herança do patriarca, mas tem alguém que não vai deixar isso acontecer.</info>
 </item>
 
+<item>
+<title>[COLOR silver][B] A ÚLTIMA VIAGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7IPFFSFS7F75KVKPHMBWJ3277LNGMAKU</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zXmlOQI92d8vfFl4ua9jTsSyOT6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma troca de voos faz com que Daniel Murphy (Michiel Huisman) acabe com uma tarefa inusitada: levar o corpo de alguém que ele nem conheceu até Rathlin Island.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PREPARATIVOS PARA FICARMOS JUNTOS POR TEMPO INDEFINIDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:918eda43a3dd86ab4abd3cc8543c020e0497a172</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/94a94Jg6ghQNvsWdH3oaqSen3Wa.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Márta, uma neurocirurgiã de 40 anos, se apaixona por um médico que conheceu em uma conferência. Ela deixa sua brilhante carreira nos Estados Unidos para trás e retorna a Budapeste para começar uma nova vida com ele. Mas, logo no primeiro reencontro, o amor de sua vida afirma nunca tê-la conhecido antes.</info>
+</item>
+
 
 
 
