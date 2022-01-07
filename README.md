@@ -1,6 +1,21 @@
 # FILMES-TORRENT-2022
 
 
+<item>
+<title>[COLOR silver][B] PIG-A VINGANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3OLXKYB6R6FP4YR7P4QJIQ4KZKTBALVZ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gU2rlPXQjPxC4qyDe5pYpajqtCT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um caçador, que vive sozinho no deserto no Oregon, tem seu porco forrageiro sequestrado. Ele deve viajar para Portland, e seu passado há muito abandonado, para recuperar seu "melhor amigo".</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] BAR DOCE LAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e9ff9b2241af9f8ebb0c4ad3266fd81727b3326a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qQriRfDfR9a2agLybu58T45yKRB.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um menino (Jr.) busca um substituto para seu pai, que desapareceu logo após seu nascimento, e se liga a seu tio Charlie e os clientes em um bar em Long Island.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] PROCURAR E DESTRUIR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
