@@ -1,6 +1,17 @@
 # FILMES-TORRENT-2022
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] O PÁRAMO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IHGFN6MTKNGAUNTRMPHUIVL3J7VOBNSF</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dLOkvK9MtksR3riXrXG0f98092L.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Numa cabana no meio do nada, isolada da sociedade, um garoto e sua mãe histérica percebem uma presença assustadora que os observa de longe, se aproximando cada vez mais a cada dia.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] PIG-A VINGANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3OLXKYB6R6FP4YR7P4QJIQ4KZKTBALVZ</link>
