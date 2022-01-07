@@ -70,7 +70,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/c49uzZOOa69ZrcHR4O4k7mqwB6J.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Uma criança mantém sua família em cativeiro, em um buraco no chão. Neste thriller perturbador, um menino de 13 anos decide prender seus pais e irmã em um bunker abandonado no quintal de casa. Sozinho, ele aproveita a liberdade e começa a descobrir a vida adulta.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] PAPAI PODEROSO 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
