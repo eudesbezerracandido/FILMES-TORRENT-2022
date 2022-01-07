@@ -1,8 +1,20 @@
 # FILMES-TORRENT-2022
 
+<item>
+<title>[COLOR silver][B] MESA PARA QUATRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6VUCYQJSE4NPRJ4LTDUHDBGAOOAXJFWW</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oDCPR8MJkG4gdIaQLLNisjUDYPt.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nesta comédia romântica que desafia o conceito de almas gêmeas, histórias paralelas mostram quatro amigos em várias combinações de casais.</info>
+</item>
 
-
-
+<item>
+<title>[COLOR silver][B] A LENDA DO CAVALEIRO VERDE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F3DFE7JYOTLBXZIP7U7JSDAHY6UVGRVR</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uEBz75PgdWLZ6KvVyzYn4xKJnrK.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Sir Gawain (Dev Patel), o teimoso e inconsequente sobrinho do Rei Arthur, aceita o desafio de acabar com o infame Cavaleiro Verde, um gigante feito de esmeralda e destruidor de homens. Enfrentando fantasmas, gigantes, ladrões e trapaceiros no caminho, Gawain embarca na jornada da sua vida que definirá seu caráter e lhe dará a chance de provar que é merecedor aos olhos de sua família e reino.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O PÁRAMO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
