@@ -1,5 +1,32 @@
 # FILMES-TORRENT-2022
 
+
+
+
+<item>
+<title>[COLOR silver][B] SUA VIDA ME PERTENCE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YUCDHDEXPSA776JK4ACTZ3XAA2D2JB2O</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6abgrBcS5yqWoKtPh2chkMfgts3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A jovem médica Malu retorna à sua cidade natal e conhece Hannes, um rapaz charmoso, engraçado e bonito. Mas logo ele começa a revelar um lado mais sombrio.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MÃE X ANDROIDERS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6KTTNV7BVEBD45WARYWXLVQBRVUG3SST</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hfEuG7GkU2LOiT2O32OEfynRJqV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Esperando seu primeiro filho, Georgia (Chloe Grace Moretz) e Sam (Algee Smith) são um casal em fuga de seu próprio país, que se encontra em meio a uma guerra inesperada com inteligências artificiais. Juntos, eles tem que enfrentar a Terra de Ninguém — a fortaleza da revolta android, na esperança de encontrar segurança antes que Georgia dê a luz.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O.G [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58fb04eef34e3bc65f7cdbdba9c10f9a748a5f47</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ouf0Hq3dtyryraPAuEZAHSBwtLc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de 24 anos em uma prisão de segurança máxima por ter cometido um crime violendo quando jovem, Louis (Jeffrey Wright) está prestes a ser solto. Com um futuro incerto do lado de fora, ele encontra em Beech (Theothus Carter), um jovem homem que acabou de chegar na prisão, uma amizade necessária. Vendo muito de si mesmo no jovem, ele se vê tendo que enfrentar instintos que tinha enterrado profundamente por trás da aparência durona e isso implica profundas complicações em sua vida.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] MESA PARA QUATRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6VUCYQJSE4NPRJ4LTDUHDBGAOOAXJFWW</link>
