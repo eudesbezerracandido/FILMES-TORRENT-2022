@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] A FILHA DO REI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Z2CED27MQNSL5FLHJNQRX5XZB6KGSWQO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gSmLUushIlmqFxFEB4uT6IM2ei2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O Rei Louis XIV (Pierce Brosnan) segue em uma busca obsessiva pela vida eterna. Ele tenta usar a força vital de uma sereia para isso, mas sua filha bastarda descobre a existência da criatura e complica os planos do pai.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SUA VIDA ME PERTENCE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YUCDHDEXPSA776JK4ACTZ3XAA2D2JB2O</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6abgrBcS5yqWoKtPh2chkMfgts3.jpg</thumbnail>
