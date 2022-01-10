@@ -3,6 +3,23 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] O APANHADOR DE SONHOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5UCLHYFUYI3VMYGJGXTG5B4D55TGBFG4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/28e5O8pGCpdchDfRvoKkZYFDpPb.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O filme centra-se em duas irmãs distantes que, junto com seus amigos, se tornam entrincheiradas em um turbilhão de 48 horas de violência após uma experiência traumática em um festival de música underground.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UMA CIDADE DE LOUCURA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7db954be02a68203739391e02fc5ddcd2bd1aecd</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fxDus52sE58q69V2gSoIceuX3LH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Viver na Cidade do México é uma aventura diária. Enquanto o taxista Ramiro sonha em ser milionário, Carmen e Miguel recebem milhões sem querer. Uma divertida comédia sobre a cultura mexicana.</info>
+</item>
+  
 <item>
 <title>[COLOR silver][B] A FILHA DO REI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Z2CED27MQNSL5FLHJNQRX5XZB6KGSWQO</link>
