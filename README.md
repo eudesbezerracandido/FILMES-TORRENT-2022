@@ -1,5 +1,38 @@
 # FILMES-TORRENT-2022
 
+
+<item>
+<title>[COLOR silver][B] FOGO CRUZADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=https://www.themoviedb.org/t/p/original/5tKdjKZT1oUG16n5jefPD4XObZw.jpg</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5tKdjKZT1oUG16n5jefPD4XObZw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A delegacia de polícia de uma pequena cidade se torna o improvável campo de batalha entre um assassino profissional, uma policial novata e um vigarista traidor, que busca refúgio atrás das grades para se proteger dos seus perseguidores.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TIRO CERTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fdfe7d1a8065d6bd69a7f91f4d6405922968207c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2LSwzrdj7ljnFhiqIgfp9rd46fU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um esquadrão de elite de SEALs da Marinha, em uma missão secreta para transportar um prisioneiro de uma prisão em uma ilha da CIA, fica preso quando insurgentes atacam enquanto tentam resgatar o mesmo prisioneiro.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AS FOTOS VAZADAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:979ac6666b6e6600ac5cf5df14f14ef442996b07</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/m0rK7QEkivsD63Rvt2wgT5WGkUN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois que sua selfie bêbada circulou online, Sur perde sua bolsa de estudos ao ser acusada de trazer desgraça para seu corpo docente.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] INDECENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60e306680b0fea71256f46da5b447c4e32af5197</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/A5v6Wi7lYR3a9m6CzntZWAcGFGV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Grace McCabe (Alyssa Milano) fica chocada ao descobrir que a irmã Kathleen mora num subúrbio decadente de Washington, D.C., e complementa a renda como artista de webcam após ter passado por um divórcio penoso. Entretanto, com a empresa Fantasia garantindo anonimato completo aos funcionários, até onde essa atividade pode ser perigosa? Grace logo descobrirá a resposta quando certa noite, ao regressar para casa, depara-se com uma cena tenebrosa, que poderia ter saído de um de seus mais apavorantes romances. Ignorando as advertências do tranquilo detetive Ed Jackson (Sam Page), Grace monta sozinha sua própria armadilha para incitar um criminoso a sair do esconderijo. Baseado no romance Virtude Indecente, de Nora Roberts.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] TRAIÇÃO E DESEJO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PANLKZ26EXDWPYZH2FXESCBKTCGAXMGI</link>
