@@ -5,6 +5,22 @@
 
 
 <item>
+<title>[COLOR silver][B] BIOGRAFIA-PIXINGUINHA, UM HOMEM CARINHOSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2db68c459b3d0419aa84b0f7af9edba02474849</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bU7NpcFWplrCB7JxLONzW3yDtEd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Vida e obra de Alfredo da Rocha Vianna Junior (1897-1973), o Pixinguinha, pai da MPB. Gênio incompreendido e muito à frente de seu tempo, só teve sua importância reconhecida muitos anos depois. A vida do famoso músico, menino negro de classe média baixa é contada desde suas primeiras performances antológicas na flauta; a composição de suas muitas obras primas, dentre as quais “Carinhoso” o verdadeiro hino popular brasileiro, que faz 100 anos em 2017; sua temporada de 6 meses em Paris em 1922 com o retumbante êxito de seu conjunto “Oito Batutas”; seus arranjos como primeiro diretor musical para a Victor americana nos anos 30, sua decadência e ressurgimento nos anos 40; sua consagração nos anos 60 pelas mãos das novas gerações da bossa nova e do jazz; e sua morte na igreja N. S. da Paz no Rio de Janeiro em pleno carnaval de 1973 durante a passagem da Banda de Ipanema.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] COMO ME APAIXONAR POR UM GÂNGSTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67J5SMWJMVM7OZGRDCKYXRFMPT2H2V5E</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/y0XvEUqkLiaiwlq9XovN3p4dkKi.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma mulher misteriosa fala sobre a ascensão e queda de Nikodem Nikoś Skotarczak, um dos maiores gângsteres da história da Polônia. Inspirado em uma história real.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O APANHADOR DE SONHOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5UCLHYFUYI3VMYGJGXTG5B4D55TGBFG4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/28e5O8pGCpdchDfRvoKkZYFDpPb.jpg</thumbnail>
