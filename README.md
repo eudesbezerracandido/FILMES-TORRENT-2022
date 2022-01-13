@@ -1,6 +1,12 @@
 # FILMES-TORRENT-2022
 
-
+<item>
+<title>[COLOR silver][B] TRAIÇÃO E DESEJO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PANLKZ26EXDWPYZH2FXESCBKTCGAXMGI</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aAw0ayzQT6eIaiLGd1HD17WkOmw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A trama é um passeio sexy e sinuoso pela charmosa Nova York onde Brooke (Victoria Justice) é proprietária de uma galeria de artes no centro da cidade. Mas ela e o marido Owen (Matthew Daddario) enfrentam tentações que podem abalar seu relacionamento estável com a chegada de duas pessoas misteriosas em suas vidas.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] HALLOWEEN KILLS- O TERROR CONTINUA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
