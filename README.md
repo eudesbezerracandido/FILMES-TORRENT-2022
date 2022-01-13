@@ -2,7 +2,21 @@
 
 
 
+<item>
+<title>[COLOR silver][B] HALLOWEEN KILLS- O TERROR CONTINUA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5XCIGPB3VPIJC2QKFNXV7BQ6X3F2JKB2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4NphuHmnuROLqCjAEr5LS7Aage6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de quatro décadas se preparando para enfrentar Michael Myers, Laurie Strode acredita que enfim venceu. Porém, ela é surpreendida pelo retorno de seu grande inimigo em um novo desdobramento de mais um capítulo na saga Halloween.</info>
+</item>
 
+<item>
+<title>[COLOR silver][B] CHERNOBYL - O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b86f9b5d8356af08848e12bbd1a1f6bed2c7f6b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bnB2EkaY6HEdzwVkkH7dBHy6HmZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma história sobre um bombeiro heroico que trabalhou como um dos síndicos de Chernobyl. Três heróis silenciosos prontos para arriscarem suas próprias vidas para evitar uma catástrofe ainda maior na usina nuclear de Chernobyl.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] BIOGRAFIA-PIXINGUINHA, UM HOMEM CARINHOSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
