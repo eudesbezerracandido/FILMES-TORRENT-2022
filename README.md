@@ -2,6 +2,30 @@
 
 
 <item>
+<title>[COLOR silver][B] PUNHOS DA VINGANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f44dbed84c5b691ee99f9d37590083a64bbe6f1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8vRdCB9nzZaYqh6nZ9HUFFSxKIW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em Xangai, um ex-campeão de artes marciais mistas e herdeiro de uma corporação multibilionária jurou nunca mais lutar no ringue depois de matar acidentalmente seu oponente durante sua última luta. Mas quando seu irmão é morto em um torneio de boxe underground, ele não tem escolha a não ser se juntar a Maiwen, uma informante da polícia, para investigar a morte dele e eles acabam descobrindo uma grande conspiração.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SEGREDOS DE FAMILIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:U656RV2EGHFHJZNDN2UKABZKIQLNM6T7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/16D0mXRzkiGKsWDYI2CLMLk5ocB.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No filme Segredos de Família BluRay 1080p Dual Áudio, A história de uma jovem que tenta aceitar a morte de seu irmão e acaba encontrando uma forte amizade com o melhor amigo dele.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A TRAGÉDIA DE MACHETH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B5JB4BSWAQ7BI7SNN4P2Z7KCXDCRZXZ5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/abbUJawLzgS5Sq9uSkpybs1GqNE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Denzel Washington e Frances McDormand estrelam uma ousada adaptação de Joel Coen do clássico de Shakespeare, onde um lorde é convencido por um trio de bruxas que está destinado a se tornar o rei da Escócia. Com a ajuda de sua ambiciosa esposa, ele faz o que é necessário com o objetivo de conquistar a coroa.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FOGO CRUZADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=https://www.themoviedb.org/t/p/original/5tKdjKZT1oUG16n5jefPD4XObZw.jpg</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/5tKdjKZT1oUG16n5jefPD4XObZw.jpg</thumbnail>
