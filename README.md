@@ -218,7 +218,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/ltGLKabCfw3ncCGsQ1aQEvWFCcf.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>: Um autor aposentado e mau humorado relutantemente embarca em uma turnê final de seu último livro para ajudar uma jovem editora. A aspirante a editora Lucy Stanbridge (Aubrey Plaza) precisa desesperadamente de um best-seller para salvar a editora que ela herdou de seu pai e que está afundando. Quando ela descobre que a empresa tem direito a um novo livro de Harris Shaw (Michael Caine), o autor recluso e rabugento que originalmente colocou a empresa no mapa, ele passa a ser uma última tentativa de salvação – o que resulta na infernal turnê do livro. Quando um vexame de embriaguez em um evento cai nas redes sociais, as vendas de livros de Harris disparam. Conforme a turnê vai aumentando, Lucy e Harris ficam mais próximos, mas ela mal sabe que em breve ele fará uma revelação que vai mudar seu mundo para sempre.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] UM LUGAR SECRETO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
