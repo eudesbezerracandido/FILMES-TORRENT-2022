@@ -1,6 +1,17 @@
 # FILMES-TORRENT-2022
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] TEMPOS DE ESCURIDÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf3df46ce73b2eab188ca29d9eaf848a806bbebc</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/j2gaMXecjYs1F70fmsFCcuOjl5J.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Abril de 1940. Com a ocupação alemã da Dinamarca, Karl Skov, um poderoso e influente industrial local, decide cooperar e lucrar com a guerra, enquanto sua família se encontra em lados opostos do conflito.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] PUNHOS DA VINGANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f44dbed84c5b691ee99f9d37590083a64bbe6f1</link>
