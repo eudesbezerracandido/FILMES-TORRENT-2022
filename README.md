@@ -1,8 +1,61 @@
 # FILMES-TORRENT-2022
 
 
+<item>
+<title>[COLOR silver][B] O RETORNO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1339e423b71b65d92b2b5a045d045258dd97f73</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bySCgLjkmPFuUd0ExwruObY9VHn.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O enredo segue o promotor imobiliário Mick (Jeremy Piven), que retorna ao seu bairro de infância para o velório irlandês de sua mãe. À medida que Mick se reconecta com seu pai Laurence (Jack McGee) e o irmão morto Dougal, seus antigos companheiros lembram que as raízes são profundas e os velhos hábitos morrem com dificuldade. Sua relação com seu primeiro amor, Ali, compõe a decisão de luta ou fuga de Mick para salvar o bar ou sua carreira.</info>
+</item>
 
+<item>
+<title>[COLOR silver][B] PIPELINE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b67b9e68ec53e2f0135f2dc47bdd933301a568b3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oArxvGrUMFHso168DAthArDCbzX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um prodígio da perfuração do submundo lidera um roubo de petróleo para perfurar o maior oleoduto conhecido como a "artéria" do país, testando sua sorte contra uma explosão catastrófica e ganância corporativa.</info>
+</item>
 
+<item>
+<title>[COLOR silver][B] A JORNADA MÁGICA DE EMILY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0dd690235eae1c77cc319f80d337868c52ee4bd6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8bhp4YgYqHFMgEVdUOouDjqZ2bu.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ao encontrar uma velha arca na floresta, Emily é transportada a um mundo mágico que está ameaçado. E, para ajudar a salvá-lo, ela terá de enfrentar seu maior medo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DANOS COLATERAIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d29a3e8eb27f0f6c324d9ef4aabd1c05555567b3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vXHzO26mJaOt4VO7ZFiM6No5ScT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A história segue Virtuoso, um assassino profissional (Anson Mount) que deve rastrear e matar seu último alvo para satisfazer uma dívida pendente com seu mentor (Anthony Hopkins). Ao contrário de seus outros "trabalhos", essa tarefa oferece poucas informações preciosas. Ele não deu nenhum nome ou foto, apenas que seu alvo será em um restaurante rústico em uma cidade agonizante, às 17h.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - MAGNATAS DO ESPAÇO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5075e6f2d07ca9ddcad3244cef8266007917ffd</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pUG2LJddHfFLoBwQcctzhN68nT9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma nova era da exploração espacial teve início quando os empresários de maior sucesso do mundo arriscaram bilhões de dólares para lançar uma revolução em viagens espaciais.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] RAY DONOVAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:888c79274704101c61453fc8b8aa608b9d7fe311</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5sw1EvOeXMGRZGWr18R4EiZs036.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A Showtime encomendou um episódio final da série "Ray Donovan", no formato de telefilme.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ÉDEN- O MUNDO DE EVA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:418f153b7c9b122efd83d2853d031b0320ba4e45</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8Z55ugPVeMUICXQjyxUt8cLGbLa.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Éva é alérgica a todo tipo de substâncias químicas, poluição do ar, ondas de rádio e campos eletrônicos. Ela precisa viver em total isolamento e não pode ter contato com seu ambiente. O menor erro pode causar sua morte. Suas únicas relações são com o irmão e os médicos continuamente fazendo experiências com ela. Um dia, um psiquiatra começa a investigar se a doença dela é real ou existe apenas na mente de Eva. O amor será o suficiente para salvá-la?- Ágnes Kocsis</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] TEMPOS DE ESCURIDÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
