@@ -1,6 +1,18 @@
 # FILMES-TORRENT-2022
 
 
+
+
+
+
+<item>
+<title>[COLOR silver][B] ATIVIDADE PARANORMAL 7 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40016024f729874f85fa90c5a20fbbb638b14f98</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iFj811q3NMMlvvuuyILegttemJQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um documentarista acompanha Margot (Emily Bader) à uma isolada comunidade Amish, onde ela espera encontrar e descobrir mais sobre sua mãe falecida e o restante de sua família. Após uma série de estranhos acontecimentos, ela logo percebe que a comunidade que os receberam podem estar escondendo algo sinistro.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O RETORNO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1339e423b71b65d92b2b5a045d045258dd97f73</link>
