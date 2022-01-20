@@ -1,8 +1,13 @@
 # FILMES-TORRENT-2022
 
 
-
-
+<item>
+<title>[COLOR silver][B] RÉFUGIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3710eb1d39c5d4c881f4f1b5ab14bc2c11e94287</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nX7ZUYwgGOCe5nXXwpNg4hAf1xB.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Situada em um futuro distante, uma astronauta, naufragada na Terra há muito dizimada, deve decidir o destino da população remanescente do deserto.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] MOSTRA-ME O PAI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
