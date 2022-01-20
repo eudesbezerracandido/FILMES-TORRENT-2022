@@ -4,6 +4,21 @@
 
 
 
+<item>
+<title>[COLOR silver][B] MOSTRA-ME O PAI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RW2RTOUUKYMWYBAWJF6ASJWUMDWKVKKW</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3THCu2cV7BVRFcwQexofpovKJHs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Todo mundo tem uma história de pai único. Seja positivo ou doloroso, é sempre pessoal e pode afetar profundamente a essência de nossa identidade e direção de nossas vidas. MOSTRA-ME O PAI (Show me the father), dos Irmãos Kendrick, é o primeiro documentário dos criadores de QUARTO DE GUERRA, MAIS QUE VENCEDORES, PROVA DE FOGO E CORAJOSOS . Apresentando uma variedade de incríveis histórias verdadeiras, este filme cativante leva o público de todas as idades em uma jornada cinematográfica inspiradora e emocionante. Oferecendo uma nova perspectiva sobre o papel dos pais na sociedade atual, MOSTRE-ME O PAI convida você a pensar de forma diferente sobre como você vê seu pai terreno e como você se relaciona pessoalmente com Deus. Classificação indicativa 10 anos, contém violência e temas sensíveis.</info>
+</item>
+
+item>
+<title>[COLOR silver][B] VOZES DO PASSADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5dc46c57a3e71d30094cc31377fdc9ec74957cde</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pySMhUBTjJX5QQwUVTX4XxoyZaw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Com Julia Ormond. Uma mulher retorna à sua casa de infância para passar um tempo com sua mãe, de quem há muito se afastou. Essa reunião desperta memórias sombrias e acaba desenterrando a verdade oculta de seu passado</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] ATIVIDADE PARANORMAL 7 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
