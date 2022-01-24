@@ -1,6 +1,16 @@
 # FILMES-TORRENT-2022
 
 
+
+
+<item>
+<title>[COLOR silver][B] CLIFFORD- O GIGANTE CÃO VERMELHO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NNLBQMQYGBANRVEVAPHYHKFVDZ3WTP2J</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/g51VeVAIM7q9ZqpZRlPEqqhLThR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Clifford era um pequeno filhotinho de cachorro vermelho que vivia em uma casa repleta de amor e cuidado. Porém, o amor de sua jovem dona, Emily Elizabeth, por ele é tão grande, que o cão cresce até atingir um tamanho gigantesco.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] TRATAMENTO DE REALEZA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd08df66b26b0a6d5224315192f4c7d2fcf8ab12</link>
