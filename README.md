@@ -1,6 +1,41 @@
 # FILMES-TORRENT-2022
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] NO FUNDO DO POÇO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9796d2fc2c351259ec7d388d6d45bf4a12c08ca</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8l9AM8scoxmGVKhFPOTAuUQAFu7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Após a morte prematura de sua mãe, o jovem Henry (Alex Wolff) faz amizade com sua vizinha carismática, Ana (Imogen Poots), que o envolve em um mundo de vício e violência, assim como a epidemia de drogas toma conta de sua pequena cidade.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A VIDA É AGORA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c3623e580d9c32abef742da260e55f2f181a284a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hHd9Ug6FIHIn6y8myNdCOw69EZq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O escritor veterano de comédia Charlie Berns (Billy Crystal)está seguramente perdendo o controle da realidade. Mas ele faz amizade com uma talentosa jovem cantora de rua de Nova York, Emma Paige (Tiffany Haddish), e eles formam uma amizade improvável e comovente que desafia a brecha entre gerações e redefine o significado de amor e confiança.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O VIOLINO DO MEU PAI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1886a18fbccfc9966f788bddc3e8f3bddd5da3be</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bAJdT9AsRoXCTQJ3WoswlArHcLx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Unidos pela dor e pelo amor à música, uma menina órfã e seu tio violinista têm suas vidas transformadas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O SEMIDEUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6XTKCCNGZVAPYZMHRZO7PSCXN4Z72QJE</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/i56y5uZU87yaRDa1OuN7dofzPnE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Casal viaja para uma cabana isolada e descobre a história aterrorizante do local. Não demora até que tenham que enfrentar momentos de puro horror na imensa floresta que os cerca.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] RÉFUGIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3710eb1d39c5d4c881f4f1b5ab14bc2c11e94287</link>
