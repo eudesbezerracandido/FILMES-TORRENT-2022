@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] PERFEITOS DESCONHECIDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7b086d6d2c0b1f7ddd82caafa0b004ed58ed7d5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nNm7e1RsdZlBifDtIoHw7DBMtWG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Sete amigos de longa data se encontram para jantar, com a regra de que todas as mensagens e telefonemas que eles receberem serão públicas para o resto da mesa, revelando segredos que bagunçam suas vidas.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] PANDEMIA-A GUERRA FINAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
