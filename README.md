@@ -1,6 +1,21 @@
 # FILMES-TORRENT-2022
 
 
+<item>
+<title>[COLOR silver][B] TRATAMENTO DE REALEZA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd08df66b26b0a6d5224315192f4c7d2fcf8ab12</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/g4myCGDieVwB9YSli5iFYiHBPNm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Isabella dirige seu próprio salão e não tem medo de falar o que pensa, enquanto o príncipe Thomas dirige seu próprio país e está prestes a se casar por dever, e não por amor. Quando Izzy e seus colegas estilistas têm a oportunidade única de fazer o cabelo para o casamento real, ela e o príncipe Thomas aprendem que assumir o controle de seu próprio destino exige seguir seus corações.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] EMBOSCADA - AMERICAN SIERGE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UC2P37G6YAN4ASKX3X2LLVBP6UMKLRGA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zYduknwFBYYChOCyWZLhAMhagr6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um ex-oficial da Polícia de Nova York que se tornou xerife de uma pequena cidade rural na Geórgia tem de enfrentar uma gangue de ladrões que fez um médico rico como refém.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] PERFEITOS DESCONHECIDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
