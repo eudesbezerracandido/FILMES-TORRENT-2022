@@ -3,6 +3,29 @@
 
 
 
+<item>
+<title>[COLOR silver][B] PANDEMIA-A GUERRA FINAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dda36e1c73c9fd31f94d04c9d8546895585e290b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zBQFWjOIE3hoYCG67Y3VVaSnLyc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois que a civilização sucumbe a uma pandemia mortal e sua esposa é assassinada, um soldado das forças especiais abandona seu dever e se torna um eremita na selva nórdica. Anos depois, uma mulher ferida aparece em sua porta. Ela escapou de um laboratório e seus perseguidores acreditam que seu sangue é a chave para uma cura mundial.Ele hesita em se envolver, mas todas as dúvidas são deixadas de lado quando ele descobre que seu perseguidor não é outro senão o Comandante Stone, o homem que assassinou sua esposa alguns anos atrás.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MUNIQUE- NO LIMITE DA GUERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ABBLVTZJKR75JPTBJSLC5ZGYB35J7QNK</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xTMTXj8cYGDhnawfKJzZTtp7Qmc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ambientado nos anos 30, enquanto a Europa está à beira da guerra. A trama irá seguir Hugh Legat (George MacKay), um funcionário público britânico, e Paul von Hartmann, um diplomata alemão, que viaja a Munique para uma conferência de emergência. No entanto quando as negociações começam, os dois velhos amigos se encontram no centro de uma teia de subterfúgios políticos e perigos reais. Baseado no romance homônimo de Robert Harris.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MY SON- MEU FILHO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ZMZMKWZOQXWAPFXNYU26HZZ4BG2XWEX</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8d4q6bf1PS6OX6F3syWnfBzFZg9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Dirigido no coração das Terras altas da Escócia, Edmond Murray (James McAvoy) recebe um telefonema de sua ex-esposa (Claire Foy), em lágrimas. Seu filho de 7 anos desapareceu de um acampamento. Logo fica claro que a criança foi sequestrada e os pais entram em desespero.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] NO FUNDO DO POÇO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
