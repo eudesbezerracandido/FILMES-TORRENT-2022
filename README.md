@@ -2,8 +2,13 @@
 
 
 
-
-
+<item>
+<title>[COLOR silver][B] VIGARISTAS EM HOLLYWOOD [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f42512b1ea64479282d663a7aa2597944e53525</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vJS5nGYX28Ys0sRmPL3EtMSIKij.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Max Barber é um produtor de cinema que se vê com uma grande dívida com Reggie Fontaine, um chefão da máfia, tudo por conta do fracasso de suas últimas produções. Percebendo que sua vida corre risco, o produtor acaba tendo a brilhante idéia de ganhar dinheiro fácil: organizar um crime para receber o dinheiro do seguro. O contratado como isca foi o velho Duke Montana, mas a equipe é um desastre.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A PROFISSIONAL-THE PROTÉGÉ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
