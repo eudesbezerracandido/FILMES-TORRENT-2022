@@ -19,7 +19,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/aMKNSwbkuCE3VoT3BfwVjQgrdmX.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Um dos atletas mais famosos e bem pagos da história como você nunca viu antes. Neymar é um herói em campo e uma figura polêmica fora. Esta série documental em três partes, mostra o lado pessoal do astro do futebol, acompanha sua ascensão à fama no Santos, seus dias de glória no FC Barcelona e a montanha-russa com a Seleção Brasileira e o Paris Saint Germain. O documentário também revela a máquina de marketing por trás do jogador, comandada pelo seu pai. Repleta de estrelas, a série traz ainda entrevistas com muitas outras lendas, que avaliam o lugar de Neymar na história do esporte.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] CLIFFORD- O GIGANTE CÃO VERMELHO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
