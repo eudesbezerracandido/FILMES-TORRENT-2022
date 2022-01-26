@@ -2,8 +2,19 @@
 
 
 
+
+
+
 <item>
-<title>[COLOR silver][B] NEYMAR- O CAOS PERFEITO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] A PROFISSIONAL-THE PROTÉGÉ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZIUAM6IUXUZRGBZDKPJYJYI4HNUL3PB6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/u0jGhri9AjtX3s9ldyyG6MGJfS0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Rembrandt (Michael Keaton) e Anna (Maggie Q) são dois dos maiores assassinos de elite do mundo e ambos compartilham um misterioso passado com o Vietnã. Por anos, eles atravessaram o globo competindo por missões de alto-nível, mas quando o mentor de Anna (Samuel L. Jackson) é assassinado, eles precisam formar uma aliança para rastrear seu assassino.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NEYMAR- O CAOS PERFEITO ( DOCUMENTÁRIO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c44bc5d227e855337f1f1bad80d09b406b276ea2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/aMKNSwbkuCE3VoT3BfwVjQgrdmX.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
