@@ -1,5 +1,18 @@
 # FILMES-TORRENT-2022
 
+
+
+
+
+
+<item>
+<title>[COLOR silver][B] OS OLHOS DE TAMMY FAYE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Z3XGRPJDSYD6NHSP6P7TANVSTIZEO2Q4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bxb83Bf5jLLzAv2CsXdRrAtHPNI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Baseado no documentário Os Olhos de Tammy Faye, o filme conta a extraordinária e estranha ascensão, queda e redenção dos televangelistas Jim e Tammy Faye Bakker. Nos anos 70 e 80, Tammy Faye e Jim saíram de uma origem humilde para criar a maior rede de transmissão religiosa do mundo e um parque temático, e foram reverenciados por sua mensagem de amor, aceitação e prosperidade. Tammy Faye era lendária por seus cílios indeléveis, seu canto idiossincrático e sua vontade de abraçar pessoas de todas as classes sociais. No entanto, não demorou muito para que as impropriedades financeiras, os rivais intrigantes e o escândalo sexual destruíssem o casamento e derrubassem o império cuidadosamente construído.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] TRIUNFO-LUTAR PARA VENCER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OIULCYNOZHAEK3342PR7TUDRN7UKUETB</link>
