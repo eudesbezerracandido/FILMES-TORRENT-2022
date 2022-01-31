@@ -1,7 +1,12 @@
 # FILMES-TORRENT-2022
 
-
-
+<item>
+<title>[COLOR silver][B] TRIUNFO-LUTAR PARA VENCER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OIULCYNOZHAEK3342PR7TUDRN7UKUETB</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gON67DHFdLPkxGDvIpBwdaaNMGW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um adolescente brilhante e determinado, que tem ligeira paralisia cerebral se esforça para ser um lutador na equipe da sua escola e vai para comprimentos bem humorados para conquistar o coração de uma colega de classe, a garota de seus sonhos.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] IN THE EARTH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
