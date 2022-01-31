@@ -1,9 +1,21 @@
 # FILMES-TORRENT-2022
 
 
+<item>
+<title>[COLOR silver][B] JARKASS-NADANDO COM TUBARÕES (DOCUMENTÁRIO) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a75f882d0389ff7a356a6953128c8a60fb8b459</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jwV1krDCqQzZbjzOU4Ab9gRVSr9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Johnny Knoxville convoca Steve-O, Chris Pontius e novos membros de Jackass para uma missão na semana do tubarão. Eles realizam façanhas com tubarões que testam sua coragem e limite de dor enquanto põe alguns mitos à prova.</info>
+</item>
 
-
-
+<item>
+<title>[COLOR silver][B] O SEQUESTRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OZKHVFQ2TLZH7SYZIBNUTVLMVXUC756M</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xf9dcjz6cyJJEKzSQG1wiFD61dh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Sara (Gillian White) e Brian (Michael Jai White) estão vivendo uma vida aparentemente perfeita quando um homem misterioso (Rourke) do passado de Sara sequestra sua filha adolescente. Com a ajuda de um xerife de cidade pequena (Russo), o casal corre para salvar sua filha antes que ela seja vendida e desapareça no comércio sexual.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] CAUSALIDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
