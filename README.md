@@ -1,6 +1,16 @@
 # FILMES-TORRENT-2022
 
 
+
+
+<item>
+<title>[COLOR silver][B] IN THE EARTH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E73EJQOMGRE2TLNSA4AH4YU2NK5QQIHJ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/a2e9GLb14xX1DFv80nsioci5Zld.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Enquanto o mundo busca pela cura de um desastroso vírus, um cientista e uma policial florestal se aventuram pela floresta, mas sua viagem toma rumos cada vez mais aterrorizantes à medida que a noite cai e o bosque parece ganhar vida em volta deles.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] JARKASS-NADANDO COM TUBARÕES (DOCUMENTÁRIO) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a75f882d0389ff7a356a6953128c8a60fb8b459</link>
