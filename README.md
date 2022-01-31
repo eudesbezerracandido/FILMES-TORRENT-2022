@@ -2,6 +2,49 @@
 
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] CAUSALIDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FAR3ULQVQRIEB73I2CXNM7MYFGPAZDN6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vqPTx3z2RVOvrIO3aJYO7avSavC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>ausalidade' conta a história de Claudia, que aparece em um bar para conhecer Luis, um médico que a contatou através de um aplicativo de namoro. Claudia não pode imaginar o que o destino tem reservado para ela. Um sequestro que termina com uma morte inevitável e imprevisível. Uma história de suspense com reviravoltas surpreendente até o último segundo, narrada em uma sequência filmada sem cortes.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TIME DO CORAÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67GW74CTRTD5VBY46Y2HDBQXARNQJ4GR</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/A3FKclpL2p5JsW5U70boHtNhZfr.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Segundo informações do Deadline, a trama será inspirada no arco de quando o treinador do time de futebol americano New Orleans Saints, Sean Payton foi suspenso da liga. Ele será interpretado por James. A produção será assinada por Adam Sandler com sua produtora Happy Madison.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] VIDA DEPOIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PTYZUNJIEIWUSE2BBDWXZ25LT7R32OMM</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oFU6XQAQR6SidzNTnPLzNj9Xc4H.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma jovem (Jenna Ortega) precisa navegar por uma queda emocional após uma tragédia em sua escola afetar seus relacionamentos com a família, amigos e a forma que vê o mundo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A BABÁ- O CHAMADO DAS SOMBRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XAO54KY4WAME7OSACVUV2GEUX2UNIZJK</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nnK2b8TgDq5dYXvFdKqrk2lvH4q.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma família se muda para um novo apartamento e contrata uma misteriosa nova babá para cuidar da filha recém-nascida. Quando as duas desaparecem, logo eles descobrem que estavam lidando com uma força demoníaca conhecida como Baba Yaga.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] WARNING [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:604580492d56b84613e02755d47bd677b14fbbcb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hY0JZLUiGEmuRLvXATisHM3tw1f.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Solidão, morte e o sentido da vida, explorados através de vidas vastamente separadas colidindo em contos curtos ambientados na futura Terra.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] VIGARISTAS EM HOLLYWOOD [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6f42512b1ea64479282d663a7aa2597944e53525</link>
