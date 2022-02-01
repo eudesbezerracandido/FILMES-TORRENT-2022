@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] MUNIQUE - NO LIMITE DA GUERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a124276944276325d8c9eedef98dc189516bac5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xTMTXj8cYGDhnawfKJzZTtp7Qmc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Na tensa Conferência de Munique em 1938, amigos que agora trabalham para governos opostos se tornam espiões e correm contra o tempo para revelar um segredo nazista.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ANNE FRANK, MINHA MELHOR AMIGA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10cd110f02684f06cce1a1a7db2a45ee799d07c3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/lZiSU4fd0M6inFQyu2y88aoMeBm.jpg</thumbnail>
