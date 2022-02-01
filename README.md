@@ -2,6 +2,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] ME CONTRO TE: A VINGANÇA DO SENHOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a29416b61f5f28baa553b3d8101bbcdf584a165d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hbTVZT70g8icvjArPNpJLiNRmou.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>É um dia especial para Luì, que finalmente está prestes a receber seu diploma de cientista e, como sempre, Sofì está ao seu lado para apoiá-lo e dar-lhe coragem. Pongo, seu fiel amigo, certamente não pode perder o evento. Mais uma vez, no entanto, o Sr. S e Perfidia tentarão minar o Eu contra Você, mas Sofì, com os poderes de uma fada, e Luì, com a melhor tecnologia digna de um verdadeiro cientista, dará trabalho duro aos seus inimigos. Algo dá errado e a magia vai catapultar todos para lugares e tempos distantes... perdidos no tempo! Nesta jornada mágica, Me Against You descobrirá que eles têm novos amigos e conhecerão um novo e feroz inimigo. Uma fantástica e emocionante aventura cinematográfica para Luì e Sofì, cheia de surpresas e com muita diversão para seus pequenos fãs e todas as famílias.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] MUNIQUE - NO LIMITE DA GUERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a124276944276325d8c9eedef98dc189516bac5</link>
