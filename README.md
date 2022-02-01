@@ -2,8 +2,13 @@
 
 
 
-
-
+<item>
+<title>[COLOR silver][B] ANNE FRANK, MINHA MELHOR AMIGA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10cd110f02684f06cce1a1a7db2a45ee799d07c3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lZiSU4fd0M6inFQyu2y88aoMeBm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Baseado nas memórias de Hannah Goslar. Hannah Goslar e Anne Frank são melhores amigas. Eles frequentam a mesma escola e suas famílias são vizinhas na Amsterdã devastada pela guerra. A vida para meninas judias não é fácil, mas ainda é suportável. Pelo menos é o que as meninas pensavam até uma manhã de julho de 1942.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] OS OLHOS DE TAMMY FAYE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
