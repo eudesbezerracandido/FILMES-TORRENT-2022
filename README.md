@@ -3,6 +3,29 @@
 
 
 
+<item>
+<title>[COLOR silver][B] MEMÓRIAS DE UM AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46c6a72578805bcfc97008abc4247d80d00337a0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7im6whmJQItTWadMNeZqwyNYxTH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O casal Sam e Tusker viaja pela Inglaterra visitando pessoas e lugares especiais do passado. Há dois anos eles lutam contra o diagnóstico de demência de Tusker e tentam aproveitar o tempo que ainda têm juntos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O GOLPISTA DO TINDER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6693a86777b608dd4c534efda9243167c14a1b69</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/45hoa0hHxq97PLnwaXEDphZzX69.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A história do golpista israelense Shimon Hayut, que atraia mulheres escandinavas usando o popular aplicativo de namoro para roubar milhões de dólares das vítimas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MISSÃO RESGATE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VZVCGISLTCKFES4VL7QBFXWMMHUGNWO4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4LHON8XgAfMSVG2Vv54caU6D1r5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma mina remota de diamantes desmorona no extremo norte do Canadá, um motorista de estrada de gelo deve conduzir uma missão de resgate impossível em um oceano congelado para salvar os mineiros presos.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] ME CONTRO TE: A VINGANÇA DO SENHOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
