@@ -1,5 +1,17 @@
 # FILMES-TORRENT-2022
 
+
+
+
+
+<item>
+<title>[COLOR silver][B] SEXO,PUDOR E LAGRIMAS 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34bb02598daf58896f734d2db2e3f86d6f821141</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lJZnjfdxo2T3Q3lFLnwpDLJrTwj.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Esta sequência do sucesso de 1999 retoma a história dos personagens originais 22 anos depois, acrescentando o olhar de uma nova geração. Tudo mudou e, embora o sexo esteja a um app de distância, o amor ainda está fora de alcance.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] ATRAVÉIS DA MINHA JANELA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LGBCYMU3AYHAZ6KPYRGK3V6LJN63RIHB</link>
