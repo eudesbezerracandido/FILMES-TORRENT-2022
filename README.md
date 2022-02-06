@@ -1,7 +1,36 @@
 # FILMES-TORRENT-2022
 
+<item>
+<title>[COLOR silver][B] ATRAVÉIS DA MINHA JANELA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LGBCYMU3AYHAZ6KPYRGK3V6LJN63RIHB</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lQHfOaggM8xjvgGvZHpFPYXduRE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Tudo começou… com a senha do wi-fi. Uma mulher que está perdidamente apaixonada por seu misterioso vizinho resolve fazê-lo se apaixonar por ela.</info>
+</item>
 
+<item>
+<title>[COLOR silver][B] UM LOOP ETERNO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C4BWWKOPNBBI6DVGWZLG5JY4NZUCHJIL</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/b0cR03jYbO2hTrKnLVKQNRP8r6y.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O namorado de Savi deve para a máfia. Agora, ela precisa correr contra o tempo para salvá-lo. O problema é que a busca leva a vários becos sem saída.</info>
+</item>
 
+<item>
+<title>[COLOR silver][B] CASA GUCCI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11ee8012e5751f8abd8ba14ec83420ee12a18ffe</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rxrVdr5x5FxOtbqS14UovcswFby.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Casa Gucci é inspirada na chocante história real do império da família por trás da italiana casa de moda Gucci. Abrangendo três décadas de amor, traição, decadência, vingança e em última instância, assassinato, vemos o que um nome significa, o que vale e quão longe uma família é capaz de ir para se manter no controle.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MAINSTREAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4SAGJKWRG3NYJZAFIYC43LRDHTO4OBBJ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/npepKBvIfyO16Kj5mrgjAixpPZf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma jovem (Maya Hawke) acha que encontrou um caminho para o estrelato na internet quando começa a fazer vídeos no YouTube com um estranho carismático (Andrew Garfield), até que o lado obscuro da celebridade viral ameaça arruinar os dois.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] MEMÓRIAS DE UM AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
