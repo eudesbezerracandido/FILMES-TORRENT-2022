@@ -1,8 +1,13 @@
 # FILMES-TORRENT-2022
 
 
-
-
+<item>
+<title>[COLOR silver][B] CAMINHOS PARA OLYMPIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd93c9519a8920067abf02ea7cf82393c8c4e566</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qt3c4ksHR4e1TWnzJ9WPjymeYtO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Três jovens atletas enfrentam a opressão cultural, a intolerância e a pobreza. Mas eles perseguem um sonho compartilhado: para competir nos Jogos Olímpicos.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] SEXO,PUDOR E LAGRIMAS 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
