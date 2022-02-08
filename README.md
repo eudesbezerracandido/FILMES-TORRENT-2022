@@ -1,6 +1,17 @@
 # FILMES-TORRENT-2022
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] ED. E LORRAINE WERREN- A ORDEM DO DEMÕNIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c55a8717127b8b7427285c38a8b61f6875324317</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2v3YDv01vNu8UNMLTThkztGySpi.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um assassinato chocante em uma cidade pequena da Nova Inglaterra aterroriza o mundo e inspira um filme de terror. Pela primeira vez nos tribunais americanos, o acusado alega ter cometido o crime ao ser possuído pelo demônio.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] CAMINHOS PARA OLYMPIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd93c9519a8920067abf02ea7cf82393c8c4e566</link>
