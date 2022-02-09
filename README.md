@@ -2,6 +2,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] KINGSMAN - A ORIGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JKZCZPRVO47XSBSRSJO2XPK7LHFRLWQG</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oMAyFidXINvw2ybx0UU8ghWsLEO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando uma série dos piores tiranos e gênios do crime da história se juntam para criar uma guerra que aniquilará milhões, um homem e seu pupilo precisam correr contra o tempo para pará-los.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] NOITE PASSADA EM SOHO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6a89ce87f1d321d3a109e9a44cf8fcc5c8f68b5</link>
