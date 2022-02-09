@@ -2,7 +2,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] NOITE PASSADA EM SOHO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6a89ce87f1d321d3a109e9a44cf8fcc5c8f68b5</link>
+<thumbnail>https://www.themoviedb.org/movie/576845-last-night-in-soho</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma jovem apaixonada por moda (Thomasin McKenzie) misteriosamente ganha a chance de voltar aos anos 60 e encontrar sua ídola, uma encantadora cantora aspirante (Anya Taylor-Joy). Mas a Londres dessa década não é o que parece e logo o tempo começa a desmorona com perigosas consequências.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] ED. E LORRAINE WERREN- A ORDEM DO DEMÕNIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
