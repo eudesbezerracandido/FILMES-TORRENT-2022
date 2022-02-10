@@ -2,7 +2,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] FILHOS DO PRIVILÉGIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5625c79c5a73761d363f7e570ddf85e44fe3dae9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tP7ymez7tYWs2I5rILY5Ba2npjA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um adolescente rico e seus colegas de colégio investigam uma série de acontecimentos sobrenaturais e descobrem uma conspiração sinistra.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] KINGSMAN - A ORIGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
