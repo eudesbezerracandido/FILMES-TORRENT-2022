@@ -1,6 +1,29 @@
 # FILMES-TORRENT-2022
 
 
+<item>
+<title>[COLOR silver][B] O CÉU ESTA EM TODO LUGAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ecdda3780ed104354b6830f360314be891d00741</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hJPsIaBEReV2byAUqUelqQKimy2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Lennie é uma a adolescente de 17 anos, nerd estudiosa que vive na sombra da sua irmã extrovertida, Bailey. Quando Bailey morre em um acidente, Lennie passa a ser o centro das atenções e precisa se dividir entre dois garotos: o namorado em luto da irmã e o estudante de intercâmbio francês, e ainda precisa lidar com a dor da perda da irmã.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CRUSH Á ALTURA 2  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85820f8ab2a7d43dad84ffd7242f70543b205f90</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/isORwC0r1F3NYwFoBS4P6KerHgD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Sequência do filme da Netflix. Protagonizar o musical da escola significa realizar um sonho, mas a pressão vem com tudo e abala a confiança e o relacionamento com Jodi.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] BIG BUG [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0af70a3a9e1756d329da1279a5b23500aed8b189</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eh6OYVImLCHKMjtBQZRH4hauaND.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A trama gira em torno de uma família nos subúrbios de Paris, em um futuro no qual uma rebelião de robôs tomou as ruas. A família acaba sendo presa em casa por seus próprios robôs, que bem intencionados, querem impedir eles de serem mortos pelos andróides malvados que estão no poder.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] FILHOS DO PRIVILÉGIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
