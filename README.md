@@ -2,6 +2,24 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] VOLTA PRA MIM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JETRAFJIJNAQIZK3OSVSBW5YIDPXYMPH</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6nFHCL1Hpl3x0FrVDPRo1yN6hMY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Emma e Peter pensaram que estavam no precipício dos maiores momentos da vida - casamento, filhos e casa no subúrbio - até que seus respectivos parceiros os abandonam. Na casa dos trinta e apavorados por terem perdido a chance de serem felizes para sempre, Emma e Peter ficam horrorizados ao saber que seus parceiros já seguiram em frente. Sem perspectivas no horizonte e a ameaça de morrer sozinhos pairando sobre suas cabeças, eles tramam um plano desesperado para pôr fim aos novos relacionamentos de seus ex e reconquistá-los.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O AMOR MOVE ONDAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:550dc0eb6214d86a2326a7fbdffa85e83c7d9fbe</link>
