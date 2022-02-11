@@ -1,6 +1,25 @@
 # FILMES-TORRENT-2022
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] A FELICIDADE É DE MATAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YHRJG7H4FGR6VJQQL4UT7ZAHEAXG35YQ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oKNOa8a6MEbo2sQoTQFBVJYi0zd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma comédia romântica sombria. Com Joel McHale e Stephen Root. Mesmo depois de 14 anos juntos, um casal segue em uma relação quente de causar inveja. Quando um estranho ameaça essa harmonia, eles acabam numa confusão que envolve um cadáver, uma crise existencial e uma viagem maluca.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] KIMI - ALGUÉM ESTA ESCUTANDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YQCNG2NTRSIPZFFLF2F7Q253D7YUS33L</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/DUNRzBjRKE1pvl2jiiooDLafKf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma tecnóloga agorafóbica descobre evidências gravadas de um crime violento durante uma revisão de rotina e tenta reportar à sua empresa, mas é recebida com resistência e burocracia. Ela acaba percebendo que para fazer a coisa certa e descobrir o que aconteceu, terá que fazer o que mais teme — sair de casa.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] MUSIC [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd617d41432c3e8a79e8326fa4c72a36d7dcc08b</link>
