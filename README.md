@@ -13,11 +13,11 @@
 </item>
 
 <item>
-<title>[COLOR silver][B]  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
+<title>[COLOR silver][B] O MUNDO DOS ESQUECIDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:57b66d323c3a6566952f1e5c0b3875b465c9aa88</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4kDlHPIpBSvFmQREFlN1JiU0xRw.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
+<info>Remake americano do suspense coreano "Hide and Seek", que conta a história de um homem em busca de seu irmão desaparecido e acaba descobrindo verdades assustadoras sobre o ocorrido.</info>
 </item>
 
 <item>
