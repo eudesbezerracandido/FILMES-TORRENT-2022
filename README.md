@@ -1,6 +1,15 @@
 # FILMES-TORRENT-2022
 
 
+
+<item>
+<title>[COLOR silver][B] O AMOR MOVE ONDAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:550dc0eb6214d86a2326a7fbdffa85e83c7d9fbe</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/Aaf3xZEIB1WFC5RKR54wVRPzc2L.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma adolescente vive o primeiro amor com um instrutor de kitesurf em um hotel à beira-mar.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O CÉU ESTA EM TODO LUGAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ecdda3780ed104354b6830f360314be891d00741</link>
