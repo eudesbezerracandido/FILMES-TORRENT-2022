@@ -1,8 +1,13 @@
 # FILMES-TORRENT-2022
 
 
-
-
+<item>
+<title>[COLOR silver][B] MUSIC [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd617d41432c3e8a79e8326fa4c72a36d7dcc08b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xzDXq7ofNkvIovB6Vb8KZpjqkK0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Logo quando ela finalmente fica sóbria, Zu (Kate Hudson) descobre que ela se tornou a única guardiã de sua meia-irmã Music (Maddie Ziegler), uma jovem com o espectro de autismo.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] VOLTA PRA MIM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
