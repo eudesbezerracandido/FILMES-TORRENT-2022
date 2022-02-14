@@ -1,8 +1,21 @@
 # FILMES-TORRENT-2022
 
 
+<item>
+<title>[COLOR silver][B] DJINN-CUIDADO COM O QUE DESEJA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f72c8a10926c1f4d6bcac6e4df86c4db5dcbfd10</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/euU13HgDHax1mLTIPIzTw06vqFc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um garoto mudo acidentalmente libera um monstro sinistro após fazer um desejo para realizar o que mais quer: ter uma voz. Agora, preso num pequeno apartamento sem muitos lugares para se esconder, Dylan precisa achar uma maneira de sobreviver até a meia-noite ou pagar as consequências.</info>
+</item>
 
-
+<item>
+<title>[COLOR silver][B] ANNE + [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20c082bb7053b4fc71ac3dc07c7d5f90c14a59ac</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ch6G66SUe80YWEvTFe6mAKAwmdt.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Lista de afazeres de Anne: escrever um livro, arrumar as malas em Amsterdam e se mudar para Montreal para ficar com a namorada Saar, que deseja viver uma relação poliamorosa. Tudo parece ir de acordo com o planejado, ou quase isso, até que Anne conhece Lou, uma drag não binária que lhe apresenta um novo olhar sobre o amor, a vida e a sexualidade.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A FELICIDADE É DE MATAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
