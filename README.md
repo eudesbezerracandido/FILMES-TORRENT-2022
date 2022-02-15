@@ -1,6 +1,16 @@
 # FILMES-TORRENT-2022
 
 
+
+
+<item>
+<title>[COLOR silver][B] A FELICIDADE É DE MATAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YHRJG7H4FGR6VJQQL4UT7ZAHEAXG35YQ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oKNOa8a6MEbo2sQoTQFBVJYi0zd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma comédia romântica sombria. Com Joel McHale e Stephen Root. Mesmo depois de 14 anos juntos, um casal segue em uma relação quente de causar inveja. Quando um estranho ameaça essa harmonia, eles acabam numa confusão que envolve um cadáver, uma crise existencial e uma viagem maluca.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] QUERIDO EVAN HANSEN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5AXW2OCXF556Z2ISFNHCATLLAILMLELO</link>
