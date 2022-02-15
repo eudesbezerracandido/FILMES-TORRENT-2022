@@ -1,7 +1,21 @@
 # FILMES-TORRENT-2022
 
 
+<item>
+<title>[COLOR silver][B] QUERIDO EVAN HANSEN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5AXW2OCXF556Z2ISFNHCATLLAILMLELO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/k9qmy5f60QNx8x2RVt4ChdZ5aY7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Evan Hansen (Ben Platt), um adolescente com transtorno de ansiedade social, acidentalmente se aproveita do suicídio de um colega de classe quando uma carta vai parar nas mãos da família dele, que começa a acreditar que os dois eram melhores amigos. Sem conseguir explicar a situação, Evan acaba refém de uma grande mentira. Ao mesmo tempo, graças a essa (falsa) amizade, o garoto finalmente se aproxima de Zoe (Kaitlyn Dever), a menina de seus sonhos, e passa a ser notado no colégio.</info>
+</item>
 
+<item>
+<title>[COLOR silver][B] ODILON, O REI DE SI MESMO ( DOCUMENTÁRIO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3445c789c4d9929dbcad19278c5fbe4dbd9d3e1a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sxV67K9DQajCzezhvT1TmmK1EZD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O filme conta a história do juiz federal brasileiro Odilon de Oliveira, maior combatente do crime organizado no Brasil. Ele foi responsável pelas prisões dos mandachuvas do narcotráfico, como Fernandinho Beira Mar e Juan Carlos Abadia, que oferecem milhões por sua cabeça. Graças a isso, vive sob escolta armada 24 horas, mais confinado que os próprios bandidos, tornando-se réu de si mesmo.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] MOONFALL - AMEAÇA LUNAR ( HDTV CINEMA ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
