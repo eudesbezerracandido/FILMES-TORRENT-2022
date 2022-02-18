@@ -3,6 +3,23 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] GOLPES DE VINGANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FHDDYZYCABXO6F5SBVXTYHHY7VLVH24R</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/AbSz0ygA92OpwiYDTBVFA8Cf4Aw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Iko Uwais retorna como Kai Jin, que foi transformado de sua vida em Chinatown em San Francisco para ser o último Assassinos WU. Jin é encarregado de buscar e recuperar os poderes sobrenaturais de terra, fogo, metal, água e madeira de cinco Lordes Wu, que os manejam enquanto comandam o sindicato do crime Triad. Jin é auxiliado por Zan Hui (JuJu Chan Szeto), Tommy Wah (Lawrence Kao) e Lu Xin Le (Lewis Tan)</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AMOR ARTIFICIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fe2951de2edcf66507f2fdebd88104cc0f89351a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/soTOyI7d5vAWSNKv4XonEo0rn5p.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Após uma falha no sistema, um programa de inteligência artificial se apaixona por uma mulher e invada o corpo de um homem para tentar conquistá-la.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A FELICIDADE É DE MATAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YHRJG7H4FGR6VJQQL4UT7ZAHEAXG35YQ</link>
