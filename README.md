@@ -1,8 +1,13 @@
 # FILMES-TORRENT-2022
 
 
-
-
+<item>
+<title>[COLOR silver][B] NAMORANDO EM NOVA YORK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81af0153ecf1381fce8a2812a286a5c7098c7521</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wBF5UGslIxrilOYGUDFvlOHxrTi.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Wendy e Milo estão juntos na cidade de New York, e levantam a questão: será que o felizes para sempre realmente existe?</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] GOLPES DE VINGANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
