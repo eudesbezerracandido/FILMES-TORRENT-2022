@@ -1,6 +1,16 @@
 # FILMES-TORRENT-2022
 
 
+
+
+<item>
+<title>[COLOR silver][B] TQM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2LYFm81KacJv8CN1p8MC6ZZclgD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma das psiquiatras mais prestigiadas do México decide colocar seus três filhos à prova para determinar como dividir sua herança. Tudo se complica quando um de seus pacientes decide não colaborar com eles.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] NAMORANDO EM NOVA YORK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81af0153ecf1381fce8a2812a286a5c7098c7521</link>
