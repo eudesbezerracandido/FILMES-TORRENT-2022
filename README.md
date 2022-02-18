@@ -5,7 +5,7 @@
 
 <item>
 <title>[COLOR silver][B] TQM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5df2641e9bb359bd82e41f7b8595015cbdbf57ae</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/2LYFm81KacJv8CN1p8MC6ZZclgD.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Uma das psiquiatras mais prestigiadas do México decide colocar seus três filhos à prova para determinar como dividir sua herança. Tudo se complica quando um de seus pacientes decide não colaborar com eles.</info>
