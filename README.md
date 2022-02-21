@@ -1,5 +1,22 @@
 # FILMES-TORRENT-2022
 
+
+<item>
+<title>[COLOR silver][B] VOE COM A ÁGUIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7651a33d6fac94070b1a4bcce125c86bb985298e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gL6peypABodBTnMwWBZ75xymPK8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando Honey, mãe ausente de Leif, morre, ela deixa para ele uma "herança condicional". Ele tem que completar sua elaborada lista de tarefas antes de conseguir sua cabana em Yosemite. Leif entra no mundo selvagem de Honey, enquanto a mãe que ele nunca conheceu realmente tenta fazer as pazes do além-túmulo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SEGREDOS DO PASSADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NAWNRGBK7ZEQYKKJBDDD4R5KTBNZ3ATN</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7qW2JhqwNA6wkRNiUwSc17eLs7u.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Aaron Falk (Eric Bana) retorna a sua cidade natal depois de vinte anos para comparecer ao funeral de seu amigo de infância, que supostamente matou sua esposa e filho antes de tirar a própria vida, vítimas da loucura que devastou esta comunidade depois de mais de uma década de seca. Depois que Aaron relutantemente concorda em investigar mais, ele suspeita que esse crime possa estar ligado a outro. Lutando para provar não só a inocência de Luke, mas a sua própria, Aaron se vê confrontado com o preconceito e com a raiva reprimida de uma comunidade aterrorizada.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] PERSEGUIÇÃO - PURSUIT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SKB3TQTKJEDHUAHVNJV4IWLCOFP6TCSH</link>
