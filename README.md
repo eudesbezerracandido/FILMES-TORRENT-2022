@@ -1,6 +1,16 @@
 # FILMES-TORRENT-2022
 
 
+
+
+<item>
+<title>[COLOR silver][B] JOE BELL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a9cbd56e077e345f01dc2d596b3ff6ff9e92dc9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9HfQD60w6f6PPkfdiI6ipJSw0bD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A história real de um trabalhador de cidade pequena que embarca numa jornada através do país contra o bullying após seu filho ser atormentado na escola por ser gay</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] VOE COM A ÁGUIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7651a33d6fac94070b1a4bcce125c86bb985298e</link>
