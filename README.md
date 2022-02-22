@@ -4,6 +4,22 @@
 
 
 <item>
+<title>[COLOR silver][B] CRUZANDO A LINHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aef0f51524c299c003823574f5bcd67ca3e40cf8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pm1sZsTjZ5e9buaxlbk4jYOjjUA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O filme gira em torno de Parker Jode, uma assistente social apaixonada e sensata, encarregada de cuidar de Ashley e sua mãe, Dhalia (Olivia Munn), enquanto seu pai cumpre uma sentença de sete anos de prisão. O retorno precoce do pai traz violência e desordem de volta às suas vidas. Quando Parker é demitido por um desabafo no trabalho, ele precisa decidir até que ponto está disposto a ir proteger essa família. Seus esforços o colocarão em perigo real e o confrontarão com os aspectos mais difíceis de seu próprio passado.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NÃO ME MATE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9198038e4f9ffecdd8447a4f76df3bcb461cdd0c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3nLpZivc9wYoX57aXF0ZLYVZDTz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Não Me Mate segue a história de Mirta, de dezenove anos, que morreu de overdose com seu amado Robin. A menina voltará à vida e descobrirá que para continuar vivendo e honrando a memória de Robin terá que se alimentar de carne humana .</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] JOE BELL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a9cbd56e077e345f01dc2d596b3ff6ff9e92dc9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9HfQD60w6f6PPkfdiI6ipJSw0bD.jpg</thumbnail>
