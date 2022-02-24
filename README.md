@@ -1,7 +1,20 @@
 # FILMES-TORRENT-2022
 
+<item>
+<title>[COLOR silver][B] VIDA ELETRIZANTE DE LOUIS WAIN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HXGEMXO5XWFSEKDVFBXKWGZMJBVORQN6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lihTkVk0yoS6wZTLBYqsAkKbpsz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Cinebiografia do artista inglês Louis Wain, que viveu entre 1860-1939 e é mais conhecido por seus desenhos, que consistentemente apresentavam gatos e gatinhos antropomorfizados de olhos grandes. Em seus últimos anos, ele pode ter sofrido de esquizofrenia (embora alguns especialistas contestem essa afirmação), o que, segundo alguns psiquiatras, pode ser visto em suas obras.</info>
+</item>
 
-
+<item>
+<title>[COLOR silver][B] AMOR,SUBLIME AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AONVUXBSPN2SQKHETOLE5JPJAB6UEVPK</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/o7gLtCl15JpN37ydtkD1Yobyntv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No lado oeste de Nova York, à sombra dos arranha-céus, ficam os guetos de imigrantes e classes menos favorecidas. Duas gangues, os Sharks, de porto-riquenhos, e os Jets, de brancos de origem anglo-saxônica, disputam a área, seguindo um código próprio de guerra e honra. Tony (Richard Beymer), antigo líder dos Jets, se apaixona por Maria (Natalie Wood), irmã do líder dos Sharks, e tem seu amor correspondido. A paixão dos dois fere princípios em ambos os lados, acirrando ainda mais a disputa.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] CRUZANDO A LINHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
