@@ -1,5 +1,16 @@
 # FILMES-TORRENT-2022
 
+
+
+
+<item>
+<title>[COLOR silver][B] IMPASSE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IJQ2JHUC7YZF435NPNOXP7SHCEKG5NGY</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9lYAj14i5SDY0HvZ21EhXVi8A4E.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ron Whitlock, um criminoso procurado liderando uma equipe de mercenários em uma missão de vingança. Convencido de que o governo está trabalhando contra eles, o grupo impiedoso apreende brutalmente uma usina de energia e mantém todos dentro dela como reféns. Com uma cidade próxima à beira de uma inundação e destruição massivas, cabe a um guarda-florestal do exército de elite aposentado Mack Karr salvar milhares de vidas inocentes antes que seja tarde demais.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] VIDA ELETRIZANTE DE LOUIS WAIN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HXGEMXO5XWFSEKDVFBXKWGZMJBVORQN6</link>
