@@ -3,6 +3,31 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] DESPERATE RIDERS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HLIWM6JUUMG4L4FHOM36RA2EHZBH6MXC</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ut6iHATM3SfnWBZ2gSrV2DlCYU3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No filme Desperate Riders WEB-DL 1080p Dual Áudio, Neste western protagonizado por Trace Adkins, Tom Berenger e Drew Water, um herói solitário e uma bela atiradora ajudam um rapaz a salvar a sua mãe que foi raptada por um fora-da-lei.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MAHALIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48a4e8299cc723d83c839d9967e010d72922a4c0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4vFWFh0DqUsjKa27DvX2gaSuMrR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Conta a história de Mahalia Jackson, nascida em Nova Orleans e que começou a cantar bem cedo, se tornando uma das figuras gospel mais reverenciadas na história dos Estados Unidos, fundindo sua música com o movimento pelos direitos civis.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O GRANDE NADO ( DOCUMENTÁRIO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21543e4f2e2338ae564a4a8b4e76282d15597f5e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/MumzNRrJ4D3doJOflfOYrPSBCe.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Se a mente é forte, pode levar o corpo a qualquer lugar. Este documentário registra a travessia pioneira de Ben Lecomte do Japão para São Francisco, um percurso de mais de 8.000 km. Seu objetivo é ser o primeiro homem a atravessar o Pacífico e mostrar ao mundo os efeitos da ação humana sobre o oceano.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] IMPASSE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IJQ2JHUC7YZF435NPNOXP7SHCEKG5NGY</link>
