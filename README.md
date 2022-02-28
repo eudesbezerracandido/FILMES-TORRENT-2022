@@ -1,8 +1,13 @@
 # FILMES-TORRENT-2022
 
 
-
-
+<item>
+<title>[COLOR silver][B] DEUS NÃO ESTA MORTO- PROXÍMO CAPITULO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02e16a11e9ba4bbbbecfd0ce6325abd4b123a0f3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kPLGhukHKy8kbYntAOvHQgztxe4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Após uma inspeção inesperada de uma funcionária do governo local, famílias que educam seus filhos em casa são obrigadas a coloca-los na rede pública de ensino. A funcionária acredita que as crianças estão recebendo uma educação inferior em relação à escola tradicional e estão sendo doutrinadas por suas famílias a crerem na Bíblia. Surpreso com a interferência do governo, e acreditando no direito de educar seus próprios filhos, o reverendo Dave assume a defesa das famílias, e juntos vão a Washington para uma audiência histórica.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] SEGUNDA FEIRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
