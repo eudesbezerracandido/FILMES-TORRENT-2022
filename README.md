@@ -1,6 +1,17 @@
 # FILMES-TORRENT-2022
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] SEGUNDA FEIRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XD5VP34MM3OVAMVTYE62MRT7FPRVBOE4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lWpKEmAgQocJ4NeFxT29NV00p0l.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Monday segue a história de Mickey (Sebastian Stan) e Chloe (Denise Gough), dois americanos em seus trinta e poucos anos que vivem em Atenas, que se encontram no calor do verão em um fim de semana turbulento. Quando a temporada de Chloe na Grécia está chegando ao fim, ela decide desistir de seu trabalho de alto nível em casa e explorar se a paixão de um fim de semana pode suportar a realidade da inevitável "segunda-feira".</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] LIMBO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2TEPNZIPE3AAOBH2TG6J3JYV6O2I4GFB</link>
