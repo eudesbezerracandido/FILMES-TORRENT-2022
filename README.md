@@ -1,8 +1,21 @@
 # FILMES-TORRENT-2022
 
 
+<item>
+<title>[COLOR silver][B] MADEA- O RETORNO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02212debef96129239605bbfab0a3c4b514d534a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/38QFDeoEk2s0tyZIhrydAS9Mvib.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Madea está de volta — aleluia! E ela não está tolerando nenhum absurdo quando o drama familiar irrompe na festa de formatura da faculdade de seu bisneto.</info>
+</item>
 
-
+<item>
+<title>[COLOR silver][B] UM DIA DIFICIL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:731bad3acc84c91fa33eb6a34d948a99a1f353c9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bktIW44oeurTptHLdkj7ayc4zbH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Depois de tomar medidas extremas para encobrir um acidente, um policial corrupto começa a receber ameaças de uma misteriosa testemunha e as coisas saem do controle</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] DESPERATE RIDERS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
