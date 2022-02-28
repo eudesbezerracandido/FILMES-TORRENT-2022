@@ -1,6 +1,17 @@
 # FILMES-TORRENT-2022
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] SEM SAIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b404820afbbe62d674294ed37ff24ede69175e61</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dvTTuRqwvM6wkDuA0JviE58NSRp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma universitária acaba presa em uma ponto de descanso em uma rodovia durante uma nevasca, junto com mais quatro estranhos. A jovem acaba descobrindo uma garota presa em um dos carros, no lado de fora, e precisa correr contra o tempo para descobrir quem dos quatro estranhos é o sequestrador.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] MADEA- O RETORNO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:02212debef96129239605bbfab0a3c4b514d534a</link>
