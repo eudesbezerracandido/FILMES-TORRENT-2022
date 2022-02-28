@@ -1,8 +1,13 @@
 # FILMES-TORRENT-2022
 
 
-
-
+<item>
+<title>[COLOR silver][B] LIMBO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2TEPNZIPE3AAOBH2TG6J3JYV6O2I4GFB</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cycjLXNe3apGmcT4ecO2WBbIFPO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Limbo é uma observação triste e pungente da experiência do refugiado, ambientada em uma remota ilha escocesa fictícia, onde um grupo de recém-chegados espera os resultados de seus pedidos de asilo. É centrado em Omar (Amir El-Masry), um jovem músico sírio que carrega o fardo do oud de seu avô, que trouxe com ele de sua terra natal.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] SEM SAIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
