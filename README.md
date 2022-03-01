@@ -1,7 +1,12 @@
 # FILMES-TORRENT-2022
 
-
-
+<item>
+<title>[COLOR silver][B] MINHA VIDA PERFEITA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44c9537aeee344bc207d54f1927f15d68ec2fd60</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/32FStOrYlaKTitw9m4ue3WmQTRX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Joanna, de meia-idade, tenta incansavelmente conciliar ser mãe, filha, avó, esposa, amante, dona de casa e professora do ensino médio. Mas ela parece estar perdendo a paciência.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] UFO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
