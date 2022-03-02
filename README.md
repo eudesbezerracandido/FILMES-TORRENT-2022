@@ -1,5 +1,15 @@
 # FILMES-TORRENT-2022
 
+
+
+<item>
+<title>[COLOR silver][B] UM DIÁRIO PARA JORDAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PYUCLKEV36KRWAAGBQFGSCUELYV3XEY3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kkZB0HbADmyVuQyd5SpncK8INXJ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Sargento norte-americano vai para a guerra do Iraque e à noite, depois de arriscadas missões, escreve um diário para o filho que acabou de nascer.O soldado morre e quando a mãe Dana Canedy, jornalista do The New York Times - recebe o corpo e os pertences do soldado, comove-se com o diário. Baseado numa história real.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] MINHA VIDA PERFEITA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44c9537aeee344bc207d54f1927f15d68ec2fd60</link>
