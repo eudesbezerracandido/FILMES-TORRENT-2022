@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] O SEQUESTRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86041718057121887f94e1b2cf0910392b99bab2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xf9dcjz6cyJJEKzSQG1wiFD61dh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Após o sequestro de sua filha, Zara faz de tudo para recuperá-la. No entanto, quando ela descobre que foi alvo do chefe do crime Patrick, com quem ela já tratou, Zara percebe que seu passado conturbado será usado contra ela. Depois que Zara tem uma conversa franca com seu marido, Brian, os dois trabalham juntos para acertar velhas contas e garantir a segurança de sua filha.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] UM DIÁRIO PARA JORDAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PYUCLKEV36KRWAAGBQFGSCUELYV3XEY3</link>
