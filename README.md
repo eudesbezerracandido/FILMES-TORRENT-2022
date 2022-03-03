@@ -1,7 +1,21 @@
 # FILMES-TORRENT-2022
 
 
+<item>
+<title>[COLOR silver][B] CONTRA GELO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0d60c4bc8e2f05dc6fa067eddc46d1d09d1a3fc</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/Ak7vO8UJS32bOub3aWXCYl7YaQx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em 1909, uma expedição liderada pelo Capitão Ejnar Mikkelsen, tentava refutar a reivindicação dos Estados Unidos ao Nordeste da Groenlândia, uma reivindicação que estava enraizada na ideia de que a Groenlândia foi dividida em dois pedaços de terra diferentes. Deixando sua tripulação para trás com o navio, Mikkelsen cruza o gelo com seu inexperiente membro da tripulação, Iver Iversen.Os dois homens conseguem encontrar a prova de que a Groenlândia é uma ilha, mas o retorno ao navio leva mais tempo e é muito mais difícil do que o esperado. Lutando contra a fome extrema, a fadiga e um ataque do urso polar, eles finalmente chegam e encontram seu navio esmagado no gelo e o acampamento abandonado.</info>
+</item>
 
+<item>
+<title>[COLOR silver][B] OS PIRATAS- EM BUSCA DO TESOURO PERDIDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c5e86f2d3d12efb74d4e849e260cfb65e80f7e7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7TxDi9DhUIo23eZftFQPk86ojtN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Durante a Dinastia Joseon, uma corajosa tripulação de piratas e bandidos luta contra adversidades,pistas intrigantes e rivais em busca do ouro real perdido no mar</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O SEQUESTRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
