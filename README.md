@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] DRAGON TIGER GATE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JTY7NZEVE2X44QJCS4MEO4RZDIEV5B4E</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/o3nwLMip8QEIa1zUjTdwZl6zJVq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Dragon Tiger é uma facção das artes marciais fundada por Tiger Wong, Dragon Wong e Turbo Shek. Três jovens que acreditam piamente na justiça e na verdade. Quando eles se apoderam, sem querer, de uma placa dourada, símbolo de uma das maiores organizações criminosas do Oriente, o Lousha Gate, passam a ser alvo de um poder amaldiçoado, provocando uma verdadeira batalha entre o Bem e o Mal.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CONTRA GELO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0d60c4bc8e2f05dc6fa067eddc46d1d09d1a3fc</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/Ak7vO8UJS32bOub3aWXCYl7YaQx.jpg</thumbnail>
