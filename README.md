@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SIMPLES COMO A ÁGUA ( DOCUMENTÁRIO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3eaaf8c0beca382fa7593b82d1d0552e178301af</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bbO8TGcnPUg6KL04s7yYt7KKS09.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma meditação sobre os laços elementares da família contada por meio de retratos de quatro famílias sírias após a guerra.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PEDÁGIO MORTAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:987406ec15b3c300a7abedc13c39cd3f77a0cd1b</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7m4E393r9kK3TYN34ETmyoZFbJ0.jpg</thumbnail>
