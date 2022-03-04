@@ -2,14 +2,36 @@
 
 
 
-
 <item>
 <title>[COLOR silver][B] BATMAN 2022 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3A2A2BB8A11F744A2C48A9A900B9C534DAFED1B3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/x0TGLQVIUvTTFd68TIdvNAFiyzN.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Bruce Wayne é um jovem bilionário da cidade de Gotham City, Nova Jersey, que também age secretamente como o vigilante noturno Batman após o assassinato dos seus pais.
-</info>
+<info>Bruce Wayne é um jovem bilionário da cidade de Gotham City, Nova Jersey, que também age secretamente como o vigilante noturno Batman após o assassinato dos seus pais.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PEDÁGIO MORTAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:987406ec15b3c300a7abedc13c39cd3f77a0cd1b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7m4E393r9kK3TYN34ETmyoZFbJ0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>É 1 da manhã</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] LAÇOS DE AFETO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9225a52ce7710b0f51ae1bbb0ae3cd176e296c4e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bHukHtEKdXoHdd3AOY65PsBdT4X.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um filho adolescente de dois pais faz um documentário sobre seus pais, mas fica surpreso quando uma reviravolta na vida real ocorre em sua família.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NAQUELE FIM DE SEMANA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c94cd3ded5b521a06386c4a8b6b1d6bf655767d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zneFMc4Kts6dFPqBiEnXpQvAVah.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois que sua melhor amiga desaparece em uma viagem de férias na Croácia, Beth corre para tentar descobrir o que aconteceu e acaba se envolvendo em uma teia de mentiras.</info>
 </item>
 
 <item>
