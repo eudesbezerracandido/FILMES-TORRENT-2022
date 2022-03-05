@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FUGA DA MORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2J5DXRDSQUATBTL7IDOYA7MHWX6CEEVP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dOC9vx5PHc9ibRAG96rDQwr1TBW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O departamento de um xerife corrupto em uma cidade rural montanhosa é desfeito quando uma testemunha involuntária joga uma chave em sua operação sombria.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SIMPLES COMO A ÁGUA ( DOCUMENTÁRIO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3eaaf8c0beca382fa7593b82d1d0552e178301af</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/bbO8TGcnPUg6KL04s7yYt7KKS09.jpg</thumbnail>
