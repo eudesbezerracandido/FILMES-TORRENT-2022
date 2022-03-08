@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PÂNICO - HDCAM CINEMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B16A22D2AE2A75F3E63AF67D797D818F8B421265</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2PYQKeDhFwP5IX7EnIpCComBqj8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Vinte e cinco anos após uma série de crimes brutais chocar a tranquila Woodsboro, um novo assassino se apropria da máscara de Ghostface e começa a perseguir um grupo de adolescentes para trazer à tona segredos do passado mortal da cidade.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MINHA VIDA IMCOMODA MUITO GENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a92a1411711d071897200726b540db31b996001</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9ZA1Nc7B6z6MuGZz289YUTmAvOR.jpg</thumbnail>
