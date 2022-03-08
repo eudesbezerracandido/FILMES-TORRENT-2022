@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MINHA VIDA IMCOMODA MUITO GENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a92a1411711d071897200726b540db31b996001</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9ZA1Nc7B6z6MuGZz289YUTmAvOR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> De coração partido e desempregada, Leyla decide se reinventar e buscar a felicidade enquanto a família tenta arranjar um marido para ela.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FUGA DA MORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2J5DXRDSQUATBTL7IDOYA7MHWX6CEEVP</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/dOC9vx5PHc9ibRAG96rDQwr1TBW.jpg</thumbnail>
