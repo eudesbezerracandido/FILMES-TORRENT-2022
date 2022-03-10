@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PRAZER, KALINDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OUYZDGLI3QJLLFMZ3Z7AUKA6OQOXEEW5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aigJxGPcgyB7gr2sOuolPh6LdOn.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Kalina Jędrusik, a maior estrela da Polônia nos anos 60, está no auge da fama, mas precisa enfrentar um oficial desprezado que ameaça destruir sua carreira.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O BECO DO PESADELO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:G4ASXCNMAGU3HPKF75VEVFTX3MMDVDFP</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9HnTq2Kg0R4YpdB1B5r91mFt0S2.jpg</thumbnail>
