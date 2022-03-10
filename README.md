@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O BECO DO PESADELO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:G4ASXCNMAGU3HPKF75VEVFTX3MMDVDFP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9HnTq2Kg0R4YpdB1B5r91mFt0S2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um ambicioso vigarista se envolve com uma psiquiatra que é mais corrupta do que ele. No início, eles aproveitam o sucesso extorquiando as pessoas com seu truque mentalista, mas ela de repente se volta contra ele, manipulando o manipulador.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BOMBARDEIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:296ee9db58be9ca0c1a794f0f3c9d632740da207</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/u83WpSu9ke9yA3kZ9vXbM2HEGN2.jpg</thumbnail>
