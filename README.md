@@ -11,8 +11,16 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] PÂNICO - HDCAM CINEMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B16A22D2AE2A75F3E63AF67D797D818F8B421265</link>
+<title>[COLOR silver][B] BOMBARDEIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:296ee9db58be9ca0c1a794f0f3c9d632740da207</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/u83WpSu9ke9yA3kZ9vXbM2HEGN2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O longa conta a história por trás do bombardeio acidental e catastrófico da Força Aérea Real Britânica da escola francesa em Copenhague, em 1945.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PÂNICO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JVAO5DU4SR5OQBBITSQ3QHKR6QS33LGS</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/2PYQKeDhFwP5IX7EnIpCComBqj8.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Vinte e cinco anos após uma série de crimes brutais chocar a tranquila Woodsboro, um novo assassino se apropria da máscara de Ghostface e começa a perseguir um grupo de adolescentes para trazer à tona segredos do passado mortal da cidade.</info>
