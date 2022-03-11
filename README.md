@@ -1,8 +1,21 @@
 # FILMES-TORRENT-2022
 
 
+<item>
+<title>[COLOR silver][B] 13 MINUTOS DE TORMENTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5EAZPWDMUPXBM2O6HYNZCP2QUG3AWOBX</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/c0Y2aNGSPlF7y926n2uHvPfo5TF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quatro famílias são testadas em um único dia quando um tornado os atinge, cruzando seus caminhos e redefinindo o significado de sobrevivência.</info>
+</item>
 
-
+<item>
+<title>[COLOR silver][B] LANSKY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NRAJSCX5ED5UZWJ6PSMYKSJZOIA5GUIQ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4hqipJZiYsCyhT0Z3nj49A2iGiG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando Meyer Lansky já idoso é investigado uma última vez pelos federais que suspeitam que ele escondeu milhões de dólares ao longo de meio século, o gângster aposentado produz um conto estonteante, revelando a verdade incontestável sobre sua vida como o notório chefe da Murder Inc. e o Sindicato Nacional do Crime.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] EIFFEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
