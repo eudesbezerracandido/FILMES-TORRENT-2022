@@ -1,6 +1,23 @@
 # FILMES-TORRENT-2022
 
 
+
+<item>
+<title>[COLOR silver][B] O BECO DO PESADELO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:G4ASXCNMAGU3HPKF75VEVFTX3MMDVDFP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9HnTq2Kg0R4YpdB1B5r91mFt0S2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um ambicioso vigarista se envolve com uma psiquiatra que é mais corrupta do que ele. No início, eles aproveitam o sucesso extorquiando as pessoas com seu truque mentalista, mas ela de repente se volta contra ele, manipulando o manipulador.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MELHOR MORRER  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67d1aecc022275fc8736f839cf1646815de11778</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kdv5lyGOwkyEVuxMDizu6sHdX2F.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dawn estaciona seu caminhão e resolve ajudar Phoebe, que está desesperada, pois conseguiu escapar do cativeiro onde era mantida desde que foi sequestrada. Agora, as duas nem imaginam o que esta longa noite reserva para elas.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] 13 MINUTOS DE TORMENTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5EAZPWDMUPXBM2O6HYNZCP2QUG3AWOBX</link>
