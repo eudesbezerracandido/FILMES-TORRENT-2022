@@ -2,6 +2,40 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] EIFFEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b47019fda510423391c41901306031d5b605353a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7JrT2FAv4WMZEPXFR9wXWqsyAvl.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A história secreta da criação da Torre Eiffel, um dos monumentos mais visitados do mundo, nasceu de um caso de amor apaixonado entre Gustave Eiffel e a misteriosa Adrienne Bourgès.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] IDA RED [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6F3VPDKPMDRRX5X6M7RBSJUWBETX6RN5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fuDutibVku4FH8TKqnk2qjbMCmZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>criminosa profissional Ida Red Walker (Melissa Leo) luta contra uma doença terminal enquanto cumpre uma sentença de 25 anos de prisão no liberal estado de Oklahoma. Ao descobrir que tem pouco tempo de vida, Ida recorre a seu filho Wyatt (Josh Hartnett) e ao tio dele, Dallas (Frank Grillo), para continuar o “negócio” da família e para uma última tarefa: a chance de reconquistar sua liberdade.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TRAFICANTES DE CORPOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7bd4eb34d9285a93ff6de687d2a32dc0e7153719</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lV2GvCNufOtGjhPMZzxomoqSA54.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A história do esquema multibilionário de tratamento de vício em álcool e drogas no qual usuários de drogas e traficantes tornaram-se milionários do dia para noite como body brokers (corretores de corpos, em tradução livre). Seu trabalho era recrutar outros usuários e vendê-los como pacientes para a clínica que pagasse mais. Utah (Jack Kilmer) e sua namorada Opal (Alice Englert) são viciados que vivem nas ruas da região rural do estado de Ohio, nos EUA. Após ser recrutado por um corretor de corpos, Wood (Michael K. Williams), e receber oferta de tratamento em Los Angeles, Utah é apresentado a um magnata dos centros de tratamento chamado Vin (Frank Grillo). Wood e Vin incluem Utah em seus negócios lucrativos e ilegais, em que salvar vidas está longe de ser a prioridade.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PROJETO ADAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d47c7b63927c2a33ae4d17fdc444a477bfe00d8a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/11MJy6lkt7yTEIowEPIkaK4B7lM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um homem (Ryan Reynolds) precisa voltar no tempo para conseguir a ajuda de sua versão de 13 anos (Walter Scobell). Juntos, eles terão que encontrar o seu falecido pai, que nessa linha temporal deve ter a mesma idade que ele, para colocar as coisas em ordem no mundo.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] BATMAN 2022 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3A2A2BB8A11F744A2C48A9A900B9C534DAFED1B3</link>
