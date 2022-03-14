@@ -1,6 +1,14 @@
 # FILMES-TORRENT-2022
 
 
+<item>
+<title>[COLOR silver][B] BATMAN 2022 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3A2A2BB8A11F744A2C48A9A900B9C534DAFED1B3$nome=BATMAN 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3A2A2BB8A11F744A2C48A9A900B9C534DAFED1B3$nome=BATMAN 2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/x0TGLQVIUvTTFd68TIdvNAFiyzN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Bruce Wayne é um jovem bilionário da cidade de Gotham City, Nova Jersey, que também age secretamente como o vigilante noturno Batman após o assassinato dos seus pais.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] AS TRAMBIQUEIRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
@@ -72,14 +80,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/11MJy6lkt7yTEIowEPIkaK4B7lM.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Um homem (Ryan Reynolds) precisa voltar no tempo para conseguir a ajuda de sua versão de 13 anos (Walter Scobell). Juntos, eles terão que encontrar o seu falecido pai, que nessa linha temporal deve ter a mesma idade que ele, para colocar as coisas em ordem no mundo.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] BATMAN 2022 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3A2A2BB8A11F744A2C48A9A900B9C534DAFED1B3</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/x0TGLQVIUvTTFd68TIdvNAFiyzN.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Bruce Wayne é um jovem bilionário da cidade de Gotham City, Nova Jersey, que também age secretamente como o vigilante noturno Batman após o assassinato dos seus pais.</info>
 </item>
 
 <item>
