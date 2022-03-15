@@ -1,6 +1,15 @@
 # FILMES-TORRENT-2022
 
 
+
+<item>
+<title>[COLOR silver][B] O LIVRO DO AMOR- BOOK OF LOVE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9038c47d66b7e30cf69588935f19ea413c5987f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qctdXXqtHpkuC3PPq1GG18v0tjy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O romance do jovem e certinho escritor inglês Henry (Sam Claflin) não vende bem. Mas quando a obra começa, de modo repentino e surpreendente, a fazer sucesso no México, sua agente insiste para que ele viaje até lá para promover o livro. Ao chegar, Henry descobre a razão por trás do sucesso da obra: a tradutora mexicana, Maria (Verónica Echegui), reescreveu a enfadonha história como um romance erótico. Agora Henry, furioso, e Maria, relutante, têm que viajar juntos em um tour pelo México.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] BATMAN 2022 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3A2A2BB8A11F744A2C48A9A900B9C534DAFED1B3$nome=BATMAN 1</link>
