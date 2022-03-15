@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] OS OLHOS NEGROS DE MARILYN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FTIQLYBVM2UGLF6XZGVA422XXLOO4T2D</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tlAzVwTlftb2u3wFI46T83It4bf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A comida reúne um casal criativo em uma instituição mental. À medida que transformam um restaurante fictício em realidade, eles devem encontrar uma receita de cura</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O LIVRO DO AMOR- BOOK OF LOVE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9038c47d66b7e30cf69588935f19ea413c5987f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qctdXXqtHpkuC3PPq1GG18v0tjy.jpg</thumbnail>
