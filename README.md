@@ -2,7 +2,6 @@
 
 
 
-
 <item>
 <title>[COLOR silver][B] BATMAN 2022 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3A2A2BB8A11F744A2C48A9A900B9C534DAFED1B3$nome=BATMAN 1</link>
@@ -10,6 +9,78 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/x0TGLQVIUvTTFd68TIdvNAFiyzN.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Bruce Wayne é um jovem bilionário da cidade de Gotham City, Nova Jersey, que também age secretamente como o vigilante noturno Batman após o assassinato dos seus pais.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O HOJE CONSERTAMOS O MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48a06c5a244d9e2d082eb5906f96b1305343f8cf</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9QFiRicoeI9uvOgEPvRFciuhOUM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>David Samarás, El Griego, é o produtor geral de um popular talk show chamado “Hoy se arregla el mundo”, onde pessoas comuns tentam resolver conflitos de trabalho, de relacionamento, de amizade, de família. El Griego é solteiro e nunca pôde ter um vínculo afetivo duradouro. O laço mais forte de sua vida é Benito, seu filho de 9 anos, fruto de uma relação ocasional. Mais unidos pela obrigação legal que pelo afeto, sempre existe a sensação de que Benito é alguém que sobre em sua vida. A história muda quando durante uma forte discussão com Silvina, a mãe do garoto, El Griego fica sabendo que Benito não é seu filho. Pouco depois dessa revelação, Silvina morre. A notícia é tomada por El Griego como um alívio em meio à difícil relação com Benito e então decide contar a verdade. O menino pede então que ele faça uma última coisa: ajudar a encontrar o verdadeiro pai. El Griego aceita. A busca os levará a uma encruzilhada muito maior que a que saíram para enfrentar.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AGENTES 355 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:611731fb0b12c966aef0312aa505766439bf4fd6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sz6z3k9UGeVmkC6YkdY0iTj9Ipk.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando uma arma ultrassecreta cai nas mãos de um grupo de mercenários que ameaçam o mundo, a agente da CIA Mace Brown (Jessica Chastain) terá que unir forças para uma missão letal com a agente alemã Marie (Diane Kruger); a ex-membro do MI6, especialista em computadores, Khadijah (Lupita Nyong'o); a psicóloga Graciela (Penélope Cruz), e com Lin Mi Sheng (Bingbing Fan), uma mulher misteriosa que está rastreando todos os seus movimentos. Cheio de adrenalina, ‘As Agentes 355’ apresenta inúmeras cenas de ação ao redor do mundo, dos cafés de Paris e mercados do Marrocos à riqueza e glamour de Xangai.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] FANTASMAS DO PASSADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RSVO5N4WO5VDJG6FA5WJBNU7YOA6Q7ES</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gxbwRHsQ2v6DQv28ttp7pIx7Utj.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Três mulheres negras se esforçam para encontrar seu lugar no célebre Ancaster College, uma universidade de elite na Nova Inglaterra. A escola foi construída no local de uma colina da era Salem e os legados fantasmagóricos da perseguição da época puritana assombram o campus de uma maneira cada vez mais sobrenatural.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CARANGUEIJO NEGRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MU5VKK2EL7TZ2DLW3LYB7ZOPSJA4P3PU</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sw644BbNIxSGRqjwAC50uskDBHg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em um mundo pós-apocalíptico, seis soldados têm uma missão secreta: atravessar um arquipélago congelado com um pacote misterioso. Estrelando Noomi Rapace</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ATÉ A PRÓXIMA VEZ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:J7V7Q34UIXEOPBG7ARNEFV543QO7ZLKS</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3OEVTXt455NkA4X9slqeEn5Yz0n.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em meio às belas paisagens do Peru, um arquiteto viciado em trabalho conhece uma artista que vive viajando. Esse encontro casual muda as vidas dos dois para sempre.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SORTE DE QUEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LPF4TXYV7CHYBTSUNO4D2UE4FTNS2R4E</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xcNmgU2EUJSTAnjYGse4wMdA2eZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um homem invade a casa de férias de um bilionário, mas o plano dá errado depois que o magnata e a esposa chegam de repente para curtir o lugar.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DOZE É DEMAIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:R2KMA74R7ZBB7ROPTOZHKTBIKBCKFFGE</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kWFxqnDGY5D9dYZn97bikXpB5DR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Reboot encomendado pelo Disney +. O CEO da plataforma de streaming, Bob Iger, revelou em entrevista que essa nova versão de "Doze é Demais" estará disponível apenas na plataforma.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SORTE DE QUEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LPF4TXYV7CHYBTSUNO4D2UE4FTNS2R4E</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xcNmgU2EUJSTAnjYGse4wMdA2eZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um homem invade a casa de férias de um bilionário, mas o plano dá errado depois que o magnata e a esposa chegam de repente para curtir o lugar.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ÁGUAS PROFUNDAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0cce41d1603766ebe84c6d94aaf85e18af112afb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oGhSy2ao59xJDbCXyABofNhsV3o.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Vic (Ben Affleck) e Melinda (Ana de Armas) estão longe de ser um casal feliz ― seu casamento é mantido por um acordo nada convencional: Melinda pode ter quantos amantes quiser contanto que não arraste os dois e a filha para o caos de um divórcio. Tudo parece bem, mas, com o passar do tempo, Vic começa a se incomodar com os homens escolhidos pela esposa e adota uma estratégia inusitada para afugentá-los, assumindo a autoria do assassinato de um deles. Só que a notícia se espalha por toda a cidade do interior dos Estados Unidos e o antes cidadão-modelo, benfeitor, marido mais do que tolerante e empreendedor abnegado vira alvo da maledicência de todos. Tudo levava a crer que a vida voltaria ao normal quando o verdadeiro assassino é descoberto, mas a revelação da mentira de Vic é o estopim de uma reviravolta nas convicções do próprio e nas relações que mantém com a comunidade, com os amigos e com Melinda e seus vários amantes. O que se cria é uma trama intrincada, repleta de segredos, manipulação psicológica e sangue. Baseado no romance "Em Águas Profundas", de Patricia Highsmith.</info>
 </item>
 
 <item>
