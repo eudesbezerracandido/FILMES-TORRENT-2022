@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O RESGATE DE RUBY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:debf2c33904a133cae63f36b29e33fd5288952b6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uvhYsuo1tsPkfFzYljCKjCkxL1T.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ele quer entrar para a unidade K-9. Ela é uma cadela esperta e só precisa de um lar e treinamento. Juntos, eles mudam a vida um do outro. Baseado em uma história real.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O HOJE CONSERTAMOS O MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48a06c5a244d9e2d082eb5906f96b1305343f8cf</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9QFiRicoeI9uvOgEPvRFciuhOUM.jpg</thumbnail>
