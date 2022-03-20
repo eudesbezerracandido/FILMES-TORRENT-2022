@@ -2,6 +2,23 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] BATMAN 2022 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3A2A2BB8A11F744A2C48A9A900B9C534DAFED1B3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/x0TGLQVIUvTTFd68TIdvNAFiyzN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Bruce Wayne é um jovem bilionário da cidade de Gotham City, Nova Jersey, que também age secretamente como o vigilante noturno Batman após o assassinato dos seus pais.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UMA CIDADE DE LOUCURA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NRJCMKHB7NFUDDKZOILG7WR52IVUXTOI</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fxDus52sE58q69V2gSoIceuX3LH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Viver na Cidade do México é uma aventura diária. Enquanto o taxista Ramiro sonha em ser milionário, Carmen e Miguel recebem milhões sem querer. Uma divertida comédia sobre a cultura mexicana.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] ECOS DE UM CRIME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2UFPMG5AHQZ3SPAQNXMW7LLGNENIC32Y</link>
@@ -16,14 +33,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/3qCUy997QKgZDieby5sF6mMHAsB.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Um casal com o relacionamento em crise e sua filha pré-adolescente viajam até a zona ribeira da Louisiana para passar as férias numa casa isolada, onde poderão se reconectar como família. Mas quando visitas inesperadas chegam, a farsa por trás de sua união familiar começa a aparecer, levando segredos assustadores.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] BATMAN 2022 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3A2A2BB8A11F744A2C48A9A900B9C534DAFED1B3</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/x0TGLQVIUvTTFd68TIdvNAFiyzN.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Bruce Wayne é um jovem bilionário da cidade de Gotham City, Nova Jersey, que também age secretamente como o vigilante noturno Batman após o assassinato dos seus pais.</info>
 </item>
 
 <item>
