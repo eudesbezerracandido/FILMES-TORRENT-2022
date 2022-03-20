@@ -3,6 +3,22 @@
 
 
 <item>
+<title>[COLOR silver][B] ECOS DE UM CRIME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2UFPMG5AHQZ3SPAQNXMW7LLGNENIC32Y</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iF37UpWeMHA31KY0QvxPtOBX0De.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No filme Ecos de um Crime WEB-DL 1080p Dual Áudio, De férias em uma mansão isolada de tudo, um bem-Sucedido escritor de suspenses e sua família vivem um pesadelo terrível quando uma desconhecida fugindo de seu marido assassino bate à sua porta.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A CASA NO BAYOU [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XR5XFISN3A4VETBQMEWSLUVJN7BVPMPW</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3qCUy997QKgZDieby5sF6mMHAsB.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um casal com o relacionamento em crise e sua filha pré-adolescente viajam até a zona ribeira da Louisiana para passar as férias numa casa isolada, onde poderão se reconectar como família. Mas quando visitas inesperadas chegam, a farsa por trás de sua união familiar começa a aparecer, levando segredos assustadores.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BATMAN 2022 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3A2A2BB8A11F744A2C48A9A900B9C534DAFED1B3$nome=BATMAN 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3A2A2BB8A11F744A2C48A9A900B9C534DAFED1B3$nome=BATMAN 2</link>
