@@ -12,19 +12,19 @@
 </item>
 
 <item>
-<title>[COLOR silver][B]  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
+<title>[COLOR silver][B] NO FUNDO DO POÇO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9796d2fc2c351259ec7d388d6d45bf4a12c08ca</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8l9AM8scoxmGVKhFPOTAuUQAFu7.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Após a morte prematura de sua mãe, o jovem Henry (Alex Wolff) faz amizade com sua vizinha carismática, Ana (Imogen Poots), que o envolve em um mundo de vício e violência, assim como a epidemia de drogas toma conta de sua pequena cidade.</info>
 </item>
 
 <item>
-<title>[COLOR silver][B]  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
+<title>[COLOR silver][B] O JOGO DO BUNKER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2NTBRCVI6E7TTPNYLGTU4XA6D67H6EUI</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nqnpWetItUfRV7kwmGQ1DTthqWU.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
+<info> Após vários acidentes misteriosos, um RPG acaba cancelado. Enquanto uma equipe investiga o que aconteceu, eles percebem que ficaram presos dentro do jogo em uma terrível luta pela sobrevivência.</info>
 </item>
 
 <item>
