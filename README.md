@@ -12,6 +12,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após a morte prematura de sua mãe, o jovem Henry (Alex Wolff) faz amizade com sua vizinha carismática, Ana (Imogen Poots), que o envolve em um mundo de vício e violência, assim como a epidemia de drogas toma conta de sua pequena cidade.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SEX APPEAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DB5QSNQYEA2OFRWJYR7SUPWGHCH5ZOTB</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mpwXOeSSQdBjUpyQqf6YHYbSTFO.jpg</thumbnail>
