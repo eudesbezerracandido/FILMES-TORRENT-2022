@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] OPERAÇÃO NARCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1e544479fa3f3f614453a63dd928d112bcf730d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/h1f0vkdP48E8MybhglZsEWho7DR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A trama gira em torno de submarinos do narcotráfico que os cartéis sul-americanos utilizam para contrabandear cocaína para os EUA. O cartel de drogas colombiano comanda uma missão para atravessar o México e entregar cocaína nos Estados Unidos enquanto mantém duas jovens reféns. O plano é exposto quando o ex-militar Bruce Stryker ajuda a polícia da fronteira a resgatar as duas garotas. Em resposta, o dono do cartel sequestra a família de Bruce e o obriga a ajudar a organização criminosa em seu próximo carregamento, desta vez em um submarino. Agora, cabe a Bruce se tornar um criminoso para resgatar sua família com vida.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NO FUNDO DO POÇO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9796d2fc2c351259ec7d388d6d45bf4a12c08ca</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8l9AM8scoxmGVKhFPOTAuUQAFu7.jpg</thumbnail>
