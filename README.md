@@ -12,6 +12,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SPENCER ( DOCUMENTÁRIO DA PRINCESA DIANA )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d07f7b71b59137bb9e9a26ac8abdd510ab6c81db</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4YL8gXBRoU9FJcd0M38GXHgAp1l.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> 1991. Durante os feriados de fim de ano, a Princesa Diana (Kristen Stewart) percebe que seu casamento com o Príncipe Charles não está dando mais certo e resolve renegar um caminho que a colocava na linha de sucessão da coroa.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] COMO PÉTALAS QUE CAEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7585e583659c791769df7eb56495116dd1312eea</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/24kV2SUWZN1GTsoEIg6Y90CO8v.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Asakura Haruto se apaixona pela cabeleireira Ariake Misaki e a convida para sair. Assistindo Misaki trabalhar duro para conseguir o que queria, Haruto, que quase desistiu de seu sonho de se tornar um fotógrafo, começa a perseguir seu sonho novamente, mas Misaki é diagnosticada com uma doença que a envelhece 10 vezes mais rápido do que o normal. Baseado no romance "Sakura no Yona Boku no Koibito" de Keisuke Uyama.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] OPERAÇÃO NARCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1e544479fa3f3f614453a63dd928d112bcf730d</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/h1f0vkdP48E8MybhglZsEWho7DR.jpg</thumbnail>
