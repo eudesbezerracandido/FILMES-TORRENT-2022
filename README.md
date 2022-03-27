@@ -13,7 +13,7 @@
 
 <item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - ASSALTO AO BANCO CENTRAL ( NACIONAL ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e67bfe13c14e1282a1d977d625aa1d2922c3d4af</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31bcc162ece58b02db64c53fb6498c3fcc778f9a</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qzYfiX3t8b9Kg7RhAHl5WDi5usI.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Em 2005, através de um túnel, ladrões invadem o cofre do Banco Central do Brasil localizado em Fortaleza, no Ceará, e roubam mais de 160 milhões de reais. Com depoimentos inéditos, esta série documental examina o assalto histórico e revela as trágicas consequências de um golpe milionário que parecia perfeito.</info>
