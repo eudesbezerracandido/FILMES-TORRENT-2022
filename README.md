@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - FAROFA DA GKEY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:686291903a9d8128cb613efb61cdece3ffc10cb7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vXJIFS0aUE07M9lHRJr31Ngty1A.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Porque tem gente que fala que a Farofa é melhor que Carnaval? Ícone, fenômeno. No Farofa da GKAY o documentário, você vai poder conferir como é produzir a maior festa reality já transmitida. Aperte o play e esteja por dentro de todos os kikikis que impactaram mais de 66 milhões de pessoas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] S.O.S MAMIS - LÁ PELÍCULA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CAXFS2HLUKHAINLP3SSLES2A4JSZ4XWR</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/dubFxWUiXW4QzOygVsChYYIuzfx.jpg</thumbnail>
