@@ -12,6 +12,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] HOMEM ARANHA - SEM VOLTA PARA CASA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PBXS2Q3UZHV3K5QO7OSUVRHTWW4NCZIB</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2zP8cjus0vSepp2GgfJ7QQpPHQ1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jX09ShhDZKZnAX3wb7endTXzHLj.jpg</fanart>
+<info>Após ter tido sua identidade secreta revelada ao mundo por culpa das ações de Mysterio, Peter Parker vê a sua vida e a sua reputação desmoronar. Ao procurar ajuda de Stephen Strange para tentar consertar tudo, a situação só fica ainda mais perigosa, e Parker precisa descobrir o que significa ser o Homem-Aranha.</info>
+</item> 
+
+<item>
+<title>[COLOR silver][B] VINGANÇA SOLITÁRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04b8964b486b34ec3b3007e48b92fce6198e52ef</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pz5ZrXSymSrVybrKnTwiPQ4Cg1U.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Brenner Baker, uma militar da Divisão de Patrulheiros do Exército Americano, e seu marido Dillon decidem acampar numa floresta do Alabama. Durante uma caminhada, eles encontram um esconderijo de um cartel do narcotráfico no meio do nada. O casal é atacado pela facção criminosa e deixado na floresta para morrer. Mas o que os membros do cartel não imaginavam é que estariam cometendo um erro terrível ao não confirmarem se Brenner estava realmente morta. Agora, sozinha, ela partirá em busca de vingança, destruindo todos que ficarem em seu caminho.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - ASSALTO AO BANCO CENTRAL ( NACIONAL ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31bcc162ece58b02db64c53fb6498c3fcc778f9a</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qzYfiX3t8b9Kg7RhAHl5WDi5usI.jpg</thumbnail>
@@ -42,14 +58,6 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Em meio a um colapso econômico nos EUA, uma família busca abrigo no bunker de seu vizinho. Mas com o país sob lei marcial, o perigo inteiro pode ser tão - ou mais - perigoso que o externo.</info>
 </item>
-
-<item>
-<title>[COLOR silver][B] HOMEM ARANHA - SEM VOLTA PARA CASA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PBXS2Q3UZHV3K5QO7OSUVRHTWW4NCZIB</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/2zP8cjus0vSepp2GgfJ7QQpPHQ1.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/jX09ShhDZKZnAX3wb7endTXzHLj.jpg</fanart>
-<info>Após ter tido sua identidade secreta revelada ao mundo por culpa das ações de Mysterio, Peter Parker vê a sua vida e a sua reputação desmoronar. Ao procurar ajuda de Stephen Strange para tentar consertar tudo, a situação só fica ainda mais perigosa, e Parker precisa descobrir o que significa ser o Homem-Aranha.</info>
-</item> 
 
 <item>
 <title>[COLOR silver][B] SPENCER ( DOCUMENTÁRIO DA PRINCESA DIANA )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
