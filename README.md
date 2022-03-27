@@ -12,6 +12,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] S.O.S MAMIS - LÁ PELÍCULA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CAXFS2HLUKHAINLP3SSLES2A4JSZ4XWR</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dubFxWUiXW4QzOygVsChYYIuzfx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No filme S.O.S Mamis: La Película WEB-DL 1080p Dual Áudio, A filha de Trini está triste porque sua melhor amiga está deixando a Saint Michael School, pois sua mãe não pode continuar pagando a escola. Trini promete à sua filha que isso não vai acontecer e decide montar um plano junto com as outras “”mamis”” do grupo para resolver o problema. Mas essa missão será muito mais difícil do que elas pensavam e terão que unir forças como grupo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] REFUGIADO AMAERICANO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GL2XRTPE3XDC4GOHJ4ZLD5OELX4S4QYO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/k84Xo4EHSi7SgRHZ4hdlMvSk6NH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em meio a um colapso econômico nos EUA, uma família busca abrigo no bunker de seu vizinho. Mas com o país sob lei marcial, o perigo inteiro pode ser tão - ou mais - perigoso que o externo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] HOMEM ARANHA - SEM VOLTA PARA CASA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PBXS2Q3UZHV3K5QO7OSUVRHTWW4NCZIB</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2zP8cjus0vSepp2GgfJ7QQpPHQ1.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jX09ShhDZKZnAX3wb7endTXzHLj.jpg</fanart>
+<info>Após ter tido sua identidade secreta revelada ao mundo por culpa das ações de Mysterio, Peter Parker vê a sua vida e a sua reputação desmoronar. Ao procurar ajuda de Stephen Strange para tentar consertar tudo, a situação só fica ainda mais perigosa, e Parker precisa descobrir o que significa ser o Homem-Aranha.</info>
+</item> 
+
+<item>
 <title>[COLOR silver][B] SPENCER ( DOCUMENTÁRIO DA PRINCESA DIANA )[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d07f7b71b59137bb9e9a26ac8abdd510ab6c81db</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4YL8gXBRoU9FJcd0M38GXHgAp1l.jpg</thumbnail>
