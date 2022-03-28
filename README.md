@@ -1,14 +1,36 @@
 # FILMES-TORRENT-2022
 
 
-
+<item>
+<title>[COLOR silver][B] BATMAN 2022 QUALIDADE 9 HDCAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YTOXLYIRA2QXEPLZANRBLR4IQWCCAUVL</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4dJ0RVVNyaeHm0U88o2XATPWE0M.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando Charada (Paul Dano), um sádico assassino em série, começa a matar os principais políticos de Gotham, Batman (Robert Pattinson) é forçado a desenterrar a corrupção oculta da cidade e até mesmo a questionar o envolvimento de sua milionária família nessa teia de segredos e mentiras.</info>
+</item>
 
 <item>
-<title>[COLOR silver][B] BATMAN 2022 ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3A2A2BB8A11F744A2C48A9A900B9C534DAFED1B3</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/x0TGLQVIUvTTFd68TIdvNAFiyzN.jpg</thumbnail>
+<title>[COLOR silver][B] ATAQUE DOS CÃES-THE POWER OF THE DOG [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TQETY3U5SMJIB25TXCA7ISTVVGPEEEU4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pTieUAFyDbC22uq0p7uMT1wBYax.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Bruce Wayne é um jovem bilionário da cidade de Gotham City, Nova Jersey, que também age secretamente como o vigilante noturno Batman após o assassinato dos seus pais.</info>
+<info> Ataque dos Cães acompanha os irmãos Phil (Benedict Cumberbatch) e George (Jesse Plemons), que são ricos proprietários da maior fazenda de Montana. Enquanto o primeiro é brilhante, mas cruel, o segundo é a gentileza em pessoa. Quando George secretamente se casa com a viúva local Rose (Kirsten Dunst), o invejoso Phil faz tudo para atrapalhá-los.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ARANHAS DE PAPEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9c57c0f5ec497c48e7bcd6544d317db45193a22</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/31dpLgUEsF4F4UgH7D3iAqYxteU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma história agridoce sobre o amadurecimento à sombra das doenças mentais.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ATAQUE DOS CÃES-THE POWER OF THE DOG [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TQETY3U5SMJIB25TXCA7ISTVVGPEEEU4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pTieUAFyDbC22uq0p7uMT1wBYax.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ataque dos Cães acompanha os irmãos Phil (Benedict Cumberbatch) e George (Jesse Plemons), que são ricos proprietários da maior fazenda de Montana. Enquanto o primeiro é brilhante, mas cruel, o segundo é a gentileza em pessoa. Quando George secretamente se casa com a viúva local Rose (Kirsten Dunst), o invejoso Phil faz tudo para atrapalhá-los.</info>
 </item>
 
 <item>
