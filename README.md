@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MOONFALL - AMEAÇA LUNAR ( HDTV CINEMA ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77523623CFE84FE4B60BEF01BEDF4AB8C551F618</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/odVv1sqVs0KxBXiA8bhIBlPgalx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em Moonfall, por motivos desconhecidos, a Lua sai de sua órbita e passa a se deslocar em direção à Terra, podendo causar uma colisão em breve. A ex-astrounauta da NASA, Jo Fowler (Halle Berry), acha que pode resolver essa situação e impedir que o impacto aconteça, mas apenas um de seus colegas (Patrick Wilson) acredita nela. Em situação de emergência, um grupo de cientistas não especializados no assunto aceita a missão de ir até a Lua e impedir a colisão antes que a vida humana seja extinta. Mas ao chegarem lá, eles percebem que a Lua não é exatamente a pedra gigante orbitando a Terra que acharam que era.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ATAQUE DOS CÃES-THE POWER OF THE DOG [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TQETY3U5SMJIB25TXCA7ISTVVGPEEEU4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/pTieUAFyDbC22uq0p7uMT1wBYax.jpg</thumbnail>
@@ -663,14 +671,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/sxV67K9DQajCzezhvT1TmmK1EZD.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O filme conta a história do juiz federal brasileiro Odilon de Oliveira, maior combatente do crime organizado no Brasil. Ele foi responsável pelas prisões dos mandachuvas do narcotráfico, como Fernandinho Beira Mar e Juan Carlos Abadia, que oferecem milhões por sua cabeça. Graças a isso, vive sob escolta armada 24 horas, mais confinado que os próprios bandidos, tornando-se réu de si mesmo.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] MOONFALL - AMEAÇA LUNAR ( HDTV CINEMA ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77523623CFE84FE4B60BEF01BEDF4AB8C551F618</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/odVv1sqVs0KxBXiA8bhIBlPgalx.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Em Moonfall, por motivos desconhecidos, a Lua sai de sua órbita e passa a se deslocar em direção à Terra, podendo causar uma colisão em breve. A ex-astrounauta da NASA, Jo Fowler (Halle Berry), acha que pode resolver essa situação e impedir que o impacto aconteça, mas apenas um de seus colegas (Patrick Wilson) acredita nela. Em situação de emergência, um grupo de cientistas não especializados no assunto aceita a missão de ir até a Lua e impedir a colisão antes que a vida humana seja extinta. Mas ao chegarem lá, eles percebem que a Lua não é exatamente a pedra gigante orbitando a Terra que acharam que era.</info>
 </item>
 
 <item>
