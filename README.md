@@ -2,6 +2,22 @@
 
 
 <item>
+<title>[COLOR silver][B] MORTE NO NILO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c5dbd40ebfc038a8e93611006df479a8657eb8e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dRMuS6S0NSqvkDxBbNqCjon95iY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Durante sua viagem de lua de mel num cruzeiro pelo rio Nilo, Linnet Ridgeway, uma rica herdeira é morta e por coincidência quase todos os passageiros têm motivos para matá-la. Enquanto as investigações têm início no próprio navio, novas mortes acontecem com o intuito de encobrir a verdade.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NÃO CONFIE EM NINGUÉM - A CAÇA AO REI DA CRIPTOMOEDA ( DOCUMENTÁRIO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RHCMAOAQATOMF4O2LH3RZMQZIQI3AD34</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/m3AAwPDZ2xGK0fER5ie2GpbodxU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um grupo de investidores tenta decifrar a morte suspeita do multimilionário das criptomoedas Gerry Cotten, além de desvendar o que aconteceu com os 250 milhões de dólares desaparecidos que ele supostamente roubou.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BATMAN 2022 QUALIDADE 9 HDCAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YTOXLYIRA2QXEPLZANRBLR4IQWCCAUVL</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4dJ0RVVNyaeHm0U88o2XATPWE0M.jpg</thumbnail>
@@ -31,14 +47,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/31dpLgUEsF4F4UgH7D3iAqYxteU.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Uma história agridoce sobre o amadurecimento à sombra das doenças mentais.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] ATAQUE DOS CÃES-THE POWER OF THE DOG [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TQETY3U5SMJIB25TXCA7ISTVVGPEEEU4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/pTieUAFyDbC22uq0p7uMT1wBYax.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Ataque dos Cães acompanha os irmãos Phil (Benedict Cumberbatch) e George (Jesse Plemons), que são ricos proprietários da maior fazenda de Montana. Enquanto o primeiro é brilhante, mas cruel, o segundo é a gentileza em pessoa. Quando George secretamente se casa com a viúva local Rose (Kirsten Dunst), o invejoso Phil faz tudo para atrapalhá-los.</info>
 </item>
 
 <item>
