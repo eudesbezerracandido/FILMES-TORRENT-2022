@@ -2,6 +2,38 @@
 
 
 <item>
+<title>[COLOR silver][B] AMOR COM FETICHE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CMW3FSHR6MMBUCA64SG3IWSOEAXLI5ZF</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eQaZZ0CFfCmBv5H5Mk11agRZzl2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um trabalhador de escritório aparentemente limpo mantém suas fantasias sexuais BDSM para si mesmo, até que ele descobre que sua colega de trabalho é uma dominatrix em potencial…. À medida que passam o tempo juntos e se entendendo os dois acabam tendo uma relação de mestre e servo bastante única. O webtoon retrata o amor entre homens e mulheres com gostos únicos, foi serializado na plataforma webtoon 'Comico' e se tornou muito popular entre as leitoras na faixa dos 20 ou 30 anos. O Filme será laçado pela Netflix.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] GRANIZO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bbb4e03604511fbbca91c2de144699375eb89605</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pnTp17HCwQ6EhsWfqzgwnUfhSym.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Após receber uma chuva de críticas por não prever uma terrível tempestade, um famoso meteorologista volta para sua cidade natal e inicia uma jornada de autodescoberta.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] JACKASS PARA SEMPRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6FMZTMWEGOMV4FOQFN5YPV65BDVIFIYG</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5zaGCCXBKq34EG7HOMlVKxFcgwr.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Após dez anos, a equipe Jackass retorna para uma última e intensa cruzada.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] FILHOS DO PRIVILÉGIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KYS4PHC2ON3B2NR7PZLQ3X4F4RH6HWXJ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tP7ymez7tYWs2I5rILY5Ba2npjA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um adolescente rico e seus colegas de colégio investigam uma serie de acontecimentos e descobrem uma conspiração sinistra. Em Filhos do Privilégio, muitos anos após a trágica morte de sua irmã Anna, Finn (Max Schimmelpfennig), agora um jovem de 18 anos, é repetidamente assombrado por pesadelos e demônios. O que sua família acredita ser uma consequência psicótica do trauma de infância começa a parecer cada vez mais real para ele. À medida que eventos terríveis começam a se acumular ao seu redor, ele não consegue mais acreditar que está tudo só em sua cabeça. Junto com sua melhor amiga Lena (Lea van Acken), ele tenta entender esse terrível segredo que está em seu passado, por trás da fachada despretensiosa de sua família.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MORTE NO NILO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c5dbd40ebfc038a8e93611006df479a8657eb8e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/dRMuS6S0NSqvkDxBbNqCjon95iY.jpg</thumbnail>
