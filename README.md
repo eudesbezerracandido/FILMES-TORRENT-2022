@@ -1,6 +1,15 @@
 # FILMES-TORRENT-2022
 
 
+
+<item>
+<title>[COLOR silver][B] CURUPIRA-O DEMÔNIO DA FLORESTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ae36a0efa5690b6569c69c92b0a25487e7ea89a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8mAyRqP88S4TRXBnVdePJrnckwg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um simples passeio de fim de semana se torna um pesadelo para seis jovens, quando eles se perdem na floresta amazônica e começam a ser perseguidos por um ser macabro do folclore brasileiro: o curupira.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] AMOR COM FETICHE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CMW3FSHR6MMBUCA64SG3IWSOEAXLI5ZF</link>
