@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] NOSSOS SONHOS DE MARTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36c3ea93d2d3f77a16535197c5cd913035bdbdcf</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pENW055usqNIzYB7YM0R61qFPMu.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O filme se passa em um futuro onde o planeta Marte é colonizado pelo melhor que a humanidade tem para oferecer. Na trama, dois estudantes universitários muito diferentes acabam unindo forças e embarcando em um ônibus espacial para o planeta vermelho.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CURUPIRA-O DEMÔNIO DA FLORESTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ae36a0efa5690b6569c69c92b0a25487e7ea89a</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8mAyRqP88S4TRXBnVdePJrnckwg.jpg</thumbnail>
