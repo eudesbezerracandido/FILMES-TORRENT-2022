@@ -1,6 +1,15 @@
 # FILMES-TORRENT-2022
 
 
+
+<item>
+<title>[COLOR silver][B] BATALHAS: FREESTYLE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ec014d7a3fca8ac14c5c2763da17386b3ed63e2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vdgUNCruHI6jX9TU4vvplgpDtL7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Amalie se empolga quando a equipe de dança dela e de Mikael vai competir em Paris, mas se distrai depois que encontra a mãe distante.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A BOLHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b06133f6f0e6142989c9485d705dfa2a9fccf0b</link>
