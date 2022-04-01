@@ -3,6 +3,30 @@
 
 
 <item>
+<title>[COLOR silver][B] CAPITÃ NOVA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2dd54868e1bcfa19f40eb294208caa51dd573a2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ktBMme7oOHPi2oY8t02OifrrYC1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em 2050, a Terra tornou-se um lugar seco e desolado.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ETERNAMENTE DEMAIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ccbc400df358b100df124f83adb95e4fd2aec45</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/11AJFCi2WJb8A8IT2i5ry9P4Iew.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A vida de Marta corre perigo depois da cirurgia, bem agora que o amor verdadeiro deu as caras. Mas será que dá para superar os segredos e as inconstâncias do destino?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] APRESENTANDO, NATE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3Q44GGLFQIP2YRBAN3N57TRXRHOGE3LU</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gbmEpFl9ZrIDQem7gdzWlgzNzp6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nate Foster, de 13 anos, é um garoto impopular do meio-oeste que nutre fantasias vívidas de se tornar uma grande estrela musical da Broadway.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NOSSOS SONHOS DE MARTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36c3ea93d2d3f77a16535197c5cd913035bdbdcf</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/pENW055usqNIzYB7YM0R61qFPMu.jpg</thumbnail>
