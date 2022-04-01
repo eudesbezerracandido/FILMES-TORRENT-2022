@@ -1,6 +1,13 @@
 # FILMES-TORRENT-2022
 
 
+<item>
+<title>[COLOR silver][B] A BOLHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b06133f6f0e6142989c9485d705dfa2a9fccf0b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uog089YZqlMAplQwg68GQ4sexdY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um grupo de atores e atrizes presos dentro de uma bolha pandêmica em um hotel tenta completar um filme.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] CAPITÃ NOVA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
