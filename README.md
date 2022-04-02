@@ -34,6 +34,14 @@
 </item> 
 
 <item>
+<title>[COLOR silver][B] AMARICAN UNDERDOG-A HISTÓRIA DE KURT WARNER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e93a0dbbe49fe255433df77295768d6977753f5b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cscZSRVWzUNC36pPyOg22dGhYQe.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A história do MVP da NFL e do quarterback Kurt Warner, que passou de um repositor de prateleiras de supermercados para se tornar uma estrela do futebol americano. A história de Kurt Warner, que supera anos de desafios e contratempos para se tornar duas vezes o jogador mais valioso da NFL, campeão do Super Bowl e quarterback do Hall da Fama.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BATALHAS: FREESTYLE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ec014d7a3fca8ac14c5c2763da17386b3ed63e2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/vdgUNCruHI6jX9TU4vvplgpDtL7.jpg</thumbnail>
