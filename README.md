@@ -3,7 +3,8 @@
 
 <item>
 <title>[COLOR silver][B] MICHAEL MORBIUS ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6E2035C96B138264A5FA17A427A2B0AE1C2A49DF</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6E2035C96B138264A5FA17A427A2B0AE1C2A49DF$nome=[B]TORRENT  MICHAEL MORBIUS[/B]</link>
+<link>http://54.39.157.211/FILMES/Morbius.2022.720p.CAMRip.Dublado.mp4$nome=[B]LINK DIRETO MICHAEL MORBIUS[/B]</link>
 <thumbnail>https://ia601505.us.archive.org/0/items/morbius_202204/morbius.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/aBkS2nFN8EMcMZEm6G2higwFSl7.jpg</fanart>
 <info> Durante um experimento para encontrar a cura de uma rara doença sanguínea, o Dr. Michael Morbius (Jared Leto) acidentalmente se transforma num sanguinário vampiro.</info>
