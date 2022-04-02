@@ -119,7 +119,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6FMZTMWEGOMV4FOQFN5YPV65BDVIFIYG</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/5zaGCCXBKq34EG7HOMlVKxFcgwr.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Após dez anos, a equipe Jackass retorna para uma última e intensa cruzada.</info>
+<info> Após dez anos, a equipe Jackass retorna para uma última e intensa cruzada.</info> 
 </item>
 
 <item>
