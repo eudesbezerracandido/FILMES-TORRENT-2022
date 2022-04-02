@@ -2,7 +2,7 @@
 
 
 <item>
-<title>[COLOR silver][B] MORBIUS ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] MICHAEL MORBIUS ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6E2035C96B138264A5FA17A427A2B0AE1C2A49DF</link>
 <thumbnail>https://ia601505.us.archive.org/0/items/morbius_202204/morbius.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/aBkS2nFN8EMcMZEm6G2higwFSl7.jpg</fanart>
