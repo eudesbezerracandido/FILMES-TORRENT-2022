@@ -24,7 +24,7 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d5bd6adbf1799a806ddabd3637697e9e63c17261</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/sjyULla0wF9m5bpeHl45mckovKz.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Um ex-policial começa a ter visões assustadoras e a ouvir vozes que acredita serem orações. Ele faz o possível para abafá-los, até que um grupo inesperado de novos amigos o ajuda a ouvir seu próprio chamado.</info>
+<info>Um ex-policial começa a ter visões assustadoras e a ouvir vozes que acredita serem orações. Ele faz o possível para abafá-los, até que um grupo inesperado de novos amigos o ajuda a ouvir seu próprio chamado.</info> 
 </item>
 
 <item>
