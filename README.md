@@ -35,11 +35,11 @@
 </item>
 
 <item>
-<title>[COLOR silver][B]  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
+<title>[COLOR silver][B] PEQUENA MÃE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:94e5f305e1938524f8c6597e1fd3469525ab27d7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vcrCr8rKd7dTysjp0zFj3edvM24.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
+<info> Nelly, de oito anos, acaba de perder sua amada avó e está ajudando seus pais a limpar a casa de sua mãe. Ela explora a casa e a floresta circundante onde sua mãe, Marion, costumava brincar e onde ela construiu a casa da árvore sobre a qual Nelly tanto ouviu falar. Um dia sua mãe vai embora de repente. É quando Nelly conhece uma garota da sua idade na floresta, construindo uma casa na árvore. O nome dela é Marion.</info>
 </item>
 
 <item>
