@@ -11,11 +11,11 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] SONIC - 1 & 2 [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] SONIC - 1 &/2 HDCAM [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:424d424b305d0c97e165c58ed1002c230d7cd81b$nome=SONIC - O FILME</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e8a090bfe8ba07a5c10b54c8103d1b6eb6fc8f8$nome=SONIC - 2 LEGENDADO</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/f4SvCKIUrC2cDR7Xo4k1kaGAqQ2.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<fanart>https://www.themoviedb.org/t/p/original/9PToHgJGNnK4zwqurT26aSTHNF.jpg</fanart>
 <info>Sonic, o ouriço azul mais famoso do mundo, se junta com os seus amigos para derrotar o terrível Doutor Eggman, um cientista louco que planeja dominar o mundo, e o Doutor Robotnik, responsável por aprisionar animais inocentes em robôs.</info>
 </item>
 
