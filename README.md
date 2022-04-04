@@ -27,6 +27,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - ANIMAIS FANTASTICOS,UMA HÍTORIA NATURAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WBOPM5N444HYPUBIJNFP6NKJVECVBX4Q</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gNxONX7C2sIpyj9bRfprdeFgKCs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No filme Animais Fantásticos: Uma História Natural WEB-DL 1080p Dual Áudio, Stephen Fry embarca em uma jornada para descobrir as histórias de criaturas fantásticas que inspiraram mitos e lendas de nossos antepassados, assim como a literatura e o cinema.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BATMAN 2022 QUALIDADE 9 HDCAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YTOXLYIRA2QXEPLZANRBLR4IQWCCAUVL</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4dJ0RVVNyaeHm0U88o2XATPWE0M.jpg</thumbnail>
