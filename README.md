@@ -11,6 +11,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O CAVALO DOS MEUS SONHOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6914850e32ac3423053d032321545c1e7db40e36</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eEQw1QtoeHg2yBP4H5XqI5WxgEm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Jan, uma faxineira de meia idade, decide criar um cavalo de corrida e ainda convence seus vizinhos a contribuir financeiramente com o esquema. Porém, o improvável plano acaba dando certo quando o cavalo sobe de classificação e entra para o campeonato nacional. Baseado em fatos reais.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PROCURANDO FÍGARO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:587e8b699dd76bc9764c50837758320f95bf7acd</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gQM1LFshFpfqbla0GMvUUxb2iNV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Descontente com seu emprego e seu namorado de longa-data, uma jovem (Danielle Macdonald) decide largar tudo e correr atrás de seu antigo sonho de virar cantora de ópera.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BATMAN 2022 QUALIDADE 9 HDCAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YTOXLYIRA2QXEPLZANRBLR4IQWCCAUVL</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4dJ0RVVNyaeHm0U88o2XATPWE0M.jpg</thumbnail>
