@@ -30,7 +30,7 @@
 <item>
 <title>[COLOR silver][B] O CAVALO DOS MEUS SONHOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6914850e32ac3423053d032321545c1e7db40e36</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/eEQw1QtoeHg2yBP4H5XqI5WxgEm.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/eEQw1QtoeHg2yBP4H5XqI5WxgEm.jpg</thumbnail> 
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Jan, uma faxineira de meia idade, decide criar um cavalo de corrida e ainda convence seus vizinhos a contribuir financeiramente com o esquema. Porém, o improvável plano acaba dando certo quando o cavalo sobe de classificação e entra para o campeonato nacional. Baseado em fatos reais.</info>
 </item>
