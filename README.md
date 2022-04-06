@@ -11,6 +11,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] LEMBRANÇAS SOMBRIAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UYM6T3UO6DW4BKLRYQDYKMCZQXB7GNEM</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8pf7EeQ1UicjaUjp6MaR009rGDM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Visões perturbadoras sobre acidentes assustadores. Perda de memória pós-traumática. E a luta desesperada de uma mulher para descobrir a verdade sobre seu passado.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] FUGA DA MEIA - NOITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4d3e18aa305c77783d2bd73a3891e6cb67cf242</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3ze2g40UT00kR0mvGWdzUNkTjsz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Kyung-mi, uma jovem surda, testemunha um dos ataques do serial killer Do-sik. Agora caçada pelo criminoso, ela se envolve em um perigoso jogo de gato e rato que também ameaça sua mãe.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SONIC - 1 &/2 HDCAM [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:424d424b305d0c97e165c58ed1002c230d7cd81b$nome=SONIC - O FILME</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0e8a090bfe8ba07a5c10b54c8103d1b6eb6fc8f8$nome=SONIC - 2 LEGENDADO</link>
