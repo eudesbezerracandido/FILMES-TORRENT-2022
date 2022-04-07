@@ -11,6 +11,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FURIOZA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7595add8ec4e098f9eab99444568ee3b9d2c26a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tFURJnWv5qW58x4OOrXt1GQEyr1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma policial faz uma proposta irrecusável ao ex-namorado: ou ele se infiltra em uma gangue ou seu irmão vai para a cadeia.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DE VOLTA AO ESPAÇO-DOCUMENTÁRIO COM ELON MUSK  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9d93e702ebb88e4cba26082d9416ca69f8d668b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uINzecMbqXMnWNa6RPThxPUct7f.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Elon Musk e os engenheiros da SpaceX embarcam em uma missão histórica para levar astronautas da NASA de volta à Estação Espacial Internacional.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] LEMBRANÇAS SOMBRIAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UYM6T3UO6DW4BKLRYQDYKMCZQXB7GNEM</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8pf7EeQ1UicjaUjp6MaR009rGDM.jpg</thumbnail>
