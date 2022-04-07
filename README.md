@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O W DA QUESTÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TBJVWDQNPJQ4ZMC4Q7SFM25RVIP7GXTY</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tq5ODEgr1PUxT7HCqDT73SlDIek.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ao investigar um assassinato, uma ávida leitora de histórias policiais descobre grandes segredos sobre os moradores de uma pequena cidade.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DE VOLTA AO ESPAÇO-DOCUMENTÁRIO COM ELON MUSK  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9d93e702ebb88e4cba26082d9416ca69f8d668b</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/uINzecMbqXMnWNa6RPThxPUct7f.jpg</thumbnail>
