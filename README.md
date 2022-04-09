@@ -35,11 +35,11 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
+<title>[COLOR silver][B] UM JANTAR ENTRE ESPIÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:675725fcc63fbd1334f5a3d39f755cb24bed4869</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bfHTsg7YpUd7YkLSXEeTKjeg7BE.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
+<info>A história se passa na idílica cidade à beira-mar de Carmel. Lá, os ex-amantes e espiões Henry e Celia se encontram para jantar e relembrar o tempo que passaram juntos em Viena. A conversa muda inevitavelmente para o desastroso sequestro do voo 127 da Royal Jordanian, que terminou com a morte de todos a bordo. Essa falha assombra a CIA até hoje. Enquanto eles se esquivam, flertam, sobre a culinária californiana, fica claro que um deles não sobreviverá à refeição.</info>
 </item>
 
 <item>
