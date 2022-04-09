@@ -11,6 +11,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A RESSUREIÇÃO DE JESUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:950fc3ca2d02fc04977db014a064b0ec15c8814a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/f2ZkDH1ajAdgcMtsVXBeyS7twSf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Caçados e sem seu líder, seguidores de Jesus buscam desesperadamente entender a Crucificação. Quando Jesus ressuscita, eles percebem que a esperança segue viva neles e se preparam para espalhar o Evangelho a qualquer custo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] YAKSHA-OPERAÇÃO IMPLACAVÉL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fa26024d12ffcb44f6a6a8eaca856cb3bec42dd</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zL8KPd8Rw6KXgdcgytMbzNNrHmc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Conta a história sobre o líder da equipe secreta de operações de uma agência de espionagem em Shenyang, na China, e o promotor que foi rebaixado para a agência de espionagem enquanto procurava um oficial norte-coreano desaparecido de alto escalão.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SOUTH OF HEAVEN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:027fae3627babd250cde0b8a79f6a048cf938262</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/sUdlWpnpNIWPIvXDnucLRjDHOvQ.jpg</thumbnail>
