@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MISTÉRIO DAS PALAVRAS CRUZADAS-AQUEDA FATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:981819b606b6235147af026a57b4513c6eb16135</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/v4TdY6KGuIUb4OgeAIxZAYP1XCx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Enquanto a editora de palavras cruzadas Tess Harper se prepara para um desafio de quebra-cabeças, contra o novo supercomputador inovador conhecido como BB, a IA está envolvida na morte de seu criador - o brilhante CEO da XCal Technologies, Tess se vê envolvida na investigação e, mais uma vez, está em conflito com o detetive Logan O’Connor. Enquanto isso, Chauncey contempla sua aposentadoria e passa algum tempo com a tia Candace, que o ajuda a pensar sobre suas opções.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] YAKSHA-OPERAÇÃO IMPLACAVÉL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3fa26024d12ffcb44f6a6a8eaca856cb3bec42dd</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zL8KPd8Rw6KXgdcgytMbzNNrHmc.jpg</thumbnail>
