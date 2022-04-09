@@ -11,6 +11,38 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SOUTH OF HEAVEN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:027fae3627babd250cde0b8a79f6a048cf938262</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sUdlWpnpNIWPIvXDnucLRjDHOvQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Jimmy obtém liberdade condicional, após cumprir doze anos por assalto à mão armada. Após sua libertação, ele promete dar a Annie, seu amor de infância, agora morrendo de câncer, o melhor último ano de sua vida - infelizmente não é assim tão simples.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UMA NOITE COM A FAMILIA - O PERIGO MORA AO LADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df0091063dc4738a2c543031ca153bdfe17b498f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jz6LThloRbGWT5PAV9aWzUpjNjh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando o autor de best-sellers Carl Black transfere sua família de volta para sua casa de infância, ele deve se juntar a vizinhos excêntricos para lutar com um cafetão, que pode ou não ser um verdadeiro vampiro.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]DOCUMENTÁRIO( TONY HAWK )ATÉ RODINHAS CAIREM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:575553b9971646783fd0a74dd503e3e6b9e5cc22</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rvAiniDPs5sxucbRC0stls4yNdY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Centrado em entrevistas íntimas com o próprio Tony Hawk, o documentário é um olhar abrangente sobre a vida do skatista, sua carreira lendária e o relacionamento com o esporte com o qual ele é sinônimo há décadas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FURIOZA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7595add8ec4e098f9eab99444568ee3b9d2c26a</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/tFURJnWv5qW58x4OOrXt1GQEyr1.jpg</thumbnail>
