@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] THE REQUIN ( LEG. ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8013462ecb5ebca5c5bbb64756c0319038a86b33</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/i0z8g2VRZP3dhVvvSMilbOZMKqR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um casal de férias no Vietnã se encontram presos em mar aberto após uma enorme tempestade tropical levar sua casa à beira-mar. Com o marido machucado e morrendo, a esposa precisa lutar contra os elementos sozinha, enquanto são cercado por tubarões brancos abaixo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AINDA ESTOU AQUI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PZFPEFQU3DZFZJGDTQ3ERSRVZOGBLNL4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/a5XkAX8k4UO3I1YIx1nW32F3EBk.jpg</thumbnail>
