@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] AINDA ESTOU AQUI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PZFPEFQU3DZFZJGDTQ3ERSRVZOGBLNL4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/a5XkAX8k4UO3I1YIx1nW32F3EBk.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Depois de sobreviver a um acidente de carro que tirou a vida de seu namorado, uma adolescente acredita que ele está tentando se reconectar com ela do outro mundo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A RESSUREIÇÃO DE JESUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:950fc3ca2d02fc04977db014a064b0ec15c8814a</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/f2ZkDH1ajAdgcMtsVXBeyS7twSf.jpg</thumbnail>
