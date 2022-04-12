@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BATMAN 2022 QUALIDADE 9 HDCAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YTOXLYIRA2QXEPLZANRBLR4IQWCCAUVL</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4dJ0RVVNyaeHm0U88o2XATPWE0M.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando Charada (Paul Dano), um sádico assassino em série, começa a matar os principais políticos de Gotham, Batman (Robert Pattinson) é forçado a desenterrar a corrupção oculta da cidade e até mesmo a questionar o envolvimento de sua milionária família nessa teia de segredos e mentiras.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ANIMAIS FANTASTIVOS-OS SEGREDOS DE DUMBLEDORE ( LEG. ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8eb05c947b43b9afffa988a264598a4b4e05b00</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/u1XrqlIjQt2ghnA8nprpPiFzSzR.jpg</thumbnail>
@@ -185,14 +193,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/vcrCr8rKd7dTysjp0zFj3edvM24.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Nelly, de oito anos, acaba de perder sua amada avó e está ajudando seus pais a limpar a casa de sua mãe. Ela explora a casa e a floresta circundante onde sua mãe, Marion, costumava brincar e onde ela construiu a casa da árvore sobre a qual Nelly tanto ouviu falar. Um dia sua mãe vai embora de repente. É quando Nelly conhece uma garota da sua idade na floresta, construindo uma casa na árvore. O nome dela é Marion.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] BATMAN 2022 QUALIDADE 9 HDCAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YTOXLYIRA2QXEPLZANRBLR4IQWCCAUVL</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4dJ0RVVNyaeHm0U88o2XATPWE0M.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Quando Charada (Paul Dano), um sádico assassino em série, começa a matar os principais políticos de Gotham, Batman (Robert Pattinson) é forçado a desenterrar a corrupção oculta da cidade e até mesmo a questionar o envolvimento de sua milionária família nessa teia de segredos e mentiras.</info>
 </item>
 
 <item>
