@@ -19,6 +19,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A MEGERA DOMADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:249f9c531c65d6e7cfd5432e49362d2bcb1b6d60</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/murrfrqgaetHayjBmA0V1SMFFyh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma cientista de coração partido volta para casa em busca de um recomeço. Mas seu irmão picareta contrata um bonitão para convencê-la a vender as terras da família.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AS GAROTAS DE CRISTAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZAQGRP2DMOFY3Q7FFOXRG3VHTQQLAH6F</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eAmpIPhtvsgWVoMG1ta0DS1tftd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando a pressão ameaça uma bailarina em um novo papel principal, ela e uma dançarina rejeitada criam seu próprio mundo, livre das expectativas dos outros.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ANIMAIS FANTASTIVOS-OS SEGREDOS DE DUMBLEDORE ( LEG. ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8eb05c947b43b9afffa988a264598a4b4e05b00</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/u1XrqlIjQt2ghnA8nprpPiFzSzR.jpg</thumbnail>
