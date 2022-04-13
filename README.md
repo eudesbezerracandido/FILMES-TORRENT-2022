@@ -27,6 +27,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SICARIO-PERIGO NO ABRIGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RWN6JACJ2Y3NKCZJV4ZNFKPJDU57CNH2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tqHoz9tdsQJ3US1Pb7eZdBDi8op.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ao transportar a família de uma testemunha chave de um julgamento federal contra o cartel, agentes da DEA são emboscados em um tiroteio. Agora os sobreviventes, incluindo a filha da testemunha, se refugiam em uma casa enquanto são caçados ferozmente.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] METAL LORDS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4bc7aefd9a816087b3d76f327b865ac80f4851a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/r97txZRmBb75SGsIAWqmplWJnO3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dois garotos querem começar uma banda de heavy metal em uma escola onde apenas dois garotos se importam com heavy metal. Eles tentam encontrar um baixista e não conseguem, mas encontram uma garota que é muito boa no violoncelo. Se os três não conseguirem resolver suas diferenças e trabalharem juntos, eles nunca vão ganhar a Batalha das Bandas. A comédia é inspirada nas experiências musicais adolescentes do escritor D.B. Weiss, de Game of Thrones.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ZOLA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:417badcf57a928ab65e464b49fb20ffe022e6ab7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bJLCPROp9bmNndurwZpVnOioVpB.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma stripper chamada Zola embarca em uma viagem selvagem para a Flórida.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AS GAROTAS DE CRISTAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZAQGRP2DMOFY3Q7FFOXRG3VHTQQLAH6F</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/eAmpIPhtvsgWVoMG1ta0DS1tftd.jpg</thumbnail>
