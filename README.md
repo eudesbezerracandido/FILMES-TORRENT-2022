@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CORRER ATIRANDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0dbc847c8a34d2a7837e802bf7cc78126b2e95e1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/j252tH00eMyANiqhaLkemlkO16v.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Depois de deixar uma vida de crime e violência, Ray é um mocinho reformado, desfrutando de uma vida familiar tranquila nos subúrbios.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A MEGERA DOMADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:249f9c531c65d6e7cfd5432e49362d2bcb1b6d60</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/murrfrqgaetHayjBmA0V1SMFFyh.jpg</thumbnail>
