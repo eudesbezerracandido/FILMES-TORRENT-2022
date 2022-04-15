@@ -27,6 +27,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FRESH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tlu71AgaL3EQBBCNGsAwZLPbV5D.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Fresh gira em torno da jovem Noa (Daisy Edgar-Jones), quem conhece o sedutor Steve (Sebastian Stan) em um supermercado e, devido à frustração com aplicativos de namoro, arrisca e lhe dá seu número. Após o primeiro encontro, Noa aceita o convite de Steve para passarem um final de semana juntos — contudo, o momento a sós mostrará como o seu novo amante tem escondido alguns apetites incomuns.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  A MORTE DE UM OPERADOR DE TELEMARKETING [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:998400dca5f35edac26800fe84977b7a1743bfa1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hGX4Kol3Ug03KbxnQ9lK2zJdvJq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um operador de telemarketing de fala mansa se encontra à mercê do homem que tentou enganar. O operador de telemarketing Ace Kasey (Lamorne Morris) está em uma acirrada competição com o novo funcionário Barry (Woody McClain) e precisa conseguir uma grande venda até a meia-noite ou perderá a maior comissão de todos os tempos. Desesperado, Kasey espera até que todos saiam do escritório e encontra uma lista chamada “Não Ligue”. Ele pensa ter encontrado a chance perfeita, mas em vez disso, acaba refém e à mercê de Asa (Jackie Earle Haley), o homem que ele tentou enganar. Agora, Kasey deve passar no perturbado teste de Asa sobre ética se quiser viver para vender outra vez.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SICARIO-PERIGO NO ABRIGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RWN6JACJ2Y3NKCZJV4ZNFKPJDU57CNH2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/tqHoz9tdsQJ3US1Pb7eZdBDi8op.jpg</thumbnail>
