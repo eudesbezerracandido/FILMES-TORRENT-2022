@@ -28,7 +28,7 @@
 
 <item>
 <title>[COLOR silver][B] FRESH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5M4ZPMOUNYLO2IJJZRHRITNWSPSDD67M</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/tlu71AgaL3EQBBCNGsAwZLPbV5D.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Fresh gira em torno da jovem Noa (Daisy Edgar-Jones), quem conhece o sedutor Steve (Sebastian Stan) em um supermercado e, devido à frustração com aplicativos de namoro, arrisca e lhe dá seu número. Após o primeiro encontro, Noa aceita o convite de Steve para passarem um final de semana juntos — contudo, o momento a sós mostrará como o seu novo amante tem escondido alguns apetites incomuns.</info>
