@@ -35,6 +35,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO- OS PARQUES NACIONAIS FASCINANTES DO MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4KUSQF4P6HYFXSDMECU27XRW3M2SGAG7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4jDsKHRBhqVPDgFeE7GSpDuP3U1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Narrada pelo ex-presidente Barack Obama, esta série documental destaca alguns dos parques nacionais mais espetaculares do planeta.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B]  A MORTE DE UM OPERADOR DE TELEMARKETING [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:998400dca5f35edac26800fe84977b7a1743bfa1</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hGX4Kol3Ug03KbxnQ9lK2zJdvJq.jpg</thumbnail>
