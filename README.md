@@ -19,6 +19,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FORA DOS TRILHOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d73d50f9c7574a4b1f9cc4ecb3567372bc4b9eeb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lNtHQww0YenkHMmiYFcd6o7DaSb.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No ano de 1999, Pepo, Roge, Costa e Juan Luis, quatro jovens na casa dos 20 anos, realizam a viagem dos sonhos: o Interrail. No entanto, em sua primeira parada em Paris, a aventura e a amizade terminam abruptamente. Vinte anos depois, Juan Luis falece, e em seu testamento, decide doar sua herança para seus três velhos amigos. Em troca, pede-lhes que façam o Interrail que ele não conseguiu fazer e que tragam as suas cinzas para que ele também possa viver a experiência.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] VILA DOS SUICIDIOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e874cdeb400e138037b6d0f589ef6df253eb5914</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2ArHhi0AzjSFYrp1m0xZVjdhws5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um dia, uma caixa misteriosa chega e uma maldição começa a se espalhar. A origem da caixa é de uma vila chamada Jukai. A vila fica escondida por uma floresta, um lugar de suicídio que, uma vez que você entra, você nunca mais sai.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ESCOLHA OU MORRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:984b6f8321cfcc8115a7e8a8c370a5d3812f5c91</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/f3zQhtFn8EzHgdPXoDPAtcGQnSf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em busca de um prêmio de $100,000, uma estudante quebrada decide jogar um obscuro game de computador antigo. Só que o game a amaldiçoa com desafios terríveis, que distorcem sua realidade. Parar o jogo deixa de ser uma opção. Ou ela joga, ou morre.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CORRER ATIRANDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0dbc847c8a34d2a7837e802bf7cc78126b2e95e1</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/j252tH00eMyANiqhaLkemlkO16v.jpg</thumbnail>
