@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] REFUGIADO AMERICANO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f48f27d23a74cc0ce3402f90ebfda10821faa08a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/k84Xo4EHSi7SgRHZ4hdlMvSk6NH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em meio a um colapso econômico nos EUA, uma família busca abrigo no bunker de seu vizinho. Mas com o país sob lei marcial, o perigo inteiro pode ser tão - ou mais - perigoso que o externo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FORA DOS TRILHOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d73d50f9c7574a4b1f9cc4ecb3567372bc4b9eeb</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/lNtHQww0YenkHMmiYFcd6o7DaSb.jpg</thumbnail>
