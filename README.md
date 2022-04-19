@@ -12,7 +12,7 @@
 
 <item>
 <title>[COLOR silver][B] BATMAN 2022 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5C3DE12F4D34DC8252E0EF51C8229D255BCA8B5C</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IATIGCLF3BESQH6CLYCHDOCSCXF3SYYG</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4dJ0RVVNyaeHm0U88o2XATPWE0M.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Quando Charada (Paul Dano), um sádico assassino em série, começa a matar os principais políticos de Gotham, Batman (Robert Pattinson) é forçado a desenterrar a corrupção oculta da cidade e até mesmo a questionar o envolvimento de sua milionária família nessa teia de segredos e mentiras.</info>
