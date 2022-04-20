@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A PRINCESA DA YAKUZA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b3cf57dc11727ec7cb4751353d23668e8ca299e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/o4TbqzNBAPKHpU3z93ysvRhSpeP.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um chefe da Yakuza é morto no Japão e sua única herdeira é enviada para o Brasil ainda bebê. Vinte anos depois, vivendo em São Paulo, Akemi (Masumi) descobre que herdou metade do clã da Yakuza e que a outra metade a quer morta. Takeshi (Tsuyoshi Ihara), mafioso fiel ao falecido chefe, vem ao Brasil para protegê-la. Ao mesmo tempo, um estrangeiro sem memória (Jonathan Rhys Meyers) acorda num hospital e cruza seu caminho. Akemi vai começar uma guerra e traçar seu próprio destino.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CORAÇÃO DE CAMPEÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b94dea6c012417bfc42c583a8f8ae8a17008d91</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cTayZvZzIqHPihU86ei7XhJ8JkD.jpg</thumbnail>
