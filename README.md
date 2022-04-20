@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PONTO DE INFLEXÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OIYMQCK5D6SZU7Y6AYKVVE2L6P35QG6U</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ge7URX8RFL4zAiJ76dprYqs3HEt.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ponto de Inflexão apresenta dois jovens de personalidades e posturas opostas: um leva uma vida preguiçosa, evitando conflitos de qualquer espécie e outro optou por uma vida perigosa de delitos e crimes. Apesar da oposição, uma amizade improvável se desenvolve entre eles, e partir desse acaso, um acaba se envolvendo e interferindo no destino do outro.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A PRINCESA DA YAKUZA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b3cf57dc11727ec7cb4751353d23668e8ca299e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/o4TbqzNBAPKHpU3z93ysvRhSpeP.jpg</thumbnail>
