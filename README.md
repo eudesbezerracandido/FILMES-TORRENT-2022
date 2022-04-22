@@ -27,6 +27,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TOGETHER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VFSSO2QN4YEUTKMIULC7B2V5UYSSVOOI</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oeocQg0Bhmy0pqqRy50wEo0iwFB.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Esta é a história de uma família, como tantas, que encontrou uma maneira de sobreviver - juntos. A nova comédia do indicado ao Oscar Stephen Daldry, TOGETHER, estrelada por James McAvoy e Sharon Horgan, é a história de uma família, como muitas outras, que encontrou uma maneira de sobreviver… todos juntos. Esta história hilária e comovente mostra a intimidade de um casal forçado a analisar a si mesmos e seu relacionamento durante o lockdown. Suporte ao leitor de tela ativado.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A PRINCESA DA YAKUZA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b3cf57dc11727ec7cb4751353d23668e8ca299e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/o4TbqzNBAPKHpU3z93ysvRhSpeP.jpg</thumbnail>
