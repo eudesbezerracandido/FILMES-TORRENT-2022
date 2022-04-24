@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] UNCHARTED-FORA DO MAPA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7907112a681b2f9fbe1058276b20469e1c807ad4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7F4ji3bowguRGR6bRgrPZAKlpyU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uncharted narra as aventuras de Nathan Drake, um caçador de tesouros que age em cenários inspirados em Indiana Jones e Lara Croft, mas que, diferente dos arqueólogos, está mais preocupado com seu próprio bolso. No primeiro game, Drake precisa solucionar os mistérios de uma ilha tropical repleta de mercenários.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PONTO DE INFLEXÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OIYMQCK5D6SZU7Y6AYKVVE2L6P35QG6U</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ge7URX8RFL4zAiJ76dprYqs3HEt.jpg</thumbnail>
