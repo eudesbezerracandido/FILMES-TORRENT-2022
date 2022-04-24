@@ -27,6 +27,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO- A URSA POLAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EHJWR4LTUV4APRRR2LIH2CAEZGYIE35V</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4mJhqONvdgUMz8rOMO5NZdn8HQS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/c1Z52TENkjEaqHmrrNds6s2LI59.jpg</fanart>
+<info>Conheça uma nova mãe enquanto ela se prepara para navegar na maternidade no mundo desafiador que os ursos polares enfrentam hoje.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PONTO DE INFLEXÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OIYMQCK5D6SZU7Y6AYKVVE2L6P35QG6U</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ge7URX8RFL4zAiJ76dprYqs3HEt.jpg</thumbnail>
