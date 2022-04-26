@@ -27,6 +27,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] QUARTA SÉRIE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dec8a8d8f7e056fa7499d09b6f2fb7e5b3a52e99</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mLotwUogrrxPdKRjMzTJ7NOf3K2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Remake de Quarta B' também de Marcelo Galvão. No original uma professora e um zelador chamam os pais de 15 alunos na escola para discutir um problema: um pacote de maconha foi encontrado debaixo de uma das carteiras. Agora, eles precisam discutir o que deve ser feito. A proposta foi tentar entrar na cabeça da criança, usando a droga. Isso causa muita discussão, acusações e revelações, enquanto cada um tenta livrar a sua família da culpa.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MAMÃE UMMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6bd945fc2869dc22adde96d17220854e6d20810e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/moLnqJmZ00i2opS0bzCVcaGC0iI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Amanda (Sandra Oh) e sua filha vivem uma vida tranquila numa fazenda do interior dos Estados Unidos, mas quando as cinzas de sua mãe chegam da Coréia, ela começa a ser assombrada pela ideia de que está se transformando nela.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DOCUMENTÁRIO-SERIAL KILLER-PLAHAÇO ASSASSINO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B6WEIHR4ZWGWNIRZD43FDJXKATGCG3BU</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vRhDeXlivrQX2ZYjEmj8x1uADg2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Depois de uma temporada focada no serial killer Ted Bundy, Conversando com um Assassino está de volta. Desta vez, a série documental irá explorar o caso de John Wayne Gacy, mais conhecido como o palhaço assassino. Traçando um histórico cronológico em paralelo com o perfil de John Wayne a produção teve acesso a mais de 60 horas de conversas com o assassino que, até então, nunca haviam sido disponibilizadas para o público. Durante os anos 1970, Gacy assassinou 33 homens e os enterrou em um espaço pequeno em sua casa localizada no subúrbio de Chicago. Nas conversas recuperadas para a série, o assassino revisita os assassinatos que cometeu, seu julgamento e também o estado mental após a resolução de tudo. Além disso, os episódios buscam explicar como a cultura da década de 70 permitiu que Gacy permanecesse impune e irrastreável por anos até ser preso.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DOCUMENTÁRIO- A URSA POLAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EHJWR4LTUV4APRRR2LIH2CAEZGYIE35V</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4mJhqONvdgUMz8rOMO5NZdn8HQS.jpg</thumbnail>
