@@ -1,22 +1,7 @@
 # FILMES-TORRENT-2022
 
 
-<item>
-<title>[COLOR silver][B] MICHAEL MORBIUS ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6E2035C96B138264A5FA17A427A2B0AE1C2A49DF$nome=[B]TORRENT  MICHAEL MORBIUS[/B]</link>
-<link>http://54.39.157.211/FILMES/Morbius.2022.720p.CAMRip.Dublado.mp4$nome=[B]LINK DIRETO MICHAEL MORBIUS[/B]</link>
-<thumbnail>https://ia601505.us.archive.org/0/items/morbius_202204/morbius.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/aBkS2nFN8EMcMZEm6G2higwFSl7.jpg</fanart>
-<info> Durante um experimento para encontrar a cura de uma rara doença sanguínea, o Dr. Michael Morbius (Jared Leto) acidentalmente se transforma num sanguinário vampiro.</info>
-</item>
 
-<item>
-<title>[COLOR silver][B] BATMAN 2022 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IATIGCLF3BESQH6CLYCHDOCSCXF3SYYG</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4dJ0RVVNyaeHm0U88o2XATPWE0M.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Quando Charada (Paul Dano), um sádico assassino em série, começa a matar os principais políticos de Gotham, Batman (Robert Pattinson) é forçado a desenterrar a corrupção oculta da cidade e até mesmo a questionar o envolvimento de sua milionária família nessa teia de segredos e mentiras.</info>
-</item>
 
 <item>
 <title>[COLOR silver][B] UNCHARTED-FORA DO MAPA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
@@ -378,15 +363,6 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Em Moonfall, por motivos desconhecidos, a Lua sai de sua órbita e passa a se deslocar em direção à Terra, podendo causar uma colisão em breve. A ex-astrounauta da NASA, Jo Fowler (Halle Berry), acha que pode resolver essa situação e impedir que o impacto aconteça, mas apenas um de seus colegas (Patrick Wilson) acredita nela. Em situação de emergência, um grupo de cientistas não especializados no assunto aceita a missão de ir até a Lua e impedir a colisão antes que a vida humana seja extinta. Mas ao chegarem lá, eles percebem que a Lua não é exatamente a pedra gigante orbitando a Terra que acharam que era.</info>
 </item>
-
-<item>
-<title>[COLOR silver][B] HOMEM ARANHA - SEM VOLTA PARA CASA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PBXS2Q3UZHV3K5QO7OSUVRHTWW4NCZIB$nome=[B]TORRENT HOMEM ARANHA[/B]</link>
-<link>http://54.39.157.211/FILMES/Homem.Aranha.Sem.Volta.Para.Casa.2021.mp4$nome=[B]LINK DIRETO HOMEM ARANHA[/B]</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/2zP8cjus0vSepp2GgfJ7QQpPHQ1.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/jX09ShhDZKZnAX3wb7endTXzHLj.jpg</fanart>
-<info>Após ter tido sua identidade secreta revelada ao mundo por culpa das ações de Mysterio, Peter Parker vê a sua vida e a sua reputação desmoronar. Ao procurar ajuda de Stephen Strange para tentar consertar tudo, a situação só fica ainda mais perigosa, e Parker precisa descobrir o que significa ser o Homem-Aranha.</info>
-</item> 
 
 <item>
 <title>[COLOR silver][B] AMARICAN UNDERDOG-A HISTÓRIA DE KURT WARNER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
