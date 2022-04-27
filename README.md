@@ -28,6 +28,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SILVERTON-CERTO FECHADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bcccfcebc180044d2a3b3359bb5fe98b419b0fdd</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mp2GAIoW9czkSlyZHlqii9Bc6i6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após o fracasso de uma missão de sabotagem, um trio de rebeldes contra o apartheid acaba em uma situação de reféns em um banco. Baseado em fatos reais.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] QUARTA SÉRIE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dec8a8d8f7e056fa7499d09b6f2fb7e5b3a52e99</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mLotwUogrrxPdKRjMzTJ7NOf3K2.jpg</thumbnail>
