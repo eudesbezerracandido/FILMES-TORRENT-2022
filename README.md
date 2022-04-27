@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SOBREVIVENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OHEWKVUIXHSNUOMQ6Z4FCT6JTZVA7V7A</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eGasiClJNhuQa80IZwwlV1Mb0Qm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um ano e meio após a queda da civilização por um surto de vírus. Um ex-agente do FBI é forçado a proteger uma jovem imune à doença de uma perigosa gangue que a caça, liderada por um psicopata que acredita que a usará para salvar o mundo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] 365 DIAS HOJE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1c172a60975b3fc7968d58d716190dd2b0ef60e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/67vb4sQxJ06o4LvgoxB8Fj6mGqk.jpg</thumbnail>
