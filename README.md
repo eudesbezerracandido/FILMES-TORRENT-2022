@@ -12,6 +12,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - ABERCROMBIE E FITCH- ASCENSÃO E QUEDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OPLXKWCXLAKMFVG47DLA5L4FAZYXQP2S</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8Zi3lyy7hOw2VGeLJ0A813oSGis.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Este documentário explora o reinado da A&F na cultura pop na virada do milênio e mostra como a marca prosperou através da exclusão.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] RUMSPRINGA - UM AMISH EM BERLIM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5cec53cc3c691e389c283a3c2d3f732c3ae49c88</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tPmr7R2Zq66SXhFcXZiFSJ0Afx8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um jovem amish vai a Berlim para encontrar suas raízes e explorar outros modos de vida, mas acaba se apaixonando e precisa tomar uma grande decisão.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CRUSH - AMOR COLORIDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Z6CWP7TSKPAXCODTRLNAJ6SL5DDDARJL</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/k6A33jpSUphiJ8n9Byjye5uxT3A.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma aspirante a artista e estudante do ensino médio que é forçada, contra sua vontade, a se juntar ao time de atletismo do ensino médio. No entanto, a situação não é totalmente ruim, pois dá a ela a oportunidade de perseguir uma garota por quem ela tem uma queda de longo prazo. No entanto, as coisas ficam ainda mais complicadas quando ela descobre que está se apaixonando por outra companheira de equipe. Logo ela verá como é o amor verdadeiro.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AGENTE DAS SOMBRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12b654b3359927cae463dac8996d2bce378b0c8e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qgW5iIe6QUn170omG6tdGS4BB9U.jpg</thumbnail>
