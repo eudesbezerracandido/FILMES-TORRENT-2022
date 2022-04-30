@@ -12,6 +12,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] AGENTE DAS SOMBRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12b654b3359927cae463dac8996d2bce378b0c8e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qgW5iIe6QUn170omG6tdGS4BB9U.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Confiança, identidade e o perigo do poder sem controle levam um agente secreto ao limite. Travis Block (Liam Neeson) vive e luta nas sombras. Um “consertador” autônomo do governo, Block é um homem perigoso cujas atribuições incluíam extrair agentes de situações ocultas. Quando Block descobre que um programa sombrio chamado Operação Unidade está abatendo cidadãos comuns por razões conhecidas apenas pelo seu supervisor, o chefe do FBI, Robinson (Aidan Quinn), ele pede a ajuda de uma jornalista (Raver-Lampman), mas seu passado e presente colidem quando seu filha e neta são ameaçadas. Agora Block precisa resgatar as pessoas que ama e expor a verdade para uma chance de redenção. Nada nem ninguém está seguro quando os segredos estão escondidos nas sombras.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O DIABO QUE VOÇÊ CONHECE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1fe026915d60ecbdb7e6d9cee35f864fd59c1fcb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hUmspDO0ihRtP2P38D4TS4WR6nE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Marcus Cowans, uma vez encarcerado, está tentando virar a página com o apoio de sua família amorosa. Ao descobrir que um de seus irmãos pode estar envolvido em um crime horrível, Marcus lida com os limites da fraternidade e lealdade. Ele e sua família, cada vez mais cansados das falhas do sistema de justiça, acabam na mira de um detetive experiente, mas cansado.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SOBREVIVENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OHEWKVUIXHSNUOMQ6Z4FCT6JTZVA7V7A</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/eGasiClJNhuQa80IZwwlV1Mb0Qm.jpg</thumbnail>
