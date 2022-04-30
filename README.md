@@ -12,11 +12,43 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] AILEEN WUORNOS - MENTE ASSASSINA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8899dd14a7b5cd8c8b04b2d86e238ab6b9de9298</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7JqtbHj6TecZzC6JEbgTLFrYCto.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A jovem Aileen chega à Flórida em busca de uma nova vida.Isso a ajudará a escapar de seu passado trágico, se casar com um rico presidente do Yacht Club e ter a chance de começar de novo como parte da alta sociedade da Flórida. Atormentada por demônios internos, ela se rende a seus impulsos assassinos e causa estragos na pacífica comunidade litorânea de Deland, Flórida.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - ABERCROMBIE E FITCH- ASCENSÃO E QUEDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OPLXKWCXLAKMFVG47DLA5L4FAZYXQP2S</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8Zi3lyy7hOw2VGeLJ0A813oSGis.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Este documentário explora o reinado da A&F na cultura pop na virada do milênio e mostra como a marca prosperou através da exclusão.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NAKED SINGULARITY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Z4BCGFSGAYTXPPZZMEJKYQI2Z6WYVGJH</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iJwnO2Tou9hwgy1olFn3JcCj7Sx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A vida de um defensor público de Nova York começa a se desenrolar depois que ele perde seu primeiro caso.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O COMANDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7LTUNCYETFPBNIUUFI63SDB66WL7AWDN</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gZuWBZVRJFvczvLUtdh9auGV1Nb.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um agente da DEA com Transtorno Pós Guerra, retorna para casa após uma missão fracassada e agora deve proteger sua família de uma invasão ao lar depois que um criminoso recém-libertado e seus capangas vêm atrás de seu estoque de milhões dentro de sua casa.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SENTIDO DA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e226cd18161668ea39311c0d86c88582a74210d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wHX3FRG85FBtaWxxFkDeYqsv5Sf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após um acidente de carro quase fatal, uma estudante popular do ensino médio perde a memória e tem uma segunda chance de ter uma vida mais significativa.</info>
 </item>
 
 <item>
@@ -33,6 +65,14 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/k6A33jpSUphiJ8n9Byjye5uxT3A.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Uma aspirante a artista e estudante do ensino médio que é forçada, contra sua vontade, a se juntar ao time de atletismo do ensino médio. No entanto, a situação não é totalmente ruim, pois dá a ela a oportunidade de perseguir uma garota por quem ela tem uma queda de longo prazo. No entanto, as coisas ficam ainda mais complicadas quando ela descobre que está se apaixonando por outra companheira de equipe. Logo ela verá como é o amor verdadeiro.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] LUA DE MEL COM A MINHA MÃE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9622d54ba9c08fb49d014083d122205888f7c7f0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/j2uwa64qm3hSOBAd5XAgIWodhHD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um jovem é abandonado no altar. Para não desperdiçar a viagem de lua de mel, sua mãe super protetora decide ir junto com filho. Ele sofre, enquanto a mãe aproveita a viagem da vida dela. José Luís, no dia de seu casamento, é deixado no altar. Além do trauma do abandono, uma questão prática é colocada em perspectiva: A lua de mel já está paga. Sua mãe super protetora, Mari Carmen, insiste em acompanhá-lo até o destino do que seria a sua lua de mel, para não perder dinheiro, nem deixar o filho sozinho nesse momento. José Luís nunca se sentiu tão infeliz, mas Mari Carmen acaba se divertindo como nunca e nessa viagem, o vínculo entre os dois se fortalece.</info>
 </item>
 
 <item>
