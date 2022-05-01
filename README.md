@@ -20,6 +20,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] METALEIROS DE JESUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KJIVLF6S6UUMF4SAHXJJO6NZQO4XFK6N</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rErRBExV53etYGeHInrpJjhVOKe.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No verão de 1986, Skip decide promover uma turnê de ônibus da banda cristã de metal, 316. Mas seu desejo de fazer Jesus famoso através do rock é ameaçado quando filha de um famoso pastor do Alabama embarca na turnê e foge junto com o grupo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AILEEN WUORNOS - MENTE ASSASSINA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8899dd14a7b5cd8c8b04b2d86e238ab6b9de9298</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7JqtbHj6TecZzC6JEbgTLFrYCto.jpg</thumbnail>
