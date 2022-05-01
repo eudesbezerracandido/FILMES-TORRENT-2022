@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ATÉ O FIM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ZWJ7CL63KLO6PFBZ4JVFSSSMT2WUZ2H</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qmTwhD0N2IA5SzN1xxVK70UYiy2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Desesperado para encontrar sua filha desaparecida, o ex-soldado de Operações Especiais Jake Hunter rastreia o último paradeiro conhecido dela em uma pequena cidade no deserto. Mas quando Jake descobre a terrível verdade que cerca seu desaparecimento, ele lança uma busca impiedosa para levar os responsáveis à justiça. Apenas seu antigo mentor tem uma chance de capturar Jake com segurança... Antes que ele tire a cidade do mapa.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AILEEN WUORNOS - MENTE ASSASSINA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8899dd14a7b5cd8c8b04b2d86e238ab6b9de9298</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7JqtbHj6TecZzC6JEbgTLFrYCto.jpg</thumbnail>
