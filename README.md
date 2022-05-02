@@ -12,6 +12,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O GOLPE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31acf0f6c624fa4c95166e634d7cb0b7e0617472</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rOIWNpTDUfIqBJI87vCDqGkCY0h.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> História de um grupo de pequenos criminosos, que em 1975 tentam realizar o maior golpe da história americana, roubando mais de US$ 30 milhões da máfia no menor estado da União, Rhode Island.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O RADICÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0703b87291ed49f975134c6a6d82b2daa7ed1be7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/AqH1hjH7sAmPGuFoK9zugLmPsr9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Tommy Schooner, de quatorze anos, vem de uma família cujas vidas giram em torno do skate. Sua mãe e seu pai possuem uma empresa de skate em rápido crescimento chamada Modern Skate que se prepara para uma reunião com uma grande empresa de investimentos, liderada por Hoffman. Também a irmã de Tommy é uma patinadora profissional e a face pública da empresa. Até mesmo seu cachorro Buddy pode rasgar com o melhor deles. Enquanto pratica patinação com Buddy, Tommy acidentalmente encontra Frankie, um skater local de 17 anos e valentão da cidade. Depois de uma discussão, Tommy desafia Frankie para uma competição de skate. Infelizmente, Tommy não herdou a paixão de seu pai nem as habilidades de sua irmã, e a competição de skate está em 5 dias. Com muita prática e uma pequena ajuda de sua melhor amiga, Alice, e seu fiel amigo Buddy, ele pode estar pronto a tempo para a competição - e ele pode aprender algo sobre integridade ao longo do caminho.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ATÉ O FIM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ZWJ7CL63KLO6PFBZ4JVFSSSMT2WUZ2H</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qmTwhD0N2IA5SzN1xxVK70UYiy2.jpg</thumbnail>
