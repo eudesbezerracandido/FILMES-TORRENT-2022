@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CONTRATO PERIGOSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A5WAWZJA533XKMUEOMODM6A56CUZCSCD</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dq9r4v9yWkSmMvffTMiNy3heTZ6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de ser dispensado involuntariamente dos fuzileiros navais, James Harper se junta a uma organização paramilitar para sustentar sua família da única maneira que ele sabe. Reed viaja para a Polônia com sua equipe de elite em uma missão de operações para investigar uma misteriosa ameaça. Em sua primeira missão, Reed se encontra sozinho e caçado na Europa Oriental, onde ele deve lutar para permanecer vivo por tempo suficiente para chegar em casa e descobrir os verdadeiros motivos daqueles que o traíram.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O GOLPE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31acf0f6c624fa4c95166e634d7cb0b7e0617472</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/rOIWNpTDUfIqBJI87vCDqGkCY0h.jpg</thumbnail>
