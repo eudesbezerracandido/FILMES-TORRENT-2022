@@ -22,6 +22,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] EM NOME DO PAI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78f3b4292ce9c7335a5bd0bc5969203685e73f67</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dJfB8epuL4fRUghv1Cal1kO8M6O.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A filha adolescente de um fanático religioso tenta escapar de sua conturbada vida familiar quando três estranhos aparecem perto de sua remota fazenda e interrompem um delirante pacto de suicídio.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ANIMAIS FANTASTIVOS-OS SEGREDOS DE DUMBLEDORE ( LEG. ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8eb05c947b43b9afffa988a264598a4b4e05b00</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/u1XrqlIjQt2ghnA8nprpPiFzSzR.jpg</thumbnail>
