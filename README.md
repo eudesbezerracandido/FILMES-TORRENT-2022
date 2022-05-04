@@ -30,6 +30,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - VINICIOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4839a0c63833772e80afb2330ec59ec04e51a87</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6pdf0u3K0kL4u45sjCuf8UP9WXy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A montagem de um pocket show em homenagem a Vinicius de Moraes por dois atores (Camila Morgado e Ricardo Blat) é o ponto de partida para reconstituição de sua tragetória. O documentário mostra a vida, a obra, a família, os amigos, os amores de Vinicius de Moraes, autor centenas de poesias e letras de música. A essência criativa do artista e filósofo do cotidiano e as transformações do Rio de Janeiro através de raras imagens de arquivo, entrevistas e interpretações de muitos de seus clássicos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ANIMAIS FANTASTIVOS-OS SEGREDOS DE DUMBLEDORE ( LEG. ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8eb05c947b43b9afffa988a264598a4b4e05b00</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/u1XrqlIjQt2ghnA8nprpPiFzSzR.jpg</thumbnail>
