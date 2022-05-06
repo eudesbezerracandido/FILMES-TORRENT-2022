@@ -12,6 +12,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] OS OPOSTOS SEMPRE SE ATRAEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:THHNVFO4QKWFWJWNQ7BU5SD2Z2NYG3BR</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/h4CwZ4JCxFFP6J6hSXSN4o7EZtq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ousmane Diakité e François Monge são dois policiais com estilos, vivências e carreiras muito diferentes. Essa dupla improvável se reencontra por conta de uma nova investigação, que os levará a cruzar a França. E o que parecia um simples caso de tráfico de drogas acaba se revelando um crime em grande escala, envolto em perigo e uma inesperada pitada de comédia.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O CAMINHO DO VERÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C7LNSJNJHLQTC6724IWYJ3WJPFOOZ2CG</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tqcSehEOf0mgaYRvyF9VHUPSZR0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Along For the Ride" segue a história de Auden, que resolve passar as férias de verão em Colby, uma minúscula cidade do litoral, com o pai, sua nova esposa e Thisbe, a filha do casal e sua mais nova irmãzinha. Lá, ela revê seus conceitos em relação à madrasta, encara um emprego de férias em uma boutique totalmente demais e conhece Eli, um garoto misterioso com o qual embarca em uma busca: experimentar uma adolescência sem preocupações que lhe foi negada enquanto ele procura se recuperar de um acontecimento trágico. Junte dois solitários, uma bicicleta, um estoque infindável de madrugadas com insônia, tortas e café e… tudo pode acontecer.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PASSAGEIRO 666 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77be6440bc543ee961266b2a567b0f52ab597229</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lUwStG9I5MXpLkV0yV1HYRCwxB9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma médica com medo de avião precisa pegar um voo noturno em meio a terrível tempestade. Durante a viagem, a morte inexplicável de outros passageiros acorda seus traumas e ela tem dificuldade em distinguir a realidade e seus piores pesadelos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UNCHARTED-FORA DO MAPA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7907112a681b2f9fbe1058276b20469e1c807ad4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7F4ji3bowguRGR6bRgrPZAKlpyU.jpg</thumbnail>
