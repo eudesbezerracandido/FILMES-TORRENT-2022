@@ -20,6 +20,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] METEOROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f78488c3d76f0630ac9525f53edae167c6480f79</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kHYKLxuUUssXA0zrTYeX9Nh0cii.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Fralda e Tito só pensam em curtir a festa de formatura. Porém, por motivos diferentes, os planos para a grande noite dão errado. Para melhorar a situação, Tito propõe uma viagem.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] RESPIRE FUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95f5d5baaf7192c60b12ca5c9739e2a9c28b18cb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1oW3bRlOIOScpXfqZpWPjVG6OhL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Julie (Amanda Seyfried) é uma autora de livros infantis e agora mãe de primeira-viagem que foge para o brilhante mundo colorido de Crayola, criado por ela mesma, a fim de deixar para trás a escuridão causada por sua depressão pós-parto.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O CAMINHO DO VERÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C7LNSJNJHLQTC6724IWYJ3WJPFOOZ2CG</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/tqcSehEOf0mgaYRvyF9VHUPSZR0.jpg</thumbnail>
