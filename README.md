@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O SEGREDO DE JEKYLL E HYDE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ANNIALH4AT5Z3YJI2FNT34IVCIZR4CDN</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ftHF12rFYlniimU0BqAbDzLxFbJ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No filme O Segredo de Jekyll & Hyde WEB-DL 1080p Dual Áudio, O advogado Gabriel Utterson está trabalhando até tarde novamente, para desgosto de sua esposa Sarah, quando é interrompido por um visitante: seu velho amigo, o Dr. Henry Jekyll. Henry quer que seu testamento seja assinado e posto em vigor imediatamente, um testamento que deixa tudo para um Sr. Hyde. Quando a polícia chega na manhã seguinte, ele fica chocado ao descobrir que Jekyll é procurado por um assassinato particularmente brutal, que também se encaixa no padrão de vários outros. Depois que seu amigo comete suicídio em vez de ser preso, Gabriel inicia sua própria investigação, começando com uma carta endereçada a ele.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] OS OPOSTOS SEMPRE SE ATRAEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:THHNVFO4QKWFWJWNQ7BU5SD2Z2NYG3BR</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/h4CwZ4JCxFFP6J6hSXSN4o7EZtq.jpg</thumbnail>
