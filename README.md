@@ -11,6 +11,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] NAS GARRAS DO TERROR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SFZ4WGJIE7X64OU5DAQG2CGJC4ULTE5H</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hwkD4byCLCWIyi6uA6Zm5XTr9WK.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de estourar um pneu no meio do deserto, os melhores amigos Kyle e Julia são forçados a passar a noite em uma remota cidade fantasma. Enquanto os relutantes se acomodam à noite, nas montanhas não tão distantes, os problemas aparecem. Um velociraptor, trazido à vida por um cientista, escapa de seu recinto e segue em direção à cidade fantasma. Com o predador pré-histórico agora perseguindo-os por toda a extensa propriedade e sem ajuda externa, Kyle e Julia devem trabalhar juntos para ser mais espertos e mortais que a criatura para sobreviver.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] HURRICANE - LIVRE COMO O VENTO[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OZG3L2TG7NRPPEM5VF6CDAZDLND572AH</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/r3ch0DYa5cKdavne8bMZiR0Wq1S.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No filme Hurricane: Livre como o Vento WEB-DL 1080p Dual Áudio, Por causa de uma violenta tempestade de verão, um espetáculo itinerante de circo de cavalos chega a Gut Kaltenbach. Ari é magicamente atraída pelo mundo da equitação, mas ela também vê as desvantagens porque a vida no circo é difícil para os cavalos. É por isso que ela quer ajudar o velho cavalo de espetáculo Hurricane, com o menino de circo Carlo e com a ajuda de Whisper. Quando o fanático dono do show revela seu plano, Whisper está em perigo. Então, Mika finalmente retorna do Canadá.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B]  VOZES DA ESCURIDÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f8149acc065a04de9444c87f43a42963e85b50ec</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/oawvK7MlAtKIkeOfgKjhhJ7pYD9.jpg</thumbnail>
