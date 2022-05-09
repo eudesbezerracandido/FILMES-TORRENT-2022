@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B]  VOZES DA ESCURIDÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f8149acc065a04de9444c87f43a42963e85b50ec</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oawvK7MlAtKIkeOfgKjhhJ7pYD9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Após acabar o relacionamento com seu noivo, Grace Crawford procura abrigo em uma casa isolada pertencente à sua família. Ela tem um estranho encontro com uma idosa misteriosa antes de chegar na casa, a qual habita sua irmã, Catherine.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O SEGREDO DE JEKYLL E HYDE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ANNIALH4AT5Z3YJI2FNT34IVCIZR4CDN</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ftHF12rFYlniimU0BqAbDzLxFbJ.jpg</thumbnail>
