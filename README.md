@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FETICHE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OSXQH2ES3UEKUVPR6ODN4ZB4L2BVMSGT</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/raxokMXK7cy87N2QGBveTLIcR8c.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Diante de suas fantasias, seis casais tentam explorar os lados ocultos de sua vida íntima. Seis perguntas sobre acesso ao prazer. Da dramatização à abstinência, passando pela exposição, seis histórias distintas com no centro o mesmo questionamento sobre o desejo hoje. O dele também não é mais o do outro.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NAS GARRAS DO TERROR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SFZ4WGJIE7X64OU5DAQG2CGJC4ULTE5H</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hwkD4byCLCWIyi6uA6Zm5XTr9WK.jpg</thumbnail>
