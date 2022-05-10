@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BENEDETTA BIOGRÁFIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:339fcedf10578af150313d4ee9e3b4603d941548</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eWsDoicwFFYDxZsKayAD5eZUAW1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No século XVII, uma freira italiana faz parte de um convento na Toscana desde quando era criança. Ela sofre de um distúrbio e tem perturbações e visões religiosas e eróticas. Assistida por uma companheira, a relação entre as duas acabam se tornando um romance amoroso.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NAS GARRAS DO TERROR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SFZ4WGJIE7X64OU5DAQG2CGJC4ULTE5H</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hwkD4byCLCWIyi6uA6Zm5XTr9WK.jpg</thumbnail>
