@@ -24,7 +24,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/hwkD4byCLCWIyi6uA6Zm5XTr9WK.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Depois de estourar um pneu no meio do deserto, os melhores amigos Kyle e Julia são forçados a passar a noite em uma remota cidade fantasma. Enquanto os relutantes se acomodam à noite, nas montanhas não tão distantes, os problemas aparecem. Um velociraptor, trazido à vida por um cientista, escapa de seu recinto e segue em direção à cidade fantasma. Com o predador pré-histórico agora perseguindo-os por toda a extensa propriedade e sem ajuda externa, Kyle e Julia devem trabalhar juntos para ser mais espertos e mortais que a criatura para sobreviver.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] HURRICANE - LIVRE COMO O VENTO[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
