@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O JOGO DE AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d2c26c17d680c0832a8a6c41e26c2ae752a6af06</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nWTeXUGWsSDoDLC4UucMeM07gA5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Lucy (Lucy Hale) e Josh (Austin Stowell) se odeiam. Assistentes dos sócios-diretores de uma editora, passam o dia em interações passivo-agressivas um com o outro. Quando a oportunidade de uma promoção aparece, a competição entre os dois se torna ainda mais acirrada — assim como a tensão entre eles, que talvez não seja movida apenas pelo ódio. Baseado no romance O Jogo do Amor/"Ódio!", de Sally Thorne.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BENEDETTA BIOGRÁFIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:339fcedf10578af150313d4ee9e3b4603d941548</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/eWsDoicwFFYDxZsKayAD5eZUAW1.jpg</thumbnail>
