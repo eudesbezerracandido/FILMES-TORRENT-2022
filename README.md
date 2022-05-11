@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O SOLDADO QUE NÃO EXISTIU [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77ab84893b949703dbe74b9f98ec8ac72f9104ca</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/twAoW3HSu0RpBLSwCsx2eY1fnMf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A trama se passa em 1943, nos momentos decisivos da Segunda Guerra Mundial. Os Aliados se preparam para lançar um ataque contra a Europa dominada pelos nazistas. Eles enfrentam a difícil tarefa de proteger uma força maciça de invasão do poder de fogo alemão entrincheirado e evitar um potencial massacre. Dois oficiais da inteligência, Ewen Montagu (Colin Firth) e Charles Cholmondeley (Matthew Macfadyen), sonham com uma estratégia inspirada de desinformação, centrada no cadáver de um homem morto. Baseado no livro "Operation Mincemeat", de Ben Macintyre.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O JOGO DE AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d2c26c17d680c0832a8a6c41e26c2ae752a6af06</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nWTeXUGWsSDoDLC4UucMeM07gA5.jpg</thumbnail>
