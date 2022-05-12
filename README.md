@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DESERTO DO OURO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4cd7f599806375580ac988bf6feb664c2900178</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mlnNX9pf3MgibwR89Tb40b17kJ9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dois estranhos viajam por um deserto e tropeçam na maior pepita de ouro já encontrada. Eles elaboram um plano para proteger e escavar sua recompensa com um deles saindo para garantir o equipamento necessário. O outro permanece e deve suportar duros elementos do deserto, cães selvagens vorazes e intrusos misteriosos, enquanto luta contra a suspeita de que ele foi abandonado ao seu próprio destino.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SONIC - 1 &/2 HDCAM [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:424d424b305d0c97e165c58ed1002c230d7cd81b$nome=SONIC - O FILME</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5RFJWIL4OHKK22EW6EPAQL6IK7I47D5M$nome=SONIC - 2 HDCAM</link>
