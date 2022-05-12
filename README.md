@@ -11,6 +11,33 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] UNCHARTED-FORA DO MAPA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7907112a681b2f9fbe1058276b20469e1c807ad4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7F4ji3bowguRGR6bRgrPZAKlpyU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uncharted narra as aventuras de Nathan Drake, um caçador de tesouros que age em cenários inspirados em Indiana Jones e Lara Croft, mas que, diferente dos arqueólogos, está mais preocupado com seu próprio bolso. No primeiro game, Drake precisa solucionar os mistérios de uma ilha tropical repleta de mercenários.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SONIC - 1 &/2 HDCAM [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:424d424b305d0c97e165c58ed1002c230d7cd81b$nome=SONIC - O FILME</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5RFJWIL4OHKK22EW6EPAQL6IK7I47D5M$nome=SONIC - 2 HDCAM</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b2d6493686ed4a864ef7c12b8d378e660fe24e2$nome=SONIC - 2 LEGENDADO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/f4SvCKIUrC2cDR7Xo4k1kaGAqQ2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9PToHgJGNnK4zwqurT26aSTHNF.jpg</fanart>
+<info>Sonic, o ouriço azul mais famoso do mundo, se junta com os seus amigos para derrotar o terrível Doutor Eggman, um cientista louco que planeja dominar o mundo, e o Doutor Robotnik, responsável por aprisionar animais inocentes em robôs.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ANIMAIS FANTASTIVOS-OS SEGREDOS DE DUMBLEDORE ( LEG. ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8eb05c947b43b9afffa988a264598a4b4e05b00$nome=HDCAM</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DBTYYSZI3GJNOGZKQCHDLNJNTI4CUNAA$nome=HDCAM LEGENDADO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/u1XrqlIjQt2ghnA8nprpPiFzSzR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O professor Alvo Dumbledore sabe que o poderoso mago das trevas Gellert Grindelwald está se movimentando para assumir o controle do mundo mágico. Incapaz de detê-lo sozinho, ele pede ao magizoologista Newt Scamander para liderar uma intrépida equipe de bruxos, bruxas e um corajoso padeiro trouxa em uma missão perigosa, em que eles encontram velhos e novos animais fantásticos e entram em conflito com a crescente legião de seguidores de Grindelwald. Mas com tantas ameaças, quanto tempo poderá Dumbledore permanecer à margem do embate?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O SOLDADO QUE NÃO EXISTIU [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77ab84893b949703dbe74b9f98ec8ac72f9104ca</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/twAoW3HSu0RpBLSwCsx2eY1fnMf.jpg</thumbnail>
@@ -139,24 +166,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] UNCHARTED-FORA DO MAPA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7907112a681b2f9fbe1058276b20469e1c807ad4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7F4ji3bowguRGR6bRgrPZAKlpyU.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Uncharted narra as aventuras de Nathan Drake, um caçador de tesouros que age em cenários inspirados em Indiana Jones e Lara Croft, mas que, diferente dos arqueólogos, está mais preocupado com seu próprio bolso. No primeiro game, Drake precisa solucionar os mistérios de uma ilha tropical repleta de mercenários.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] SONIC - 1 &/2 HDCAM [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:424d424b305d0c97e165c58ed1002c230d7cd81b$nome=SONIC - O FILME</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5RFJWIL4OHKK22EW6EPAQL6IK7I47D5M$nome=SONIC - 2 HDCAM</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b2d6493686ed4a864ef7c12b8d378e660fe24e2$nome=SONIC - 2 LEGENDADO</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/f4SvCKIUrC2cDR7Xo4k1kaGAqQ2.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/9PToHgJGNnK4zwqurT26aSTHNF.jpg</fanart>
-<info>Sonic, o ouriço azul mais famoso do mundo, se junta com os seus amigos para derrotar o terrível Doutor Eggman, um cientista louco que planeja dominar o mundo, e o Doutor Robotnik, responsável por aprisionar animais inocentes em robôs.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] EM NOME DO PAI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78f3b4292ce9c7335a5bd0bc5969203685e73f67</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/dJfB8epuL4fRUghv1Cal1kO8M6O.jpg</thumbnail>
@@ -170,15 +179,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/6pdf0u3K0kL4u45sjCuf8UP9WXy.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A montagem de um pocket show em homenagem a Vinicius de Moraes por dois atores (Camila Morgado e Ricardo Blat) é o ponto de partida para reconstituição de sua tragetória. O documentário mostra a vida, a obra, a família, os amigos, os amores de Vinicius de Moraes, autor centenas de poesias e letras de música. A essência criativa do artista e filósofo do cotidiano e as transformações do Rio de Janeiro através de raras imagens de arquivo, entrevistas e interpretações de muitos de seus clássicos.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] ANIMAIS FANTASTIVOS-OS SEGREDOS DE DUMBLEDORE ( LEG. ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8eb05c947b43b9afffa988a264598a4b4e05b00$nome=HDCAM</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DBTYYSZI3GJNOGZKQCHDLNJNTI4CUNAA$nome=HDCAM LEGENDADO</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/u1XrqlIjQt2ghnA8nprpPiFzSzR.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>O professor Alvo Dumbledore sabe que o poderoso mago das trevas Gellert Grindelwald está se movimentando para assumir o controle do mundo mágico. Incapaz de detê-lo sozinho, ele pede ao magizoologista Newt Scamander para liderar uma intrépida equipe de bruxos, bruxas e um corajoso padeiro trouxa em uma missão perigosa, em que eles encontram velhos e novos animais fantásticos e entram em conflito com a crescente legião de seguidores de Grindelwald. Mas com tantas ameaças, quanto tempo poderá Dumbledore permanecer à margem do embate?</info>
 </item>
 
 <item>
