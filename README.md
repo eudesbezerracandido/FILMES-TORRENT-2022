@@ -19,6 +19,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] EU ACREDITO EM CONTO DE FADAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E2TC7HB5R2Y4E43TORRWKXCZQSHNNSUV</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3lI4fjY5AuOIvkjem5rNXAN6zc3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A Fada Madrinha manda as princesas para o Mundo Real, com o objetivo de fazer todos voltarem a acreditar em Contos de Fadas, pois ninguém mais está lendo livros, mas na verdade isso é um plano terrível da Bruxa Má.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O REI DAS FUGAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6DVMLWOYEIBRP5PZYPVOBO2JGII6ERRL</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7QpoARuHNYZdpUUd0YUIHCaOi9P.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma comédia de ação contra o crime se passa nos últimos dias do comunismo na Polônia, uma história de ladrão de heróis populares, que escapou 29 vezes dos policiais. Naymro vivia em seus próprios termos contra o sistema. Mas o amor e o muro de Berlim em colapso mudaram tudo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PAI NOSSO - DOCUMENTÁRIO POLICIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LWEJEOUB2R2G3KP3YWGBEN74I4JO6RU2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ezb0Sej5wZ4T0eJtj3eyxovVil8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Duas irmãs afastadas procuram seu tio, uma figura misteriosa que pode ser a chave para o suicídio de seu pai e a infelicidade de sua família.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O JOGO DE AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d2c26c17d680c0832a8a6c41e26c2ae752a6af06</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nWTeXUGWsSDoDLC4UucMeM07gA5.jpg</thumbnail>
