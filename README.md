@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CASE COMIGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TEWMBPTKB3SXBCTU52PSIPGA3MLRJNN7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wqplh07aTJFHUvKBx79wuC3Gnxx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma famosa pop star (Jennifer Lopez) pouco antes de se casar com seu noivo (Maluma) uma estrela do rock descobre que ele estava a traindo com sua assistente. No meio do palco, ela escolhe um professor de matemática (Owen Wilson) aleatório da plateia para se casar com ele.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DE VOLTA AO BAILE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3defa0eb47f1f582d019f86ccfa0ba7b9fb764af</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/xrP0WLCpfUprD0PHobzxK1VBUCL.jpg</thumbnail>
