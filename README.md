@@ -11,6 +11,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PROFILE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56bd75d123bbc1434624e6c5a20ca3d6bb21fce2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3fMsf59RGi8P5x7J7iyRnb8Dvrb.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma jornalista britânica fica encoberta e infiltra-se nos canais de propaganda digital do chamado Estado Islâmico, que tem mobilizado um número cada vez maior de jovens mulheres da Europa. Seus contatos diários na internet com os recrutadores do ISIS gradualmente a puxam para dentro e pressionam os limites da sua investigação.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] OS TÊNIS ENCANTADOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04535fe2bd66b8f91848afb88be6b2943f481da3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ju8duC4TXVqRTePcEww9VVtXbxU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A narrativa gira em torno de El (Chosen Jacobs), um aspirante à designer de tênis do Queens que trabalha como estoquista em uma loja anteriormente pertencente à falecida mãe. El esconde seus talentos artísticos de seu padrasto problemático e dos dois terríveis meio-irmãos que vivem para atormentá-lo e destruir seus sonhos. Em algum momento, El irá conhecer Kira Kang (interpretada por Lexi Underwood), que é filha de uma grande estrela do basquete (John Salley) e os dois acabarão se tornando grandes amigos por causa da sua afinidade com tênis. Contando com a ajuda do melhor e um pouco de magia do seu “fado-padrinho”, o garoto vai acabar conquistando a coragem que precisava para entrar de vez na indústria do design.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UNCHARTED-FORA DO MAPA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7907112a681b2f9fbe1058276b20469e1c807ad4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7F4ji3bowguRGR6bRgrPZAKlpyU.jpg</thumbnail>
