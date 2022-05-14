@@ -19,6 +19,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DE VOLTA AO BAILE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3defa0eb47f1f582d019f86ccfa0ba7b9fb764af</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xrP0WLCpfUprD0PHobzxK1VBUCL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma líder de torcida acorda após um coma de 20 anos, e retorna ao colégio para tentar recuperar seu status e reivindicar a coroa de rainha do baile que sempre sonhou.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PSYCH 3- ESTE PE O GUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IP2YTYLCZXSAIFQ3FDHCMXWVDHTVVPEA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zWhKl8QmctB86pKwDUvhsySITBg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em preparação para um casamento forçado antes do nascimento de Baby Guster, Shawn e Groomzilla Gus se rebelam na tentativa de rastrear o ex-marido de Selene, enquanto Lassiter luta com o futuro de sua carreira.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A FAMILIA PERFEITA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5220a4536e480087b8e3124666f1a3aaa39ad569</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4EWtby5Sb1JKxwqVfpLLybmJK6E.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A conquista de uma família perfeita por Lúcia é ameaçada pela vida perdida de seu filho.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] OS TÊNIS ENCANTADOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04535fe2bd66b8f91848afb88be6b2943f481da3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ju8duC4TXVqRTePcEww9VVtXbxU.jpg</thumbnail>
