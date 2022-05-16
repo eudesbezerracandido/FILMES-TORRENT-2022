@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O ULTIMO RITUAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PA4U6R6CCOXZRMJTYVK6N6RO6PUFPAG7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9WpuwUQdH9f0Iow2H6GR6bNqAof.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma estudante de medicina com paralisia do sono se vê atormentada por uma entidade demoníaca, depois de ir morar com seu namorado.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PROFILE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56bd75d123bbc1434624e6c5a20ca3d6bb21fce2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/3fMsf59RGi8P5x7J7iyRnb8Dvrb.jpg</thumbnail>
