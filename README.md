@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] INSTINTO ASSASSINO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TTEHWHP6DHNQYNTF2DAMVC3DG6TW3O44</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4Mynv1TcKx5AwCsv1wr5Y2hnm6S.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após a morte de seu irmão, um sociopata segue para uma ilha remota e logo cai sob o cerco de uma gangue mortal de mercenários. Forçado a se defender sozinho, ele descobre seu papel na morte de seu irmão e parte em uma busca implacável por vingança.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A VIDA DEPOIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PTYZUNJIEIWUSE2BBDWXZ25LT7R32OMM</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/oFU6XQAQR6SidzNTnPLzNj9Xc4H.jpg</thumbnail>
