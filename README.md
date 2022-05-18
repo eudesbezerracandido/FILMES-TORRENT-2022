@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A VIDA DEPOIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PTYZUNJIEIWUSE2BBDWXZ25LT7R32OMM</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oFU6XQAQR6SidzNTnPLzNj9Xc4H.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma jovem (Jenna Ortega) precisa navegar por uma queda emocional após uma tragédia em sua escola afetar seus relacionamentos com a família, amigos e a forma que vê o mundo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O ULTIMO RITUAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PA4U6R6CCOXZRMJTYVK6N6RO6PUFPAG7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9WpuwUQdH9f0Iow2H6GR6bNqAof.jpg</thumbnail>
