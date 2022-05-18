@@ -19,6 +19,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B]  4X4 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NEHGB7YHQSKTUHIFPFURWPDPGNEV3QLH</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gMJwGghKysgj6qgcLAWJFhDjFBs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um ladrão (Peter Lanzani) entra num automóvel 4x4 que aparentemente não tem alarme. Ele rouba o carro, mas quando ele tenta sair ele percebe que está trancado. O carro está preparado precisamente para não deixá-lo sair. Acaba sendo impossível encontrar uma saída. Assim começa a jornada do protagonista ao longo de todo o filme. O dono, Dr. Ferrari (Dady Brieva) entra em contato com ele por meio do telefone do veículo. O filme realiza um questionamento sobre o problema de se fazer justiça com as próprias mãos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  O DESEJO FINAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YGMTNIU73W3ZU5OCCDMCA4AO4VAOODSV</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mp2QTfbfLqydptBf5E2tmHYXosb.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Aaron é um advogado que retorna à sua casa após a morte do pai para ajudar sua devastada mãe e confrontar os demônios de seu passado. Ao mexer nos pertences do falecido, Aaron encontra uma urna que é mais do que parece ser. Quando seus desejos e pedidos começam a virar realidade, Aaron imagina que suas preces estão sendo ouvidas, mas logo percebe que terá que pagar um preço alto por elas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A VIDA DEPOIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PTYZUNJIEIWUSE2BBDWXZ25LT7R32OMM</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/oFU6XQAQR6SidzNTnPLzNj9Xc4H.jpg</thumbnail>
