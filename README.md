@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CAÇADA-HUNTER-HUNTER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZCHWAAY56OFDC7FTQ4YPUVE6CR3LPEWT</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kgtXt56vGKXKqKmD8cFoqGQKhaY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma família vive em uma região selvagem remota e ganha a vida como caçadores de peles. Joseph Mersault, a esposa Anne e a filha Renée lutam para sobreviver e pensam que as suas armadilhas estão sendo destruídas por um lobo rebelde. Determinado a pegar o predador em flagrante, Joseph deixa a família para trás para rastrear o lobo. Anne e Renée ficam cada vez mais ansiosas durante a ausência prolongada de Joseph e lutam para sobreviver sem ele. Quando elas ouvem um barulho estranho fora da cabana, Anne espera que seja Joseph, mas em vez disso encontra um homem chamado Lou, que foi gravemente ferido e deixado para morrer. Quanto mais Lou fica e Joseph está fora, mais paranoica Anne fica.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] QUEBRANDO REGRAS 4 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FD22LBNM4WAHKXYC5W5VDNCDUU5V44XA</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/saL9WwmfVoaoeg1tVjyetnF1FEk.jpg</thumbnail>
