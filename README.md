@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] QUEBRANDO REGRAS 4 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FD22LBNM4WAHKXYC5W5VDNCDUU5V44XA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/saL9WwmfVoaoeg1tVjyetnF1FEk.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando um lutador amador não está disposto a competir, sua irmã Anya precisa viajar para Roma e lutar para um público de elite para ajudar a pagar a dívida dele com o chefe do crime.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B]  4X4 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NEHGB7YHQSKTUHIFPFURWPDPGNEV3QLH</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gMJwGghKysgj6qgcLAWJFhDjFBs.jpg</thumbnail>
