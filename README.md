@@ -24,7 +24,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/9WpuwUQdH9f0Iow2H6GR6bNqAof.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Uma estudante de medicina com paralisia do sono se vê atormentada por uma entidade demoníaca, depois de ir morar com seu namorado.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] PROFILE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
