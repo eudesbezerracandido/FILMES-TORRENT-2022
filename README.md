@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ACUSADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KRIS4AS2MHZZGJXYYZNL3CVP4P4PDXHS</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ocluspJbkJC0Z7Mn6WWDuqXtKJK.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um homem inicia uma jornada espiritual para provar a inocência após ser injustamente preso pela morte de sua namorada em terra estrangeira.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] INSTINTO ASSASSINO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TTEHWHP6DHNQYNTF2DAMVC3DG6TW3O44</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4Mynv1TcKx5AwCsv1wr5Y2hnm6S.jpg</thumbnail>
