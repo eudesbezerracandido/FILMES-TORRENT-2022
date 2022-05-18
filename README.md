@@ -35,6 +35,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] AS DUAS MORTES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UKAOK2KTB76EJT35WSP525CVP5BDU5FW</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8rFxEx60Ns0pBZtDnrNSOhkpHxz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando Henry Baker sai da prisão após 25 anos, velhos amigos e inimigos esperam por ele. E uma cadeia de traições e mal-entendidos de várias gerações leva todos à sua volta a um conflito fadado a terminar em tragédia.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] QUEBRANDO REGRAS 4 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FD22LBNM4WAHKXYC5W5VDNCDUU5V44XA</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/saL9WwmfVoaoeg1tVjyetnF1FEk.jpg</thumbnail>
