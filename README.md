@@ -19,6 +19,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] UMA LIÇÃO DE ESPERANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:556I6NL3JRNWPG5FWS34SDNPYVUK7FIJ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7EzVSW5F9Kbt8VIJJJ2G4x1hz5q.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Durante a Segunda Guerra Mundial, um homem judeu evita ser enviado para um campo de concentração alegando ser persa. Quando um oficial militar alemão pede que fale farsi, ele deve fingir falar o idioma para garantir sua sobrevivência.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ONDA DE CALOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96d9341eff528eeadf0691e84244fa91bdaa0c82</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6SG9gR1DPukdCCRkx0WXe6LxOch.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Claire, uma jovem mulher ambiciosa, começa a trabalhar para um homem de negócios rico e bem-sucedido, mas sem saber se envolve em um caso com sua esposa</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O ULTIMO RITUAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PA4U6R6CCOXZRMJTYVK6N6RO6PUFPAG7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9WpuwUQdH9f0Iow2H6GR6bNqAof.jpg</thumbnail>
