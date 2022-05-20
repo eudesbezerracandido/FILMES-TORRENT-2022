@@ -2,12 +2,29 @@
 
 
 
+
 <item>
-<title>[COLOR silver][B] DOUTOR ESTRANHO- NO MULTIVERSO HDCAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:173DC54514604630F592D2AF38A73B5C90EF558F</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/sF0Ciu56om4sTR1KtuZvbUoqKrf.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/ag5CV8TwoCfN39Tz4MVQz7tHfQX.jpg</fanart>
-<info> Alguns meses depois dos eventos de "Homem-Aranha: Sem Volta Para Casa", o Dr. Stephen Strange, com a ajuda de velhos e novos aliados místicos, viaja pelo Multiverso para enfrentar um novo e misterioso adversário.</info>
+<title>[COLOR silver][B] RASTROS DE UM CRIME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee88cccc9d965cbe6b889210eca26094dafc2231</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bT90ikAfeBHDkijtNbtLA7vq6st.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Paul 'Wicky' Wickstead, técnico de limpeza credenciado pelo estado, limpa as cenas do crime depois que a polícia concluiu seu trabalho de detetive.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] COMBINAÇÃO PERFEITA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CJ3MRSJMM2XZYRNGW67D4J2NR6MLEFPV</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xBdOs8RqlOAhhgVuqvDDCv4xzsU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>: Segue-se uma executiva de uma empresa de vinhos de Los Angeles que viaja para uma estação de ovelhas australiana para conseguir um grande cliente e lá ela acaba trabalhando como ajudante de rancho e se divertindo com um local rude.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O CONTADOR DE CARTAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d1b7ef5a5308147d503329f1ac6cae936cb86b0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lZzWINLDNkhYn6B3IW8jZuqNllG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> The Card Counter conta a história de William Tell (Oscar Isaac), um jogador de cartas e ex-militar que se propõe a treinar Cirk (Tye Sheridan), um jovem em busca de vingança contra um inimigo mútuo de seu passado. Tell vê uma chance de redenção por meio de seu relacionamento com Cirk.</info>
 </item>
 
 <item>
