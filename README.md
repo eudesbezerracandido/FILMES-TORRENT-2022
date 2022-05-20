@@ -4,6 +4,38 @@
 
 
 <item>
+<title>[COLOR silver][B] AMBULANCIA- UM DIA DE CRIME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Z7XBP4ZYTOFCZJF24Y74UBJDOVJKA45M</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/k62v5oVhQ0e1sJWJ9nFpiTfcNoD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Dois irmãos em fuga da polícia roubam uma ambulância, sem saber que havia uma paramédica e um paciente em condição crítica dentro dela.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TOSCANA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TQHAOJINGKBCPXBNQPD5K7DSRJRUZZJ4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/orOHMxqgZjnb1dOZGGrXO7xOn6z.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Santi colide com uma motocicleta com um veiculo cujo motorista está fugindo. Procurando ajuda, ele acaba ficando preso em um restaurante Toscana onde um ex-chef está armado e exigindo do seu ex-chefe o seu devido pagamento. E assim começam as confusões...</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] BLUE BAYOU [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:R364JTSHKIQPSDCDFGJ5QH3IGLHSPQ4Z</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/a4xykTie8BOSW0y6K5u1AcmW4HW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Antônio, um adotado coreano criado nos EUA, é forçado a enfrentar seu passado distante e o que isso significa para o seu próprio futuro e o da família, como ele de repente - e inesperadamente - enfrenta a deportação. Inspirada em fatos reais.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CYBER HELL-ESPONDO UM HORROR NA INTERNET [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RFENOM3YO6ZS644XREU7EEJKGBSIAOYT</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iWI05wWFZvPKCgEqXihjUQLar7r.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Anônima e exploradora, uma rede de salas de bate-papo on-line estava repleta de crimes sexuais. A caçada para derrubar seus operadores exigia coragem e tenacidade.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] RASTROS DE UM CRIME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee88cccc9d965cbe6b889210eca26094dafc2231</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/bT90ikAfeBHDkijtNbtLA7vq6st.jpg</thumbnail>
