@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] 365 DIAS HOJE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1c172a60975b3fc7968d58d716190dd2b0ef60e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/67vb4sQxJ06o4LvgoxB8Fj6mGqk.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em 365 Days 3, após o ocorrido no filme anterior, os melhores médicos lutam pela vida de Laura (Anna-Maria Sieklucka). Seu marido, Massimo (Michele Morrone), terá que tomar uma das decisões mais difíceis de sua vida: salvar Laura ou seu filho. Que decisão ele irá tomar? Ele saberá viver sem a mulher que ama? Será capaz de criar um filho sozinho?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CASAL DA FACHADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ISOSEEIIA5Q5WGRMH2I4QWT3HKAEQ4JZ</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/prYUfVvnq9tAMP4LRduyoQtQIjQ.jpg</thumbnail>
@@ -516,14 +524,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] 365 DIAS HOJE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1c172a60975b3fc7968d58d716190dd2b0ef60e</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/67vb4sQxJ06o4LvgoxB8Fj6mGqk.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Em 365 Days 3, após o ocorrido no filme anterior, os melhores médicos lutam pela vida de Laura (Anna-Maria Sieklucka). Seu marido, Massimo (Michele Morrone), terá que tomar uma das decisões mais difíceis de sua vida: salvar Laura ou seu filho. Que decisão ele irá tomar? Ele saberá viver sem a mulher que ama? Será capaz de criar um filho sozinho?</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] DOCUMENTÁRIO -  O MISTÉRIO DE MERILYN MONROE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43decd355eef266689cc258d35bf2146bc39182f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/vXuUH4IGkB3B2gJWkLStSLGRewa.jpg</thumbnail>
@@ -956,8 +956,9 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] JACKASS PARA SEMPRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6FMZTMWEGOMV4FOQFN5YPV65BDVIFIYG</link>
+<title>[COLOR silver][B] JACKASS - DUOLÓGIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6FMZTMWEGOMV4FOQFN5YPV65BDVIFIYG$nome=JACKASS PARA SEMPRE</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e883444e96a5addd7202eff34f499d9ca82b0a8a$nome=JACKASS 4.5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/5zaGCCXBKq34EG7HOMlVKxFcgwr.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Após dez anos, a equipe Jackass retorna para uma última e intensa cruzada.</info> 
