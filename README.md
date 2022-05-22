@@ -2,7 +2,7 @@
 
 
 <item>
-<title>[COLOR silver][B] SONIC - 1 &/2 HDCAM [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] SONIC - DUALÓGIA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:424d424b305d0c97e165c58ed1002c230d7cd81b$nome=SONIC O FILME</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2aaabb9d6a9b3de88f3964a73a42aa9307bfa3e3$nome=SONIC 2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/f4SvCKIUrC2cDR7Xo4k1kaGAqQ2.jpg</thumbnail>
@@ -16,6 +16,22 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/7F4ji3bowguRGR6bRgrPZAKlpyU.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Uncharted narra as aventuras de Nathan Drake, um caçador de tesouros que age em cenários inspirados em Indiana Jones e Lara Croft, mas que, diferente dos arqueólogos, está mais preocupado com seu próprio bolso. No primeiro game, Drake precisa solucionar os mistérios de uma ilha tropical repleta de mercenários.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CASAL DA FACHADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ISOSEEIIA5Q5WGRMH2I4QWT3HKAEQ4JZ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/prYUfVvnq9tAMP4LRduyoQtQIjQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Olivia (Samara Weaving) é uma estrela de cinema que encarrega Antonio (Eugenio Derbez - um manobrista de estacionamento - para posar como seu amante, apenas pra esconder o fato de que ela está em um relacionamento com um homem casado. Acostumado a ser um homem normal, Antonio acaba sendo catapultado para os focos de luz ao lado de Olivia, ajudando-o a se ver de forma mais clara.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] BULL - HORA DA VINGANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d0c49a8f97f1b6a3aed59de7998ef00d77495078</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mFxHsGp04g1X9oLGIF1MFM0vzOg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Bull misteriosamente volta para casa após uma ausência de 10 anos para se vingar daqueles que o traíram todos aqueles anos atrás.</info>
 </item>
 
 <item>
