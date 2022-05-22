@@ -1,7 +1,31 @@
 # FILMES-TORRENT-2022
 
 
+<item>
+<title>[COLOR silver][B] SONIC - 1 &/2 HDCAM [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:424d424b305d0c97e165c58ed1002c230d7cd81b$nome=SONIC O FILME</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2aaabb9d6a9b3de88f3964a73a42aa9307bfa3e3$nome=SONIC 2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/f4SvCKIUrC2cDR7Xo4k1kaGAqQ2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9PToHgJGNnK4zwqurT26aSTHNF.jpg</fanart>
+<info>Sonic, o ouriço azul mais famoso do mundo, se junta com os seus amigos para derrotar o terrível Doutor Eggman, um cientista louco que planeja dominar o mundo, e o Doutor Robotnik, responsável por aprisionar animais inocentes em robôs.</info>
+</item>
 
+<item>
+<title>[COLOR silver][B] UNCHARTED-FORA DO MAPA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7907112a681b2f9fbe1058276b20469e1c807ad4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7F4ji3bowguRGR6bRgrPZAKlpyU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uncharted narra as aventuras de Nathan Drake, um caçador de tesouros que age em cenários inspirados em Indiana Jones e Lara Croft, mas que, diferente dos arqueólogos, está mais preocupado com seu próprio bolso. No primeiro game, Drake precisa solucionar os mistérios de uma ilha tropical repleta de mercenários.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ANIMAIS FANTASTIVOS-OS SEGREDOS DE DUMBLEDORE ( LEG. ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8eb05c947b43b9afffa988a264598a4b4e05b00$nome=HDCAM</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DBTYYSZI3GJNOGZKQCHDLNJNTI4CUNAA$nome=HDCAM LEGENDADO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/u1XrqlIjQt2ghnA8nprpPiFzSzR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O professor Alvo Dumbledore sabe que o poderoso mago das trevas Gellert Grindelwald está se movimentando para assumir o controle do mundo mágico. Incapaz de detê-lo sozinho, ele pede ao magizoologista Newt Scamander para liderar uma intrépida equipe de bruxos, bruxas e um corajoso padeiro trouxa em uma missão perigosa, em que eles encontram velhos e novos animais fantásticos e entram em conflito com a crescente legião de seguidores de Grindelwald. Mas com tantas ameaças, quanto tempo poderá Dumbledore permanecer à margem do embate?</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] AMBULANCIA- UM DIA DE CRIME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
@@ -196,38 +220,11 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] UNCHARTED-FORA DO MAPA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7907112a681b2f9fbe1058276b20469e1c807ad4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7F4ji3bowguRGR6bRgrPZAKlpyU.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Uncharted narra as aventuras de Nathan Drake, um caçador de tesouros que age em cenários inspirados em Indiana Jones e Lara Croft, mas que, diferente dos arqueólogos, está mais preocupado com seu próprio bolso. No primeiro game, Drake precisa solucionar os mistérios de uma ilha tropical repleta de mercenários.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] DESERTO DO OURO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4cd7f599806375580ac988bf6feb664c2900178</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mlnNX9pf3MgibwR89Tb40b17kJ9.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Dois estranhos viajam por um deserto e tropeçam na maior pepita de ouro já encontrada. Eles elaboram um plano para proteger e escavar sua recompensa com um deles saindo para garantir o equipamento necessário. O outro permanece e deve suportar duros elementos do deserto, cães selvagens vorazes e intrusos misteriosos, enquanto luta contra a suspeita de que ele foi abandonado ao seu próprio destino.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] SONIC - 1 &/2 HDCAM [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:424d424b305d0c97e165c58ed1002c230d7cd81b$nome=SONIC - O FILME</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5RFJWIL4OHKK22EW6EPAQL6IK7I47D5M$nome=SONIC - 2 HDCAM</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b2d6493686ed4a864ef7c12b8d378e660fe24e2$nome=SONIC - 2 LEGENDADO</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/f4SvCKIUrC2cDR7Xo4k1kaGAqQ2.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/9PToHgJGNnK4zwqurT26aSTHNF.jpg</fanart>
-<info>Sonic, o ouriço azul mais famoso do mundo, se junta com os seus amigos para derrotar o terrível Doutor Eggman, um cientista louco que planeja dominar o mundo, e o Doutor Robotnik, responsável por aprisionar animais inocentes em robôs.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] ANIMAIS FANTASTIVOS-OS SEGREDOS DE DUMBLEDORE ( LEG. ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8eb05c947b43b9afffa988a264598a4b4e05b00$nome=HDCAM</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DBTYYSZI3GJNOGZKQCHDLNJNTI4CUNAA$nome=HDCAM LEGENDADO</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/u1XrqlIjQt2ghnA8nprpPiFzSzR.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>O professor Alvo Dumbledore sabe que o poderoso mago das trevas Gellert Grindelwald está se movimentando para assumir o controle do mundo mágico. Incapaz de detê-lo sozinho, ele pede ao magizoologista Newt Scamander para liderar uma intrépida equipe de bruxos, bruxas e um corajoso padeiro trouxa em uma missão perigosa, em que eles encontram velhos e novos animais fantásticos e entram em conflito com a crescente legião de seguidores de Grindelwald. Mas com tantas ameaças, quanto tempo poderá Dumbledore permanecer à margem do embate?</info>
 </item>
 
 <item>
