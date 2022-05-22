@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PRAZERES SECRTETOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A3LF3BW2NONAIJOUMCZ3KYQI2MIR3AY4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/crhwucqk5DLk4jYHhpzOPbD09tc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No filme Prazeres Secretos (2018) WEB-DL 1080p Dual Áudio, Arabella, uma estilista ingênua e esforçada, consegue o emprego de seus sonhos trabalhando para Marylin, uma romancista erótica de sucesso. Arabella descobre que a chefe tem diversas relações sexuais fora do casamento, e passa a se esconder para assisti-las. Até que Marylin assume que sabia o tempo todo que estava sendo vigiada pela jovem, e as duas começam um romance sedutor e cheio de manipulações, que terá consequências inimagináveis.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] 365 DIAS HOJE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1c172a60975b3fc7968d58d716190dd2b0ef60e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/67vb4sQxJ06o4LvgoxB8Fj6mGqk.jpg</thumbnail>
