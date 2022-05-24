@@ -27,6 +27,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B]  BOA VIAGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7335b6e5998142ecfb4824bfc9474cd83d686835</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7w94FteEPPW5QiaYDMDy74NJ9vz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um ex-capitão do exército viaja a Daylan para impedir um casamento. Mas o luto e o trauma de uma tragédia de guerra podem atrapalhar essa missão.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DURO NA QUEDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1925b227d07c2445ee9ef47fa2218bf4b8a8e85</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qvzcwPg6ukHugArAp9XeBvaz58.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após ficar seis anos preso injustamente num centro psiquiátrico, Manop está pronto para fazer justiça com as próprias mãos e buscar vingança contra uma gangue de criminosos, responsável pela morte de sua família.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] COMBOIO 48: A ÚLTIMA RESISTÊNCIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a3f4cfd586d9d4c755ea96c81792eae784e0457</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xSF9LRDRoie7YNwMT1yAfJ8IWNz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A estudante de Leninegrado, Masha Yablochkina, depois de um violento inverno de 1941-1942, chega a ferrovia esperando sobreviver e ganhar força. De lá, a menina é enviada para a construção da rodovia de Shlisselburg, que liga a cidade ao continente e está à vista da artilharia alemã. Assim, a heroína entra na 48ª coluna de locomotivas da reserva especial NKPS, que, ao custo do risco letal, terá que entregar 75% de toda a carga e equipamento militar para Leningrad</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] 365 DIAS HOJE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1c172a60975b3fc7968d58d716190dd2b0ef60e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/67vb4sQxJ06o4LvgoxB8Fj6mGqk.jpg</thumbnail>
