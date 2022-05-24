@@ -2,7 +2,7 @@
 
 
 <item>
-<title>[COLOR silver][B] TOP GUN - BREVE RELEASE HDCAM LEGENDADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] TOP GUN - BREVE COMI RELEASE HDCAM LEGENDADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d60cadcb3a1c1c363831be5201874dff3c76c52</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zOGINv5sJxEZQWw2dGuO8JUzvyK.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/o4jH603FDXVPuNx0gjTSkNebhoP.jpg</fanart>
