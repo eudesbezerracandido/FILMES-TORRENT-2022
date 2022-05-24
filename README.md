@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] TOP GUN - BREVE RELEASE HDCAM LEGENDADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d60cadcb3a1c1c363831be5201874dff3c76c52</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zOGINv5sJxEZQWw2dGuO8JUzvyK.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/o4jH603FDXVPuNx0gjTSkNebhoP.jpg</fanart>
+<info>Após 34 anos na força, o lendário Capitão Pete "Maverick" Mitchell (Tom Cruise) se torna o novo instrutor de voo da Top Gun, fazendo com que ele seja o mentor de Bradley Bradshaw (Miles Teller), o filho de Goose, que busca ser um piloto melhor do que o seu pai foi.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SONIC - DUALÓGIA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:424d424b305d0c97e165c58ed1002c230d7cd81b$nome=SONIC O FILME</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2aaabb9d6a9b3de88f3964a73a42aa9307bfa3e3$nome=SONIC 2</link>
