@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PASSADO VIOLENTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce1bfc925d2aa682c011076e20a61c14177520c8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4cxFO7AlQOotgA45nuuej2DMyiw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Atormentado por seu passado, um lixeiro chamado Clean tenta uma vida tranquila de redenção. Mas, logo se vê forçado a se reconciliar com a violência de seu passado.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SONIC - DUALÓGIA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:424d424b305d0c97e165c58ed1002c230d7cd81b$nome=SONIC O FILME</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2aaabb9d6a9b3de88f3964a73a42aa9307bfa3e3$nome=SONIC 2</link>
