@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CAÇADOR DE MUTANTES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AUD5CDFUUBYY77BFYPNYMBKP2G7BB7ZC</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wCxfoNHBQ8Pqrmnx5B0sYZMKt0j.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Testando um coquetel diversificado de drogas que aumentam o desempenho ilegal ao longo de sua vida - o fisiculturista Tony Hughes, também conhecido como Dr. Tony Huge, pretende provar que os esteróides são o próximo passo lógico na evolução humana. Criando um caso civil e criminal contra sua empresa, o Enhanced Athlete, descobre as profundezas de um homem que acredita que o governo tem uma conspiração contra ele.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SEMPRE EM FRENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FPVLD6BKKQCTQQ6IIXDQPM7BJK6ZP2YU</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/aXktvjotXObNdQdnYkyNNMJqNX0.jpg</thumbnail>
