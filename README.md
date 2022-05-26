@@ -26,6 +26,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ADEUS IDIOTAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:V2LZIOLLQCLB3J5J3RNMD5U362U2FV3F</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gCd2QrRblOqAynklIjKskDenv8J.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Suze Trappet é uma cabeleireira de 43 anos, e descobre que está seriamente doente, ela decide procurar o filho que foi forçada a abandonar quando tinha apenas 15 anos. Em sua missão burocrática e louca, ela cruza com JB, um funcionário depressivo, e o Sr. Blin, um arquivista cego propenso ao excesso de entusiasmo. O improvável trio parti em uma jornada pela cidade em busca do filho há muito perdido de Suze.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SMALL ENGINE REPAIR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:366da86cceb5935827611db94313bab4b5ed59ef</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8xYm5fZXT0DNuGRUHdkQJ1puNYH.jpg</thumbnail>
