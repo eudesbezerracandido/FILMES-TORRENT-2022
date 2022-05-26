@@ -10,6 +10,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SMALL ENGINE REPAIR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:366da86cceb5935827611db94313bab4b5ed59ef</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8xYm5fZXT0DNuGRUHdkQJ1puNYH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Frank (John Pollono), Terrence (Jon Bernthal) e Packie (Shea Whigham) são três amigos de meia-idade que se conhecem desde a adolescência e agora estão se reaproximando. A relação complica quando Crystal (Ciara Bravo) entra na equação. Certo dia, eles são convocados a se encontrar depois do horário na oficina de Frank, sob circunstâncias misteriosas que apenas ele sabe. Logo, todos entram em uma luta violenta durante a noite mais bizarra de suas vidas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A INVASÃO OCUPAÇÃO ALIENIGENA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:210711a3e26402e62411de1344f54366bc776c3a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/89z9sFmVL77iepi8pAXioQA0umX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dois anos após uma invasão intergaláctica na Terra, os sobreviventes em Sydney, na Austrália, revidam em uma guerra terrestre desesperada. À medida que as baixas aumentam a cada dia, a resistência e seus inesperados aliados descobrem um plano que pode levar a guerra a um fim decisivo, com os invasores alienígenas empenhados em transformar a Terra em seu novo lar.C</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A FORTALEZA: O OLHAR DO SNIPER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EZVIFR7XWKBAFEWNID5Z7CAKXTDR3OVK</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/o9qPBeuLCWT3s8KdfnjKqeQDlzS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A história gira em torno de um resort ultrassecreto para oficiais aposentados da inteligência dos EUA.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PASSADO VIOLENTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ce1bfc925d2aa682c011076e20a61c14177520c8</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4cxFO7AlQOotgA45nuuej2DMyiw.jpg</thumbnail>
