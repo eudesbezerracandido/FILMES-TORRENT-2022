@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SEMPRE EM FRENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FPVLD6BKKQCTQQ6IIXDQPM7BJK6ZP2YU</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aXktvjotXObNdQdnYkyNNMJqNX0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Johnny é um jornalista de rádio que viaja pelo país entrevistando várias crianças sobre seus pensamentos a respeito de seu mundo e seu futuro. Em seguida, Johnny está encarregado de cuidar de seu jovem sobrinho Jesse. Jesse traz uma nova perspectiva e, conforme eles viajam de um estado para outro, logo Johnny começa a olhar o mundo de outra forma.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SMALL ENGINE REPAIR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:366da86cceb5935827611db94313bab4b5ed59ef</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8xYm5fZXT0DNuGRUHdkQJ1puNYH.jpg</thumbnail>
