@@ -18,6 +18,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] EMERGÊNCIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DXXEX5PSFPSB7WLTEOMK5GSV7NHPUNRB</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gkXzcMt1WcAYvjJPnz6CcThRdxy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Preparados para uma noite de festa lendária, três estudantes universitários devem pesar os prós e os contras de chamar a polícia quando confrontados com uma situação inesperada.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SEMPRE EM FRENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FPVLD6BKKQCTQQ6IIXDQPM7BJK6ZP2YU</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/aXktvjotXObNdQdnYkyNNMJqNX0.jpg</thumbnail>
