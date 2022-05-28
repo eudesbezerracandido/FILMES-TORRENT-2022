@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - Á MEDIUM/ ARCHIVE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://archive.org/download/a-medium/%C3%81%20M%C3%89DIUM.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2aP7usXx1uLbduhrsW84hn3yRyY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma história horripilante sobre a herança de um xamã na região de Isan, na Tailândia, onde a Deusa que parece ter possuído um membro da família acaba não sendo tão benevolente quanto pensavam ser.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CAÇADOR DE MUTANTES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AUD5CDFUUBYY77BFYPNYMBKP2G7BB7ZC</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/wCxfoNHBQ8Pqrmnx5B0sYZMKt0j.jpg</thumbnail>
