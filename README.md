@@ -28,6 +28,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FIREBALL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D7AB4BYNGSLFALLYN7BQCNVTNYVYFPAP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/a4JZA36KW9Nt7bfpi7eDwsWGtTr.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Tai é liberado da prisão e descobre que seu irmão gêmeo Tan esteve em coma durante todo o ano. Ele teria entrado no mundo do Fireball, um violento esporte baseado no basquete que é apadrinhado pelo submundo criminoso das gangues</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NO FIO DA NAVALHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PC5IEWFEFNSALNGIXA6HYBYN73KZLJGR</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qrMFU6nAGJBjWRyvXlgNGHYOavT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No filme No Fio da Navalha (2019) WEB-DL 1080p Dual Áudio, Ludovít perdeu seu filho em um cruel ataque neonazista, mas, devido a uma falha na legislação eslovaca, é obrigado a lidar com a extrema injustiça de ver os agressores do seu filho serem rapidamente libertados. Revoltado, ele luta contra uma polícia ineficiente, um juiz oportunista, e, principalmente, contra o fato de nunca ter sido realmente próximo do próprio filho. Se culpando pela morte do filho, ele passa a ter problemas de relacionamento com a esposa e a filha, além de cada vez mais tentar influenciar a investigação.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] Á TODO VAPOR! DESTINO-ASTÚRIAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NXUBXZOHBESP3ISBZE53NKMZJB2345Z4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zIrt7GJW1UF1fKF4OjXJyGFe1Cg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um pai e um avô se ofereceram para acompanhar seis crianças a caminho de um acampamento nas Astúrias. Quando o trem parte sem os adultos, uma louca perseguição começa para alcançar as crianças, deixadas sozinhas no trem noturno.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B]  EXIT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51c317b6b8ee77dba69cd8f3d84147373f0d5721</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zf16eomhCB13cwMb4iFEbBT0Tsr.jpg</thumbnail>
