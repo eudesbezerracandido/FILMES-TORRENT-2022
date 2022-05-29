@@ -8,7 +8,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/zOGINv5sJxEZQWw2dGuO8JUzvyK.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/o4jH603FDXVPuNx0gjTSkNebhoP.jpg</fanart>
 <info>Após 34 anos na força, o lendário Capitão Pete "Maverick" Mitchell (Tom Cruise) se torna o novo instrutor de voo da Top Gun, fazendo com que ele seja o mentor de Bradley Bradshaw (Miles Teller), o filho de Goose, que busca ser um piloto melhor do que o seu pai foi.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] SONIC - DUALÓGIA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
