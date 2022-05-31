@@ -36,6 +36,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A VIDA É AGORA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YIXYDGCHM3YKC3NSNYW5I6CY32OALWA7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/neKaddWZOH6elKQRjI49avgSGfY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Vivien (Thorne), que é uma estudante talentosa apaixonada pela física, e Roy (Mascolo), que é um jovem problemático, ou seja, dois estudantes com personalidades totalmente diferentes. Entretanto, um acidente mudará a vida desses protagonistas e, então, eles viverão novas experiências, como um novo amor.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FIREBALL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D7AB4BYNGSLFALLYN7BQCNVTNYVYFPAP</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/a4JZA36KW9Nt7bfpi7eDwsWGtTr.jpg</thumbnail>
