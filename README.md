@@ -8,7 +8,15 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/zOGINv5sJxEZQWw2dGuO8JUzvyK.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/o4jH603FDXVPuNx0gjTSkNebhoP.jpg</fanart>
 <info>Após 34 anos na força, o lendário Capitão Pete "Maverick" Mitchell (Tom Cruise) se torna o novo instrutor de voo da Top Gun, fazendo com que ele seja o mentor de Bradley Bradshaw (Miles Teller), o filho de Goose, que busca ser um piloto melhor do que o seu pai foi.</info>
-</item> 
+</item>
+
+<item>
+<title>[COLOR silver][B] ANIMAIS FANTASTICOS - OS SEGREDOS DE DUMBLEDORE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae1292e138ace9d7f1d764274f95ea2e1a83ff0e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/u1XrqlIjQt2ghnA8nprpPiFzSzR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O professor Alvo Dumbledore sabe que o poderoso mago das trevas Gellert Grindelwald está se movimentando para assumir o controle do mundo mágico. Incapaz de detê-lo sozinho, ele pede ao magizoologista Newt Scamander para liderar uma intrépida equipe de bruxos, bruxas e um corajoso padeiro trouxa em uma missão perigosa, em que eles encontram velhos e novos animais fantásticos e entram em conflito com a crescente legião de seguidores de Grindelwald. Mas com tantas ameaças, quanto tempo poderá Dumbledore permanecer à margem do embate?</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] SONIC - DUALÓGIA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
@@ -185,15 +193,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/mFxHsGp04g1X9oLGIF1MFM0vzOg.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Bull misteriosamente volta para casa após uma ausência de 10 anos para se vingar daqueles que o traíram todos aqueles anos atrás.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] ANIMAIS FANTASTIVOS-OS SEGREDOS DE DUMBLEDORE ( LEG. ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a8eb05c947b43b9afffa988a264598a4b4e05b00$nome=HDCAM</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DBTYYSZI3GJNOGZKQCHDLNJNTI4CUNAA$nome=HDCAM LEGENDADO</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/u1XrqlIjQt2ghnA8nprpPiFzSzR.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>O professor Alvo Dumbledore sabe que o poderoso mago das trevas Gellert Grindelwald está se movimentando para assumir o controle do mundo mágico. Incapaz de detê-lo sozinho, ele pede ao magizoologista Newt Scamander para liderar uma intrépida equipe de bruxos, bruxas e um corajoso padeiro trouxa em uma missão perigosa, em que eles encontram velhos e novos animais fantásticos e entram em conflito com a crescente legião de seguidores de Grindelwald. Mas com tantas ameaças, quanto tempo poderá Dumbledore permanecer à margem do embate?</info>
 </item>
 
 <item>
