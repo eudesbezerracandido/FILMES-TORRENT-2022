@@ -36,6 +36,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A COLMÉIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:819cb3fa1f8ebe103467b1a706ef3a19f3fff93e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wkycvzLbq4lAvXQo06GcSa8iGXm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O marido de Fahrije está desaparecido desde a guerra em Kosovo. Ela abre seu próprio pequeno negócio para sustentar seus filhos, mas enquanto luta contra uma sociedade patriarcal que não a apoia, ela enfrenta uma decisão crucial.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A VIDA É AGORA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YIXYDGCHM3YKC3NSNYW5I6CY32OALWA7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/neKaddWZOH6elKQRjI49avgSGfY.jpg</thumbnail>
