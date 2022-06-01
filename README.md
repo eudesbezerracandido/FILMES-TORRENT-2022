@@ -36,6 +36,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] KING-MEU MELHOR AMIGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AF2ZJX3QDYYDWLBNBSMLJY4637ZGY4LU</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jfypKseXKHEqRVXoXHBWeppA1hn.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O que você faria se encontrasse um leão no seu quarto? Inés e Alex enfrentam esse dilema quando acham um filhote de leão fugindo de traficantes de animais. Junte-se a esta aventura para levá-lo de volta ao seu lar na África.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - PLANETA PRÉ-HISTÓRICO 1° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SLHDQ2JU7OJ2YKRSQQLYSJLLNV7CUVUH</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iO7MX4bFkufcCYgGZNpLbnJLDU8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma série original Apple de história natural sobre dinossauros.Será focado nos últimos dias dos dinossauros na Terra, há aproximadamente 66 milhões de anos e será produzido pela equipe de história natural da BBC Studios.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A COLMÉIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:819cb3fa1f8ebe103467b1a706ef3a19f3fff93e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/wkycvzLbq4lAvXQo06GcSa8iGXm.jpg</thumbnail>
