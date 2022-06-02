@@ -19,6 +19,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O RITUAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fbca9ff91850d48ce536b87012e59a12426e3aed</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lRB9wWqOGk6LexsDb6VXMsQBdE2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um jovem reverendo, sua esposa e filha, se mudam para uma mansão com um terrível segredo. Quando um espírito demoníaco possui a garota e ameaça destruir sua família, o Reverendo se vê forçado a confrontar suas crenças.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MORTE AO VERÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:967ca16b0888f272c6f4034a2a4915ab2b6beed8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w9QODeryktRQktmfZuxGNinna7M.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Dante passa seus dias entre fábricas, skates e cadáveres, mas a única coisa que realmente importa para ele é a banda de death metal que formou com seus melhores amigos. Lucy, a namorada de seu irmão em coma, chega para visitá-lo. Sua presença causa caos, confusão e esperança.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SONIC - DUALÓGIA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:424d424b305d0c97e165c58ed1002c230d7cd81b$nome=SONIC O FILME</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2aaabb9d6a9b3de88f3964a73a42aa9307bfa3e3$nome=SONIC 2</link>
@@ -33,6 +49,30 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/7F4ji3bowguRGR6bRgrPZAKlpyU.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Uncharted narra as aventuras de Nathan Drake, um caçador de tesouros que age em cenários inspirados em Indiana Jones e Lara Croft, mas que, diferente dos arqueólogos, está mais preocupado com seu próprio bolso. No primeiro game, Drake precisa solucionar os mistérios de uma ilha tropical repleta de mercenários.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - A GRANDE INVASÃO DO BALÃO BOMBA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d35f4c8110dfd8a88ccbccd2173965bf44e6eee</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4ETu00IumFstWEtgGleB9zWwsme.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Na Segunda Guerra Mundial, o Japão lançou mais de nove mil balões com bombas no oceano Pacífico para atacar os Estados Unidos. O historiador Martin Morgan lidera uma caçada para encontrar estas bombas em solo americano.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AMUNDESEN, O EXPLORADOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bcec58c7184432650a5e0feac394b8b36b161cc3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eOsYNGY9xdRe99jADqIyAp5QbBS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Cinebiografia de Roald Engelbregt Gravning Amundsen, explorador norueguês de regiões polares, que liderou a primeira expedição a atingir o Polo Sul no dia 14 de dezembro de 1911, utilizando trenós puxados por cães.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TIRO ÁS CEGAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OQOHDPBF2RUPOGDLA7RGQOIRXQP2OYJP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/n7DubA0XNioTnfw3AedrCTxDMPN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um policial responde a uma violenta chamada de reféns e mata o suspeito afro-americano, depois sabe de sua inocência. Percebendo que isso era um esquema e enfrentando repercussões, ele deve rastrear a pessoa responsável enquanto examina sua própria responsabilidade e o racismo arraigado que o trouxe até este ponto.</info>
 </item>
 
 <item>
