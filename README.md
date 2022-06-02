@@ -78,7 +78,7 @@
 <item>
 <title>[COLOR silver][B] TIRO ÁS CEGAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OQOHDPBF2RUPOGDLA7RGQOIRXQP2OYJP</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/n7DubA0XNioTnfw3AedrCTxDMPN.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/kWOXx85fcVm408Cpg0Tw5NhDA4f.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Um policial responde a uma violenta chamada de reféns e mata o suspeito afro-americano, depois sabe de sua inocência. Percebendo que isso era um esquema e enfrentando repercussões, ele deve rastrear a pessoa responsável enquanto examina sua própria responsabilidade e o racismo arraigado que o trouxe até este ponto.</info>
 </item>
