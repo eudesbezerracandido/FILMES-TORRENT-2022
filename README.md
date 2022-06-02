@@ -28,7 +28,7 @@
 
 <item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - PLANETA PRÉ-HISTÓRICO 1° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c4ae3874c41383cb3f0d0cb098bc0f9b1704ae4</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SLHDQ2JU7OJ2YKRSQQLYSJLLNV7CUVUH</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/iO7MX4bFkufcCYgGZNpLbnJLDU8.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Uma série original Apple de história natural sobre dinossauros.Será focado nos últimos dias dos dinossauros na Terra, há aproximadamente 66 milhões de anos e será produzido pela equipe de história natural da BBC Studios.</info>
