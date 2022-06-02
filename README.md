@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O CASTELO DO LOBISOMEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DCBEHAPKNGI24RUZNNJR7XXZPFUAQRBV</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hWevGRUWXHcVRzEmMrpf8bXDrN0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O garoto da vila Thorfinn acompanha um grupo de cavaleiros em uma perigosa missão para acabar com uma invasão de lobisomens.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - PLANETA PRÉ-HISTÓRICO 1° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c4ae3874c41383cb3f0d0cb098bc0f9b1704ae4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/iO7MX4bFkufcCYgGZNpLbnJLDU8.jpg</thumbnail>
