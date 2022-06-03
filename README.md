@@ -27,11 +27,27 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] INTERCEPTOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:X57FO6NPCL64PK4WBSF2JYLAAH6H4BEV</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nSI3RslMvXz8My6sK2dPWpyOsDG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma capitã do Exército deve usar seus anos de treinamento tático e experiência militar quando um ataque coordenado simultâneo ameaça a estação remota de interceptação de mísseis que ela comanda.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - PLANETA PRÉ-HISTÓRICO 1° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SLHDQ2JU7OJ2YKRSQQLYSJLLNV7CUVUH</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/iO7MX4bFkufcCYgGZNpLbnJLDU8.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Uma série original Apple de história natural sobre dinossauros.Será focado nos últimos dias dos dinossauros na Terra, há aproximadamente 66 milhões de anos e será produzido pela equipe de história natural da BBC Studios.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] THIS IS THE NIGHT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47bf846231f2ce43e3a55dd0211da82b8861a288</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mZPyZ22kzcmfyt1dQapaSiQenvI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Staten Island, 1982. Na noite que antecipa a estreia do filme de sucesso Rocky III, uma família ítalo-americana deve enfrente seus maiores desafios, assim como faz seu herói na tela. No final, eles percebem que só existe uma maneira de viver: como se não houvesse amanhã</info>
 </item>
 
 <item>
