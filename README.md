@@ -27,6 +27,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A EXTRAORDINARIA GAROTA CHAMADA ESTRELA DE HOLLYWOOD [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99eb7e78acfaed9e19cca25b07e84dada40dd02d</link>
+<thumbnail> A Extraordinária Garota Chamada Estrela em Hollywood</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Na sequência, Stargirl (Grace VanderWaal) explora o mundo fora de Mica, mais cheio de música, sonhos e possibilidades.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O CASTELO DO LOBISOMEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DCBEHAPKNGI24RUZNNJR7XXZPFUAQRBV</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hWevGRUWXHcVRzEmMrpf8bXDrN0.jpg</thumbnail>
