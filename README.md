@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] NÃO POSSO SEM VOÇÊ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:880031cab0293cf45e7a2db332954bec5f0814b0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6aqirmuzcJVCNI0VZGpCzfIIn4J.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>David é um empresário que tem uma vida confortável com seu namorado Álex. Tudo segue seu curso até que Blanca, a irmã de David, reaparece em suas vidas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] JURASSIC WORLD - DOMINÍO HDCAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MBNHTBK5HBTSZI3WIPP3NNPKKUNYBRM5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/lz4PYhhcDvOcLu293dwRuHRvxoT.jpg</thumbnail>
