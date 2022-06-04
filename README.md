@@ -27,6 +27,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O LOBO ENTRE NÓS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32PPH74VGUA663P5W7UGVCABYQLQPNGX</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/43RUnOBA7VgEXzXw6Gx3lifullJ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Inverno, noite de luar Duas mulheres com uma criança caminham pela floresta. E em algum lugar próximo, um lobisomem vagueia em busca de uma vítima. Ou uma besta, ou um homem, ou um fantasma.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ANIMAIS FANTASTICOS - OS SEGREDOS DE DUMBLEDORE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae1292e138ace9d7f1d764274f95ea2e1a83ff0e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/u1XrqlIjQt2ghnA8nprpPiFzSzR.jpg</thumbnail>
