@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O HOMEM DO NORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f57e39710c20c02f21f1ac0ce1ddad26d11161c8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/soT7KwQL5Bb5hjqcQumd1gTw33z.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O príncipe Amleth (Oscar Novak) já é considerado um homem e está pronto para ocupar o lugar do pai, o rei Aurvandil (Ethan Hawke), quando este acaba sendo brutalmente assassinado pelo próprio irmão Fjölnir (Claes Bang), que pretende tomar seu lugar. O menino, que presenciou o acontecimento, jura que um dia voltará para vingar o pai e matar o tio. Vinte anos depois, Amleth (Alexander Skarsgård) é um homem que sobrevive de saquear aldeias eslavas com outros vikings. Em uma dessas empreitadas, o rapaz encontra uma vidente (Björk) que o lembra que chegou a hora de cumprir a promessa que fez há muito tempo atrás: salvar sua mãe, matar o tio e vingar o pai. O ex-príncipe, então, parte para uma odisseia em busca do homem que destruiu sua vida. Baseado na lenda dinamarquesa de Amleth.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] JURASSIC WORLD - DOMINÍO HDCAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MBNHTBK5HBTSZI3WIPP3NNPKKUNYBRM5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/lz4PYhhcDvOcLu293dwRuHRvxoT.jpg</thumbnail>
