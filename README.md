@@ -27,6 +27,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] LUTA PELA FÉ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96251af6e8635728832a418f60f9585c1c24e6a4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8haL1CJYKTfvhhNOqvQa3FE96o0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O filme acompanha Stuart Long, um ex-lutador que se torna um padre e vê sua jornada de auto-destruição se tornar uma de redenção inspirar várias pessoas ao longo do caminho.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] JURASSIC WORLD - DOMINÍO HDCAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MBNHTBK5HBTSZI3WIPP3NNPKKUNYBRM5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/lz4PYhhcDvOcLu293dwRuHRvxoT.jpg</thumbnail>
