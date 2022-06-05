@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PALM SPRINGS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OQNKJ237YI6F4QWZTU7WHS7H4GSGG4HA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yf5IuMW6GHghu39kxA0oFx7Bxmj.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Durante o casamento de sua irmã (Tala, interpretada por Camila Mendes), Sarah (Cristin Milioti) testemunha a estranha perseguição sofrida por Nyles (Andy Samberg), um dos convidados com quem ela estava passando momentos bastante agradáveis. Ao seguí-lo para dentro de uma caverna, a dama de honra se vê presa num loop temporal do qual apenas eles parecem ter ciência, vivendo o mesmo dia de novo e de novo. Tudo se complica quando ela descobre que Nyles está preso há muito mais tempo do que ela e não faz a menor ideia de como sair dali.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NÃO POSSO SEM VOÇÊ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:880031cab0293cf45e7a2db332954bec5f0814b0</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6aqirmuzcJVCNI0VZGpCzfIIn4J.jpg</thumbnail>
