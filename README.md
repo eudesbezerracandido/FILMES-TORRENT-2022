@@ -27,6 +27,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] D.P.A.3- UMA AVENTURA NO FIM DO MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c31ff55b7e92104aecd0871e329e81615e778e4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/orXhDQCtC086ccqUdkwOwZqN0kQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em ‘DPA3 Uma Aventura no Fim do Mundo, Pippo (Pedro Henriques Motta), Bento (Anderson Lima) e Sol (Letícia Braga) se vêem em apuros quando Severino (Ronaldo Reis) encontra um objeto em meio aos escombros de um avião. O que parecia uma inofensiva relíquia era, na verdade, uma das faces do ‘Medalhão de Uzur’, responsável por controlar e manipular toda a magia existente no mundo. Assim que coloca o artefato no pescoço, o porteiro tão querido começa a se transformar em uma figura malígna.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DOCUMNETÁRIO - ED KEMPER-A MENTE DE UM MOSTRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:935c3121a9f317d2cdc682cd02818ab0711a115c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9YvVacA0HelpctBK62X1N4Ec4ym.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ed Kemper parece um gigante gentil que ajuda jovens. Mas por trás de seu sorriso charmoso, há um monstro pervertido. Gravações revelam as fantasias sombrias de um dos assassinos em série mais famosa dos Estados Unidos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NÃO POSSO SEM VOÇÊ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:880031cab0293cf45e7a2db332954bec5f0814b0</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6aqirmuzcJVCNI0VZGpCzfIIn4J.jpg</thumbnail>
