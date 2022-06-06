@@ -67,7 +67,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B]FIRE ISLAND-ORGULHO DE SEDUÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] FIRE ISLAND-ORGULHO DE SEDUÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FWYRVZBIJRCOVAHRMQOJZP4CUJUT4J47</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1CbO5NixfMKCLXTqSr3hsfBLXM3.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
@@ -77,7 +77,7 @@
 <item>
 <title>[COLOR silver][B] A EXTRAORDINARIA GAROTA CHAMADA ESTRELA DE HOLLYWOOD [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99eb7e78acfaed9e19cca25b07e84dada40dd02d</link>
-<thumbnail> A Extraordinária Garota Chamada Estrela em Hollywood</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/2h5C9SDYM3hk2xDJQZP0SKSVVZT.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Na sequência, Stargirl (Grace VanderWaal) explora o mundo fora de Mica, mais cheio de música, sonhos e possibilidades.</info>
 </item>
