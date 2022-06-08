@@ -19,6 +19,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] APENAS NÓS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FWURXPFX44CQT7T5YMFZ7IY3XBO6LLCX</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/atdiJehj7P7tBL6Chk9J4dTbHe.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Drama que segue uma filha, sua mãe e seu irmão mais novo, quando o relacionamento deles atinge um ponto crítico. O retrato da Grã-Bretanha moderna visto através dos olhos de uma família em crise chama a atenção para as questões que afetam comunidades marginais, incluindo jovens cuidadores, doenças mentais e identidade nacional.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AMORES REBELDES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JFOCFFDXR2WSLJPN44BCEFJZ2RKJ5ENJ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/p4Y3IV1lJLMlkS6YhzHBgm4UpMF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>As histórias de três casais de adolescentes se cruzam, expondo seus conflitos sobre identidade, amor e sexualidade, em uma sociedade digital que muda muito rápido e oferece tanto possibilidades incríveis quanto desafios extremos. Através de um retrato de seus amores e relacionamentos, os seis jovens tentam compreender melhor a sociedade à sua volta e essa fase ousada de suas vidas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MENTIRA NADA INOCENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CNDGHO4ZU4SN2QW25HXJKYZKSMKE2JTP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/csdwuOh4JoyE2IDrWERlar1cyev.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Katie Arneson está fingindo ter câncer. Formada em dança na universidade, o diagnóstico falsificado de Katie e a arrecadação de fundos a transformaram em uma celebridade do campus, cercada pela comunidade solidária com a qual sempre sonhou: um grupo unido de amigos, segurança em suas atividades acadêmicas e um relacionamento carinhoso com a namorada.Dependendo de uma bolsa para estudantes doentes para manter sua farsa, Katie descobre que o financiamento está em risco, a menos que ela possa fornecer cópias de seus registros médicos dentro de uma semana.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PALM SPRINGS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OQNKJ237YI6F4QWZTU7WHS7H4GSGG4HA</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/yf5IuMW6GHghu39kxA0oFx7Bxmj.jpg</thumbnail>
