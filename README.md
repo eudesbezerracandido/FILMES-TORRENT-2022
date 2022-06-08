@@ -27,6 +27,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O PESO DO TALENTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WFOCVZLFEAB4T6LJPWORBKOXB5TQJ6CY</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4KahLgGArTECtUJWN9ACGR6l1S.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Insatisfeito com sua carreira e enfrentando uma crise financeira, o ator Nicolas Cage (Nicolas Cage) resolve aceitar a oferta de um milhão de dólares para aparecer no aniversário de um grande fã. No entanto, as coisas tomam rumos selvagemente inesperados e Cage se vê forçado a fazer valer o seu próprio legado, recriando seus mais icônicos personagens para poder salvar todos que ama - e se salvar.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AMORES REBELDES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JFOCFFDXR2WSLJPN44BCEFJZ2RKJ5ENJ</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/p4Y3IV1lJLMlkS6YhzHBgm4UpMF.jpg</thumbnail>
