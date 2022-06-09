@@ -27,6 +27,23 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CIDADE PERDIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DK23OZMVNPNTFL52QVVUBJ4CDMQ46DAR</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vsX9gj7t56ZlMYKNYccskeW5adT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma romancista reclusa tinha certeza de que nada poderia ser pior do que ficar presa em uma turnê do livro com seu modelo de capa, até que uma tentativa de sequestro leva os dois para uma aventura na selva, provando que a vida pode ser muito mais estranha - e mais romântica - do que qualquer uma de suas ficções.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  TROCADOS ANTES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:912119ae763db3a20966d88039e0f9eb174876fb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/219z4DMY7oPFoC3mGVgP2lpQtmj.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Depois de vários abortos, tratamentos de fertilidade e no final de sua estabilidade financeira, Olivia e Brian recebem a notícia de que esperam gêmeos. Mas seu mundo vira de cabeça para baixo quando descobrem que um deles foi implantado por engano.</info>
+</item>
+
+
+<item>
 <title>[COLOR silver][B] O PESO DO TALENTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WFOCVZLFEAB4T6LJPWORBKOXB5TQJ6CY</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4KahLgGArTECtUJWN9ACGR6l1S.jpg</thumbnail>
@@ -35,11 +52,35 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMNETÁRIO - OS REFÉNS DE GLADBACK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CHVL7NB6XDWNIQFQMUC3YFAFYA6JY4YX</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3PZjv1WoTeZKK1Xl5nTVDbKZOWl.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O documentário Os Reféns de Gladbeck, aborda o caso que aconteceu na então Alemanha Ocidental, em agosto de 1988. Dois ladrões de banco armados controlaram a polícia por 54 horas, e três pessoas morreram durante o ataque: dois adolescentes reféns e um policial envolvido. O episódio chamou a atenção da mídia de toda a região, que acompanhou todos os desdobramentos trágicos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ARREMESSANDO ALTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7ab71c9c4b0a5e08fc32533f4a2eae57e3ca355</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/25aPHMlZNP5F3fgxUo4XB7xUVz7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de ser demitido, o olheiro profissional do basquete, Stanley Beren, fica empolgado, pela primeira vez em muito tempo, quando descobre por acaso o jogador amador espanhol, Bo Cruz, jogando em um parque nos arredores de Madri.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AMORES REBELDES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JFOCFFDXR2WSLJPN44BCEFJZ2RKJ5ENJ</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/p4Y3IV1lJLMlkS6YhzHBgm4UpMF.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>As histórias de três casais de adolescentes se cruzam, expondo seus conflitos sobre identidade, amor e sexualidade, em uma sociedade digital que muda muito rápido e oferece tanto possibilidades incríveis quanto desafios extremos. Através de um retrato de seus amores e relacionamentos, os seis jovens tentam compreender melhor a sociedade à sua volta e essa fase ousada de suas vidas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TED BUNDY - A CONFISSÃO FINAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2eef05c695bdfbfbf9855eccdb5b9c138a0de44f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/c1diSEnYzofbGFnWmYt2qTh5YuI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Thriller baseado diretamente nas transcrições de interrogações entre o analista do FBI Bill Hagmaier (Elijah Wood) e o serial killer Ted Bundy no corredor da morte.</info>
 </item>
 
 <item>
