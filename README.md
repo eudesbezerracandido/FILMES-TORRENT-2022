@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SOMENTE O MAR SABE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c6fe676df95d3151aed8b2726187dd273b128fa</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dcDSl251jGqrvqPTMNKRJBkV309.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A incrível e verdadeira história de Donald Crowhurst (Colin Firth), um marinheiro amador que competiu em 1968 a Sunday Times Golden Globe Race, na esperança de se tornar a primeira pessoa na história a dar a volta ao mundo sem parar. Com um barco inacabado, seus negócios e sua casa em risco, Donald deixa sua esposa Clare (Rachel Weisz) e seus filhos para trás, hesitantemente para embarcar numa aventura em seu barco, o Teignmouth Electron.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] APENAS NÓS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FWURXPFX44CQT7T5YMFZ7IY3XBO6LLCX</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/atdiJehj7P7tBL6Chk9J4dTbHe.jpg</thumbnail>
