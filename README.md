@@ -35,6 +35,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B]A HORA DO DESESPERO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6c9d73a554b2f9199e455ddbd3dfe21686991094</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xt3sIBS3Fy39JewUWJi9itj66pw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma mãe desesperada contra o tempo pra salvar sua filha de um atirador de escolas enquanto as autoridades determinam um lockdown em sua pequena cidade.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] BELFAST [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:637d69c9df5e638a76d2d093d8dee89e8e8488b7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3mInLZyPOVLsZRsBwNHi3UJXXnm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Escrito e dirigido por Kenneth Branagh, este filme semiautobiográfico traça a infância de um menino durante o tumultuado final dos anos 1960, na capital da Irlanda do Norte.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O ESPAÇO ENTRE NÓS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e6aaa7f0c3b3d6057a7f769b4fade73f84d13f02</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rzqf3ysrUjEbCVyITHUIBiMUp8q.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Los Angeles, década de 90. A cena musical está à todo vapor. Charlie Porter se esforça em galgar uma importante posição de executivo no ramo das gravadoras musicais. Ele acredita que sua oportunidade de ouro está em reinventar a figura musical de Micky Adams, antes um importante nome no Rock, convencendo o músico de romper o contrato com sua então gravadora.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CIDADE PERDIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DK23OZMVNPNTFL52QVVUBJ4CDMQ46DAR</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/vsX9gj7t56ZlMYKNYccskeW5adT.jpg</thumbnail>
