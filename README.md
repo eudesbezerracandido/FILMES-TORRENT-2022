@@ -27,6 +27,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B]  A JANGADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4e352b3ae64d8c7dfbd27a2088ac1beea58b9aa</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5b5JmtUvQZxJdDCBKyr9hBde2o.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Doze estranhos acordam numa clareira. Eles não sabem o motivo de estarem ali, nem como chegaram. Tampouco sabem que foram escolhidos para um único propósito: A Caçada, um serviço de caça humana para elites privilegiadas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ÁRVORES DA PAZ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:L277BJ2BCD2UUZLDX3J3ZWTKXDRFRBQ3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/afMQQrv7np2IycgkpymhOjqCsrs.jpg</thumbnail>
