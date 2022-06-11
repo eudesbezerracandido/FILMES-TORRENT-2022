@@ -27,6 +27,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ÁRVORES DA PAZ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:L277BJ2BCD2UUZLDX3J3ZWTKXDRFRBQ3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/afMQQrv7np2IycgkpymhOjqCsrs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quatro mulheres totalmente diferentes ficam presas em um esconderijo durante o genocídio de Ruanda e acabam formando uma grande amizade. Inspirado em uma história real.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SOMENTE VOÇÊ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4a3e69b8a387341555ca09a736ce608bd7d756f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/rMVITUa2UmPtBWtLAnxtYqSsAuv.jpg</thumbnail>
