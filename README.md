@@ -27,11 +27,27 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SOMENTE VOÇÊ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4a3e69b8a387341555ca09a736ce608bd7d756f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rMVITUa2UmPtBWtLAnxtYqSsAuv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> À beira de aceitar uma vida de independência e desejo de viajar, uma jovem visita uma antiga paixão em seu vinhedo na França e dá uma última chance a um relacionamento sério. Tom acabou de fazer trinta anos. Ela passou a vida inteira perseguindo seu desejo de viajar e coletando carimbos de passaporte. Agora confrontada com as expectativas da sociedade de uma mulher neste capítulo de sua vida, ela chega em um vinhedo no sul da França para revisitar o único homem com quem ela já pensou em se estabelecer. David está apaixonado por Tom desde a primeira vez que a conheceu em uma fogueira em uma praia na Califórnia, mas ele passou os seis anos desde que ela desapareceu se dedicando à árdua arte de fazer vinho. Quando David decide cancelar todos os planos que ele já fez e buscar o relacionamento que ele nunca foi capaz de esquecer, Tom tem que decidir se vai se comprometer com uma vida convencional ou continuar sua vida de aventuras.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] APENAS NÓS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FWURXPFX44CQT7T5YMFZ7IY3XBO6LLCX</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/atdiJehj7P7tBL6Chk9J4dTbHe.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Drama que segue uma filha, sua mãe e seu irmão mais novo, quando o relacionamento deles atinge um ponto crítico. O retrato da Grã-Bretanha moderna visto através dos olhos de uma família em crise chama a atenção para as questões que afetam comunidades marginais, incluindo jovens cuidadores, doenças mentais e identidade nacional.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] 14 CARTAS DE AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0714ce1a54b25a138f997d31770959731d06310c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/njtMnE4p7wb3PXEksqE5PU2Hu44.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois que cartas de amor históricas começam a aparecer anonimamente na caixa de correio de Kallie Sharp, a agricultora procura por seu admirador secreto e se abre para o amor.</info>
 </item>
 
 <item>
