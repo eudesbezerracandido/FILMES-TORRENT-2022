@@ -27,6 +27,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CARTÕES DE NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E3IPOHLWDP5HXV72WPO7C7BXYGTRZNKI</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7flqAGmYvZArxgNNfD3HNJ4Yur1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A recém solteira Jessica envia cartões de Natal para cinco pessoas que impactaram sua vida: a tia que a criou, seu irmão mais novo, uma estrela pop Jax, que forneceu a trilha sonora de sua vida, a professora de música que a inspirou e sua melhor amiga, Mimi.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SOMENTE O MAR SABE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c6fe676df95d3151aed8b2726187dd273b128fa</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/dcDSl251jGqrvqPTMNKRJBkV309.jpg</thumbnail>
