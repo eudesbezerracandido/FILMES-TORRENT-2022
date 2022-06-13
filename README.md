@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ARTHUR E MERLIN - E OS CAVALEIROS DE CAMELOT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f050d2fddcd5f5b11bdc9181c47e9c2d06f62a0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O rei Arthur volta para casa depois de lutar contra o Império Romano. Seu filho ilegítimo corrompeu o trono de Camelot e o rei Arthur deve se reunir com o bruxo Merlin e os cavaleiros da Távola Redonda para lutar para recuperar sua coroa.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ERA UMA VEZ UM CONTO DE FADAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZCSKQYXUSQ376BJX2A23WFXJQIZL67I4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/rBNX6kXx9ojBGLHTTqmC0z4QhSG.jpg</thumbnail>
