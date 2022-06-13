@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ERA UMA VEZ UM CONTO DE FADAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZCSKQYXUSQ376BJX2A23WFXJQIZL67I4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rBNX6kXx9ojBGLHTTqmC0z4QhSG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma adolescente obstinada é confrontada por personagens caprichosas quando é transportada para um mundo de fantasia e contos de fadas enquanto assiste a um espetáculo de marionetas na escola.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O HOMEM DO NORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f57e39710c20c02f21f1ac0ce1ddad26d11161c8</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/soT7KwQL5Bb5hjqcQumd1gTw33z.jpg</thumbnail>
