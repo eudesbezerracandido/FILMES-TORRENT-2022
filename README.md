@@ -30,6 +30,7 @@
 <title>[COLOR silver][B] SONIC - DUALÓGIA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:424d424b305d0c97e165c58ed1002c230d7cd81b$nome=SONIC O FILME</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2aaabb9d6a9b3de88f3964a73a42aa9307bfa3e3$nome=SONIC 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ececb6173a2c6eb90d43672d52dcf7f58aef42ad$nome=SONIC 4K</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/f4SvCKIUrC2cDR7Xo4k1kaGAqQ2.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/9PToHgJGNnK4zwqurT26aSTHNF.jpg</fanart>
 <info>Sonic, o ouriço azul mais famoso do mundo, se junta com os seus amigos para derrotar o terrível Doutor Eggman, um cientista louco que planeja dominar o mundo, e o Doutor Robotnik, responsável por aprisionar animais inocentes em robôs.</info>
