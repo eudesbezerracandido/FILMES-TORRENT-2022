@@ -11,6 +11,39 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] JURASSIC WORLD - DOMINÍO HDCAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MBNHTBK5HBTSZI3WIPP3NNPKKUNYBRM5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lz4PYhhcDvOcLu293dwRuHRvxoT.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jPejoBtWvO95ZYLMo3KJ0hvhcjf.jpg</fanart>
+<info>Anos após a destruição da fantástica ilha Nublar, dominada pelos gigantes do passado, os dinossauros já não estão mais somente lá. Estão entre nós e a única certeza de cientistas, como Ellie Sattler, Alan Grant e Ian Malcolm, é que humanos e dinossauros não podem habitar o mesmo ambiente. Será que o mundo corre perigo?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ANIMAIS FANTASTICOS - OS SEGREDOS DE DUMBLEDORE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae1292e138ace9d7f1d764274f95ea2e1a83ff0e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/u1XrqlIjQt2ghnA8nprpPiFzSzR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O professor Alvo Dumbledore sabe que o poderoso mago das trevas Gellert Grindelwald está se movimentando para assumir o controle do mundo mágico. Incapaz de detê-lo sozinho, ele pede ao magizoologista Newt Scamander para liderar uma intrépida equipe de bruxos, bruxas e um corajoso padeiro trouxa em uma missão perigosa, em que eles encontram velhos e novos animais fantásticos e entram em conflito com a crescente legião de seguidores de Grindelwald. Mas com tantas ameaças, quanto tempo poderá Dumbledore permanecer à margem do embate?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SONIC - DUALÓGIA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:424d424b305d0c97e165c58ed1002c230d7cd81b$nome=SONIC O FILME</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2aaabb9d6a9b3de88f3964a73a42aa9307bfa3e3$nome=SONIC 2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/f4SvCKIUrC2cDR7Xo4k1kaGAqQ2.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/9PToHgJGNnK4zwqurT26aSTHNF.jpg</fanart>
+<info>Sonic, o ouriço azul mais famoso do mundo, se junta com os seus amigos para derrotar o terrível Doutor Eggman, um cientista louco que planeja dominar o mundo, e o Doutor Robotnik, responsável por aprisionar animais inocentes em robôs.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UNCHARTED-FORA DO MAPA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7907112a681b2f9fbe1058276b20469e1c807ad4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7F4ji3bowguRGR6bRgrPZAKlpyU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uncharted narra as aventuras de Nathan Drake, um caçador de tesouros que age em cenários inspirados em Indiana Jones e Lara Croft, mas que, diferente dos arqueólogos, está mais preocupado com seu próprio bolso. No primeiro game, Drake precisa solucionar os mistérios de uma ilha tropical repleta de mercenários.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ARTHUR E MERLIN - E OS CAVALEIROS DE CAMELOT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f050d2fddcd5f5b11bdc9181c47e9c2d06f62a0</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg</thumbnail>
@@ -220,27 +253,11 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] JURASSIC WORLD - DOMINÍO HDCAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MBNHTBK5HBTSZI3WIPP3NNPKKUNYBRM5</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/lz4PYhhcDvOcLu293dwRuHRvxoT.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/jPejoBtWvO95ZYLMo3KJ0hvhcjf.jpg</fanart>
-<info>Anos após a destruição da fantástica ilha Nublar, dominada pelos gigantes do passado, os dinossauros já não estão mais somente lá. Estão entre nós e a única certeza de cientistas, como Ellie Sattler, Alan Grant e Ian Malcolm, é que humanos e dinossauros não podem habitar o mesmo ambiente. Será que o mundo corre perigo?</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] O LOBO ENTRE NÓS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32PPH74VGUA663P5W7UGVCABYQLQPNGX</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/43RUnOBA7VgEXzXw6Gx3lifullJ.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Inverno, noite de luar Duas mulheres com uma criança caminham pela floresta. E em algum lugar próximo, um lobisomem vagueia em busca de uma vítima. Ou uma besta, ou um homem, ou um fantasma.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] ANIMAIS FANTASTICOS - OS SEGREDOS DE DUMBLEDORE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae1292e138ace9d7f1d764274f95ea2e1a83ff0e</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/u1XrqlIjQt2ghnA8nprpPiFzSzR.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>O professor Alvo Dumbledore sabe que o poderoso mago das trevas Gellert Grindelwald está se movimentando para assumir o controle do mundo mágico. Incapaz de detê-lo sozinho, ele pede ao magizoologista Newt Scamander para liderar uma intrépida equipe de bruxos, bruxas e um corajoso padeiro trouxa em uma missão perigosa, em que eles encontram velhos e novos animais fantásticos e entram em conflito com a crescente legião de seguidores de Grindelwald. Mas com tantas ameaças, quanto tempo poderá Dumbledore permanecer à margem do embate?</info>
 </item>
 
 <item>
@@ -305,23 +322,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/w9QODeryktRQktmfZuxGNinna7M.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Dante passa seus dias entre fábricas, skates e cadáveres, mas a única coisa que realmente importa para ele é a banda de death metal que formou com seus melhores amigos. Lucy, a namorada de seu irmão em coma, chega para visitá-lo. Sua presença causa caos, confusão e esperança.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] SONIC - DUALÓGIA [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:424d424b305d0c97e165c58ed1002c230d7cd81b$nome=SONIC O FILME</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2aaabb9d6a9b3de88f3964a73a42aa9307bfa3e3$nome=SONIC 2</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/f4SvCKIUrC2cDR7Xo4k1kaGAqQ2.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/9PToHgJGNnK4zwqurT26aSTHNF.jpg</fanart>
-<info>Sonic, o ouriço azul mais famoso do mundo, se junta com os seus amigos para derrotar o terrível Doutor Eggman, um cientista louco que planeja dominar o mundo, e o Doutor Robotnik, responsável por aprisionar animais inocentes em robôs.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] UNCHARTED-FORA DO MAPA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7907112a681b2f9fbe1058276b20469e1c807ad4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7F4ji3bowguRGR6bRgrPZAKlpyU.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Uncharted narra as aventuras de Nathan Drake, um caçador de tesouros que age em cenários inspirados em Indiana Jones e Lara Croft, mas que, diferente dos arqueólogos, está mais preocupado com seu próprio bolso. No primeiro game, Drake precisa solucionar os mistérios de uma ilha tropical repleta de mercenários.</info>
 </item>
 
 <item>
