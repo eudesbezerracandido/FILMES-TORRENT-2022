@@ -53,6 +53,62 @@
 </item>
 
 <item>
+<title>[COLOR silver][B]  A IRA DE DEUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d20a7316d750188be468296069c6e1ba823915f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3fdh5M8Vt6PkS31bxLXMIn1GsaU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Convencida de que um famoso escritor está por trás das perdas trágicas que sofreu, Luciana pede a ajuda de um jornalista para revelar a verdade.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] JENNIFER LOPEZ-HALFTIME - DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f6e6254bd4ecb4966c84cf053f53b8abca6bd17</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mPdZnmpdNYdMcMEAqUaJd4OdXHL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> “Jennifer Lopez: Halftime” revela toda a garra e a determinação que levaram essa grande artista ao estrelato. O filme abre as portas para a vida da cantora, que fala sobre sua evolução como mulher latina, mãe e artista, assumindo o comando da própria carreira e usando sua voz para um propósito maior.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DESFILÉ DE CORAÇÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LEGZ6TMCNTZ2PI6RJUWY65MAOO4EEZV3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/A48bE3SKZKdaEXYXgOM9jYusp4I.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma carreirista de Varsóvia, que não gosta de cães, tem que ir a Cracóvia por motivos profissionais, onde conhece um viúvo encantador, seu filho e seu animal de estimação de quatro patas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CENTAURO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A26Q7CNHAWNV5DO2T2WX27WX767OV4WG</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yZkJCPLiw4AUnCHBtWgU4h1TmwW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Para pagar a dívida da mãe de seu filho, um piloto de moto passa a transportar drogas para um cartel, arriscando suas chances no esporte e a própria vida.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AMERICA SICARIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2EIN6GPHW4MRNX3CD4CMX4H2MJHGIV2A</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nQRPSUmHGLrFRPK6v3BI1frAM1O.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um gângster americano Erik Vasquez planeja se tornar o principal chefe do submundo mexicano, apenas para se ver fazendo inimigos tanto de poderosos cartéis quanto de seus próprios aliados, mesmo quando seu casamento com a grávida Gloria se deteriora diante de seus olhos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  EXORCISMO SAGRADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6URQSODIUW33V4YSFBBUL5GPXQDBHDKC</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7y181pPW5P6xhcEbAVTv01bVJov.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ao ser possuído durante um ritual de exorcismo, o padre Peter Williams (Will Beinbrink) acabou cometendo um terrível sacrilégio. Dezoito anos depois, as consequências de seu pecado voltam para assombrá-lo e acabam desencadeando uma batalha ainda maior entre o bem e o mal.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UM DIA PARA MORRER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5NFMQWSNMDPO7U762LW5K6NUEZGARFKT</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dzDEob3PyiGY25TxmeDx1yfifEP.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O ex-oficial de operações militares Connor Connolly tem um dia para pagar US$ 2 milhões em reparações a um líder de gangue local para salvar sua esposa sequestrada. Com a vida dela em jogo, Connor deve recrutar sua antiga equipe, liderada por Brice Mason, para realizar uma série de assaltos perigosos para pagar o dinheiro que ele deve e acertar contas com o chefe de polícia corrupto da cidade. Em uma corrida contra o tempo, a equipe deve confiar em seu treinamento tático e irmandade para salvar a si mesmos e aqueles que mais importam.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ERA UMA VEZ UM CONTO DE FADAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZCSKQYXUSQ376BJX2A23WFXJQIZL67I4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/rBNX6kXx9ojBGLHTTqmC0z4QhSG.jpg</thumbnail>
