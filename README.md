@@ -61,6 +61,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O DESPERTAR DO TIGRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5Y5TUVUQGQQQBIW2DMMZ5AP5WPWWOGNK</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/x2GFHvPMhSiCTmCVrdYGPU5SfH3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Rob Horton, um garoto de 12 anos, encontra um tigre enjaulado na floresta perto da sua casa. Após isso, ele conhece Sistine Bailey, uma garota que sabe demonstrar seus sentimentos tão bem quanto Rob esconde os seus. Enquanto os dois aprendem a confiar um no outro, Rob e Sistine percebem que algumas coisas - como memórias, desilusões e tigres - não podem ficar presas pra sempre.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] JENNIFER LOPEZ-HALFTIME - DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f6e6254bd4ecb4966c84cf053f53b8abca6bd17</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mPdZnmpdNYdMcMEAqUaJd4OdXHL.jpg</thumbnail>
