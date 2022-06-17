@@ -53,6 +53,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B]  CHA CHA REAL SMOOTH - O PROXIMO PASSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ATSJO3P6X2HHH4XMLGM5L7KFAEH3PV3U</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/z8IPItbwRrJ3QWdCePOnWS1jueY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um homem (Cooper Raiff) aceita o trabalho de ser animador de bar mitzvah — uma pessoa que leva os convidados jovens pra pista e os divertem — enquanto separadamente inicia uma amizade com uma jovem mãe (Dakota Johnson) e sua filha autista.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] HERÓIS DE GEURRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a98c19218e83a999ee938f0c72c3a7092c46fae</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/AttAWFTg1K4Qxjo12nMhu8NQIFR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>1999. A Sérvia é bombardeada e a região de Kosovo é deixada para bandidos sob o comando do senhor da guerra albanês, Smuk. A remoção dos órgãos humanos ocorre dentro dos territórios que os bandidos tomaram, os roubos, assassinatos em massa e genocídio. O oficial da inteligência russa Bek Ethoev e o ex pára-quedista transformaram o mercenário Andrey Shatalov em chefe de um pequeno destacamento encarregado da missão perigosa de parar o terrorismo, recapturar o aeródromo usado pelos bandidos e resgatar o interesse amoroso de Shatalov.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] JERRY E MARGE TIRAM A SORTE GRANDE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WUTSB57RSI66JSYLNIW7UROU563LOXGO</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/bbBGSm1kjgmZ0O3bPUQIbA0xlKQ.jpg</thumbnail>
