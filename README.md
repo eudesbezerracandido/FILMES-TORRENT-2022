@@ -53,6 +53,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] JERRY E MARGE TIRAM A SORTE GRANDE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WUTSB57RSI66JSYLNIW7UROU563LOXGO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bbBGSm1kjgmZ0O3bPUQIbA0xlKQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Baseado na história real sobre o casal Jerry e Marge Selbee, que ganhou na loteria e usou o dinheiro para reviver sua pequena cidade.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MARIYA - O SIMBOLO DE UMA GEURRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:626TBVW3V7I6TMT3GK26ZE6GOKQEMA2J</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tKhZ07SBiTaCljSOXyseUrzQQfJ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um emocionante drama de guerra que conta a história de Maria Petrova, em cujo destino, como em um espelho, o destino do país se refletiu: a filha de um padre, que renunciou ao pai e à fé, ela serve no NKVD. Na véspera da batalha por Moscou, Maria conhece a vidente anciã Matrona, e logo é Maria quem é encarregada de entregar a Moscou o ícone milagroso da Mãe de Deus, localizado atrás da linha de frente no território ocupado.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SPIDERHEAD [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HICUPVQAWHXTDQBLURXH22O7TYQ5SQHG</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/s5h2bC7nPGp0mQDYAv3j8HEKL09.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em um futuro próximo é oferecido aos condenados a chance de se voluntariarem como cobaias humanas e encurtar suas sentenças. Quando um prisioneiro testa um novo produto farmacêutico capaz de gerar sentimentos de amor, ele começa a questionar a realidade de suas emoções e se propõe a descobrir a verdade.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B]  A IRA DE DEUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d20a7316d750188be468296069c6e1ba823915f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/3fdh5M8Vt6PkS31bxLXMIn1GsaU.jpg</thumbnail>
