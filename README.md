@@ -53,6 +53,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] COLISÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HB2SGH265GIZV7DFCVRRMHVPKU4AOUM4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/we29hZxAupvAOkmceHTUkos8RmS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ele quer fazer música, mas o amigo dele prefere fazer dinheiro. Os dois acabam se envolvendo com um poderoso criminoso, e as consequências são terríveis.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DOG - A AVENTURA DE UMA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6OS5NEXYQOBWJTGRMDCF435LLTJPUW43</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gln0b5rezteLuyv9kO1q0h0vqnA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um soldado atravessa o país ao lado de seu cachorro Lulu para chegar ao funeral de seu melhor amigo. Um deles tem apenas uma semana para viver, o outro vive todos os dias como se fosse o último. Juntos, eles irão tirar a paciência um do outro, quebrar algumas leis, se meter com uma gangue de traficantes, ensinar um ao outro como amar novamente e se dar uma chance para uma nova vida.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B]  CHA CHA REAL SMOOTH - O PROXIMO PASSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ATSJO3P6X2HHH4XMLGM5L7KFAEH3PV3U</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/z8IPItbwRrJ3QWdCePOnWS1jueY.jpg</thumbnail>
