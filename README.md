@@ -69,6 +69,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O PAI DA NOIVA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13bf7558412eee87b96be8de89b4ee8821cc304b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6605qfGpSGqNcUNY0nUgeE5z01v.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um pai enfrenta o próximo casamento de sua filha através do prisma de múltiplos relacionamentos dentro de um grande e extenso clã cubano-americano.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B]  CHA CHA REAL SMOOTH - O PROXIMO PASSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ATSJO3P6X2HHH4XMLGM5L7KFAEH3PV3U</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/z8IPItbwRrJ3QWdCePOnWS1jueY.jpg</thumbnail>
