@@ -45,6 +45,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] THE SUPERDEEP LEGENDA FIXA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70D8DC3EE9A3435781995E7BED53EE4E9000C414</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dhmiis5tWA6aHpcLgAqadt8NY5H.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O Poço Superprofundo de Kola é um dos locais mais secretos da Rússia. Em 1984 sons inexplicáveis, similares a gritos, foram gravados a uma profundidade de mais de 12 quilômetros. Após esses eventos, o local foi selado. Uma equipe de pesquisadores desceu abaixo da superfície para descobrir qual segredo o poço mais profundo do mundo estava escondendo. O que eles descobriram acabou sendo a maior ameaça da história. E o futuro da humanidade está em suas mãos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O MISTÉRIO DAS PALAVRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b22ee5b54c796e2a7fcf5d5e604107129050a8a4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/vE5BiUSVKiSiDiFMvsgDa0qCQLT.jpg</thumbnail>
