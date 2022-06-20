@@ -45,6 +45,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O MISTÉRIO DAS PALAVRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b22ee5b54c796e2a7fcf5d5e604107129050a8a4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vE5BiUSVKiSiDiFMvsgDa0qCQLT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Tess é convidada para fazer parte de um game show popular, mas quando o apresentador é inesperadamente assassinado, ela e o detetive Logan O'Connor tentam descobrir quem está por trás de tudo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ARTHUR E MERLIN - E OS CAVALEIROS DE CAMELOT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f050d2fddcd5f5b11bdc9181c47e9c2d06f62a0</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9ERu4fmY6N0J7NaTGPU0boJcy3X.jpg</thumbnail>
