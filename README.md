@@ -45,6 +45,62 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O HOMEM DE TORONTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6697c5807aaf79177dc50791d2676572255c9b4d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/A7WtrzlvLAhdmXObY9aZCRhtAMs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O que acontece quando o assassino mais mortal do mundo, conhecido como 'O Homem de Toronto', e Teddy, o maior estrago de Nova York, são confundidos um com o outro em um airbnb alugado? O homem de Toronto e Teddy são forçados a se unir e salvar o dia, mas a verdadeira questão é: eles sobreviverão um ao outro?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] RISE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b38819cb9ff1ca27db688b56036dd6ddda3d779e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/p6FMYJSc9vhyqzMaYOC8yPS7aXQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Baseado na história da vida real sobre a família que produziu o primeiro trio de irmãos a se tornarem campeões da NBA na história da liga.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] EM FUGA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77B5GVAUUN5POYMEB2LHET4JUOASVNVD</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dkZAsGX4xXsy6rhTnvi5EdbB0Qx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Na trama, a dançarina Gypsy Moon (Heady) trabalha em um burlesco local pela noite, mas ao longo do dia tenta ser uma escritora aspirante. No seu último dia no seu trabalho como dançarina, Gypsy vai partir em uma jornada cheia de ação e desenfreada para tentar salvar o filho do vizinho (Dean Scott Vasquez) que foi ameaçado pelo seu antigo amante (Worthington).</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] POST MORTEM - FOTOS DO ALÉM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IUV6JCAFTROHQURLPKUEO4IB474RZGZV</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3Ux89Yav96jeUR0PL6uloqmAji6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um fotógrafo post mortem e uma menina enfrentam fantasmas, em uma vila mal-assombrada após a Primeira Guerra Mundial. Após a Primeira Guerra Mundial, Tomas, um jovem fotógrafo de cadáveres, chega a uma pequena vila húngara acompanhado de Anna, uma menina órfã. Logo, ele se sente aprisionado no local, com as estranhas sombras, os barulhos noturnos, a hostilidade dos habitantes e as mortes suspeitas. Com a ajuda de Anna e convencido da existência de fantasmas, Tomas decide investigar uma maneira de libertá-los.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] GUARDIÕES DO TEMPO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c9e52039cadd7bf47d04e9f8e8b58a230456c558</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iYkzHd81ZsLQHa12oUhBVIS7ToY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma garotinha tenta salvar seus pais adotivos, opondo-se às forças do mal de outro mundo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ASSASSINO SEM RASTRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GVL2QAXHHUC5KUGMCKOACF2KJ6TF7YR5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/emj0dVlz5zSnvOfMZJA2zrWyW6Z.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ambientado em 2040, sobre um homem que escolhe viver com sua esposa que faleceu de câncer através da Yonder Liner (realidade virtual). Emissora: TVING • Episódios: 6 • Duração: 30 min.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AMOR & GELATO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ETCIRZVSFX4ZL5SWQ3HEVMFLRDV6D65</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2qXCNa3w1rOZ4w7VXivVxXK4s0l.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Atendendo ao último desejo da mãe, Lina decide passar o último verão antes da faculdade em Roma, onde descobre o amor, muitas aventuras e a paixão pelo gelato.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] THE SUPERDEEP LEGENDA FIXA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70D8DC3EE9A3435781995E7BED53EE4E9000C414</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/dhmiis5tWA6aHpcLgAqadt8NY5H.jpg</thumbnail>
