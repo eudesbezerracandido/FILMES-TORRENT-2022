@@ -45,6 +45,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BRUNA LOUISE - DEMOLIÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2458c57d89178ced4e11aaddb107fe662a9de84</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3zASk0BRyhtlS8TYDKoduMB2Ein.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A comediante Bruna Louise é mestre na arte dos relacionamentos, ou não. Para lidar com tantos encontros desastrosos, só mesmo com muito humor, ironia e sarcasmo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O HOMEM DE TORONTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6697c5807aaf79177dc50791d2676572255c9b4d</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/A7WtrzlvLAhdmXObY9aZCRhtAMs.jpg</thumbnail>
