@@ -45,6 +45,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FRONTEIRA VIRTUAL - IN THE CLOUD [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a06371149aff1637ab2daa94034e538b1d73e8f5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4EPxPtPbgbid2bBvwJ1PbW1KLgL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após dezenas de pessoas serem mortas em ataques terroristas em série, dois gênios da tecnologia criam uma maneira de acessar as memórias do terrorista em um espaço virtual.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] GLAMOURS GIRLS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab1860424c53b53f3b4f0a3fe06685aede6a1ec6</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zbeIzcnq7gecuD6hsHYFJKfpwaI.jpg</thumbnail>
