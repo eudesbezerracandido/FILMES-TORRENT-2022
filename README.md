@@ -53,6 +53,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O REI DA FESTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WCR7XIAPBATETTMH6GD5UQIIMIJM7J5W</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/58wdFd013l6bRjpViTv5PYy2EQ4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Durante uma crise emocional, um homem escolhe viver a vida de seu irmão gêmeo que acreditava estar morto. Após essa experiência, sua identidade é completamente transformada.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] 7TH UNION [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:449967e25df2623737fb16dadbb40aef731fb67b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/14AKMCxtF11UlYXLyjmTP22vDtl.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Raymundo, um ex-boxeador mexicano, forma um vínculo improvável com um ex-campeão fracassado cuja vida e relacionamento com sua filha estão desmoronando. Os dois homens unem forças para vencer uma luta que pode muito bem salvá-los e dar a sua família a chance de uma vida melhor.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BRUNA LOUISE - DEMOLIÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2458c57d89178ced4e11aaddb107fe662a9de84</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/3zASk0BRyhtlS8TYDKoduMB2Ein.jpg</thumbnail>
