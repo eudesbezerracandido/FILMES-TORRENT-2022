@@ -45,6 +45,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] GLAMOURS GIRLS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ab1860424c53b53f3b4f0a3fe06685aede6a1ec6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zbeIzcnq7gecuD6hsHYFJKfpwaI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Na história, um grupo de mulheres acaba sendo atraído para o mundo das acompanhantes de luxo incentivadas pelas diversas promessas de faturamento milionário e vida glamourosa. Quando um assassinato acontece, no entanto, elas percebem que o preço a pagar pelo luxo pode ser alto demais.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BRUNA LOUISE - DEMOLIÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2458c57d89178ced4e11aaddb107fe662a9de84</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/3zASk0BRyhtlS8TYDKoduMB2Ein.jpg</thumbnail>
