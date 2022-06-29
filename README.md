@@ -45,6 +45,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BEAUTY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c12d87e9b0dea3c31f8f5475befa529987d7cef</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6GthSUar88z9Z4OoDv7VpJz2qQW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma mulher negra, jovem e talentosa recebe a proposta de um contrato de gravação lucrativo e luta para manter sua voz e identidade, detonando uma batalha entre a família, a gravadora e sua melhor amiga para definir quem será sua guia na jornada rumo ao estrelato.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1321eeef862e1e37f56c20043ae1202779e1c43</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1P3v0WR5P4Eb1KviNz3ucd1BMc0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma exploração da vida de Ted Kaczynski em Lincoln, Montana, nos anos que antecederam sua prisão como O Unabomber (codinome).</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FRONTEIRA VIRTUAL - IN THE CLOUD [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a06371149aff1637ab2daa94034e538b1d73e8f5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4EPxPtPbgbid2bBvwJ1PbW1KLgL.jpg</thumbnail>
