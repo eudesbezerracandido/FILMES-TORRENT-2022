@@ -53,6 +53,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOIS AMIGOS E UMA AMEAÇA ALIENIGENA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e04531efbd18eb92feea0eac493dd9450fcb2b07</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jDCuTGYlZChQ1acAVbXHJnAxiF7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma invasão alienígena interrompe uma despedida de solteiro. Ainda bem que dois amigos de infância estão prontos para revidar… com armas a laser!</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1321eeef862e1e37f56c20043ae1202779e1c43</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1P3v0WR5P4Eb1KviNz3ucd1BMc0.jpg</thumbnail>
