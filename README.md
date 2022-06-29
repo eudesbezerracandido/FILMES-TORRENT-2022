@@ -61,6 +61,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BEANS-A PEQUENA GUERREIRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:U7VI7GD4SCMZHTRUY627A6TUDPF7HLJH</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ff2s9KdHxLGNj32ad7Fsy4eDMVl.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O longa narra o impasse de 78 dias entre duas comunidades Mohawk e as forças do governo em 1990, em Quebec. Baseado em uma história real. Beans é uma garota de 12 anos da tribo indígena Mohawk, que é forçada a amadurecer rapidamente para enfrentar o impasse de 78 dias, um enfrentamento que aconteceu na década de 90 entre a sua comunidade, que queria preservar suas terras, e o Governo do Canadá, que pretendia construir um campo de golfe no local. Enquanto enfrenta as difíceis questões da adolescência, Beans descobre as dificuldades enfrentadas por usar sua voz para o ativismo e os impactos devastadores do racismo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1321eeef862e1e37f56c20043ae1202779e1c43</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1P3v0WR5P4Eb1KviNz3ucd1BMc0.jpg</thumbnail>
