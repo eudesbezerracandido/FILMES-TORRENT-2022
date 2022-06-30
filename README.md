@@ -53,6 +53,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BEM VINDA ESTRANHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36b8ce56dbc6a6e2219f77a1db8ce190af597bb7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mcaVZEsQ3dxz8fzJYZSEazGBvvA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Alice chega sem aviso prévio na casa de seu irmão Ethan, em uma tentativa de conciliação, mas visões bizarras, o retorno de sua estranha namorada e a paranoia e suspeita de Alice forçam os irmãos a se agarrar à realidade em meio a circunstâncias misteriosas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DOIS AMIGOS E UMA AMEAÇA ALIENIGENA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e04531efbd18eb92feea0eac493dd9450fcb2b07</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jDCuTGYlZChQ1acAVbXHJnAxiF7.jpg</thumbnail>
