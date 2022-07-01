@@ -45,6 +45,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A PRINCESA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RSDYKDYI7JRR4RP5KXX4QKIHRD3QA74T</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kp6SsW7uwDYRxkqUysIHJYTZ3hV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando uma princesa bela e determinada se recusa a se casar com o cruel sociopata para quem está prometida, ela é sequestrada e trancada em uma torre remota no castelo de seu pai. Com seu pretendente desprezado e vingativo querendo tomar o trono, a princesa deve proteger sua família e salvar o reino, custe o que custar. A história não foi divulgada mas é descrita como uma mistura de Rapunzel e Operação Invasão.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BEAUTY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c12d87e9b0dea3c31f8f5475befa529987d7cef</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6GthSUar88z9Z4OoDv7VpJz2qQW.jpg</thumbnail>
@@ -74,14 +82,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/ff2s9KdHxLGNj32ad7Fsy4eDMVl.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> O longa narra o impasse de 78 dias entre duas comunidades Mohawk e as forças do governo em 1990, em Quebec. Baseado em uma história real. Beans é uma garota de 12 anos da tribo indígena Mohawk, que é forçada a amadurecer rapidamente para enfrentar o impasse de 78 dias, um enfrentamento que aconteceu na década de 90 entre a sua comunidade, que queria preservar suas terras, e o Governo do Canadá, que pretendia construir um campo de golfe no local. Enquanto enfrenta as difíceis questões da adolescência, Beans descobre as dificuldades enfrentadas por usar sua voz para o ativismo e os impactos devastadores do racismo.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1321eeef862e1e37f56c20043ae1202779e1c43</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/1P3v0WR5P4Eb1KviNz3ucd1BMc0.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Uma exploração da vida de Ted Kaczynski em Lincoln, Montana, nos anos que antecederam sua prisão como O Unabomber (codinome).</info>
 </item>
 
 <item>
