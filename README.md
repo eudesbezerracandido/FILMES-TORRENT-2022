@@ -61,6 +61,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] EM BUSCA DO PORTAL MAGICO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WTUALBSM4Y3I64NNFM6G6VT6RCVIF2UY</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xskyvcKEvsGtv7FKavCIMEKw374.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Adaptação da história de mesmo título de Anna Onichimowska. É um conto poético sobre o quão difícil é ser uma criança no mundo adulto. Dawid e Monika são crianças e são vizinhos que rapidamente se tornam amigos. Relutante no início, Dawid gradualmente deixa a selvagem Monika puxá-lo ao seu mundo. O sonho de Monika é encontrar sua falecida avó que, de acordo com Monika, é uma dançarina de hula vivendo no Havaí.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BEAUTY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c12d87e9b0dea3c31f8f5475befa529987d7cef</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6GthSUar88z9Z4OoDv7VpJz2qQW.jpg</thumbnail>
