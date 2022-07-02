@@ -53,6 +53,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O JOGO DO BUNKER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2NTBRCVI6E7TTPNYLGTU4XA6D67H6EUI</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nqnpWetItUfRV7kwmGQ1DTthqWU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após vários acidentes misteriosos, um RPG ao vivo acaba cancelado. Enquanto uma equipe investiga o que aconteceu, eles percebem que ficaram presos dentro do jogo em uma terrível luta pela sobrevivência.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BEAUTY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c12d87e9b0dea3c31f8f5475befa529987d7cef</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6GthSUar88z9Z4OoDv7VpJz2qQW.jpg</thumbnail>
