@@ -45,6 +45,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O SOUVENIR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4576bacfc508db88fb8df2cddedcb04661712419</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ayMDun9vLHWclIN6bXitRlCrLII.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Sequência do filme The Souvenir. Um mistério e romântico longa que se centra em uma jovem estudante de cinema que está envolvida em seu primeiro caso sério de amor com um homem complicado e indigno de confiança. - Robert Pattinson desistiu do filme devido ao conflito de agendas. Charlie Heaton e Harris Dickinson foram escalados para ocupar o lugar de Pattinson no filme.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A PRINCESA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RSDYKDYI7JRR4RP5KXX4QKIHRD3QA74T</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kp6SsW7uwDYRxkqUysIHJYTZ3hV.jpg</thumbnail>
