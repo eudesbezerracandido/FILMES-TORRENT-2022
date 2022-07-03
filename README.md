@@ -53,6 +53,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B]  MINHA VONGANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:URV2JSFJPVQNPJKN57MAT7E7H2MN7RZP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qAy3rQS3ZLoarmB2nfyk9MvILco.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Harry (Con ONeill) é um homem quebrado, ainda lutando para aceitar o assassinato de sua esposa e filha 5 anos antes. Quando ele descobre o paradeiro dos assassinos, ele desperta de sua dor e, como um anjo vingador, resolve nunca parar até que todos estejam mortos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UM JOGO ENTRE AMIGOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9bb431990113a8f12d69234a8a2d8a1329314a9e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fnu6j6uHctVJuGKIt3z3Dk7cWhI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando um grupo de amigos faz uma pausa de suas vidas ocupadas para se embebedar enquanto joga um estranho jogo de tabuleiro, seus segredos mais sombrios vêm à tona e as situações mais loucas os forçam a confrontar seu passado. Eu não tinha ouvido falar da comédia de terror de 2022 Gatlopp: Hell of a Game antes de sentar para assistir.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O JOGO DO BUNKER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2NTBRCVI6E7TTPNYLGTU4XA6D67H6EUI</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nqnpWetItUfRV7kwmGQ1DTthqWU.jpg</thumbnail>
