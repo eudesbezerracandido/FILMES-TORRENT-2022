@@ -61,6 +61,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CASTLE FALLS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AVPB7YBZIIBBGPUXDR5WBQH6CXNQRLGY</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hcmtEns8LZdkztVz5kX3cirugaa.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A trama vai focar no lutador Mike, que consegue um emprego em um prédio prestes a ser demolido. No entanto, duas gangues comparecem ao local para retirar uma quantia enorme de dinheiro em um dos apartamentos, mas o lucro acaba caindo nas mãos do protagonista.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B]  MINHA VONGANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:URV2JSFJPVQNPJKN57MAT7E7H2MN7RZP</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qAy3rQS3ZLoarmB2nfyk9MvILco.jpg</thumbnail>
