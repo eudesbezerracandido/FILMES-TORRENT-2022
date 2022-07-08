@@ -53,6 +53,38 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A GAROTA DA FOTO - DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JBZU72PXH5TODV3NXDB5RDMQCR44HDLK</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gpSCTm48XkH6npoioVqaUjmcJfM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Neste documentário, uma mulher encontrada quase morta à beira de uma estrada deixa um filho, um homem que diz ser seu marido e um mistério que mais parece um pesadelo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  ÓLA, ADEUS E TUDO MAIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6022c0dd39b6af223b8688f0572b969a774e9620</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5ylwAm72InwqOcr32nwk9hlNz05.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Clare e Aidan combinam de terminar o namoro antes da faculdade, sem mágoas. Mas o encontro de despedida promete ser inesquecível.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DE VOLTA AO BAILE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3defa0eb47f1f582d019f86ccfa0ba7b9fb764af</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xrP0WLCpfUprD0PHobzxK1VBUCL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma líder de torcida acorda após um coma de 20 anos, e retorna ao colégio para tentar recuperar seu status e reivindicar a coroa de rainha do baile que a iludiu.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] VINGANÇA FATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:243542625c3724f730b6ad3ee609d0559340fd27</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tiKwWmCxO4E1WxCGuBb8P8kCNvH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando sua filha é brutalmente assassinada e a justiça legal parece improvável, William Duncan toma faz a lei com suas próprias mãos, partindo em busca de vingança. Depois de matar o bandido de rua que foi diretamente responsável pela morte, ele se encontra no meio de uma guerra com o irmão do bandido, Rory Fetter, e sua gangue, que estão igualmente empenhados em se vingar de seu membro morto. O que se segue é um tenso jogo de vai-e-vem da sede de vingança de um homem sobre o outro. William descobre que a busca por vingança sempre tem o mesmo final.C</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A PRINCESA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RSDYKDYI7JRR4RP5KXX4QKIHRD3QA74T</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kp6SsW7uwDYRxkqUysIHJYTZ3hV.jpg</thumbnail>
