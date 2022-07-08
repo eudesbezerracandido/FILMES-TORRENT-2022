@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A FERA DO MAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d10bce312fa90d64dd5e7c8e1c93b22079968361</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7363mrbx0Le5VOgX3GuxTF8ORbN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma menina entra escondida no navio de um grande caçador de monstros marinhos. Juntos, eles iniciam uma jornada épica por águas desconhecidas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] LIGAÇÕES PERIGOSAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4702ef5b9a7c85a7519ee5b4c4ae39d2cd46ddd</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gFZ989Gx6STFavbglCwkVkVkKz3.jpg</thumbnail>
