@@ -2,12 +2,36 @@
 
 
 <item>
-<title>[COLOR silver][B] THOT - AMOR & TROVÃO (HDCAM) LEGENDADO INGLÊS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] THOR - AMOR & TROVÃO (HDCAM) LEGENDADO INGLÊS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d26f48dee57e51b3a0e7c66ea032b90a312a4b49$nome=THOT - AMOR & TROVÃO LEGENDADO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a3859e6d4a925e4c0499489484a44bd1c317ae7$nome=THOT - AMOR & TROVÃO DUBLADO</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6OEBp0Gqv6DsOgi8diPUslT2kbA.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Thor parte em uma jornada diferente de tudo que já enfrentou – uma busca pela paz interior. Mas sua aposentadoria é interrompida por um assassino galáctico conhecido como Gorr, o Carniceiro de Deus, que busca a extinção dos deuses. Para combater a ameaça, Thor pede a ajuda do Rei Valquíria, Korg e da ex-namorada Jane Foster, que – para surpresa de Thor – inexplicavelmente empunha seu martelo mágico, Mjolnir, como o Poderoso Thor. Juntos, eles embarcam em uma angustiante aventura cósmica para descobrir o mistério da vingança do God Butcher e detê-lo antes que seja tarde demais.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] HOT SEAT - SOBRE EX: HACKER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:318aaab78322415390f67ea4fa0d82680787f3d0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6zoA2yEfKs8hNFlk4AV28VpoT3I.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um ex-hacker é forçado a invadir instituições bancárias de alto nível. Um jomem deve tentar entrar no prédio com armadilhas para tirar o jovem de perigo</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] LIGAÇÕES PERIGOSAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4702ef5b9a7c85a7519ee5b4c4ae39d2cd46ddd</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gFZ989Gx6STFavbglCwkVkVkKz3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A estudiosa Célène se apaixona pelo rebelde Tristan, sem saber que ela faz parte de uma aposta cruel dele com Vanessa, a rainha das redes sociais da escola.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] THE COLOURS ROOM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54e4cf3b89222087051aaf7deb38c12b6a23863a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/i87PyzMOpYYLVtrcFWzErcOOPZT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Segue um artista de cerâmica pioneiro que ganhou destaque na década de 1920 enquanto trabalhava na indústria de cerâmica de Stoke-on-Trent na Grã-Bretanha.</info>
 </item>
 
 <item>
