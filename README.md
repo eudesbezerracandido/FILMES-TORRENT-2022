@@ -53,6 +53,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PLANOS DIABÓLICOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2UUOGZISKUSWZQ3C7R66YWVLXPHW7DWZ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/p52n7VdIhB7TlPDBL9FEBZ6cjc3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O pai recentemente divorciado de uma menina de nove anos, furioso por sua filha não poder passar o aniversário com ele, irrompe em sua sala de aula com um bolo de aniversário e um rifle. Segue-se uma crise de reféns, e o prefeito da cidade em que acontecem os acontecimentos tentará aproveitar a situação para tirar vantagem antes das eleições, sem parar por nada. O filho de um jovem policial está na mesma classe e, antes que os acontecimentos se desenrolem, ele também terá que responder a uma pergunta. (Representante da Croácia no Oscar 2021)</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A GAROTA DA FOTO - DOCUMENTÁRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JBZU72PXH5TODV3NXDB5RDMQCR44HDLK</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gpSCTm48XkH6npoioVqaUjmcJfM.jpg</thumbnail>
