@@ -11,6 +11,54 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BASTARDOZ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7HIVQFPWIAMPNECT3MLOQPC6PRK4BJX5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ac9cLKaSWBRtdOEFzOZkm2YnhUh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Meses depois que combates sangrentos deixaram milhares de mortos nas trincheiras. Jan Lozano, capitão da Quinta Brigada, é preso pelo pelotão de um oponente junto com um jovem piloto enquanto realizava uma missão. A possibilidade de morrer executado logo será superada quando surgir um novo inimigo desconhecido.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A VIÚVA NEGRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JOUMG2O5KVAZM5VAUDY3ZA3TRW4XE4IH</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tGkpjxJ96EV0T7HiFkEt7C5h3ds.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Descoberta em seu esconderijo no Canadá, a antiga rainha do tráfico, Carmen, precisa voltar a Amsterdã para resolver negócios inacabados e manter sua família segura.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A FUGA DE AKILLA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:G4VY2EMRSVUFXVCWNHEG2VQE4YHCPJR5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7F3zWqksCUYErdDRugVQOQgY8NJ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em um crime noir sobre a criança-soldado urbana, Akilla Brown captura um menino jamaicano de quinze anos após um assalto à mão armada. Durante uma noite cansativa, Akilla enfrenta um ciclo de violência geracional do qual ele pensou ter escapado.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UMA FOTO ANTES DE MORRER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VGX55SD4IUNEF5I3Q3C57WI4NA6GWCIM</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tFV3QPG9NBjJChRWdBJWgtiTFLZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Na Rússia rural, um grupo de amigos se envolve em uma colisão com um veículo. Em busca de ajuda, eles acham uma cabana onde encontram uma foto representando seu acidente.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MALIBU CRUSH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:066ece43763c6dcf96bf3b9b1c5684cbf9f1fa77</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8TszCQUjievKmO0i8eMpXQIQQSz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dois grandes amigos de Pasadena fingem ser estudantes de cinema, altamente aclamados, para impressionar e declarar seu amor por uma ex-namorada. Ela vive em Sydney, Austrália e para encontrá-la eles farão muitas loucuras.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TUDO POR JOJO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KHDSIG26TQRO3JE4P2JJRRIBJN75WFWE</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bwNP1sdvzpnoslaXqzSzxbCrL8d.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Paula faz de tudo para sabotar o casamento de Jojo depois que a amiga se apaixona e deixa para trás as loucas aventuras que as duas viviam em Berlim.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] HOT SEAT - SOBRE EX: HACKER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:318aaab78322415390f67ea4fa0d82680787f3d0</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6zoA2yEfKs8hNFlk4AV28VpoT3I.jpg</thumbnail>
