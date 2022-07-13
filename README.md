@@ -27,6 +27,38 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TORN HEARTS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:M5NXZY2ILUOX7KZ3W7AEUFYEL53HWXWU</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w8dSAuMHUgx0lYSB6wAAURStcGM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma dupla de country em ascensão procuram abrigo na mansão reclusa de sua ídola, Harper Dutch (Katey Sagal). O que começa como uma visita amigável se transforma em uma série de absurdos que forçam os amigos a encarar até onde eles estão dispostos a ir pra realizar seus sonhos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DOULA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QTHHPTYBLCYK4ORGNKMO2BNSOEMRYDUZ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/j6cA486hZEEyqmy12D0YmOlJyqp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Depois de alguns meses de namoro, Deb (Troian Bellisario) e Silvio (Arron Shiver), em seus trinta e poucos anos, estão esperando seu primeiro filho. Quando sua parteira idosa, Penka, morre repentinamente, Silvio toma a decisão precipitada de contratar o filho de Penka, Sascha (Will Greenberg), como doula. Deb fica perplexa, pois Silvio não a consultou antes de contratar, mas em pouco tempo, o estilo não convencional de Sascha a conquista. À medida que Deb e Sascha se aproximam, e a gravidez se aproxima de sua conclusão inevitável, Silvio começa a se sentir deixado de lado. Seus esforços contínuos para exercer controle sobre a gravidez levam a uma briga na qual ele força Deb a escolher entre ele e Sascha.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O HOMEM IDEAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZKWZVC5ZZQNJUNXBZFJSBQF753AUXMEO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w1ObkkhopXCjunpoI51nChdVGyl.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Para obter fundos de pesquisa para seus estudos, uma cientista aceita a oferta de participar de um experimento extraordinário: durante três semanas, ela viverá com um robô humanóide, criado para fazê-la feliz.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UM REECONTRO INESPERADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:14b4b2d48e040f51d15ef13f3e909e7c309dbd94</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/elrXo5uMCI8cI8idpblQPT3QwDS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um marido solitário tenta recuperar seus dias de glória do colegial com uma festa de aniversário surpresa, temática dos anos 80, para sua esposa, uma executiva ocupada, na mesma noite em que ela está tentando fechar o maior negócio de sua vida.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A FUGA DE AKILLA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:G4VY2EMRSVUFXVCWNHEG2VQE4YHCPJR5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7F3zWqksCUYErdDRugVQOQgY8NJ.jpg</thumbnail>
