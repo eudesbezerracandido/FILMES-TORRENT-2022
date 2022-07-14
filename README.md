@@ -19,6 +19,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] RESISTÊNCIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd38de333d80e370ce39865ea9f82f5981f6df09</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kCw8hKNQoM46zRlteHXpkch2gb.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A história do lendário Mime Marcel Marceau e da Resistência Francesa. A história de um grupo de escoteiros judeus que trabalharam com a resistência francesa para salvar as vidas de dez mil órfãos durante a Segunda Guerra Mundial.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O PREÇO DA SEDUÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WBT72RHMQNIYU5YC4YX7WITJVDSGCPGI</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5PhCJDL4jquPP23buc58vR9w1o2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Duas mulheres usam sedução para roubar homens que se dispersam. Mas quando descobrem que uma de suas vítimas esconde milhões em diamantes, começa uma verdadeira corrida pelas suas vidas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AVENTURAS EM DUAS RODAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60e77c53b9c7687089b496e29946deee4a1d16da</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gVKYg7HseTtYFavutwC2mZJn8iO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando o maior castelo da Inglaterra é roubado por um notório chefe do crime, a última coisa que ele e sua gangue esperam é ter que enfrentar Sam e Jake, dois garotos em suas bicicletas. Depois que Michael, o pai dos meninos, é preso injustamente pelo crime, Sam e Jake embarcam em uma aventura em duas rodas para pegar os ladrões e salvar sua família.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A VIÚVA NEGRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JOUMG2O5KVAZM5VAUDY3ZA3TRW4XE4IH</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/tGkpjxJ96EV0T7HiFkEt7C5h3ds.jpg</thumbnail>
