@@ -64,6 +64,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BORREGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4RIIQ4GTS5QYULNXLCAMDWPKTU76OMY3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iNSa1kwVsOsfAHwopMLM7PnrDhU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma jovem botânica se muda para uma pequena cidade deserta, para estudar uma nova espécie de plantas. Enquanto pesquisa, a jovem se depara com um avião caído cheio de drogas e é capturada pelos criminosos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] RESISTÊNCIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd38de333d80e370ce39865ea9f82f5981f6df09</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kCw8hKNQoM46zRlteHXpkch2gb.jpg</thumbnail>
