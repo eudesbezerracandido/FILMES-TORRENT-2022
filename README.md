@@ -13,7 +13,7 @@
 <item>
 <title>[COLOR silver][B] JURASSIC WORLD - DOMINÍO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NUYBZSYHROBMUAPMGXHBHCGND5A63GBB</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/lz4PYhhcDvOcLu293dwRuHRvxoT.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jPejoBtWvO95ZYLMo3KJ0hvhcjf.jpg</fanart>
 <info>Anos após a destruição da fantástica ilha Nublar, dominada pelos gigantes do passado, os dinossauros já não estão mais somente lá. Estão entre nós e a única certeza de cientistas, como Ellie Sattler, Alan Grant e Ian Malcolm, é que humanos e dinossauros não podem habitar o mesmo ambiente. Será que o mundo corre perigo?</info>
 </item>
