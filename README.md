@@ -11,10 +11,8 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] JURASSIC WORLD - DOMINÍO HDCAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62466589805bace95defa3349af75694f6966c70$nome=DUBLADO 1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62466589805bace95defa3349af75694f6966c70$nome=DUBLADO 2</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96C33E7D1F4D9208723D733F53F0508440FC280F$nome=DUBLADO 3</link>
+<title>[COLOR silver][B] JURASSIC WORLD - DOMINÍO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NUYBZSYHROBMUAPMGXHBHCGND5A63GBB</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/lz4PYhhcDvOcLu293dwRuHRvxoT.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jPejoBtWvO95ZYLMo3KJ0hvhcjf.jpg</fanart>
 <info>Anos após a destruição da fantástica ilha Nublar, dominada pelos gigantes do passado, os dinossauros já não estão mais somente lá. Estão entre nós e a única certeza de cientistas, como Ellie Sattler, Alan Grant e Ian Malcolm, é que humanos e dinossauros não podem habitar o mesmo ambiente. Será que o mundo corre perigo?</info>
