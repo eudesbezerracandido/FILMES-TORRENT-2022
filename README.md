@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ZOMBIES 3  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VGVDY26SI7Q6MIJDXXRNKWKYZX2UZPRB</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6S9O5U7Ietqh6zTtZhGbhbA3Pze.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Zed e Addison estão começando seu último ano em Seabrook High, na cidade que se tornou um refúgio seguro para monstros e humanos. Enquanto Zed espera uma bolsa de estudos para atletas que o tornará o primeiro zumbi a frequentar a faculdade, Addison se prepara para a primeira competição internacional de cheerleaders de Seabrook. Até que de repente, seres extraterrestres aparecem ao redor de Seabrook, provocando algo diferente de uma competição amigável.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NÃO ME DIGA ADEUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MXYI6B4H5GUY5OIGRA4FWPPHUECROCE7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/wvlBBhGyerkbEdk6wWPCw1yMQiA.jpg</thumbnail>
