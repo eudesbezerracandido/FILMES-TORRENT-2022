@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PERSUASÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6XPBCS3FL6GJY54ZGD3LQ6ZJ6P6FIVMQ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2G6FSKMLlu2sZ9QfzsUWoLjBxgq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Anne Elliot (Sarah Snook) se depara com o arrependimento quando, oito anos após seu rompimento com o jovem Frederick Wentworth (Joel Fry) por influência de sua amiga Lady Russell, ele retorna para sua vida. Como se não bastasse, agora é rico e um oficial da marinha inglesa. Anne precisará encarar a frieza e o ressentimento de Frederick da pior forma possível: com plena consciência de que ainda é apaixonada por ele. Baseado no romance "Persuasão", de Jane Austen.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] WOLF [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F4JHPGPAR7WC3U5L7KBQR2TRJTJFT5LU</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/39SHAfnH7xoP2SH7BQoUXMeXjUQ.jpg</thumbnail>
