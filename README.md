@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] NÃO ME DIGA ADEUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MXYI6B4H5GUY5OIGRA4FWPPHUECROCE7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wvlBBhGyerkbEdk6wWPCw1yMQiA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um pai solteiro descobre que sua filha adolescente tem câncer e leva a filha em uma viagem para encontrar a mãe que a abandonou anos atrás.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PERSUASÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6XPBCS3FL6GJY54ZGD3LQ6ZJ6P6FIVMQ</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/2G6FSKMLlu2sZ9QfzsUWoLjBxgq.jpg</thumbnail>
