@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] WOLF [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F4JHPGPAR7WC3U5L7KBQR2TRJTJFT5LU</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/39SHAfnH7xoP2SH7BQoUXMeXjUQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No ano 500 DC., um monstro aterroriza os bêbados de Heorot. Uma princesa sai em busca de um herói que possa salvar seu povo. Porém o herói guarda um segredo mais perigoso do que qualquer monstro.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ANIMAIS FANTASTICOS - OS SEGREDOS DE DUMBLEDORE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae1292e138ace9d7f1d764274f95ea2e1a83ff0e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/u1XrqlIjQt2ghnA8nprpPiFzSzR.jpg</thumbnail>
