@@ -19,6 +19,38 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A ÚLTIMA NOITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:961dd1c721d567912f539eec5f54b2c8f451262d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fMY66O0O74iPMWSvFA6vNge7Nzz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O casal Nell e Simon e seus amigos mais próximos juntam suas famílias para o jantar de Natal em sua incrível residência no interior da Inglaterra. A reunião lembra os bons e velhos tempos, mas por trás de todas as risadas e alegria, algo não está certo. O mundo exterior está enfrentando uma destruição iminente, e nenhum dos presentes natalinos, jogos em grupo ou Prosecco fará a destruição que promete dar fim a humanidade ir embora. Sobreviver às festividades será desafiador.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] BITBULL- FORÇA BRUTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5MWTH6BXSVBDT44UBP2VLCS35HCUJOGI</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hwbw4Ng7dV9EBA136a3sNiFwVZw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Esta história é contada ao longo de vários anos, uma parte da guerra sempre travada entre a polícia e os impérios criminosos que dominam o submundo da Europa Oriental. acompanhamos a vida de um jovem, sua infância e adolescência e, finalmente, sua descida ao submundo do crime. Seu caminho logo se cruza com um policial que não vai parar por nada para pegá-lo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]A MALDIÇÃO DE ROSE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7deea617a694372c7f90f0b3469ad87025746eb</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/17fqc7EvBTAvc0xqrOwjgiuLa3p.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após o brutal assassinato de sua família pelas mãos de seu pai, Rose é enviada para morar em um convento no nordeste dos Estados Unidos. No entanto, os demônios que atormentavam o pai, seguem despertando os pesadelos de seu passado.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O SOL DE AMALF [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:T4T5IPCO7TC3VFR6NJGTB3TEKC7WIDLY</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6XmVuAanq5ZxYSz1WlWT9nnRLQI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um ano depois do início do romance em Riccione, Vincenzo e Camilla colocam seu amor à prova em uma viagem para a bela Costa Amalfitana.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ZOMBIES 3  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VGVDY26SI7Q6MIJDXXRNKWKYZX2UZPRB</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6S9O5U7Ietqh6zTtZhGbhbA3Pze.jpg</thumbnail>
