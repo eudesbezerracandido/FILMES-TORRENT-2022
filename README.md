@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MISSÃO RÚSSIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcdb8bff36faf21d99b1fa4eb85e06899cc23f99</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dXmeAzaceJk6cg4cxauUKhhXoxt.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Contratados para neutralizar uma força militar numa fábrica, um grupo de jovens mercenários se vê diante de um beco sem saída quando a operação não sai conforme o planejado. O ex-militar Nikita é contratado para neutralizar uma grande força de segurança privada em uma fábrica local, para que seu obscuro empregador possa realizar mais uma extorsão. Mas Nikita e seu grupo de mercenários conseguem mais do que esperavam quando descobrem que a fábrica pertence, na verdade, a um perigoso mafioso ligado aos militares russos. No momento em que a ‘aquisição hostil’ é concluída, Nikita revela que ele orquestrou sua própria missão secreta para se vingar pessoalmente do homem mais perigoso da Rússia.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A ÚLTIMA NOITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:961dd1c721d567912f539eec5f54b2c8f451262d</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fMY66O0O74iPMWSvFA6vNge7Nzz.jpg</thumbnail>
