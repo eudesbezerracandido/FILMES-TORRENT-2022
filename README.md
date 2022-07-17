@@ -27,6 +27,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] UMA LIVRARIA EM PARIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5402cd3f84bebda863d35c97d555c60b9dac14d2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lkaftkuqjficNmMuP3N0rfUPEjz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Vincenzo dedica todo o seu tempo a seus dois amores: a livraria que possui em Paris e sua filha Albertine. Um dia, ele conhece Yolande, uma mulher que o faz questionar sua maneira de encarar a vida.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BITBULL- FORÇA BRUTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5MWTH6BXSVBDT44UBP2VLCS35HCUJOGI</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hwbw4Ng7dV9EBA136a3sNiFwVZw.jpg</thumbnail>
