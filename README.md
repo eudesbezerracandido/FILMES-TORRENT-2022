@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SEDENTA DE SANGUE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d05200b35b7efb581e7d6367084fee776e33db47</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pXoijqun4n8QtcVT4KW9BIOUOpG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Com o sucesso de seu primeiro album, uma jovem cantora independente com recorrentes visões sobre ser uma loba é convidada para trabalhar com um notório produtor musical em seu exclusivo estúdio, isolado no meio da floresta.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MISSÃO RÚSSIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcdb8bff36faf21d99b1fa4eb85e06899cc23f99</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/dXmeAzaceJk6cg4cxauUKhhXoxt.jpg</thumbnail>
