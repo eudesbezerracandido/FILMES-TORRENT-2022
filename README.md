@@ -19,6 +19,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] LIVE IS LIFE - A GRANDE AVENTURA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24850616809f389d816b055f5172d075bd58c4f9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cHIn2VHEdZ30KyL60yPzD8KqL1M.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Antes de encarar as durezas da vida adulta, cinco amigos se reúnem para viver uma última aventura: encontrar uma flor que realiza desejos. Verão de 1985. Como todos os anos, Rodri viaja da Catalunha para a Galiza e se reúne com seus quatro amigos. Como os problemas do mundo real começam a minar sua amizade, os cinco embarcam em uma aventura noturna em busca de um objeto mítico.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SOMBRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HBPKUE4EZ4MOVWSZOW4LEPDAXKEHOZ3I</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mD3dU2f0InjpfIgmlXvtNRPtYrV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Baseado em fatos reais, tudo começa em 1998, quando a família perfeita de Isabel é abalada com o desaparecimento de Pedro, o filho de 11 anos. Esta é a história de uma mãe que, apesar de todos os obstáculos que encontra, não aceita desistir de lutar para encontrar o seu filho de 11 anos, que desapareceu de forma misteriosa. O filme segue a história desta mulher e da sua família ao longo de quatro anos diferentes: 1998, 2004, 2011 e 2013.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ELVIS - HDCAM-CINEMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3F69F227A311618B51EA5CA8F80B3FEFB8B8C085</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/FTBDId0Ntc8YmJpolZe8fLJcoI.jpg</thumbnail>
