@@ -43,11 +43,35 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] QUANDO CHEGAR A CALMARIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PYJ4TSWNSAYWREDSRBWZQPDCPICZQATF</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bGVQK3vuidHYey8MMyIvVnoh2zp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma jovem vive escondida à vista de todos em um prédio em ruínas de Hong Kong depois que um tsunami destruiu a cidade - Um náufrago em uma ilha de concreto. Sua existência oculta muda para sempre quando uma criança pequena literalmente flutua em sua vida.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CONCORÊNCIA OFICIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AF3V2Z6RISRP2LDT6SQHMSWV6SZY5V4D</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fey5dXqHTc4SUJs96Hv1Li9ezpD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dois atores com trajetórias muito diferentes se chocam durante a preparação de um filme, financiado por um milionário ansioso por notoriedade, e dirigido por uma prestigiosa diretora excêntrica.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ÚLTIMO TREM PRO NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:452f4500073b6060e84d02457487ef5785337861</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/xkVUORoeRbRnAq5IkN4Pwq45R07.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Tony Towers, um gerente de discoteca, está noivo de uma mulher mais jovem, Sue. As coisas ficam um pouco estranhas quando ele embarca no trem das 3:17 para Nottingham para uma reunião familiar de Natal.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CRESCER NÃO É BRINCADEIRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4FYJOWS2XM4GIJMNXPV3L4DNRF25EGNZ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/c8HEdeEEp9KL30t4ws7dz6npakc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> jovem gamer Waldek tem como principal objetivo em sua vida, competir em um torneio de jogos de computador. Mas, um verdadeiro terremoto atinge sua vida em cheio, quando sua mãe revela estar doente. Durante esse período, a mãe fica sob os cuidados de uma tia louca e imprevisível, que introduz uma disciplina que até então era estranha para essa família, e impõe novos deveres ao rapaz. O menino, a partir da intervenção de sua parente, começa a repensar suas prioridades e recebe a lição de vida mais valiosa.</info>
 </item>
 
 <item>
