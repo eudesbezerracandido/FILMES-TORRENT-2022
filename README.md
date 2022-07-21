@@ -19,6 +19,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O ÚLTIMO DRAGÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UY2VR6VJQD6H72Q7GJJ2CIY3QEF36XQU</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7xgLuY6cLcJZDw629gCOKzN7Xxv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando uma força malévola tomar conta dos reinos de Agonos, um cavaleiro solitário deve embarcar numa perigosa busca para encontrar o último dragão e salvar o mundo grande e crescente... Ler tudo</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DAKOTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YZU6VO4AULCYL4WTFNHYSNKABDAGG5H7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/j3eUOPUoDwkupwTPTDk6ESqrzGt.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Dakota, uma ex-cadela militar, se junta à mãe solteira Kate (Abbie Cornish) e sua filha Alex (Lola Sultan) para viver na fazenda da família em sua pequena cidade natal. Dakota rapidamente se ajusta à nova casa e se torna um tipo de heroína local, tornando-se inseparável de Alex. Mas quando a existência da fazenda é ameaçada pelo xerife desonesto da cidade (Patrick Muldoon), Dakota precisa ajudar a família a se unir e salvar a terra.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ÚLTIMO TREM PRO NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:452f4500073b6060e84d02457487ef5785337861</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xkVUORoeRbRnAq5IkN4Pwq45R07.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Tony Towers, um gerente de discoteca, está noivo de uma mulher mais jovem, Sue. As coisas ficam um pouco estranhas quando ele embarca no trem das 3:17 para Nottingham para uma reunião familiar de Natal.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] LIVE IS LIFE - A GRANDE AVENTURA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24850616809f389d816b055f5172d075bd58c4f9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cHIn2VHEdZ30KyL60yPzD8KqL1M.jpg</thumbnail>
