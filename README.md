@@ -35,6 +35,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO -  VOÇÊ RADICAL COM RANVEER SINGH E BEAR GRYLLS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3VRLNX4GRXNXCZFD3BPNSLRBVHZVSUVQ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pZ7cLgKNF9g3B7z1TXlGYQwClPH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Neste especial interativo, você ajuda o ator Ranveer Singh e o aventureiro Bear Grylls a enfrentar a natureza selvagem da Sérvia em busca de uma flor.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ÚLTIMO TREM PRO NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:452f4500073b6060e84d02457487ef5785337861</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/xkVUORoeRbRnAq5IkN4Pwq45R07.jpg</thumbnail>
