@@ -19,6 +19,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TUDO É POSSIVÉL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E7ARFTSHXF7B4GOMXWSN6UDN22VGSQYF</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fi3CpngKPgTXLfW6XgvXLuTNslk.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Anything’s Possible é uma história moderna de amadurecimento focada na Geração Z. O filme acompanha Kelsa, uma confiante garota trans, enquanto ela vive o último ano do colégio. Seu colega de classe Khal se apaixona por ela e cria coragem para convidá-la para sair, apesar do drama que ele sabe que isso pode causar. O que acontece é um romance que mostra a alegria, a ternura e a dor do amor juvenil.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UM REENCONTRO INESPERADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SVLQSOKNO2OORXQSYHELPEIH5VHZUY3P</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/elrXo5uMCI8cI8idpblQPT3QwDS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um marido solitário tenta recuperar seus dias de glória do colegial com uma festa de aniversário surpresa, temática dos anos 80, para sua esposa, uma executiva ocupada, na mesma noite em que ela está tentando fechar o maior negócio de sua vida.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O ÚLTIMO DRAGÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UY2VR6VJQD6H72Q7GJJ2CIY3QEF36XQU</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7xgLuY6cLcJZDw629gCOKzN7Xxv.jpg</thumbnail>
