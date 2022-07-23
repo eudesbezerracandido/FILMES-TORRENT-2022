@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] 100 DIAS PARA NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:219a827dd0d88560bab0717f5362e450c18f9084</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1qkUG6UcUXwkrobQOtWfjcPQr76.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A história começa com Meg, uma gerente musical na casa dos trinta anos, que viaja de Nova York para Londres para escapar do constrangimento de uma estrela pop dos EUA ter gravado um álbum de músicas sobre ela. Em Londres, ela tem a tarefa de gerenciar uma boy band, Five Together, e encontrar-lhes um Natal número um para reforçar suas carreiras.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TUDO É POSSIVÉL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E7ARFTSHXF7B4GOMXWSN6UDN22VGSQYF</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fi3CpngKPgTXLfW6XgvXLuTNslk.jpg</thumbnail>
