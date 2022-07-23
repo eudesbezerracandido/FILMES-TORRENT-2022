@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MARK, MARY+ SOME OTHER PEOPLE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b7dd9ae0026d8e259e973d101a42ab1429c602b3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3kbBVx5MRaPq7sN01CR4dF6quqj.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma comédia independente sobre um jovem casal que está explorando um relacionamento aberto.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AGENTE OCULTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:H7467UIPDS43BSDZGKEL5FLPAND6VXJ6</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1f10KUKW7KyNt8bF8NHmwbBQ9fs.jpg</thumbnail>
