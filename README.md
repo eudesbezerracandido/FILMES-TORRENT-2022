@@ -32,7 +32,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/1f10KUKW7KyNt8bF8NHmwbBQ9fs.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Na Europa, um agente da CIA que se tornou assassino tenta escapar de forças misteriosas enquanto tenta salvar a vida das filhas que não sabem que ele existe.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] 100 DIAS PARA NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
