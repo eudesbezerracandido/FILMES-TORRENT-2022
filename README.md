@@ -19,6 +19,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ESSE ANO VAI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JF5NZKTUU54NKFF6SSVHFD6SENND7XIC</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jbi3g4fQ3yXIkFtKpXXn8eRTdIy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em seu último ano do ensino médio, um adolescente nada popular e seus melhores amigos embarcam em uma viagem para ver sua banda favorita tocar no maior festival de música do ano, em seu último esforço para conquistar a garota dos seus sonhos. Nesta aventura, eles aprenderão que até os planos mais elaborados podem dar errado, e que o amor pode surgir onde menos se espera.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] FÚRIA - RABID [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3bc852c1bd872c5531494e74b66df599cc7fbcfe</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1iKMpfASZEYvraBbVSlCkrg6qco.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Após um acidente, Rose (Laura Vandervoot) fica irreconhecível e resolve participar de um tratamento de células ainda em fase de testes. Mesmo funcionando, o tratamento acaba trazendo efeitos colaterais mortais.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O PACTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5104b3261ef0295e7fca400f7aaafe368ea18b2e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ipZ1EoENjq2yOCdNWSwZZHcPOBY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A intensa amizade entre Karen Blixen, a autora dinamarquesa mais conhecida por seu romance autobiográfico "Out of Africa", e Thorkild Bjørnvig, um jovem e promissor poeta.Baseado em fatos reais.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MARK, MARY+ SOME OTHER PEOPLE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b7dd9ae0026d8e259e973d101a42ab1429c602b3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/3kbBVx5MRaPq7sN01CR4dF6quqj.jpg</thumbnail>
