@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O MENINO NO ESPELHO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3cc07faa8b6c3448f778ee36aaad68470c1b1e3a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/l3inJ0LKrccEK5mNqQzmJlGjLPy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em O menino no espelho, Fernando Sabino aborda sua infância em Belo Horizonte de maneira bem lúdica, trazendo à tona um mundo imaginário e simples. Odnanref aprendeu a voar como os pássaros, ensinou uma galinha a falar, visitou o Sítio do Pica-Pau Amarelo e conheceu Tarzã. O protagonista Fernando começa a brincadeira conversando com o espelho. Aos poucos, seu reflexo vai tomando forma e vida, tornando-se o grande amigo e companheiro Odnanref.Para interpretar os pais de Fernando, foram escalados os atores Mateus Solano (Domingos) e Regiane Alves (Odete).</info>
+</item>
+
+<item>
 <title>[COLOR silver][B]  RED ROCKET [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e74ec52b915dd76a6722be78d8db73a5a5d1ca55</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/345gLhiNpItU1ICx8OxJQwjgPmH.jpg</thumbnail>
