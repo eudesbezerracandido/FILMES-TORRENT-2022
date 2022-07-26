@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DJINN - CUIDADO COM O QUE DESEJA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f72c8a10926c1f4d6bcac6e4df86c4db5dcbfd10</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/euU13HgDHax1mLTIPIzTw06vqFc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um garoto mudo decide praticar um ritual que promete realizar seu maior desejo, ter uma voz. Preso em seu apartamento, ele acaba acidentalmente liberando uma criatura sinistra.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O MENINO NO ESPELHO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3cc07faa8b6c3448f778ee36aaad68470c1b1e3a</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/l3inJ0LKrccEK5mNqQzmJlGjLPy.jpg</thumbnail>
