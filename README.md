@@ -24,7 +24,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/jbi3g4fQ3yXIkFtKpXXn8eRTdIy.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Em seu último ano do ensino médio, um adolescente nada popular e seus melhores amigos embarcam em uma viagem para ver sua banda favorita tocar no maior festival de música do ano, em seu último esforço para conquistar a garota dos seus sonhos. Nesta aventura, eles aprenderão que até os planos mais elaborados podem dar errado, e que o amor pode surgir onde menos se espera.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] FÚRIA - RABID [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
