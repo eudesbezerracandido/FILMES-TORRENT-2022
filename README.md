@@ -19,6 +19,38 @@
 </item>
 
 <item>
+<title>[COLOR silver][B]  RED ROCKET [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e74ec52b915dd76a6722be78d8db73a5a5d1ca55</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/345gLhiNpItU1ICx8OxJQwjgPmH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Mikey é um astro decadente de filmes adultos cuja carreira terminou. Enfrentando problemas financeiros em Los Angeles, ele decide rastejar de volta para sua pequena cidade natal, no Texas, para viver com a ex-esposa e a sogra.Quando essa família disfuncional parece estar fazendo as coisas funcionarem, Mikey conhece uma jovem chamada Strawberry trabalhando na caixa registradora de uma loja de donuts local e imagina que a garota pode ser a solução para seus problemas e a volta por cima em sua carreira.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR silver][B] [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR silver][B] [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ESSE ANO VAI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JF5NZKTUU54NKFF6SSVHFD6SENND7XIC</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jbi3g4fQ3yXIkFtKpXXn8eRTdIy.jpg</thumbnail>
