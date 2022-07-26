@@ -27,27 +27,27 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
+<title>[COLOR silver][B] O RESGATE DE RUBY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:327SYM4QJIJTZLTD6NVSTYZ72UUISUVW</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uvhYsuo1tsPkfFzYljCKjCkxL1T.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
+<info>Ele quer entrar para a unidade K-9. Ela é uma cadela esperta e só precisa de um lar e treinamento. Juntos, eles mudam a vida um do outro. Baseado em uma história real.</info>
 </item>
 
 <item>
-<title>[COLOR silver][B] [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
+<title>[COLOR silver][B] VAMOS CONSERTAR O MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:JCQGYWREJWPC2CBOWWIG7FVRGBJUH6GP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/u1RbxBDWKrk9iMaSyHNX5EVqiRs.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
+<info> David Samarás, “El Griego”, é o produtor geral de um popular talk show chamado “Hoy se arregla el mundo”, onde pessoas comuns tentam resolver conflitos de trabalho, de relacionamento, de amizade, de família. El Griego é solteiro e nunca pôde ter um vínculo afetivo duradouro. O laço mais forte de sua vida é Benito, seu filho de 9 anos, fruto de uma relação ocasional. Mais unidos pela obrigação legal que pelo afeto, sempre existe a sensação de que Benito é alguém que sobre em sua vida. A história muda quando durante uma forte discussão com Silvina, a mãe do garoto, El Griego fica sabendo que Benito não é seu filho. Pouco depois dessa revelação, Silvina morre. A notícia é tomada por El Griego como um alívio em meio à difícil relação com Benito e então decide contar a verdade. O menino pede então que ele faça uma última coisa: ajudar a encontrar o verdadeiro pai. El Griego aceita. A busca os levará a uma encruzilhada muito maior que a que saíram para enfrentar.</info>
 </item>
 
 <item>
-<title>[COLOR silver][B] [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
+<title>[COLOR silver][B] AS AGENTES 355 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TI3KG3TMNKFFP2DKJO7RCH75OJSGES75</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sz6z3k9UGeVmkC6YkdY0iTj9Ipk.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
+<info>Quando uma arma ultrassecreta cai nas mãos de um grupo de mercenários que ameaçam o mundo, a agente da CIA Mace Brown (Jessica Chastain) terá que unir forças para uma missão letal com a agente alemã Marie (Diane Kruger); a ex-membro do MI6, especialista em computadores, Khadijah (Lupita Nyong'o); a psicóloga Graciela (Penélope Cruz), e com Lin Mi Sheng (Bingbing Fan), uma mulher misteriosa que está rastreando todos os seus movimentos. Cheio de adrenalina, ‘As Agentes 355’ apresenta inúmeras cenas de ação ao redor do mundo, dos cafés de Paris e mercados do Marrocos à riqueza e glamour de Xangai.</info>
 </item>
 
 <item>
