@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CHAMAS DA VINGANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YXPZRNDTSHSQEZ5FFTJMPNECKOUKQJ7V</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4qU8xM8nFsXvUYSZsRQOdIti267.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Por mais de uma década, os pais Andy e Vicky estão fugindo, desesperados para esconder sua filha Charlie de uma agência federal sombria que quer aproveitar seu dom sem precedentes para criar fogo em uma arma de destruição em massa. Andy ensinou Charlie como desarmar seu poder, que é desencadeado pela raiva ou pela dor. Mas quando Charlie faz 11 anos, o fogo fica cada vez mais difícil de controlar. Depois que um incidente revela a localização da família, um agente misterioso é enviado para caçar a família e capturar Charlie de uma vez por todas. Charlie tem outros planos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DJINN - CUIDADO COM O QUE DESEJA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f72c8a10926c1f4d6bcac6e4df86c4db5dcbfd10</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/euU13HgDHax1mLTIPIzTw06vqFc.jpg</thumbnail>
