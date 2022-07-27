@@ -19,6 +19,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A MALDIÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6858993387606556a1b096f15f110cf360a97a2d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/plS7R81TAtIJxCIW7PIze5vmy5A.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Inspirado no folclore do Leste Europeu, uma traição impensável leva a uma maldição maléfica colocada sobre a linhagem de uma família. Décadas depois, um casamento une a próxima geração de famílias distantes. Quando um deles desperta inconscientemente uma força negra que começa a eliminá-los um por um, Hana, a matriarca da linhagem de hoje, deve descobrir quem está trabalhando contra eles antes que a maldição sangrenta tome conta deles para sempre.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  RETORNO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YELW3T5W6TGVVVJGYHCYAPWE6QL3345M</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8Eh0SF6tEBNiaAP2pNTj9kMLDH8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Anos após se mudar para o interior, a ex-policial Pipa acaba envolvida em um caso de assassinato e precisa encarar o mundo sombrio de seu passado.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SANTA EVITA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Q4H2N3AV325CF726HIAJTVL4GXHPLVSN</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jc9rB1qmw2aCsekYrCpsq31opko.jpg</thumbnail>
