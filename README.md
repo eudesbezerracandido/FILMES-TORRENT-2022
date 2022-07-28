@@ -19,6 +19,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A PIOR PESSOA DO MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5b919aa11ccaeb47f3c6e138e775644696aebd4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/k2Uvqj0oiwjEprdIL6YDt06v7UQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Julie é jovem, bonita, inteligente e não sabe exatamente o que deseja em uma carreira ou parceiro. Uma noite ela conhece Aksel, um conhecido romancista gráfico 15 anos mais velho que ela, e eles rapidamente se apaixonam. Ela também conhece um barista de café, Eivind, que também está em um relacionamento. Julie tem que decidir, não apenas entre dois homens, mas também quem ela é e quem ela quer ser. Entre idas e vindas, Julie escolhe com quem ficar e mais problemas surgem em sua vida.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A LENDA DO CAVALEIRO NEGRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NG44CBPNXEFYGVJU64HS4AJKPJNBWC5O</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eVEyBmldMAfKBOIjuuLnXxFThiI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O famoso ladrão de estradas Dick Turpin encontra-se fugindo no interior da Inglaterra depois de sequestrar acidentalmente a filha do Conde de Pembroke, Elizabeth.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A MALDIÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6858993387606556a1b096f15f110cf360a97a2d</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/plS7R81TAtIJxCIW7PIze5vmy5A.jpg</thumbnail>
