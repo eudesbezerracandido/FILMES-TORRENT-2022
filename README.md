@@ -32,7 +32,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/eVEyBmldMAfKBOIjuuLnXxFThiI.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>O famoso ladrão de estradas Dick Turpin encontra-se fugindo no interior da Inglaterra depois de sequestrar acidentalmente a filha do Conde de Pembroke, Elizabeth.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] A MALDIÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
