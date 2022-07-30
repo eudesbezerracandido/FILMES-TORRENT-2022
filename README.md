@@ -19,6 +19,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CONTINÊNCIA AO AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:N5CV4MTB2PNKQ2CXVPZVN73XHGZIALJL</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ncBNV5G7EBLPK2X6cO55krYrPRw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A história da aspirante a cantora e compositora Cassie e do oficial da marinha Luke, que, apesar de suas muitas diferenças e contra todas as probabilidades, se apaixonam perdidamente.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] INFLUENCER DE MENTIRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6BNVC7XQBUZYYRGVJDSGNJOLQYSYOPLX</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dJKVZFS61uqFrTdyu0bo57ExX3Y.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>: Uma jovem que faz de tudo para ter fama e amigos e está desesperada para melhorar sua imagem nas redes sociais, cria uma falsa viagem à Paris para chamar atenção. Porém, quando um incidente horrível acontece na vida real, isso acaba fazendo parte de sua farsa.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A PIOR PESSOA DO MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5b919aa11ccaeb47f3c6e138e775644696aebd4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/k2Uvqj0oiwjEprdIL6YDt06v7UQ.jpg</thumbnail>
