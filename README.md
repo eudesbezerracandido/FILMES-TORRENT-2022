@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] EX CASADOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73b50754732e4b4202bed3cbbde090228b45dc0d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4nxqqtsXsOI7KcFnqqE25eW0Rul.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um casal se reencontra um ano após o divórcio e precisam morar juntos devido a um acidente, o que os colocará novamente em conflito. Uma comédia sobre o amor após o ódio.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CONTINÊNCIA AO AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:N5CV4MTB2PNKQ2CXVPZVN73XHGZIALJL</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ncBNV5G7EBLPK2X6cO55krYrPRw.jpg</thumbnail>
