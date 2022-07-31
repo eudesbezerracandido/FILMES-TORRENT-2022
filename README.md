@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PRISSIONEIROS DO IRAQUE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:W3BM4CLLIYUS6TVU32O6LG5REW7L5IZM</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oaFWiQpxZVGql4goKRiNMM8QCTh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A história real de um grupo de adolescentes voluntários do exército iraniano que foram sequestrados pelas tropas iraquianas em 1982. Saddam Hussein tentou usá-los como propaganda para a guerra, mas os 23 jovens resistiram bravamente.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] EX CASADOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73b50754732e4b4202bed3cbbde090228b45dc0d</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4nxqqtsXsOI7KcFnqqE25eW0Rul.jpg</thumbnail>
