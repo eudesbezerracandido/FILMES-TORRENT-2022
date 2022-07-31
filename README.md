@@ -27,6 +27,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MARCO E NANNO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OLZHCDMJYQIL7FBEVTOCWVEMTDMPA3QT</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lgEnZXUE2U6dqXZPU8fZbuBkViB.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Marco, 12 anos, é obcecado por seu iPad e mal sai de casa. Mas quando sua avó morre e seu avô se muda, a vida de Marco vira de cabeça para baixo e ele é forçado a ir brincar lá fora. ‘Nonno’ (vovô) o apresenta à bocha e à turma de italianos idosos que joga diariamente na quadra local. Com esporte, risos e amor, Marco encontra conexão com outras pessoas e reúne uma equipe de crianças da vizinhança para enfrentar o avô de Marco e seus amigos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] EX CASADOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73b50754732e4b4202bed3cbbde090228b45dc0d</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4nxqqtsXsOI7KcFnqqE25eW0Rul.jpg</thumbnail>
