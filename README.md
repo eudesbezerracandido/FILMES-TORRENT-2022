@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O BOM VIZINHO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73d77e38dde0c13802090969a68b9d077a6a9d5f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mXJ2xI7B0Z9WxDjyv18anPsOxeE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dois vizinhos vivem uma noite de pesadelo quando atropelam uma mulher em um acidente e precisam lidar juntos com as consequências. O problema é que um quer confessar o crime e outro quer esconder a todo custo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BUBA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b43f9ded701a487709e5aa1c3dda432ab044210</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/uOjh3PtovstcY9T9cvzYSgfcNAl.jpg</thumbnail>
