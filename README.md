@@ -19,6 +19,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BUBA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b43f9ded701a487709e5aa1c3dda432ab044210</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uOjh3PtovstcY9T9cvzYSgfcNAl.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Neste spin off de Como Vender Drogas Online (Rápido), o trapaceiro Jakob Otto, também conhecido como Buba, e seu irmão manipulador se associam à máfia local, ato que trará consequências.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] QUE CULPA TEM O CARMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:S63YZIMDZHM5TVM7YPNMB2OVZLVQHYH7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/75c31o9z1w51yEMdH9NfWkBvz3N.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando a irmã modelo começa a namorar seu crush da época da escola, a estilista Sara precisa decidir se a culpa é mesmo de seu suposto azar.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O SEQUESTRADOR DE CLEVELAND [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b42a100e121a0b0b27dcc64d2e981b795d9e33d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yfZnKJ7XEscF7EipYt8zyHAEaVW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em Cleveland, Ohio, Gina DeJesus e Amanda Berry desaparecem com poucos meses de diferença e em locais muito próximos. Suas famílias se unem, mas não têm como saber o que elas estão passando dentro de uma casa de horrores.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PRISSIONEIROS DO IRAQUE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:W3BM4CLLIYUS6TVU32O6LG5REW7L5IZM</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/oaFWiQpxZVGql4goKRiNMM8QCTh.jpg</thumbnail>
