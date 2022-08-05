@@ -38,6 +38,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PEOPLE JUST DO NOTHING: BIG IN JAPAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IQDZIWTO5DNMFUVRFNTP6XGBZW7K6ATZ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/d2wft3qQX1fCqPTUdujwxhj9S23.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Desde o fim de sua estação de rádio pirata, a vida está tranquila para os meninos da Kurupt FM, mas tudo está prestes a mudar. Chega até eles a notícia de que uma de suas canções foi usada em um game show popular no Japão. Eles conseguiram! Sua música está alcançando centenas de milhares de pessoas! Finalmente é hora deles desfrutarem da fama e fortuna que sempre quiseram. Chabuddy G volta entusiasmado ao seu papel de empresário quando Grindah, Beats, Steves e Decoy começam sua jornada para o estrelato internacional … Mas o Japão está realmente pronto para a Kurupt FM?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TEMPORADA DE CASAMENTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HSDNDUN4PEOHD6KDSMJE6KOIZJ3VP36O</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/wW2hCkNTRbZ8GrP4P7CMStmhOdd.jpg</thumbnail>
