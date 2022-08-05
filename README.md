@@ -30,6 +30,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DUAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5952af3c1b645d6e3df9536fbce1d6b6a2e70a68</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zMhPd65MVyc33898CGZkJm0rou7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após receber um diagnóstico terminal, uma mulher (Karen Gillan) resolve se clonar para amenizar a dor da perda em sua família e amigos. Mas, quando ela acaba se recuperando milagrosamente, suas tentativas para cancelar seu clone levam a justiça a encomendar um duelo até a morte.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A ÚLTIMA VITIMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UOZVYUKMIVB7C2ZGSDVYMNVHXOYDEV7R</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/sdX4qg9cKX4satMaQm8BOJxnDC3.jpg</thumbnail>
