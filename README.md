@@ -1,6 +1,17 @@
 # FILMES-TORRENT-2022
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] PREDADOR - A CAÇADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VUEKOYKBUPRNPEDKV4JRTGEISZLE27VY</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zRq6O9mnEhYPobffAPVNPm59j93.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ambientado no mundo da Nação Comanche no início de 1700, "O Predador: A Caçada" é a história não contada de uma jovem guerreira altamente qualificada, desesperada para proteger seu povo do perigo iminente. Ela persegue e finalmente confronta sua presa, que acaba sendo um predador alienígena altamente evoluído com um arsenal tecnologicamente avançado, resultando em um confronto brutal e aterrorizante entre os adversários.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] THOR - AMOR & TROVÃO (HDCAM) LEGENDADO INGLÊS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d26f48dee57e51b3a0e7c66ea032b90a312a4b49$nome=THOT - AMOR & TROVÃO LEGENDADO</link>
@@ -16,6 +27,22 @@
 <thumbnail>https://i.pinimg.com/564x/17/9f/86/179f8693ec31104efef0cbc2082f42ba.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jPejoBtWvO95ZYLMo3KJ0hvhcjf.jpg</fanart>
 <info>Anos após a destruição da fantástica ilha Nublar, dominada pelos gigantes do passado, os dinossauros já não estão mais somente lá. Estão entre nós e a única certeza de cientistas, como Ellie Sattler, Alan Grant e Ian Malcolm, é que humanos e dinossauros não podem habitar o mesmo ambiente. Será que o mundo corre perigo?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CARTER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9be3de7cf56b6766ed4f26425fbec1b7911dd960</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fIegCsrsGmxOV7tSFAQOdru9EuD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Meu nome é Carter. Por favor, confie em mim, se quiser sobreviver. Uma pandemia originada na Zona Desmilitarizada da Coreia assola os Estados Unidos e a Coreia do Norte. Dois meses depois, Carter acorda sem memória, com um dispositivo misterioso na cabeça, uma bomba letal dentro da boca e recebendo ordens de uma voz estranha. A bomba pode ser detonada a qualquer momento, a menos que ele resgate a garota que é o único antídoto para o vírus. Mas, para isso, ele vai ter que encarar a CIA e um golpe na Coreia do Norte. Para concluir a missão, Carter precisa ir para o Norte e encontrar a garota. Este filme de ação em plano sequência acompanha a luta de um homem pela sobrevivência.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PRESENTE AMALDIÇOADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04a7a3dccd961e962ddd464273f5e678dd6d9949</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/23uSJrE1MlFgFBhLZGqBPRLpGPp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Eva, uma ex-dançarina, agora vive em uma cadeira de rodas, incapaz de andar. Quando sua amiga Sophie lhe dá um calendário do advento antigo, feito de madeira, antes do Natal, ela percebe que cada janela contém uma surpresa que desencadeia repercussões na vida real: algumas delas boas, mas a maioria delas ruins.Agora Eva terá que escolher entre se livrar de o calendário ou andar novamente, mesmo que cause a morte ao seu redor.</info>
 </item>
 
 <item>
