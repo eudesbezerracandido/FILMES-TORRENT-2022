@@ -30,6 +30,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TERROR NO ESTÚDIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SGCHIUAFORHB6RV5G7DV5IA53ZAJJUUK</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tcsnV2L6SZY9hvuGLEbZddTylPa.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Às voltas com a gravação de seu décimo álbum, a banda Foo Fighters decide usar um antigo casarão como estúdio. Mergulhados em uma energia sinistra, os artistas só passam a questionar uma série de eventos bizarros quando o líder da banda, Dave Grohl é aparentemente possuído por uma entidade sombria.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TEMPORADA DE CASAMENTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HSDNDUN4PEOHD6KDSMJE6KOIZJ3VP36O</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wW2hCkNTRbZ8GrP4P7CMStmhOdd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Asha e Ravi decidem fingir um namoro para a temporada de pressão das famílias durante o casamento, mas parece que sentimentos sinceros vão florescer.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DUAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5952af3c1b645d6e3df9536fbce1d6b6a2e70a68</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zMhPd65MVyc33898CGZkJm0rou7.jpg</thumbnail>
