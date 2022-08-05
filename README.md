@@ -30,6 +30,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A ÚLTIMA VITIMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UOZVYUKMIVB7C2ZGSDVYMNVHXOYDEV7R</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sdX4qg9cKX4satMaQm8BOJxnDC3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um assassino, Keele, é encarregado de matar uma testemunha que pode ligar ele e seu parceiro psicótico, Palmer, a um assassinato recente. Esta execução de rotina desmorona devido a uma crise de consciência. Ele rapidamente descobre que, Peyton, é o alvo mais difícil de sua carreira.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TREZE VIDAS - O RESGATE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc65e601a0dcc5d709893d8acc8b20ddc4cd6831</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8sO4gjzLhxndxLtMrohGV2DD2Rw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma missão de resgate é montada na Tailândia, onde um grupo de meninos e seu treinador de futebol estão presos em um sistema de cavernas inundadas e impenetrável. Baseado em uma história real.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TUDO EM TODO LUGAR, AO MESMO TEMPO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DREQ7F7USBK26SJHWKZDDF7OZQK4PUAU</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iCvQFLywQLuolTWjRJPRfWWbr1C.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Evelyn Wang (Michelle Yeoh) é uma cansada mulher chinesa que luta para se manter e manter a vida da família nos Estados Unidos. O marido quer o divórcio, a filha se mostra rebelde e o pai está doente. Mas tudo fica anda mais estranho quando ela descobre que é a chave para salvar o multiverso, e pode acessar o conhecimento e os talentos de todos os seus vários "eus" através dos infinitos universos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CARTER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9be3de7cf56b6766ed4f26425fbec1b7911dd960</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fIegCsrsGmxOV7tSFAQOdru9EuD.jpg</thumbnail>
