@@ -13,6 +13,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ELVIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd048c97d2081f5a3dec4ce8e21836b069a8413e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/FTBDId0Ntc8YmJpolZe8fLJcoI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A cinebiografia de Elvis Presley acompanhará décadas da vida do artista (Austin Butler) e sua ascensão à fama, a partir do relacionamento do cantor com seu controlador empresário “Colonel” Tom Parker (Tom Hanks). A história mergulha na dinâmica entre o cantor e seu empresário por mais de 20 anos em parceria, usando a paisagem dos EUA em constante evolução e a perda da inocência de Elvis ao longo dos anos como cantor. No meio de sua jornada e carreira, Elvis encontrará Priscilla Presley (Olivia DeJonge), fonte de sua inspiração e uma das pessoas mais importantes de sua vida.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] THOR - AMOR & TROVÃO (HDCAM) LEGENDADO INGLÊS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d26f48dee57e51b3a0e7c66ea032b90a312a4b49$nome=THOT - AMOR & TROVÃO LEGENDADO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a3859e6d4a925e4c0499489484a44bd1c317ae7$nome=THOT - AMOR & TROVÃO DUBLADO</link>
@@ -27,6 +35,30 @@
 <thumbnail>https://i.pinimg.com/564x/17/9f/86/179f8693ec31104efef0cbc2082f42ba.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jPejoBtWvO95ZYLMo3KJ0hvhcjf.jpg</fanart>
 <info>Anos após a destruição da fantástica ilha Nublar, dominada pelos gigantes do passado, os dinossauros já não estão mais somente lá. Estão entre nós e a única certeza de cientistas, como Ellie Sattler, Alan Grant e Ian Malcolm, é que humanos e dinossauros não podem habitar o mesmo ambiente. Será que o mundo corre perigo?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UMA AMIZADE TÔXICA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7OU3VKJHKKFYDCNDT6TZWTICWSVXP763</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ovCYE2g54BNQDmRsHDWguFkgjmW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Maya e Jana são adolescentes e inseparáveis. Jana costuma assumir a liderança das ações e é seguida pela amiga. Até que um dia, ela convence Maya a postar um vídeo em que Elena, a garota mais popular da escola, aparece fazendo sexo com o interesse amoroso de Maya. O vídeo viraliza e Elena vê sua vida destruída. Após um violento confronto entre as três garotas, Elena desaparece. Maya quer ir à polícia, mas isso não está nos planos de Jana. Maya, então, passa a ser o seu novo alvo, ao mesmo tempo em que tenta encontrar coragem para sair desse relacionamento tóxico e lidar com o segredo que ameaça arruinar o seu futuro.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] VIAJANTES - PERDIDOS NO TEMPO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b5e6c96694eb556ef0fe77c769758c83fc2f2ba9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aCfAUuOefpxuE79rY8aDQvNOnZz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A grande criatividade e imaginação de Leo o levam a encontrar muitas aventuras nesta jornada em que coincidentemente encontrará o novo garoto no bairro, Bobby, que compartilha vários maneirismos com seu pai, o que o faz acreditar que viajou com sucesso ao passado e o encontrou, mas ambos se perderam no tempo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DUPLAMENTE GRÁVIDA 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99690e9f59359888c4c0d39cdbd5dba0c659064b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mNkAOFyb4TV2gTSc92jx2O9evtj.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Dez anos se passaram, e as coisas mudaram muito para Javier e Felipe. Agora eles são pais em tempo integral das filhas Sol e Luna. No entanto, eles percebem que as meninas sentem falta de uma mãe. Para resolver o problema, eles convidam suas namoradas para uma viagem com o plano secreto de descobrir qual delas seria a melhor mãe. E, é claro, nada sai como eles esperavam.</info>
 </item>
 
 <item>
@@ -403,14 +435,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/mD3dU2f0InjpfIgmlXvtNRPtYrV.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Baseado em fatos reais, tudo começa em 1998, quando a família perfeita de Isabel é abalada com o desaparecimento de Pedro, o filho de 11 anos. Esta é a história de uma mãe que, apesar de todos os obstáculos que encontra, não aceita desistir de lutar para encontrar o seu filho de 11 anos, que desapareceu de forma misteriosa. O filme segue a história desta mulher e da sua família ao longo de quatro anos diferentes: 1998, 2004, 2011 e 2013.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] ELVIS - HDCAM-CINEMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3F69F227A311618B51EA5CA8F80B3FEFB8B8C085</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/FTBDId0Ntc8YmJpolZe8fLJcoI.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>A cinebiografia de Elvis Presley acompanhará décadas da vida do artista (Austin Butler) e sua ascensão à fama, a partir do relacionamento do cantor com seu controlador empresário “Colonel” Tom Parker (Tom Hanks). A história mergulha na dinâmica entre o cantor e seu empresário por mais de 20 anos em parceria, usando a paisagem dos EUA em constante evolução e a perda da inocência de Elvis ao longo dos anos como cantor. No meio de sua jornada e carreira, Elvis encontrará Priscilla Presley (Olivia DeJonge), fonte de sua inspiração e uma das pessoas mais importantes de sua vida.</info>
 </item>
 
 <item>
