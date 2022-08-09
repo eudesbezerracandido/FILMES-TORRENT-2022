@@ -46,6 +46,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O FANTASMA VERMELHO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aad6becbc90858ce3b2ee57d4e50676d3c1a4dd4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dbUfMyfmGJKio3PEn1EogxTh7Mg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> 30 de dezembro de 1941. Em Vyazma ('caldeirão Vyazemsky'), há um pequeno grupo de soldados soviéticos que estão tentando alcançar seus próprios camaradas após terem escapado do cerco nazista. No filme, eles são repentinamente pegos em uma batalha desigual com uma unidade especial da Wehrmacht. Nenhuma dessas pessoas corajosas nasceu um herói, mas eles se tornaram heróis. E foram ajudados em sua batalha pelo Fantasma Vermelho. O mito do fantasma vermelho do filme é sobre um herói solitário que derrota os soldados nazistas um por um. Ele parece ser capaz de desaparecer quase que magicamente nas florestas e até mesmo de voltar dos mortos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DARLINGS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8133211c3ff576276ce08be3bdabdfaf7011b160</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/lyA7kXCIAG17hVuvFOxlMmmv31A.jpg</thumbnail>
