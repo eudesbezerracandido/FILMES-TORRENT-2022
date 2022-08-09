@@ -46,6 +46,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DARLINGS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8133211c3ff576276ce08be3bdabdfaf7011b160</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lyA7kXCIAG17hVuvFOxlMmmv31A.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Badru acha que seu marido pode mudar de vida se parar de beber. Mas, quando a raiva dele vai longe demais, ela e a mãe decidem se vingar — mesmo sem saber muito bem como.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O ACONTECIMENTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c12736419afc0c64c77b79e419c43134540199ff</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/p4SEXbaIbQl9adB0qGlnEzLMahq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> França, 1963. Anne é uma aluna jovem e brilhante com um futuro promissor pela frente. Mas quando engravida, vê desaparecer a oportunidade de terminar os estudos e escapar aos constrangimentos das suas origens sociais. Perante a aproximação dos últimos exames e a barriga a crescer, Anne resolve tomar medidas, ainda que tenha de enfrentar a vergonha, o sofrimento e se arrisque a ir para a prisão.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MODO HERÓI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8bce5d58f9acff1698b3038999be78bcb0cb781</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/z8BgAXmIwPlK54wtqdeWrBXYXNt.jpg</thumbnail>
