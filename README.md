@@ -38,6 +38,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ETERNOS COMPANHEIROS - XIÃO Q [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59f27db5ecf3782fde91e78d3da83ccf5a769603</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pNazXPwHRUCIwRldfEZsIUULLU2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em Eternos Companheiros, o amável labrador Little Q está treinando para se tornar um cão-guia para cegos. Quando termina seu treinamento, ele é enviado para auxliar um renomado chef recentemente cego, Lee Bo Ting. Amargurado, Bo Ting se recusa a confiar no cão e tenta afastá-lo várias vezes. Mas, por meio de sua lealdade e proteção, Little Q finalmente ensina Bo Ting a confiar novamente e o abre para uma nova vida de incríveis possibilidades.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ASKING FOT IT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6546HLDWFVT2TLBFQFOKEFO54SZYUH2Y</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ro3yvVbzT2zI2KrHWBA81a2x5iR.jpg</thumbnail>
