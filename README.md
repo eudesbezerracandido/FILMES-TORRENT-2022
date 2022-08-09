@@ -38,6 +38,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ASKING FOT IT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6546HLDWFVT2TLBFQFOKEFO54SZYUH2Y</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ro3yvVbzT2zI2KrHWBA81a2x5iR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois que uma jovem é abusada sexualmente, ela se une a uma gangue de motoqueiras que viaja pelo sul, exigindo vingança em lugares onde o sistema falhou com as mulheres, particularmente no contexto de violência sexual. Baseado no livro de mesmo nome, da escritora Louise O'Neill.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MODO HERÓI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8bce5d58f9acff1698b3038999be78bcb0cb781</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/z8BgAXmIwPlK54wtqdeWrBXYXNt.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Com a empresa familiar à beira da falência, um adolescente gênio da programação deve cumprir uma difícil tarefa: criar o melhor jogo de videogame do mundo para salvar sua família e os negócios.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A CIVIL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ef0dfc93062e0b69bab33612b2b72c78e602456</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bDxPuS199k3h8oPd68ALEr2PwpO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A história de Cielo, uma mãe em busca de sua filha, sequestrada por um cartel criminoso no norte do México. Como as autoridades não dão apoio nas buscas, Cielo toma as rédeas da situação e se transforma em uma ativista vingadora.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UMA AMIZADE TÔXICA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7OU3VKJHKKFYDCNDT6TZWTICWSVXP763</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ovCYE2g54BNQDmRsHDWguFkgjmW.jpg</thumbnail>
