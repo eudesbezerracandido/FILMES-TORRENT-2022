@@ -38,6 +38,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] NA SINFONIA DO CORAÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KSJ56PVMMAWGSOHAGJAPNOBKO7PD5D62</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cmnU2u5WJjl8R6Q0JX2eBN7RpGY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Enquanto faz serenata para um casamento que rapidamente acaba, um músico nômade se apaixona pela noiva, que entra em conflito com sua família. Agora ele tem que salvar a vida dela.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - A VERDADEIRA HISTÓRIA DO ROUBO DO SÉCULO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73B7422NDDJM62WZDNBUL4GY6ZVIDZFH</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xrYVZ5b0p0BKg6vZ3scU4iyOwC3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em 2006, na Argentina, o Banco Río foi assaltado por seis ladrões. 23 reféns e 300 policiais não puderam prever que o grupo iria levar cerca de 15 milhões de dólares e escaparem ilesos. Este documentário contém entrevistas reveladoras sobre a famosa e arriscada operação.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ETERNOS COMPANHEIROS - XIÃO Q [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59f27db5ecf3782fde91e78d3da83ccf5a769603</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/pNazXPwHRUCIwRldfEZsIUULLU2.jpg</thumbnail>
