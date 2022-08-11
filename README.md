@@ -6,7 +6,8 @@
 
 <item>
 <title>[COLOR silver][B] PREDADOR - A CAÇADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VUEKOYKBUPRNPEDKV4JRTGEISZLE27VY</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VUEKOYKBUPRNPEDKV4JRTGEISZLE27VY$nome=PREDADOR A CAÇADA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e64e03d4f71b6d149240abc8e3d3c74a08d9041$nome=LEGENDADO 4k</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zRq6O9mnEhYPobffAPVNPm59j93.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Ambientado no mundo da Nação Comanche no início de 1700, "O Predador: A Caçada" é a história não contada de uma jovem guerreira altamente qualificada, desesperada para proteger seu povo do perigo iminente. Ela persegue e finalmente confronta sua presa, que acaba sendo um predador alienígena altamente evoluído com um arsenal tecnologicamente avançado, resultando em um confronto brutal e aterrorizante entre os adversários.</info>
@@ -35,6 +36,14 @@
 <thumbnail>https://i.pinimg.com/564x/17/9f/86/179f8693ec31104efef0cbc2082f42ba.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/jPejoBtWvO95ZYLMo3KJ0hvhcjf.jpg</fanart>
 <info>Anos após a destruição da fantástica ilha Nublar, dominada pelos gigantes do passado, os dinossauros já não estão mais somente lá. Estão entre nós e a única certeza de cientistas, como Ellie Sattler, Alan Grant e Ian Malcolm, é que humanos e dinossauros não podem habitar o mesmo ambiente. Será que o mundo corre perigo?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ENJAULADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IRTCKTWZ55XSGUU6MNDHJU4T32E5FE3A</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4bnCfbckr574xi5TiWkIZ8luWF4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um bem sucedido psiquiatra afro-americano (Edi Gathegi) é condenado por assassinato e enviado para a solitária. Ele deve lutar por um apelo e sobreviver a uma das duas verdades mortais: a de que ele é culpado e ser assombrado pelo fantasma de sua vítima ou inocente e sucumbir aos efeitos psicológicos do isolamento extremo.</info>
 </item>
 
 <item>
