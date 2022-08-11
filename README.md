@@ -39,6 +39,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] NOSSA CANÇÃO DE AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AWDO55JXH7CDRRGFGAA6PO2SOM4ZE65P</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4oB9RjC73pLN3eZKZzDWQ29748W.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma cantora country em dificuldades conhece um compositor de Nashville que precisa de inspiração. Eles se juntam para escrever uma música, o trabalho deles fica complicado, mas resulta em uma música de sucesso, e no amor verdadeiro.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ENJAULADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IRTCKTWZ55XSGUU6MNDHJU4T32E5FE3A</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4bnCfbckr574xi5TiWkIZ8luWF4.jpg</thumbnail>
