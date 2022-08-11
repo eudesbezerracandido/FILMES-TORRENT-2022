@@ -39,6 +39,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] LEMBRANÇAS PERDIDAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:41e51aa955230b21ac858ca3f02fe0afd0234f5e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4zjMh3h2aOZmt4t3hfvreGakcw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Adaptação ao cinema das memórias de Jennifer Vogel, que contará a história do pai da autora, um assaltante, incendiário e falsificador, que buscava, além da da riqueza, sustentar seu vício em álcool e drogas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NOSSA CANÇÃO DE AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AWDO55JXH7CDRRGFGAA6PO2SOM4ZE65P</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4oB9RjC73pLN3eZKZzDWQ29748W.jpg</thumbnail>
