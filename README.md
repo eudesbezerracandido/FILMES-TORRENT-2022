@@ -39,6 +39,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ATÉ A MORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01f97827360de37f965b2155a4c2c352df0c9cac</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/blWUQPSyv4vWJ8S8MS9lU9BD9Mf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Presa no meio de uma trama de vingança, Emma (Megan Fox) se encontra presa ao corpo de seu marido e precisa sobreviver a dois assassinos profissionais que estão a caminho para terminar o trabalho.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SEQUESTRO - INOCÊNCIA ROUBADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4515d1c3ccf0c26e3ff59754c6987bcdd7af939</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tzVpukXgB0BwLu1Rr14o9q1495p.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma mãe descobre que sua filha de 4 anos, Ola, foi sequestrada pela máfia russa, logo após a criança desaparecer de uma pequena cidade polonesa. Em busca de sua filha, ela é parada por excesso de velocidade por um policial, Robert Goc. Sua intervenção resulta na fuga dos sequestradores pela fronteira. Sentindo-se culpado por não ter impedido o sequestro, Robert se envolve em uma investigação internacional para encontrar a garota desaparecida.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] LEMBRANÇAS PERDIDAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:41e51aa955230b21ac858ca3f02fe0afd0234f5e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4zjMh3h2aOZmt4t3hfvreGakcw.jpg</thumbnail>
