@@ -14,6 +14,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A FERA (HDCAM) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YOSPFK7FNKFJ2KM77FY6TGGLSQRFBG7P</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/crnUUp1cyqwR9NeGhdt0mMQNN0Y.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma mulher sobrevive a um acidente de avião, e está presa em uma ilha aparentemente deserta no Pacífico Sul. Ela deve lutar para voltar para seus filhos, enfrentar seus demônios interiores e uma ameaça real de proporções inimagináveis.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ELVIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd048c97d2081f5a3dec4ce8e21836b069a8413e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/FTBDId0Ntc8YmJpolZe8fLJcoI.jpg</thumbnail>
