@@ -39,6 +39,38 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ASSASSINO SEM RASTRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GVL2QAXHHUC5KUGMCKOACF2KJ6TF7YR5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/emj0dVlz5zSnvOfMZJA2zrWyW6Z.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em Assassino Sem Rastro, Alex Lewis (Liam Neeson) é um assassino experiente com reputação de precisão discreta. Ele planeja se aposentar logo, mas recebe uma última tarefa antes que consiga realizar tal desejo de vida. O alvo é simples: uma pessoa. Isso até que descobre que o alvo é uma garota. Preso em um dilema moral, Alex se recusa a concluir um trabalho que viola seu código de ética e então pede para cancelar tal contrato. Mas descobre que a garota foi morta por outro assassino. Isso o coloca contra o agente do FBI Vincent Serra (Guy Pearce), quem reabilitou a menina depois que seu pai foi morto. Ao se voltar contra o FBI, bem como as outras pessoas que estão atrás de Serra, Alex se propõe a eliminar os traficantes de crianças, mas sua grave perda de memória acaba sendo prejudicial para sua saúde e missão. Com o objetivo de se vingar, mas com a saúde violada ele é forçado a questionar todas as suas ações, se perdendo na linha entre o certo e o errado.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] LINHAS OPOSTAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LICF7QRAMVND4RJVL66IYS5WFQ54S7OW</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/g6rY0f50JNdPaMVhayzSbVfBTTF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um prodígio da natação de 15 anos se autodestrói depois que seu pai é libertado da prisão.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DUPLA JORNADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f83d2082eae23f2616a2c1a1734d4b4445523a8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gmY6yEyvLlkqrgqYNXPp1llPZeT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um pai trabalhador só quer dar uma vida melhor para sua filha de 8 anos, mas seu trabalho de limpeza de piscinas em San Fernando Valley é uma fachada para sua verdadeira fonte de renda, caçar e matar vampiros.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  CÓDIGO IMPERADOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f83d2082eae23f2616a2c1a1734d4b4445523a8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/74HVV4JR2rT01S9NDZie4YWBLUD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Juan é um agente que trabalha para os serviços de inteligência, que também se reporta a uma unidade paralela envolvida em atividades ilegais.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ATÉ A MORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01f97827360de37f965b2155a4c2c352df0c9cac</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/blWUQPSyv4vWJ8S8MS9lU9BD9Mf.jpg</thumbnail>
