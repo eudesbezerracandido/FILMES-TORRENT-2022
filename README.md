@@ -47,6 +47,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O MUSICAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QYA5ZUG2W2NMKYCKKLYX74ELLT5IEFBU</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3ndpRWh8iOvckVtHptIsD4OtayN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Adaptação da Netflix do musical da Broadway vencedor do Tony. A história segue o jovem Evan Goldman quando ele se muda de Nova Iorque para Indiana. Enquanto lida com o divórcio dos seus pais, ele se prepara para o seu Bar Mitzvah e navega pelos complicados círculos sociais de uma nova escola.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] LINHAS OPOSTAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LICF7QRAMVND4RJVL66IYS5WFQ54S7OW</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/g6rY0f50JNdPaMVhayzSbVfBTTF.jpg</thumbnail>
