@@ -55,6 +55,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CRESCER É MUITO CHATO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:15c19509f641cd910af9272fafcac231aa8ebb29</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bs49EWboZTO12cxu4cXyUSAxxib.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Após o divórcio dos pais, o maior desejo de Annie é voltar para sua escola e amigos em Nova Jersey. Quando a oportunidade perfeita surge, ela arma um plano para fazer com que eles se apaixonem de novo, mas as coisas não são tão fáceis.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] LINHAS OPOSTAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LICF7QRAMVND4RJVL66IYS5WFQ54S7OW</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/g6rY0f50JNdPaMVhayzSbVfBTTF.jpg</thumbnail>
