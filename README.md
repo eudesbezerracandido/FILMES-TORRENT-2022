@@ -55,6 +55,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ANJO DA MINHA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3e44c1380e2da7ec7c229427159fe518464c757</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/i9FINZQYODQRKKHagLdzsLdS7go.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Angel é um jovem com deficiência cognitiva que treina para ser um grande atleta, para vencer corridas e conquistar o amor de seu pai José Santos, uma glória do esporte que, desde o momento de seu nascimento, ao saber de sua condição, rejeita dele. Graças ao apoio de seu avô e ao amor incondicional de sua mãe, a vida de Angel e seu relacionamento com sua família tomam um rumo inesperado.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O MUSICAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QYA5ZUG2W2NMKYCKKLYX74ELLT5IEFBU</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/3ndpRWh8iOvckVtHptIsD4OtayN.jpg</thumbnail>
