@@ -83,6 +83,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ROYALTEEN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ATUGOBMFAUE5MZ4FJJQ7R2QGNQAU5SKC</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oK6I9Wa5RIqxpNbJ4NWemsotcYJ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ela começou um romance inesperado com o príncipe herdeiro, mas vai ter que fazer de tudo para impedir que seu passado escandaloso (e um grande segredo) sejam revelados.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] COMO SERIA SE? [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e1c09275b2e34bc09d90e7e3b0b439e58448a7f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dtniFUyaodUtiyRExqBUp0Cyai8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Na véspera de sua formatura na faculdade, a vida de Natalie diverge em realidades paralelas: uma em que ela engravida e permanece em sua cidade natal para criar seu filho e outra em que ela se muda para Los Angeles para seguir sua carreira dos sonhos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ASSASSINO SEM RASTRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GVL2QAXHHUC5KUGMCKOACF2KJ6TF7YR5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/emj0dVlz5zSnvOfMZJA2zrWyW6Z.jpg</thumbnail>
