@@ -83,6 +83,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O NATAL DOS MITCHELL 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b438f250891628fbf60df55f6b5b448c8e817b49</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jp5rosMiQnStobFM2T2PZ6cmp3r.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Os Mitchell estão de volta! Desta vez, Mike (Robert Buckley) e Brandon (Jonathan Bennett) passam as férias tentando construir a casa de Natal mais mágica possível.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CAÇANDO AVA BRAVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AA4MTKHGTMN4GHZVE5CST4L3AYR4L7TM</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/i2Hy3c0CZsyltiZVs5UdTNhUYlv.jpg</thumbnail>
