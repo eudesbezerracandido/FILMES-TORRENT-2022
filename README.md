@@ -99,6 +99,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] POBRE FAMILIA RICA, QUANDO A SORTE ACABA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d0d336575da1e01ae10e6e93caf6078abe47bf04</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gErbuV4viQkVLiqyiRIaF40YlQA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O que você faria se ganhasse milhões? A vida de Tino, um simples personal trainer, muda radicalmente quando ele ganha na loteria. No entanto, depois de quinze anos levando uma vida cheia de luxo e sem nenhum controle, ele e sua família acabam gastando todo o dinheiro.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ROYALTEEN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ATUGOBMFAUE5MZ4FJJQ7R2QGNQAU5SKC</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/oK6I9Wa5RIqxpNbJ4NWemsotcYJ.jpg</thumbnail>
