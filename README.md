@@ -83,6 +83,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CAÇANDO AVA BRAVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AA4MTKHGTMN4GHZVE5CST4L3AYR4L7TM</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/i2Hy3c0CZsyltiZVs5UdTNhUYlv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Buddy King, um bilionário excêntrico, passo seu tempo caçando pessoas escondido nas montanhas nevadas. Mas sua última vítima, Ava Bravo, não será um alvo fácil.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] 355 DIAS - FINAIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CTZZ7XIZDDATD22MBEM3PR2ZLSPKTEC7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2pxKwxMbd5l3BxK5fBgVCWYweH2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em 365 Dias: Finais, após o ocorrido no filme anterior, os melhores médicos lutam pela vida de Laura. Seu marido, Massimo, terá que tomar uma das decisões mais difíceis de sua vida: salvar Laura ou seu filho. Que decisão ele irá tomar? Ele saberá viver sem a mulher que ama? Será capaz de criar um filho sozinho?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ROYALTEEN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ATUGOBMFAUE5MZ4FJJQ7R2QGNQAU5SKC</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/oK6I9Wa5RIqxpNbJ4NWemsotcYJ.jpg</thumbnail>
