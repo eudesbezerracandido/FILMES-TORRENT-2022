@@ -74,9 +74,9 @@
 
 <item>
 <title>[COLOR silver][B]  DUOLOGIA - TOP GUN /1986/2022 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SS7BLVQPQQMIQ6GAVWPNBI5A2UX2HQSR$nome=TOP GUN - ASES INDOMÁVEIS 1986</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6E78FE486402E54F24309C0167A3C7F285AFEC74$nome=TOP GUN MAVERICK - HDCAM</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6e449c2281e62edbf8cdb447413ca288cf0e568$nome=TOP GUN MAVERICK - LEGENDADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SS7BLVQPQQMIQ6GAVWPNBI5A2UX2HQSR$nome=TOP GUN  ASES INDOMÁVEIS 1986</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6E78FE486402E54F24309C0167A3C7F285AFEC74$nome=TOP GUN MAVERICK  HDCAM</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6e449c2281e62edbf8cdb447413ca288cf0e568$nome=TOP GUN MAVERICK  LEGENDADO</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zOGINv5sJxEZQWw2dGuO8JUzvyK.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/o4jH603FDXVPuNx0gjTSkNebhoP.jpg</fanart>
 <info>Após 34 anos na força, o lendário Capitão Pete "Maverick" Mitchell (Tom Cruise) se torna o novo instrutor de voo da Top Gun, fazendo com que ele seja o mentor de Bradley Bradshaw (Miles Teller), o filho de Goose, que busca ser um piloto melhor do que o seu pai foi.</info>
@@ -1682,14 +1682,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/67vb4sQxJ06o4LvgoxB8Fj6mGqk.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Em 365 Days 3, após o ocorrido no filme anterior, os melhores médicos lutam pela vida de Laura (Anna-Maria Sieklucka). Seu marido, Massimo (Michele Morrone), terá que tomar uma das decisões mais difíceis de sua vida: salvar Laura ou seu filho. Que decisão ele irá tomar? Ele saberá viver sem a mulher que ama? Será capaz de criar um filho sozinho?</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] DOCUMENTÁRIO - Á MEDIUM/ ARCHIVE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://archive.org/download/a-medium/%C3%81%20M%C3%89DIUM.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/2aP7usXx1uLbduhrsW84hn3yRyY.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Uma história horripilante sobre a herança de um xamã na região de Isan, na Tailândia, onde a Deusa que parece ter possuído um membro da família acaba não sendo tão benevolente quanto pensavam ser.</info>
 </item>
 
 <item>
