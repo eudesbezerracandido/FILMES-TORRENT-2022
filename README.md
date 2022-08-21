@@ -1,7 +1,7 @@
 # FILMES-TORRENT-2022
 
 
-<item>
+<items>
 <title>[COLOR silver][B] PREDADOR - A CAÇADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VUEKOYKBUPRNPEDKV4JRTGEISZLE27VY$nome=PREDADOR A CAÇADA</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e64e03d4f71b6d149240abc8e3d3c74a08d9041$nome=LEGENDADO 4k</link>
@@ -2191,6 +2191,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/AqH1hjH7sAmPGuFoK9zugLmPsr9.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Tommy Schooner, de quatorze anos, vem de uma família cujas vidas giram em torno do skate. Sua mãe e seu pai possuem uma empresa de skate em rápido crescimento chamada Modern Skate que se prepara para uma reunião com uma grande empresa de investimentos, liderada por Hoffman. Também a irmã de Tommy é uma patinadora profissional e a face pública da empresa. Até mesmo seu cachorro Buddy pode rasgar com o melhor deles. Enquanto pratica patinação com Buddy, Tommy acidentalmente encontra Frankie, um skater local de 17 anos e valentão da cidade. Depois de uma discussão, Tommy desafia Frankie para uma competição de skate. Infelizmente, Tommy não herdou a paixão de seu pai nem as habilidades de sua irmã, e a competição de skate está em 5 dias. Com muita prática e uma pequena ajuda de sua melhor amiga, Alice, e seu fiel amigo Buddy, ele pode estar pronto a tempo para a competição - e ele pode aprender algo sobre integridade ao longo do caminho.</info>
-</item>
+</items>
 
 
