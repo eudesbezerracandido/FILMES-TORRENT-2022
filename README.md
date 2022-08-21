@@ -83,6 +83,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] COMPULSION [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MPUUEKA5VRAML442YOWPBVIBLPGWRRML</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bdUvSiw0t6G86FRAP2CGYh0ReD6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de sobreviver a uma tragédia, a paramédica Jenny Challoner luta contra o PTSD. Escondendo seu sofrimento do marido Chris, da amiga Alison e da filha Rosie, a vida de Jenny fica fora de controle.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ACUSADA E FORAGIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Y2FYMTXTL4ZERQKRASTTEYY2EFWF7RII</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1FOsQyJ2jlJ1NN9PJeKAwPezTvt.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando uma mãe descobre que a babá que a incriminou por negligência infantil é a nova namorada de seu ex-marido, ela foge para provar sua inocência e expor o verdadeiro culpado.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] FULLMETAL ALCHEMIST-A VINGANÇA DE SCAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3b210ad5782dbce42e500ef352492bdd0fd20d07</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yTSqYT12q5A9WT0ju9pyHfuiIWi.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Os s irmãos Elric encontram seu oponente mais difícil até agora - um assassino em série solitário com uma grande cicatriz na testa. Primeira parte da última adaptação live-action de ''Fullmetal Alchemist'', baseado no mangá homónimo de Arakawa Hiromu.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O NATAL DOS MITCHELL 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b438f250891628fbf60df55f6b5b448c8e817b49</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jp5rosMiQnStobFM2T2PZ6cmp3r.jpg</thumbnail>
