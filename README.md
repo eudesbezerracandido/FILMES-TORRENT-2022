@@ -1,9 +1,6 @@
 # FILMES-TORRENT-2022
 
 
-
-
-
 <item>
 <title>[COLOR silver][B] PREDADOR - A CAÇADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VUEKOYKBUPRNPEDKV4JRTGEISZLE27VY$nome=PREDADOR A CAÇADA</link>
