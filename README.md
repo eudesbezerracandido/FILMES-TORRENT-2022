@@ -24,7 +24,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/FTBDId0Ntc8YmJpolZe8fLJcoI.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A cinebiografia de Elvis Presley acompanhará décadas da vida do artista (Austin Butler) e sua ascensão à fama, a partir do relacionamento do cantor com seu controlador empresário “Colonel” Tom Parker (Tom Hanks). A história mergulha na dinâmica entre o cantor e seu empresário por mais de 20 anos em parceria, usando a paisagem dos EUA em constante evolução e a perda da inocência de Elvis ao longo dos anos como cantor. No meio de sua jornada e carreira, Elvis encontrará Priscilla Presley (Olivia DeJonge), fonte de sua inspiração e uma das pessoas mais importantes de sua vida.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] THOR - AMOR & TROVÃO (HDCAM) LEGENDADO INGLÊS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
