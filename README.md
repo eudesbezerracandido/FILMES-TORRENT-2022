@@ -72,8 +72,8 @@
 <item>
 <title>[COLOR silver][B]  DUOLOGIA - TOP GUN /1986/2022 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SS7BLVQPQQMIQ6GAVWPNBI5A2UX2HQSR$nome=TOP GUN  ASES INDOMÁVEIS 1986</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6E78FE486402E54F24309C0167A3C7F285AFEC74$nome=TOP GUN MAVERICK  HDCAM</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6e449c2281e62edbf8cdb447413ca288cf0e568$nome=TOP GUN MAVERICK  LEGENDADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MYT6SQDHXQR2FFLIBRHGFL6JKSBOF66W$nome=TOP GUN MAVERICK</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e9f13521894181ccf34ef2aa181c8f110a24303$nome=TOP GUN MAVERICK 4k</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zOGINv5sJxEZQWw2dGuO8JUzvyK.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/o4jH603FDXVPuNx0gjTSkNebhoP.jpg</fanart>
 <info>Após 34 anos na força, o lendário Capitão Pete "Maverick" Mitchell (Tom Cruise) se torna o novo instrutor de voo da Top Gun, fazendo com que ele seja o mentor de Bradley Bradshaw (Miles Teller), o filho de Goose, que busca ser um piloto melhor do que o seu pai foi.</info>
