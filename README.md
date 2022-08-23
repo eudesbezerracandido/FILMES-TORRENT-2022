@@ -80,6 +80,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] EM UM PASSE DE MÁGICA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:271fef6a4335b822cd9e0c76614b2b56438cf113</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lfprZ6p6rliMRgnhE09kVV57Q1o.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Para se casar com o amor de sua vida, um mágico que nem gosta de futebol precisa dar um jeito de levar o time local às finais de um campeonato.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] COMPULSION [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MPUUEKA5VRAML442YOWPBVIBLPGWRRML</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/bdUvSiw0t6G86FRAP2CGYh0ReD6.jpg</thumbnail>
