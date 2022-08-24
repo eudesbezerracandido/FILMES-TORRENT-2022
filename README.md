@@ -80,6 +80,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DUPLA EXPLOSIVA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e2731219203bdd3f916779140dc278db2a9aee9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/a3w9A9k7KSzLffT23dMdL0R7oMJ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Neste reboot do clássico dos anos 1970 com Bud Spencer e Terence Hill, dois irmãos que passaram 25 anos afastados se reúnem para recuperar o amado bugue do pai.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - JOHN MCAFREE-GÊNIO,POLÊMICO & FUGITIVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c4257be3f98a282525b7e5f3e847d1760aeb55c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uTqjzvCJSPjpuRRsTy5GNqkI6zN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ele foi um gênio da computação que perdeu o controle, inventor de um dos softwares mais exitosos (e odiados) de todos os tempos: o antivírus McAfee. No auge do sucesso, John McAfee chegou a ter uma fortuna de 100 milhões de dólares. Mas, quando o vizinho foi assassinado, ele simplesmente fugiu e ainda levou uma equipe de filmagem. Com acesso a centenas de horas de gravações inéditas de McAfee durante a fuga, esta é a história definitiva de uma personalidade exuberante, um homem que foi candidato a presidente, escapou várias vezes da prisão e ainda disse que hackeou o mundo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] EM UM PASSE DE MÁGICA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:271fef6a4335b822cd9e0c76614b2b56438cf113</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/lfprZ6p6rliMRgnhE09kVV57Q1o.jpg</thumbnail>
