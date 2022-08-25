@@ -80,6 +80,46 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] THATS AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FGZG2FYHE3XB7GRYK3IC2HR5V3M6KW2W</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eSLSLO5GXYZVT6v2udNyPVYef9z.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após ficar desempregada e solteira no mesmo dia, Sofia começa do zero e conhece um chef espanhol encantador que pode ser o ingrediente que faltava. Esta comédia romântica deliciosa com o charme de Um Brinde ao Natal e o tom saboroso de Meu Eterno Talvez começa com um encontro em uma aula de culinária.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - O CASO FIGO A TRANSFERÊNCIA QUE MUDOU O FUTEBOL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IDX4OAS4QWONNE4BJIVNPLWA3TCRQIYE</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2GQrzwE7HHBNAGnADKKKeXy7ke4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Neste revelador documentário esportivo, uma lenda do futebol português relembra a transferência histórica que virou notícia no mundo inteiro.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TUDO SOBRE SEXO- COM MODERAÇÃO VIU [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1847d5045fb0a997c6da9a4bd576fc5d38d21293</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jctlbKSXur5YRF7VpM1Jfla6AwY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Sage, Morgan e Casey, três amigas na casa dos vinte e poucos anos, lutam para equilibrar suas vidas profissionais e pessoais. Com muito bom humor e um toque de sexo, elas enfrentam as dores crescentes, confusas, hilárias e terríveis da idade adulta.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  A LEI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e26bed5b6a21ba4b7c3d5c8c4f7d3596341e2da</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pep83sKsypHJZwwGeAUHxAmXiyQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Na hora do almoço, soldados da Polícia Militar ocupam o balcão de um bar decadente, para comer comida gordurosa sem pagar a conta. Enquanto comem, além de falarem sobre sua rotina de extrema violência em uma das maiores cidades do mundo, eles dão voz aos traumas e às fraquezas de quem, em nome da lei e da ordem, é capaz de cometer os crimes mais hediondos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MARCAS DA MALDIÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1f36a15d83e59f12295a1a31da899a05bedc2514</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/a2EBrVUZTPp3Y9YMnCy5JfMaxQu.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Inspirado na história real de uma família que acreditava estar possuída, este filme acompanha a vida de uma mulher que precisa proteger a filha contra o mal. Ruo-nan quebrou o tabu da religião por acidente há 6 anos. Isso fez com que seu namorado e família morressem sem motivo. Ela passou por um período sombrio de superstição, e escondeu esses segredos e dores das pessoas, ela até deu seu filho recém-nascido para outra família. Depois de alguns anos, ela foi para a terapia e voltou à vida normal. Ela decidiu trazer seu filho de volta para morar com ela, mas sua filha começou a aparecer o sinal de maldição que ela conheceu há 6 anos. Ruo-nan precisa enfrentar o mais profundo horror por seu filho. Ela começa a registrar tudo sobre a maldição e tenta encontrar uma maneira de salvar seu filho.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] OS JOVENS AMANTES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bdfd64efd0624f70f54952263a4413c69a59f7a8</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6zJF4momHB9C2e5S6vpMDmSyr6h.jpg</thumbnail>
