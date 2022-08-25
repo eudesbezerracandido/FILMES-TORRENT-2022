@@ -80,6 +80,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ESTA TUDO BEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YAGOF22MFSQS2OP6YF7JKAG6XPJNOS5C</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zHhRx6t96UlClbgygDK5upHr68t.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando André de 85 anos sofre um derrame, Emmanuelle corre para a cama do seu pai. Doente e paralisado, pede à Emmanuelle que o ajude a acabar com a sua vida. Mas como se pode satisfazer tal pedido quando se trata do seu próprio pai?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CAM GIRLS-GAROTA DA WEB [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2549f4d61b5dbc80da6b4d1de0002f34f2f3d41</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/e1kBNXNYG1CG2i4oC7ZAJyYxM5u.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Jenna, Kelly e Ness se encontraram isoladas em torno do lockdown da pandemia de coronavírus. Com pouco para fazer em casa e com muito tempo disponível, as meninas interagem entre si, discutindo seus novos desejos sexuais desencadeados com seus parceiros através da internet. Mergulhando no mundo do BDSM, do grupo e da infidelidade, as mulheres vão querer ir mais longe com esses atos sexuais experimentais quando saírem do bloqueio?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DUPLA EXPLOSIVA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8e2731219203bdd3f916779140dc278db2a9aee9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/a3w9A9k7KSzLffT23dMdL0R7oMJ.jpg</thumbnail>
