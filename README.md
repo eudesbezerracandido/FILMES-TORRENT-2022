@@ -80,6 +80,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] OS JOVENS AMANTES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bdfd64efd0624f70f54952263a4413c69a59f7a8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6zJF4momHB9C2e5S6vpMDmSyr6h.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dois amantes se reencontram no corredor de um hospital, 15 anos após o primeiro contato. Shauna tem 71 anos, enquanto Pierre tem 45. Opostos, mas hipnotizados um pelo outro, eles se reconectam, enquanto Shauna, que já é mãe, avó e viúva, quer reafirmar que ainda é uma mulher e que a diferença de idade entre eles não importa.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ESTA TUDO BEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YAGOF22MFSQS2OP6YF7JKAG6XPJNOS5C</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zHhRx6t96UlClbgygDK5upHr68t.jpg</thumbnail>
