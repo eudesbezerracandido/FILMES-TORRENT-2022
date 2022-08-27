@@ -80,6 +80,46 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O SAMATITANO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6429b3fe8614b55b429bc2eb023e1553118ec2f2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7xP0NhjE6AOJ1RTx5vh3Jw1aNCe.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Baseado em uma ideia original, o thriller se concentra em um garoto que está prestes a descobrir se um super-herói mítico, que desapareceu 20 anos antes de um evento trágico, ainda está vivo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] FÉRIAS DA FAMILIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:031a63e5cfd3ec76c2de7a87e418cc04cf8a662b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mGPFbEmWdaDVxO5V64xYwv6v8j.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A trama besteirol segue um pai que acabou deixando a vida social de lado após ter filhos, e agora tira uma "folga" da família para deixar a cabeça mais leve. Quando a família toda viaja, esse pai dono de casa se depara com um tempo só para ele. Seu melhor amigo das antigas reaparece e eles aproveitam um final de semana épico, que quase vira a vida dele de cabeça para baixo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] KAAMELOT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XWT3HOIKACMXESPVGD26FGGKGM53I3EH</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sHrnKc97hWChIuePNXlmDA29VZt.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Escondido em Roma, o rei Arthur planeja seu retorno para se opor ao exército de seu ex-amigo Lancelot. O tirânico Lancelot-du-Lac e seus mercenários saxões estão reinando no terror sobre o reino de Logres. Os deuses, insultados por esta ditadura cruel, provocam o retorno de Artur Pendragon e o advento da resistência. Será que Artur conseguirá unir os clãs rebeldes, derrubar seu rival, retomar Camelot e restaurar a paz na ilha da Bretanha?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SEUL EM ALTA VELOCIDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f86c678d7209057ae904470fdcfde1588960bdd7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ffX0TL3uKerLXACkuZGWhAPMbAq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Por amor à velocidade, aos sonhos e ao dinheiro, uma equipe de pilotos se envolve na investigação de uma figura poderosa das Olimpíadas de Seul de 1988.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CÓDIGO DE LEI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZZLHFRMPMMPHCPWLACCA7OIQ55SQIVOM</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mGIaY2PRpw0xdYHZfPNBK2bC41L.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Situado numa América distópica onde todas as pessoas que não são heterossexuais, brancas, cristãs e cis são seguidas pelo governo e marcadas com códigos de barras.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] THATS AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FGZG2FYHE3XB7GRYK3IC2HR5V3M6KW2W</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/eSLSLO5GXYZVT6v2udNyPVYef9z.jpg</thumbnail>
