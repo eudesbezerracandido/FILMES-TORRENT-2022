@@ -96,6 +96,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] HOMENS DE OURO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38046f40689526ff42f9bed7b44a1dbc5058584f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vDwyRJbUS5Fsla5Xpb6UTbMNgPq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um grupo de homens desesperados, insatisfeitos com suas vidas, decide tentar um assalto a um guarda de caminhão blindado postal. Inspirado em uma história real que aconteceu em 1996, em Turim, na Itália. Quando uma nova lei impossibilita sua aposentadoria precoce, Luigi, um motorista de van de segurança dos correios, planeja o roubo perfeito para poder parar de trabalhar e se mudar para a Costa Rica. Ao lado de seu amigo Luciano, eles procuram por um parceiro confiável, e Luigi convence seu misterioso colega Alvise a se juntar a eles. Mas o crime não é para todos, e a ganância de cada um vai transformar uma tarefa fácil em um jogo muito perigoso.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] KAAMELOT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XWT3HOIKACMXESPVGD26FGGKGM53I3EH</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/sHrnKc97hWChIuePNXlmDA29VZt.jpg</thumbnail>
@@ -117,6 +125,14 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/mGIaY2PRpw0xdYHZfPNBK2bC41L.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Situado numa América distópica onde todas as pessoas que não são heterossexuais, brancas, cristãs e cis são seguidas pelo governo e marcadas com códigos de barras.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UM MARIDO FIEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ce65dd8f19a0af92f581b1571bf77e399dd3115</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gzU5keUQEyXbQ8XVG1XKZkul4qe.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A linha tênue entre amor e ódio se torna mortal quando uma esposa descobre o caso de seu marido e ambos tomam medidas extremas para conseguir.</info>
 </item>
 
 <item>
