@@ -80,11 +80,27 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] O SAMATITANO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] O SAMARITANO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6429b3fe8614b55b429bc2eb023e1553118ec2f2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7xP0NhjE6AOJ1RTx5vh3Jw1aNCe.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Baseado em uma ideia original, o thriller se concentra em um garoto que está prestes a descobrir se um super-herói mítico, que desapareceu 20 anos antes de um evento trágico, ainda está vivo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ARMADILHA EXPLOSIVA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7G36YISD5DXTKKFXFNEGO5MZZWHMQ6HV</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uPzZu5hmNoS3X00ewINA9zQlfGp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em um estacionamento parisiense, Sonia se vê presa em seu carro com seu filho e a filha de seu namorado Fred, que foi deixado do lado de fora, impotente para lidar com a situação: uma mina antitanque foi colocada embaixo do carro.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] LINHA TÊNUE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VVI2PA33HJFQONVLME73IJHSDX35TJT2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rVfJue5ieHUIDbi2u4RHrTRBLe9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Oleg está chegando aos trinta. Ele trabalha como paramédico e, depois de um dia difícil, ele gosta de beber. Sua esposa Katya também é médica, trabalhando no departamento de emergência do hospital. Mas a paciência com Oleg está ficando curta, então ela anuncia um dia que quer o divórcio. O filme examina um relacionamento experimentando uma arritmia semelhante à que afeta os corações dos pacientes de Oleg em seu trabalho como paramédico.</info>
 </item>
 
 <item>
