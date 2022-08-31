@@ -96,6 +96,14 @@
 </item> 
 
 <item>
+<title>[COLOR silver][B] MENTIRAS DE FAMILIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0b708d295d2fa3d4f724bda713a9c358be37b2b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2bAjCwJ1sZMtpr1GywZSboKqXW1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Kim é uma apresentadora rica e glamorosa de um popular programa noturno de rádio, onde atende ligações anônimas de pessoas que querem confessar seus problemas. Após a ligação de Nhi, uma garota de 18 anos que fugiu de casa, Kim oferece um quarto para a jovem em sua mansão. Mas Kim é surpreendida pelas segundas intenções de Nhi, que a obriga a revelar seus segredos mais sombrios.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NAS PROFUNDEZAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6F7BQXT5MEZCSOWB5Z4YJPE5W7T5NKHP</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/xgIwjxiSGTjAyH1RwtQP6quFTki.jpg</thumbnail>
