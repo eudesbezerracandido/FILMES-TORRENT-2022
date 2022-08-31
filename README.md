@@ -112,11 +112,35 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PASSEI POR AQUI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc5d08e8f53c535331b466d02de4938998e6d47f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/o3ZxVMGkEql0Xjx0Y514fzxhpb4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Segue um jovem grafiteiro que descobre um segredo chocante que colocaria ele e os mais próximos a ele em perigo. Um jovem grafiteiro rebelde tem como alvo principal as casas de uma elite rica da região, ação que o aproxima da propriedade de um sinistro juiz de prestígio. O grafiteiro acaba descobrindo um segredo chocante, que o leva a uma jornada que coloca em risco a si mesmo e aos mais próximos a ele, sendo perseguido como nunca.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A GESTORA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a5c2ac94cabf3c7623ad957abbeb3355108d7c5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hRqvE6dABictKuLwqQMzq6AptiZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma jovem ambiciosa faz um acordo inusitado com a chefe. Mas quando começam a surgir dúvidas, pode ser tarde demais para voltar atrás.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - BIO VIDAS QUE MARCARAM A SUA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0cb2e2d32fdf12497e554ad9b74155da3a918cd2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/e4YEkw8GOxk3YEjxLYMjbIto3CK.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Mercedes Sosa é a mulher que mudou os rumos do folclore argentino. O especial conta com valiosos depoimentos de amigos, familiares e ex-colegas como Rodolfo Braceli, que testemunhou mais de cinquenta anos de carreira. Assim, os depoimentos tornam tangível a visão de mundo de Mercedes Sosa, seu legado musical e seus pensamentos sobre política, amor, música e vida.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DESCOBRINDO O AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:REMIIYW6SZH7YOXWYBF5PI5LP6Q7QQXG</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6cJIPLtyWixpm6zt3Nf5wVkWzua.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A história é descrita como um olhar comovente sobre a difícil entrada de um jovem na idade adulta. Com Diane Kruger e Hero Fiennes Tiffin. Neste intenso retrato do primeiro amor, um casal de adolescentes enfrenta as emoções da paixão e do descontrole emocional: a dor do rompimento, a cura e os encontros.</info>
 </item>
 
 <item>
