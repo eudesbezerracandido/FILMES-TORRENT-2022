@@ -93,7 +93,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/vqaq3mYQ7oxZM4CCHuevUoQLs4C.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Finney Shaw, um menino tímido, mas inteligente, de 13 anos, é sequestrado por um assassino sádico e preso em um porão à prova de som, onde gritar é de pouca utilidade. Quando um telefone desconectado na parede começa a tocar, Finney descobre que pode ouvir as vozes das vítimas anteriores do assassino. E eles estão determinados a garantir que o que aconteceu com eles não aconteça com Finney.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] NAS PROFUNDEZAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
