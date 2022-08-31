@@ -98,7 +98,7 @@
 <item>
 <title>[COLOR silver][B] NAS PROFUNDEZAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6F7BQXT5MEZCSOWB5Z4YJPE5W7T5NKHP</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/u4bDUBd6PJqP31u3KDiQBBtnaQs.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/xgIwjxiSGTjAyH1RwtQP6quFTki.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Uma jovem desesperada por uma fuga, conhece um estranho misterioso e atraente que promete uma viagem romântica. O que se segue é engano, desconfiança e violência.</info>
 </item>
