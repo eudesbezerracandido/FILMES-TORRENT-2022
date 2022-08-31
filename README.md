@@ -88,6 +88,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O TELEFONE PRETO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HRJ2NVN6G4HLS52AOMC3XQPCPG2TFUYD</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vqaq3mYQ7oxZM4CCHuevUoQLs4C.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Finney Shaw, um menino tímido, mas inteligente, de 13 anos, é sequestrado por um assassino sádico e preso em um porão à prova de som, onde gritar é de pouca utilidade. Quando um telefone desconectado na parede começa a tocar, Finney descobre que pode ouvir as vozes das vítimas anteriores do assassino. E eles estão determinados a garantir que o que aconteceu com eles não aconteça com Finney.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NAS PROFUNDEZAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6F7BQXT5MEZCSOWB5Z4YJPE5W7T5NKHP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/u4bDUBd6PJqP31u3KDiQBBtnaQs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma jovem desesperada por uma fuga, conhece um estranho misterioso e atraente que promete uma viagem romântica. O que se segue é engano, desconfiança e violência.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - BIO VIDAS QUE MARCARAM A SUA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0cb2e2d32fdf12497e554ad9b74155da3a918cd2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/e4YEkw8GOxk3YEjxLYMjbIto3CK.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Mercedes Sosa é a mulher que mudou os rumos do folclore argentino. O especial conta com valiosos depoimentos de amigos, familiares e ex-colegas como Rodolfo Braceli, que testemunhou mais de cinquenta anos de carreira. Assim, os depoimentos tornam tangível a visão de mundo de Mercedes Sosa, seu legado musical e seus pensamentos sobre política, amor, música e vida.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ARMADILHA EXPLOSIVA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7G36YISD5DXTKKFXFNEGO5MZZWHMQ6HV</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/uPzZu5hmNoS3X00ewINA9zQlfGp.jpg</thumbnail>
