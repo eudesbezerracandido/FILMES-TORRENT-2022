@@ -112,6 +112,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O ÚLTIMO ATAQUE DE HITLER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92c7b5e2a60c740064b831d7128666453b0b76d6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pPrGCHk7SVQWLpviozVlOa6HUmF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A batalha do Bulge. O tenente Robert Cappa e seu pelotão de soldados da 2ª Divisão de Infantaria devem defender um depósito de suprimentos vital de ser capturado por soldados alemães. Com inimigos ao seu redor e aliados que não são o que parecem. O tenente Cappa deve tomar decisões prontas para o combate a fim de desacelerar e impedir o avanço do ataque alemão de tanques, infantaria e artilharia.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] INIMIGO INVISIVÉL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3efd1709c07986996d886660df2e0d3b53be6476</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/znmFGF41VKALJIQx0coyjBXNWYm.jpg</thumbnail>
