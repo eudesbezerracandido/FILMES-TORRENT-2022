@@ -96,6 +96,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ILUSÕES PERDIDAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5caa14e7ab2632e35f889789cc19d638ca4e6040</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mjrVEuDdhaKouYz2ykwKGeryEyd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Lucien é um jovem poeta desconhecido da França do século XIX. Ele tem grandes esperanças e quer escolher seu destino. Ele larga a gráfica de sua província natal para tentar a sorte em Paris, nos braços de sua protetora. Logo deixado por conta própria na fabulosa vila, o jovem rapaz vai descobrir os bastidores de um mundo condenado à lei do lucro e das falsidades. Uma comédia humana na qual tudo se compra e se vende, da literatura à imprensa, da política aos sentimentos, das reputações às almas. Ele vai amar, sofrer, e sobreviver às suas ilusões.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O DUQUE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dZVzuH1Qau3WMndO2ISRbFTOhY1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O Duque se passa em 1961, quando Kempton Bunton (Jim Broadbent), um taxista de 60 anos, roubou o retrato do Duque de Wellington pintado por Goya da National Gallery em Londres. Foi o primeiro (e, até hoje, o único) roubo na história da galeria. Kempton mandou notas de resgate dizendo que devolveria a pintura com a condição de que o governo concordasse em fornecer televisão gratuitamente aos idosos. O que aconteceu a seguir tornou-se uma lenda. Passaram-se 50 anos antes que a história completa surgisse: uma revelação surpreendente de como um homem bom decidiu mudar o mundo e, ao fazê-lo, salvou seu filho (Fionn Whitehead) e seu casamento com Dorothy Bunton (Helen Mirren).</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] INIMIGO INVISIVÉL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3efd1709c07986996d886660df2e0d3b53be6476</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/znmFGF41VKALJIQx0coyjBXNWYm.jpg</thumbnail>
