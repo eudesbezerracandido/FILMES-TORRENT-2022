@@ -88,6 +88,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FESTIVAL DOS TROVADORES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e29ff2190838e82524c487d59d7fb1fd2f8e573f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/70JB1IwPg5Ivf2D1Txk2VTAbbVI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O advogado Yusuf e seu pai, Ali Caprichoso, se reencontram em uma longa (e talvez última) viagem depois de 25 anos separados. Pai e filho tentam resolver os problemas do passado e também o futuro deles. Nesse emocionante caminho para perdoar e ser perdoado, “O Festival dos Trovadores” faz uma viagem pela alma de uma pessoa cheia de arrependimentos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] INIMIGO INVISIVÉL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3efd1709c07986996d886660df2e0d3b53be6476</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/znmFGF41VKALJIQx0coyjBXNWYm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A história segue quatro soldados americanos que partiram na subida extenuante de uma montanha italiana nos últimos dias da Segunda Guerra Mundial, assombrados pelo assassinato a sangue frio de uma jovem mulher por um sargento cruel e com um velho italiano de lealdades incertas como o guia deles.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AMOR EM VERONA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c3cabe702311153591ed5f9f5684a2b2d1a810fc</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nQRJIFaCRkZgdwCWCBYchvSx6N6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em Amor em Verona, uma jovem decide fazer uma viagem solitária para a romântica Verona, na Itália. Após um término difícil, ela busca se encontrar novamente e alcançar paz de espírito, mas tudo pode ir por água abaixo, quando ela descobre que a vila que ela reservou foi reservada duas vezes, e ela terá que compartilhar suas férias com um britânico cínico. Porém, o rapaz extremamente bonito também pode mexer com seu coração, e as vezes, o destino imprevisível pode ter um plano melhor.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O TELEFONE PRETO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HRJ2NVN6G4HLS52AOMC3XQPCPG2TFUYD</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/vqaq3mYQ7oxZM4CCHuevUoQLs4C.jpg</thumbnail>
