@@ -93,7 +93,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/70JB1IwPg5Ivf2D1Txk2VTAbbVI.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> O advogado Yusuf e seu pai, Ali Caprichoso, se reencontram em uma longa (e talvez última) viagem depois de 25 anos separados. Pai e filho tentam resolver os problemas do passado e também o futuro deles. Nesse emocionante caminho para perdoar e ser perdoado, “O Festival dos Trovadores” faz uma viagem pela alma de uma pessoa cheia de arrependimentos.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] ILUSÕES PERDIDAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
