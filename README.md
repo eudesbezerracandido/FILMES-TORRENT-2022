@@ -88,6 +88,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PRÓXIMA PARADA NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UU3YMJLA22D54ZFJTLN4KAHJRDV2IHJE</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8UchTIxOmVQattuwW4Mp0UxkY5h.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Angie está determinada a passar o feriado sozinha, mas o trem que ela normalmente pega se transforma em um trem de Natal que a deixa na cidade onde cresceu.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FESTIVAL DOS TROVADORES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e29ff2190838e82524c487d59d7fb1fd2f8e573f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/70JB1IwPg5Ivf2D1Txk2VTAbbVI.jpg</thumbnail>
