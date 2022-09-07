@@ -88,6 +88,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] HOLLYBLOOD [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38decf8bd75495309c4614495325da88724ae9dd</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/m0Xa3ip4yegzXyTeegooUZVuING.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Javi é um adolescente apaixonado por Sara, sua colega de classe, porém, ela só tem olhos para a saga literária de vampiros, HollyBlood, da qual um filme será lançado muito em breve. Javi está disposto falar sobre seus sentimentos para ela, mas uma série de imprevistos fazem Sara acreditar que Javi é um vampiro sobrenatural. O que parecia ser o momento perfeito para Javi virará tudo contra ele e ele terá que lidar com um amor não correspondido e um fanático obcecado por caçar vampiros. Mas a verdadeira ameaça sobrenatural ainda está por vir quando o verdadeiro vampiro desta história se esconde em sua escola.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MAR EM CHAMAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d978b02728e007c315fab84e697718278b869519</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/znrMRCeim6z8BVdCh9NdBuLFxi2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Dos produtores de Terremoto. Em 1969, o governo norueguês anuncia a descoberta de um dos maiores campos de petróleo do mundo no vizinho Mar do Norte, iniciando um período próspero de perfuração offshore, diz a sinopse do filme. 50 anos depois, as consequências ambientais começam a se manifestar – uma rachadura se abriu no fundo do oceano, causando o colapso de uma plataforma. Uma equipe de pesquisadores, incluindo a operadora de submarinos Sofia, corre para procurar os desaparecidos e avaliar a causa dos danos, mas o que eles descobrem é que este é apenas o começo de uma possível catástrofe apocalíptica. À medida que as plataformas são evacuadas, o companheiro amoroso de Sofia, Stian, fica preso nas profundezas do mar, e Sofia deve mergulhar para resgatá-lo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ENCURRALADOS EM VENEZA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b116733537e165076d8c20ebb33a7147ab8e699f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bjT1tfmW5HblRFsQNZRkx8XwrTp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um grupo de turistas espanhóis em Veneza, desatentos à uma ameaça ao seu redor, precisarão lutar por suas vidas quando um a um começam a desaparecer. Quando um grupo de jovens turistas espanhóis chega a Veneza para uma despedida de solteiro, eles são recebidos por irritados moradores locais que não gostam de estrangeiros e eles logo precisam lutar pela própria vida.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PRÓXIMA PARADA NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UU3YMJLA22D54ZFJTLN4KAHJRDV2IHJE</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8UchTIxOmVQattuwW4Mp0UxkY5h.jpg</thumbnail>
