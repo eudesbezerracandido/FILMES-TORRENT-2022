@@ -112,6 +112,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO -UNTOLD- A REGATA DO SÉCULO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PLESFD23RTF3R7QKSYBGZ55OHDVTJYNM</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uiGi7OAaukIUlZbgracBi9FiIFE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Na Americas Cup de 1983, a equipe de iatismo dos EUA defendia o título contra a Austrália em meio a acusações de fraude e espionagem. O capitão australiano John Bertrand e sua tripulação relembram até onde os adversários estavam dispostos a chegar.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DIORAMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UIZSVYNYQJPID4AMCXNIURQZHRKH2XR7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iK0Sjny4RsO9h0CGlKlhA8X2yCN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nesta comédia dramática agridoce, um casal que já foi loucamente apaixonado vê o casamento deteriorar lentamente, até virar parte das tristes estatísticas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PRÓXIMA PARADA NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UU3YMJLA22D54ZFJTLN4KAHJRDV2IHJE</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8UchTIxOmVQattuwW4Mp0UxkY5h.jpg</thumbnail>
