@@ -96,6 +96,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - BOLCHEVIQUE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DZQ7PRXOZCHMUKOEARX3MCSRUHEG2CUF</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/k445VilKhdBeKQyLprJsyPEpkoV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O documentário retrata um fato marcante no território russo: a Revolução Bolchevique, iniciada em 1917, que levou Vladimir Lênin e, posteriormente, Josef Stalin ao comando da então União Soviética. Conta a história da Rússia, as origens do pensamento revolucionário e os padrões usados na implantação do comunismo em diferentes países.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PINÓQUIO- LIVE ACTION [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BDAIEMF2T53Y74O44A42JS2NDMQIKLDQ</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hVPMjz4GXxxS4dMcaxTComi3KzR.jpg</thumbnail>
