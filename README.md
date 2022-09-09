@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO-OBI-WAN KENOBI-O RETORNO DO JEDI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3528dc6789dc5b140f1d78dfd01d63eebce9793e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lAigwxdmn90bzojW9AX4wfNynVG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A produção da Lucasfilm promete levar os fãs aos bastidores da série protagonizada por Ewan McGregor, com imagens inéditas do set, incluindo fotos de Hayden Christensen durante as gravações como Anakin Skywalker e caracterizado como Darth Vader.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A FERA (HDCAM) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YOSPFK7FNKFJ2KM77FY6TGGLSQRFBG7P</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/crnUUp1cyqwR9NeGhdt0mMQNN0Y.jpg</thumbnail>
