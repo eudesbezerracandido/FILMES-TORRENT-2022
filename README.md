@@ -11,6 +11,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PAIXÃO SUFOCANTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a054f562214f19e7429855b85b8c81755a0c0cd9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kYIPV5vcZOKWiKleJCmZvHAjnBk.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Com um visual arrebatador, este drama conta a história de um amor profundo e destrutivo entre uma jovem talentosa e seu instrutor de mergulho livre. Quando Roxana conhece o campeão mundial de mergulho livre, Pascal Gauthier, ela se apaixona perdidamente. Ela se torna amante e estudante quando Pascal a inicia em um esporte radical que é tão fascinante quanto desafiador da morte. Movendo-se de uma competição para outra, em locais de mergulho em todo o mundo, Roxana começa a empurrar limite após limite, totalmente consumida nos lances deste caso apaixonado… mas onde isso vai parar?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] FIM DA ESTRADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IM6HAL5PRH3QUCZYQGXDLBYOLJRH2V54</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aqUTMmzAmNgmr55U1dezPVTQAHP.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de ficar viúva e perder o emprego, Brenda atravessa o país com a família para recomeçar a vida. No deserto do Novo México, longe de qualquer possibilidade de ajuda, eles viram alvos de uma perseguição mortal e precisam aprender a se defender.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DOCUMENTÁRIO-OBI-WAN KENOBI-O RETORNO DO JEDI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3528dc6789dc5b140f1d78dfd01d63eebce9793e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/lAigwxdmn90bzojW9AX4wfNynVG.jpg</thumbnail>
