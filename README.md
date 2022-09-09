@@ -19,6 +19,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] AMOR DE REDENÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CWRSO3QZLKTZ2AHAJ3QZRPSINOW6UGCR</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/o5qpPwlaAbOH2teRowl9ThzEF2r.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Califórnia, 1850. Angel (Abigail F. Cowen), vendida como prostituta quando criança, aprendeu a desconfiar de todos os homens, que a veem apenas como uma forma de satisfazer seus desejos. Quando o virtuoso Michael Hosea (Tom Lewis) recebe de Deus a ordem de se casar com Angel, ele obedece, apesar de seus receios. Baseado no romance homônimo de Francine Rivers.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FIM DA ESTRADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IM6HAL5PRH3QUCZYQGXDLBYOLJRH2V54</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/aqUTMmzAmNgmr55U1dezPVTQAHP.jpg</thumbnail>
