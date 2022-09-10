@@ -120,6 +120,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DESUMANO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VSCQ5GGG26TKBVMWSDSI7K33ROXJL5PA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nOmdssTweQTOceD6HbSkqMRP5NX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um grupo de estudantes do ensino médio estão a caminho de uma excursão em um ônibus escolar. Os relacionamentos são testados quando eles percebem que estão sendo perseguidos por um atacante que pretende expulsá-los e levá-los direto para uma luta horrível para sobreviver.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - ANTRAZ EUA SOBE ATAQUE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d7959395e039ef59896b22a154b9cb2cb5d362f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/p4y4gYJktuu6Y40nzljVPbqFkEG.jpg</thumbnail>
