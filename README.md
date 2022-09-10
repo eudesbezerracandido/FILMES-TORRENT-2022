@@ -59,6 +59,14 @@
 </item> 
 
 <item>
+<title>[COLOR silver][B] A ESTAÇÃO DA ALEGRIA[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81836bb2f49fbee76883bfcc14d8a7ec8ba9a1a0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8QkNOItJNy0mFwpMJIac9VGbgt9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Buscando novas ideias para seu livro, Merry vai para a nevada Vermont e descobre uma nova perspectiva sobre a alegria do Natal com Adam, um carismático trabalhador humanitário.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] THOR - AMOR & TROVÃO (HDCAM) LEGENDADO INGLÊS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d26f48dee57e51b3a0e7c66ea032b90a312a4b49$nome=THOT AMOR & TROVÃO LEGENDADO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a3859e6d4a925e4c0499489484a44bd1c317ae7$nome=THOT AMOR & TROVÃO DUBLADO</link>
