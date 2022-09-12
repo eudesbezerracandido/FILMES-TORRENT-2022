@@ -136,6 +136,15 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] IVY E BEAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ec2a723b55267cd51e383e6e2f3337594ab8751$nome=O FANTASMA DO BANHEIRO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8f2addbb476e02e50a4d9a918567084b37cad5f9$nome=ENTRAM NA DANÇA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3E6qOU3ClxrkWM5Cz5NHHTqGtos.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ivy descobre que o banheiro da escola está assombrado, e Bean ajuda a amiga a canalizar seus poderes de bruxa. Com a ajuda de colegas, as duas preparam um ritual para libertar os fantasmas, salvar a escola e atrapalhar o dia de Nancy. Baseado na série de livros Bia + Ive, de Annie Barrows, que entrou para a lista de best-sellers do New York Times.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DESUMANO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VSCQ5GGG26TKBVMWSDSI7K33ROXJL5PA</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nOmdssTweQTOceD6HbSkqMRP5NX.jpg</thumbnail>
