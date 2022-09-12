@@ -144,6 +144,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ANJOS DAS TREVAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c4ebda1ea305a6691e1f104d9d703313a5ede00</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/49my4P9or2BZpbOT3ATSqCRomDy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após a trágica perda de sua esposa lutando contra as forças das trevas, Gabriel é convencido a se juntar à sua antiga equipe de caçadores de demônios que viajam pela Europa.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CORAÇÃO INDOMÁVEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:851582b6773096a25685e429bae28264ebeb7529</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yXpYJyLptcASCUQxLI4bbE4SmZ2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Baseado em uma incrível história real. Jaana é dona de um bar e mãe de dois filhos. Ela vive junto com Marko, um homem carismático, mas de temperamento explosivo. A paixão de Jaana é andar a cavalo, e em seu tempo livre ela pratica a equitação em alto nível, inclusive participando de competições. Até que um dia sua vida muda completamente quando ela sofre um grave acidente e acorda em uma cama de hospital com as duas pernas paralisadas. Determinada a enfrentar seu destino, Jaana planeja retomar as rédeas de sua vida e cavalgar novamente, mas o caminho para atingir a superação não será nada fácil.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - ANTRAZ EUA SOBE ATAQUE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d7959395e039ef59896b22a154b9cb2cb5d362f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/p4y4gYJktuu6Y40nzljVPbqFkEG.jpg</thumbnail>
