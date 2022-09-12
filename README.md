@@ -120,6 +120,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DESTINOS ATERRORIZANTES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e53f2afde16acf4dbe5263268f99093f8ceddd16</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/S/pv-target-images/d867870eaec14fcd96740497e970b084109b9251f2f60bef43c823b54f911ad7._RI_V_TTW_.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Dakota Laden leva sua irmã Chelsea e seus amigos Tanner e Coalin para passar uma noite nos cinco locais mais assombrados dos Estados Unidos. O que seria um experimento para um documentário se torna um filme de terror real.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O SAMARITANO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6429b3fe8614b55b429bc2eb023e1553118ec2f2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7xP0NhjE6AOJ1RTx5vh3Jw1aNCe.jpg</thumbnail>
