@@ -144,6 +144,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] VALENTINO,PODE SER SEU PRÓPRIO HERÓI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:945fd6a2bd7188f40522e4d3508dbf19e0738770</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3YViYlgufUsJT61HE0qsKsdXmn6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A vida do ator Gonzalo sempre se complica quando o seu alter ego chamado Valentino vem à tona. Gonzalo está prestes a conseguir um papel muito importante para recuperar sua carreira que está em baixa: estrelar a série de um famoso produtor. O que ninguém esperava é que Valentino aparecesse para estragar tudo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] GAROTOS DO BEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MEN566OYIX34P5JBNEXKHRLVKKPH5XSS</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/h9keoAAS1RSxgKSUDO97MWl1DHq.jpg</thumbnail>
