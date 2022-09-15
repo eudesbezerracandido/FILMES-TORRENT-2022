@@ -136,6 +136,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BROAD PEAK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VJYDGKEBHPNZ2Z5WSWL6K2XRLWF4TEXC</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hssJ3koEXveKRDXb3r6ujEuySGF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Maciej Berbeka fez sua primeira escalada na Broad Peak em 1988, escapando da morte por centímetros. Todavia, ao retornar à Polônia, precisou lidar com seus companheiros afirmando que ele não conseguiu alcançar o pico. Ressentido com as especulações de seus amigos, Berbeka se retirou do montanhismo. Vinte e quatro anos depois, ele recebe um telefonema de um velho camarada, que o convence a se juntar à próxima expedição Broad Peak. Depois de uma longa hesitação, Maciej decide tentar mais uma vez.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] VINGANÇA E REDENÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TGHQJHRJNSXIX4YUXF6JYX4Z4K7JO32R</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6hLaPB3OFcRZMFQT6skxLnnErpF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um ex-fuzileiro naval deve lutar contra sua consciência e seu código de honra quando é forçado a fazer serviços para a máfia.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] IVY E BEAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ec2a723b55267cd51e383e6e2f3337594ab8751$nome=O FANTASMA DO BANHEIRO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8f2addbb476e02e50a4d9a918567084b37cad5f9$nome=ENTRAM NA DANÇA</link>
