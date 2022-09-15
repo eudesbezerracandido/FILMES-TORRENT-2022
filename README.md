@@ -144,6 +144,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] GAROTOS DO BEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MEN566OYIX34P5JBNEXKHRLVKKPH5XSS</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/h9keoAAS1RSxgKSUDO97MWl1DHq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em uma área residencial de Roma, há uma conhecida escola católica para meninos, onde as crianças da melhor classe média são educadas. As famílias sentem que, nesse contexto, seus filhos podem crescer protegidos da turbulência pela qual a sociedade está passando e que essa educação rígida abrirá as portas para um futuro brilhante para eles.Na noite entre 29 e 30 de setembro de 1975 algo se quebra e aquela fortaleza de valores inatacáveis desaba sob o peso de um dos crimes mais hediondos da época: o crime de Circeo.Os responsáveis são na verdade ex-alunos daquela escola também frequentada por Edoardo, que tenta contar o que desencadeou tanta violência cega naquelas mentes exaltadas por ideias políticas distorcidas e um desejo irreprimível de supremacia.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] VINGANÇA E REDENÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TGHQJHRJNSXIX4YUXF6JYX4Z4K7JO32R</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6hLaPB3OFcRZMFQT6skxLnnErpF.jpg</thumbnail>
