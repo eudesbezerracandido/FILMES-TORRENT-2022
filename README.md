@@ -152,6 +152,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] OS FAZENDEIROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f536667ee53e5f986f86d031e2c71fc02589875</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xCYU94Z1glxPnLCRRIKDr3QUDwx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Na remota Austrália Ocidental, dois irmãos fazendeiros distantes, Colin e Les, estão em guerra. Mas quando o ram do prêmio les é diagnosticado com uma doença rara e letal, as autoridades ordenam o expurgo de todas as ovelhas do vale — então os irmãos devem trabalhar juntos para reunir sua família, salvar seu rebanho e reunir sua comunidade novamente. Uma contenda de décadas entre dois irmãos de criação de ovelhas, chega ao auge quando o desastre atinge seus rebanhos. Remake de A Ovelha Negra de 2015.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] GAROTOS DO BEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MEN566OYIX34P5JBNEXKHRLVKKPH5XSS</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/h9keoAAS1RSxgKSUDO97MWl1DHq.jpg</thumbnail>
