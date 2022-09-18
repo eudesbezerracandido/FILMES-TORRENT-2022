@@ -128,6 +128,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] JÁ FUI FAMOSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bcf0f0d1811525a8995ccccd3771074fc0e1b5aa</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hvqHMh0DBVRMmfeRxTPlk5Fcu8f.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Vince fazia parte de uma boy band de sucesso. Agora, esse ex-astro do pop está sozinho e desesperado. Sonhando em recuperar a carreira, ele começa a fazer shows nas ruas de Peckham, na esperança de ser ouvido por alguém. É assim que ele conhece Stevie, um jovem baterista no espectro autista com um talento incrível. Depois de uma jam improvisada, esses dois incompreendidos formam uma amizade inesperada, unidos pelo poder da música.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] REFLEXÕES NO ESPELHO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d768fb0028b1aa40917b4bcc8aa389d76911fc81</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/98z7FKvuqT4YmqEUQo5JTEbUTzY.jpg</thumbnail>
