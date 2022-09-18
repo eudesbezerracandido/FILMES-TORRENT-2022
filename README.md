@@ -168,6 +168,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO-COLONIZAÇÃO ESPACIAL-A ULTIMA ESPERANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PKMLCJ4HC2AUA3UKIAUDAAXCFQJLUWFC</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mHykNHLWiO1ciqlUF7JWfOLzprq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Dirigido por Rudolph Herzog e produzido por Werner Herzog, este documentário nos leva em uma jornada inesquecível pelo nosso planeta e outros mundos do espaço sideral.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DESTINOS ATERRORIZANTES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e53f2afde16acf4dbe5263268f99093f8ceddd16</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/S/pv-target-images/d867870eaec14fcd96740497e970b084109b9251f2f60bef43c823b54f911ad7._RI_V_TTW_.jpg</thumbnail>
