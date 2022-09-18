@@ -152,6 +152,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BOA NOITE MAMÃE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b16597db67b046766ea1a1c7116248a9e566e58</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lwq6ct0AeroUxlXwr49QJiMzf4k.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Remake do filme austríaco aclamado pela crítica.No original uma família vive em uma residência isolada, após dias afastada por conta de cirurgias plásticas, a mãe volta para casa e não é reconhecida pelos filhos gêmeos. As crianças, de nove anos, duvidam que a mulher de rosto coberto seja realmente sua mãe e a partir de então nada será como antes.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] REFLEXÕES NO ESPELHO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d768fb0028b1aa40917b4bcc8aa389d76911fc81</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/98z7FKvuqT4YmqEUQo5JTEbUTzY.jpg</thumbnail>
