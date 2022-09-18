@@ -120,6 +120,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PARTIL FAMA-CANCELADO NO AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50bba8620106a5b7b9dd0e1a0c7f9cde24524d24</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/24eEIEi7bgGmNDnsfkC6FAQTF8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Gabriel sempre sonhou em ser famoso, mas sua timidez não permitia nem que ele falasse com Bianca, sua paixão de infância. Depois de reprogramar seu passado, ele se torna popular na escola. Mesmo assim, seus vídeos não viralizam. Quando decide prestar atenção nas histórias de um cliente do boteco de seu pai, que relata suas desventuras na juventude, Gabriel passa a gravar vídeos contando estas histórias como se fossem suas e se torna um youtuber de sucesso, mas as coisas fogem de controle.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] REFLEXÕES NO ESPELHO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d768fb0028b1aa40917b4bcc8aa389d76911fc81</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/98z7FKvuqT4YmqEUQo5JTEbUTzY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> 4 funcionários de uma empresa de cosméticos em seu 50º ano: o diretor de marketing que tem quase a mesma idade, uma ambiciosa assistente de 25 anos, sua irmã que é diretora de vendas e ultimamente tem se comportado de maneira estranha, e um administrador inseguro de 40 anos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DESTINOS ATERRORIZANTES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e53f2afde16acf4dbe5263268f99093f8ceddd16</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/S/pv-target-images/d867870eaec14fcd96740497e970b084109b9251f2f60bef43c823b54f911ad7._RI_V_TTW_.jpg</thumbnail>
