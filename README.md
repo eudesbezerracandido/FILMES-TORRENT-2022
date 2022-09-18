@@ -136,6 +136,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] HONOR SOCIETY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GTYAKD3MHWS2QAYKENERWF3AK2NHXVNR</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/61CZ4JxyaI462sFfLPhtyzRg4vv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O único foco de Honor é entrar em Harvard. Disposta a fazer o que for preciso, Honor inventa um plano para derrubar seus três principais concorrentes, até que as coisas mudam quando ela inesperadamente se apaixona por sua maior competição.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] JUSTICEIRAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PO2GEFMRKXPQRLE24R6XDLYEBRQROBAI</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rF0ItNyvhMIavqcuVtHFPhbW6Yf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Drea, a menina popular que tinha tudo e Eleanor, a nova rebelde da escola resolvem unir forças para atingir seu objetivo. Justiceiras é uma comédia de humor ácido com uma pitada de Hitchcock estrelada pelas protagonistas mais assustadoras de todas: meninas adolescentes!</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] REFLEXÕES NO ESPELHO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d768fb0028b1aa40917b4bcc8aa389d76911fc81</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/98z7FKvuqT4YmqEUQo5JTEbUTzY.jpg</thumbnail>
