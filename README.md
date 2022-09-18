@@ -152,6 +152,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O ALFAIATE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b36ba266476bb81306485ce578765cdfc512a78b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hKu1P98TtARG8wz5VSXIe28vfrG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Leonard, um alfaiate inglês, costumava fazer ternos na mundialmente famosa Savile Row de Londres. Mas depois de uma tragédia pessoal, ele acabou em Chicago, operando uma pequena alfaiataria em uma parte difícil da cidade, onde ele faz roupas bonitas para as únicas pessoas ao redor que podem pagá-las: uma família de gangsters cruéis.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BOA NOITE MAMÃE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b16597db67b046766ea1a1c7116248a9e566e58</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/lwq6ct0AeroUxlXwr49QJiMzf4k.jpg</thumbnail>
