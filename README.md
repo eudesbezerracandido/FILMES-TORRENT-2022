@@ -120,6 +120,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O PERFUMISTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4N5ELCPXOPACX7QOJZE6KPZPGXVDMDFY</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9scjnoZYrkNaOmIlpI1hm9LOMJL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>É possível se apaixonar por causa de um perfume? É o que uma policial tenta descobrir enquanto busca recuperar seu olfato neste suspense alemão.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PARTIL FAMA-CANCELADO NO AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50bba8620106a5b7b9dd0e1a0c7f9cde24524d24</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/24eEIEi7bgGmNDnsfkC6FAQTF8.jpg</thumbnail>
