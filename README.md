@@ -59,14 +59,6 @@
 </item> 
 
 <item>
-<title>[COLOR silver][B] A ESTAÇÃO DA ALEGRIA[/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81836bb2f49fbee76883bfcc14d8a7ec8ba9a1a0</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/8QkNOItJNy0mFwpMJIac9VGbgt9.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Buscando novas ideias para seu livro, Merry vai para a nevada Vermont e descobre uma nova perspectiva sobre a alegria do Natal com Adam, um carismático trabalhador humanitário.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] THOR - AMOR & TROVÃO (HDCAM) LEGENDADO INGLÊS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d26f48dee57e51b3a0e7c66ea032b90a312a4b49$nome=THOT AMOR & TROVÃO LEGENDADO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a3859e6d4a925e4c0499489484a44bd1c317ae7$nome=THOT AMOR & TROVÃO DUBLADO</link>
@@ -120,6 +112,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A ESTAÇÃO DA ALEGRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81836bb2f49fbee76883bfcc14d8a7ec8ba9a1a0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8QkNOItJNy0mFwpMJIac9VGbgt9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Buscando novas ideias para seu livro, Merry vai para a nevada Vermont e descobre uma nova perspectiva sobre a alegria do Natal com Adam, um carismático trabalhador humanitário.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O PERFUMISTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4N5ELCPXOPACX7QOJZE6KPZPGXVDMDFY</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9scjnoZYrkNaOmIlpI1hm9LOMJL.jpg</thumbnail>
@@ -133,6 +133,30 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/24eEIEi7bgGmNDnsfkC6FAQTF8.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Gabriel sempre sonhou em ser famoso, mas sua timidez não permitia nem que ele falasse com Bianca, sua paixão de infância. Depois de reprogramar seu passado, ele se torna popular na escola. Mesmo assim, seus vídeos não viralizam. Quando decide prestar atenção nas histórias de um cliente do boteco de seu pai, que relata suas desventuras na juventude, Gabriel passa a gravar vídeos contando estas histórias como se fossem suas e se torna um youtuber de sucesso, mas as coisas fogem de controle.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] LOU [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:faba1b1a9c3af2c1fec917e8b629d82ba057425f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iH1KYkFnzdQYKuyNYOjb07UR7Ug.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma mulher é recrutada por uma vizinha para ajudar a encontrar sua filha sequestrada. Lou (Allison Janney) leva uma vida tranquila, acreditando ter abandonado seu passado perigoso. Até que uma mulher desesperada (Jurnee Smollett) implora a ajuda dela para salvar a filha sequestrada. Em meio a uma grande tempestade, as duas se arriscam em uma missão de resgate que coloca seus limites à prova e revela terríveis segredos do passado. O filme é estrelado pela vencedora do Oscar Allison Janney e a indicada ao Emmy Jurnee Smollett, com Logan Marshall-Green e Ridley Asha Bateman. Direção de Anna Foerster, roteiro de Maggie Cohn e Jack Stanley e produção de JJ Abrams, Hannah Minghella e Jon Cohen, da Bad Robot.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ATHENA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:079a40a9c8b2de4bc554eee3ee0214e349cf2045</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/66hefmZ1ZVLO1Hb57sZVGSlDAmM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A morte trágica de um garoto é o estopim para um conflito no Conjunto Habitacional Athena. No centro do caos estão os irmãos mais velhos da vítima.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  O HOMEM DO JAZZ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:238c87cf2dbc99bdd5efb65da69e8f6594b2a416</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/juvKmySdoCFmjuPeokOtEK3jGHx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dirigida por Tyler Perry, esta história de amor proibido e drama familiar revela 40 anos de segredos e mentiras ao som do legítimo blues do sul dos EUA. Contando a história de um amor proibido arrebatador, “O Homem do Jazz” se passa ao longo de quarenta anos de segredos e mentiras, ao som do blues contagiante do sudeste dos Estados Unidos. Com roteiro, direção e produção de Tyler Perry, vencedor do Oscar Humanitário de 2021, o filme é estrelado por Joshua Boone e Solea Pfeiffer como os amantes predestinados Bayou e Leanne. No elenco, também estão Amirah Vann, Austin Scott, Milauna Jemai Jackson, Brent Antonello, Brad Benedict, Kario Marcel, Lana Young e Ryan Eggold. Na trilha sonora, há uma canção original interpretada por Ruth B., músicas com arranjo e produção de Terence Blanchard, vencedor de vários Grammys e indicado duas vezes ao Oscar, música de Aaron Zigman, e coreografia de Debbie Allen.</info>
 </item>
 
 <item>
