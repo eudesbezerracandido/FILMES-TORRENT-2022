@@ -11,30 +11,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] PAIXÃO SUFOCANTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a054f562214f19e7429855b85b8c81755a0c0cd9</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/kYIPV5vcZOKWiKleJCmZvHAjnBk.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Com um visual arrebatador, este drama conta a história de um amor profundo e destrutivo entre uma jovem talentosa e seu instrutor de mergulho livre. Quando Roxana conhece o campeão mundial de mergulho livre, Pascal Gauthier, ela se apaixona perdidamente. Ela se torna amante e estudante quando Pascal a inicia em um esporte radical que é tão fascinante quanto desafiador da morte. Movendo-se de uma competição para outra, em locais de mergulho em todo o mundo, Roxana começa a empurrar limite após limite, totalmente consumida nos lances deste caso apaixonado… mas onde isso vai parar?</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] AMOR DE REDENÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CWRSO3QZLKTZ2AHAJ3QZRPSINOW6UGCR</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/o5qpPwlaAbOH2teRowl9ThzEF2r.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Califórnia, 1850. Angel (Abigail F. Cowen), vendida como prostituta quando criança, aprendeu a desconfiar de todos os homens, que a veem apenas como uma forma de satisfazer seus desejos. Quando o virtuoso Michael Hosea (Tom Lewis) recebe de Deus a ordem de se casar com Angel, ele obedece, apesar de seus receios. Baseado no romance homônimo de Francine Rivers.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] FIM DA ESTRADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IM6HAL5PRH3QUCZYQGXDLBYOLJRH2V54</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/aqUTMmzAmNgmr55U1dezPVTQAHP.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Depois de ficar viúva e perder o emprego, Brenda atravessa o país com a família para recomeçar a vida. No deserto do Novo México, longe de qualquer possibilidade de ajuda, eles viram alvos de uma perseguição mortal e precisam aprender a se defender.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] DOCUMENTÁRIO-OBI-WAN KENOBI-O RETORNO DO JEDI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3528dc6789dc5b140f1d78dfd01d63eebce9793e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/lAigwxdmn90bzojW9AX4wfNynVG.jpg</thumbnail>
@@ -110,6 +86,63 @@
 <fanart>https://www.themoviedb.org/t/p/original/o4jH603FDXVPuNx0gjTSkNebhoP.jpg</fanart>
 <info>Após 34 anos na força, o lendário Capitão Pete "Maverick" Mitchell (Tom Cruise) se torna o novo instrutor de voo da Top Gun, fazendo com que ele seja o mentor de Bradley Bradshaw (Miles Teller), o filho de Goose, que busca ser um piloto melhor do que o seu pai foi.</info>
 </item>
+
+<item>
+<title>[COLOR silver][B] PAIXÃO SUFOCANTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a054f562214f19e7429855b85b8c81755a0c0cd9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kYIPV5vcZOKWiKleJCmZvHAjnBk.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Com um visual arrebatador, este drama conta a história de um amor profundo e destrutivo entre uma jovem talentosa e seu instrutor de mergulho livre. Quando Roxana conhece o campeão mundial de mergulho livre, Pascal Gauthier, ela se apaixona perdidamente. Ela se torna amante e estudante quando Pascal a inicia em um esporte radical que é tão fascinante quanto desafiador da morte. Movendo-se de uma competição para outra, em locais de mergulho em todo o mundo, Roxana começa a empurrar limite após limite, totalmente consumida nos lances deste caso apaixonado… mas onde isso vai parar?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] THE INFERNAL MACHINE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5b9312aacdbdffa7b0bcbe2f1b482983ff79a777</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bSqpOGzaKBdGkBLmcm1JJIVryYy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O recluso e controverso autor Bruce Cogburn é tirado do esconderijo por um fã obsessivo, forçando o romancista a confrontar um passado do qual ele achava que poderia escapar e a explicar os eventos desencadeados por seu best-seller décadas antes. A busca de Cogburn por quem está por trás da manipulação e do tormento mental que ele encontra leva a uma montanha-russa emocional cheia de medo e perigo, onde as coisas nem sempre são tão claras quanto parecem e onde ações passadas podem ter consequências terríveis.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] FULLMETAL ALCHEMIST-A ALQUIMIA FINAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UXPPFMTP6U35YAUV7GDYGXAWWGNYZNLA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uMzOYHGiHEfknowTlg3o72gSvHy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>À medida que uma conspiração sombria começa a se desenrolar, os irmãos Eric precisarão de toda a ajuda que puderem para deter as forças do mal e encerrar sua longa e ampla jornada. Segunda parte da última adaptação live-action de ''Fullmetal Alchemist'', baseado no mangá homónimo de Arakawa Hiromu.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AS CONFIÇÕES DE FÉLIX KRULL - CAVALHEIRO DE INDÚSTRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:484727bfce68d69efe00eed5b0382f9243850b00</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/inIWJnx0vuJCiXBt4DxnbgSBwQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um belo jovem de origem humilde ascende na sociedade através de suas conexões feitas como ascensorista de um hotel de luxo. Baseado na obra de Thomas Mann</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MINTA PRA MIM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DIZPNG5NDCQM472FBMW4RVQQ2XNMR2VR</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/s3NoPF6LAKDl3KUGkZsYPX9ionc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Bárbara nunca tem sorte com os homens e Eva e Matías, um casal em crise, a apresentam a Julián. O primeiro encontro é um sucesso, mas o casal descobre que Julián é uma fraude. Juntos, eles devem investigar e desmascarar a verdadeira vida de Julián. Durante suas aventuras de detetive, o casal reencontra o amor, mas ao mesmo tempo descobrem suas próprias mentiras.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AMOR DE REDENÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CWRSO3QZLKTZ2AHAJ3QZRPSINOW6UGCR</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/o5qpPwlaAbOH2teRowl9ThzEF2r.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Califórnia, 1850. Angel (Abigail F. Cowen), vendida como prostituta quando criança, aprendeu a desconfiar de todos os homens, que a veem apenas como uma forma de satisfazer seus desejos. Quando o virtuoso Michael Hosea (Tom Lewis) recebe de Deus a ordem de se casar com Angel, ele obedece, apesar de seus receios. Baseado no romance homônimo de Francine Rivers.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] FIM DA ESTRADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IM6HAL5PRH3QUCZYQGXDLBYOLJRH2V54</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aqUTMmzAmNgmr55U1dezPVTQAHP.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de ficar viúva e perder o emprego, Brenda atravessa o país com a família para recomeçar a vida. No deserto do Novo México, longe de qualquer possibilidade de ajuda, eles viram alvos de uma perseguição mortal e precisam aprender a se defender.</info>
+</item>
+
 
 <item>
 <title>[COLOR silver][B] A ESTAÇÃO DA ALEGRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
