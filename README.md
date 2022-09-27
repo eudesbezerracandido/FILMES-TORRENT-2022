@@ -88,6 +88,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TREM-BALA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MRFHGDXAZPCLM2TMCV4LLLIEOFXRBX7Q</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/77zENVKgbc4bhmlLfHRUbVZ99N5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Cinco assassinos se encontram em um trem-bala partindo de Tóquio a Morioka. O transporte conta com apenas algumas paradas durante o trajeto e os homicidas descobrem que suas missões estão relacionadas. Resta descobrir quem sairá vivo do trem e o que os espera na última estação.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DOCUMENTÁRIO-UMA VIAGEM AO INFINITO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YNSVKBU4JFMR2L7WA4MDVQLARCBRF3OO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/38KllKVpeTLvirHvuLWWy5I71rX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nomes importantes da matemática, da física de partículas e da cosmologia mergulham no infinito e em suas desconcertantes implicações para o universo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PAIXÃO SUFOCANTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a054f562214f19e7429855b85b8c81755a0c0cd9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kYIPV5vcZOKWiKleJCmZvHAjnBk.jpg</thumbnail>
