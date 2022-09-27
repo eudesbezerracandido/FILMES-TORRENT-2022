@@ -88,6 +88,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CANDY - UMA HISTÓRIA DE PAIXÃO E CRIME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50f02a84c2036fc8a55ec21c2ce289bdec8444b2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dhdcNOgApEpdwmwtUqWekHRdzwM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Texas, 1980. Candy Montgomery aparentemente tinha tudo - marido amoroso com um bom emprego, uma filha e um filho, uma bela casa no subúrbio - então por que ela matou sua amiga de igreja com um machado?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TREM-BALA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MRFHGDXAZPCLM2TMCV4LLLIEOFXRBX7Q</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/77zENVKgbc4bhmlLfHRUbVZ99N5.jpg</thumbnail>
