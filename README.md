@@ -88,6 +88,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B]  TRANCADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NDJ2QGHJOTH5EDZK2OCXZNKVZ2NVEO3Q</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cWBCMiORHEfXWf6AreeDzkczyTy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma mãe solteira é sequestrada pelo seu ex, deixando suas duas crianças sozinhas e em perigo. Agora ela fará tudo que for preciso para os proteger e sobreviver.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AMOR PROIBIDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f34d304c9018257468e691a58b456d10334f38b5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cJEqEuzv2aj455iHoc6zvTYspez.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Darko é um jovem macedônio que vive ilegalmente na Alemanha e faz de tudo para sobreviver e ajudar seus amigos. Quando ele se envolve em uma paixão arrebatadora com a misteriosa Alina, uma alemã casada, ele passa a arriscar suas relações com seus amigos e sua mãe, sua esperança por uma vida melhor, sua permanência no país e até sua própria vida.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ESQUEDRÃO SECRETO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WHESC2SNWTEKOWLU3VAKMS7MRPXG5CWR</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pCl8JaMDkibswcNuEFLoDVNmO4k.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Enquanto saíam depois da escola, Charlie e seus amigos descobrem a sede do super-herói mais poderoso do mundo escondido debaixo de sua casa. Quando os vilões atacam, eles devem se unir para defender a sede e salvar o mundo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CANDY - UMA HISTÓRIA DE PAIXÃO E CRIME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50f02a84c2036fc8a55ec21c2ce289bdec8444b2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/dhdcNOgApEpdwmwtUqWekHRdzwM.jpg</thumbnail>
