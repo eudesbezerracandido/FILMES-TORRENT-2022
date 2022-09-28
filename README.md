@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] OLHOS FAMINTOS- O RENASCIMENTO LEG. [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9AD9814026518BB8FF025DFAB164736DD69EE28A</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/heupe14pwbjTEwyMcnUcs1x8J4O.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Forçada a embarcar numa viagem até um festival de horror na Louisana com seu namorado, Laine começa a experienciar visões perturbadores associadas ao passado da cidade, em particular a uma lenda urbana local conhecida como o Creeper. Com a chegada do festival e o entretenimento sangrento se tornando um frenesi, Laine acredita que algo de outro mundo foi invocado... e ela está no centro de tudo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DOCUMENTÁRIO-OBI-WAN KENOBI-O RETORNO DO JEDI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3528dc6789dc5b140f1d78dfd01d63eebce9793e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/lAigwxdmn90bzojW9AX4wfNynVG.jpg</thumbnail>
