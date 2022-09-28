@@ -104,6 +104,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] NÃO SE PREOCUPE, QUERIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C2ECDE9488B41E31DF0DD2CE638606B3A4534145</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fyI4Vg1ac5yqTHPUSRCOkFtXxIG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Alice e Jack têm a sorte de viver na comunidade idealizada de Victory, a cidade experimental da empresa que abriga os homens que trabalham para o ultra-secreto Projeto Victory e suas famílias. Mas quando rachaduras em sua vida idílica começam a aparecer, expondo flashes de algo muito mais sinistro à espreita sob a fachada atraente, Alice não pode deixar de questionar exatamente o que eles estão fazendo em Victory e por quê.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BLONDE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2656EJGVPXTQMNE72LAZEXMXMQTJ7AZZ</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cAqcxFfgy6ghTDtj3n2gwpxKn6U.jpg</thumbnail>
