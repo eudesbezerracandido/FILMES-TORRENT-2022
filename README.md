@@ -96,6 +96,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] UM PEDIDO DESCOLADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HP5WJGI3KWVG7LJVPFYTHWNHKMGR3IXE</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2dyZfjuq1lhBsqGtBTC20y9XhJf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Neil e Gilberto são nerds e melhores amigos do colégio e estão cansados de serem intimidados. Eles anseiam pela vida de garotas gostosas, como o vizinho de Neil, Jimmy, “a lenda”. Mas quando Neil faz um desejo mágico com a esperança de atrair a garota dos sonhos, o inocente Jimmy é atraído para uma noite de travessuras, atraindo muito mais do que qualquer um deles esperava.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] BLONDE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2656EJGVPXTQMNE72LAZEXMXMQTJ7AZZ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cAqcxFfgy6ghTDtj3n2gwpxKn6U.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Cinebiografia de Marilyn Monroe, que contará sua vida a partir dos sete anos, até sua morte. Após uma infância traumática, Norma Jeane Mortenson (Ana de Armas) tornou-se atriz, na Hollywood dos anos 1950 e início dos anos 1960. Ela se transformou em uma figura mundialmente famosa, sob o nome artístico de Marilyn Monroe. Todavia, por trás dos holofotes da fama, a atriz vivia guerras pessoais, e suas aparições na tela contrastam fortemente com os problemas de amor, exploração, abuso de poder e dependência de drogas que ela enfrentava em sua vida privada. Blonde imagina corajosamente a vida de um dos símbolos mais duradouros de Hollywood, de sua infância volátil como Norma Jeane, até sua ascensão ao estrelato e envolvimentos românticos, o longa se apresenta como uma especulação da vida da sex symbol, atriz e modelo. Uma história reimaginada da vida privada de Monroe, o filme é um retrato fictício da vida do ícone da década de 1950 e 60, contado através das lentes modernas da cultura das celebridades. Baseado no livro homônimo de Joyce Carol Oates.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AMOR PROIBIDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f34d304c9018257468e691a58b456d10334f38b5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cJEqEuzv2aj455iHoc6zvTYspez.jpg</thumbnail>
