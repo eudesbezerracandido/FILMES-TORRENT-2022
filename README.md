@@ -24,7 +24,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/lAigwxdmn90bzojW9AX4wfNynVG.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A produção da Lucasfilm promete levar os fãs aos bastidores da série protagonizada por Ewan McGregor, com imagens inéditas do set, incluindo fotos de Hayden Christensen durante as gravações como Anakin Skywalker e caracterizado como Darth Vader.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] A FERA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
