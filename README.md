@@ -128,6 +128,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B]  OPERAÇÃO CERVEJA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:L6GJ6YN347YZGFL5VS2IAOVWAN2WWBOD</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/purjgeOOOZKJ9MIHTyGdAJ0LsJE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Chickie (Zac Efron) quer apoiar seus amigos que estão lutando na guerra do Vietnã e resolve fazer algo inusitado – pessoalmente levar cerveja americana para eles. O que começa como uma jornada bem intencionada, muda rapidamente a vida e as perspectivas de Chickie. Baseado em uma história real.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B]  TRANCADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NDJ2QGHJOTH5EDZK2OCXZNKVZ2NVEO3Q</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cWBCMiORHEfXWf6AreeDzkczyTy.jpg</thumbnail>
