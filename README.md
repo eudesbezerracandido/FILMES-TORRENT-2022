@@ -192,7 +192,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] ESQUEDRÃO SECRETO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] ESQUADRÃO SECRETO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WHESC2SNWTEKOWLU3VAKMS7MRPXG5CWR</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/pCl8JaMDkibswcNuEFLoDVNmO4k.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
