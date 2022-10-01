@@ -120,6 +120,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O DESTINO DE HAFFMANN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c4e08cebd7e50fcb597f285547b2c251872688c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yQ2s9RoFDJO6qFnv736aG6VbY7c.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Joseph Haffmann, joalheiro judeu, confia sua loja a seu empregado, Pierre Vigneau, durante a ocupação alemã. Em troca ele pede que o esconda no porão, enquanto sua mulher e filhos se refugiam na Suíça. Pierre concorda com uma condição: que seu chefe mate sua esposa, Isabelle, que não pode lhe dar filhos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B]  TRANCADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NDJ2QGHJOTH5EDZK2OCXZNKVZ2NVEO3Q</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cWBCMiORHEfXWf6AreeDzkczyTy.jpg</thumbnail>
