@@ -96,6 +96,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ANIKULAPO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a7672adf9e41aaafd22e3139fcbe52a104975ae</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xb30hkUpBm23stnVgDJGYGsC0R0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Conta a história de Saro, um homem em busca de pastagens mais verdes, mas ao desenrolar dos acontecimentos e de seu caso com a esposa do rei, ele encontra sua morte prematura e com Akala, um pássaro místico que se acredita dar e tirar a vida.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ABRACADABRA 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FFG3IBKRU2VBHXD3TDPQAQROHTVTEU62</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8G7EaPTocE0ok3YNxo972woo9EP.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>As irmãs Sanderson estão de volta para o Dia das Bruxas de Abracadabra 2, assim como no primeiro filme (1993), as irmãs são evocadas para a cidade de Salem bem a tempo do Halloween, mas dessa vez, a sede de vingança é maior do que qualquer coisa.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PLANO A, PLANO B [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:060426a7a247306be1021cd9cd4e4d7da04a4269</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nkkCrLwejvUBP1fEUMiOJoREuZl.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em Plan A Plan B, o que aconteceria se uma casamenteira saísse com um advogado especializado em divórcios? Ela acha que casamentos não são para ela e ele guarda um segredo que nunca contou à ninguèm.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B]  TRANCADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NDJ2QGHJOTH5EDZK2OCXZNKVZ2NVEO3Q</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cWBCMiORHEfXWf6AreeDzkczyTy.jpg</thumbnail>
@@ -109,6 +133,38 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/2dyZfjuq1lhBsqGtBTC20y9XhJf.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Neil e Gilberto são nerds e melhores amigos do colégio e estão cansados de serem intimidados. Eles anseiam pela vida de garotas gostosas, como o vizinho de Neil, Jimmy, “a lenda”. Mas quando Neil faz um desejo mágico com a esperança de atrair a garota dos sonhos, o inocente Jimmy é atraído para uma noite de travessuras, atraindo muito mais do que qualquer um deles esperava.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O EXOCISMO DA MINHA MELHOR AMIGA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2NLJEMJDQZTMP7UDYINOXFHVL7FRW3NJ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vAmkfhNzINNoaWkE70927FCpBX2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Abby e Gretchen são duas melhores amigas vivendo o fim dos anos 80. Certa noite, após um banho no lago dar desastrosamente errado, Gretchen começa a se comportar de maneira estranha, levando Abby a acreditar que sua amiga está possuída. Logo, as duas garotas precisarão se perguntar: será que a sua amizade é forte o suficiente pra enfrentar o Diabo?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] RAINBOW [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08cc24a9f73121b2e5bcb4b8d9c8ee24027f9b26</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pFg29SbNbXkcuSgbnwnTz4wie4x.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Livremente inspirada no livro O Maravilhoso Mágico de Oz, em busca da mãe, uma garota corajosa e seus amigos incomuns, embarcam em uma jornada de amadurecimento, enquanto tentam escapar das garras de uma vilã perversa.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AFTER- DEPOIS DA PROMESSA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd747882d8bd568525f11dffc37ce5849bf58315</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/u4sjznbscJtlGsCeBfLTeeOjAUX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma revelação sobre o passado de Hardin e uma tragédia na vida de Tessa testa seu relacionamento. Quando a chocante verdade sobre suas famílias vem à tona, fica claro que os dois amantes não são tão diferentes um do outro. Tessa não é mais a garota simples e doce que era quando conheceu Hardin — assim como ele não é mais o garoto cruel e fechado por quem ela se apaixonou.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CONSPIRAÇÃO EXPLOSIVA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:752878a2eee10a76de1fd978869f654c4358d265</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tuqYUmGpJTyu7pJzwz7pBpWfWR0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em Hollywood, três estrelas foram assassinadas em um triplo homicídio. Jimmy Jayne, um ex-presidiário, é o principal suspeito e não vai parar por nada para provar sua inocência. Os detetives de homicídios Freeman e Vargas estão em seu encalço enquanto Jimmy assume sua própria investigação, arriscando sua vida nas trevas de Los Angeles.</info>
 </item>
 
 <item>
