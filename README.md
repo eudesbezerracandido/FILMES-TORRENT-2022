@@ -96,9 +96,17 @@
 </item>
 
 <item>
+<title>[COLOR silver][B]  A QUEDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6F9F076C97909D9F57B2248F24F62D9A45953901</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/68SX7S9lisehbuZLNX4CrVMxV1v.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Becky e Hunter são duas amigas que buscam aventura e enfrentam grande alturas em suas escaladas. Depois de um grande drama vivido por elas, as duas decidem escalar uma remota torre de rádio abandonada com mais de 2000 pés de altura. Parecia a aventura perfeita para desligar a mente do trágico acontecimento que vivenciaram com o namorado de uma delas. Elas não contavam que ficariam presas e isoladas naquele lugar sem sinal de celular, sem energia e sem pessoas por perto.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] EU, TRAIDOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65dc48ac14d66ef53016701331dcc89f8483bb6a</link>
-<thumbnail>magnet:?xt=urn:btih:65dc48ac14d66ef53016701331dcc89f8483bb6a</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/u0MbKWieMwVDZl0eJdNt7Z6pbKU.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Máximo Ferradas, empresário e filho mais novo de uma poderosa família de pescadores, pede a Francisco, seu pai, a sua parte da herança e assim, ele inicia uma longa jornada que o levará a terras distantes, tentando construir seu próprio “império”.</info>
 </item>
