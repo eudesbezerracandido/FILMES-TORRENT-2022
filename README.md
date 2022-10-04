@@ -96,7 +96,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B]  A QUEDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B]  A QUEDA DUBLADO NÃO OFICIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6F9F076C97909D9F57B2248F24F62D9A45953901</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/68SX7S9lisehbuZLNX4CrVMxV1v.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
