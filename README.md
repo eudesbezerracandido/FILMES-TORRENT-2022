@@ -96,6 +96,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] EU, TRAIDOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65dc48ac14d66ef53016701331dcc89f8483bb6a</link>
+<thumbnail>magnet:?xt=urn:btih:65dc48ac14d66ef53016701331dcc89f8483bb6a</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Máximo Ferradas, empresário e filho mais novo de uma poderosa família de pescadores, pede a Francisco, seu pai, a sua parte da herança e assim, ele inicia uma longa jornada que o levará a terras distantes, tentando construir seu próprio “império”.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] RRR-REVOLTA,REBELIÃO,REVOLUÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TN2MLSWW56Q3XZVYTWWFCM7HH4U442WH</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/u0XUBNQWlOvrh0Gd97ARGpIkL0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Durante a era britânica Malli, uma pequena garota tribal é levada pelo governador britânico Scott Buxton e sua esposa Catherine contra a vontade de seus pais, índios revolucionários, mas o ocorrido nunca é creditado pelo governo britânico. O governo descobre que Komaram Bheem começou sua busca por ela e pode ser um obstáculo para o exército britânico. O governador e sua esposa anunciam um posto especial para qualquer oficial que possa trazer Bheem até eles.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ANIKULAPO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a7672adf9e41aaafd22e3139fcbe52a104975ae</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/xb30hkUpBm23stnVgDJGYGsC0R0.jpg</thumbnail>
