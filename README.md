@@ -96,6 +96,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] 100 MEDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QJI2CKL42CZYHRLIWU775ZVQAHXKYSR7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/o3YitLNoZsucoGrcjehaR9p45Ip.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Nesta mistura de drama, comédia e romance, uma jovem enfrenta seus maiores medos para realizar o último desejo da melhor amiga.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O TELEFONE DO Sr.HARRIGAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46ae50e165363069258cdaa14ee5cf581d420831</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/t7aj48fiakfi0EdC82xPjqi7B37.jpg</thumbnail>
