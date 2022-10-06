@@ -112,6 +112,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - CAÇADORES DE VAMPIROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HPXMPSGZ64B5XM4UXIXEH6S37QQU5BW2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tgTslXlyDloCDCaAZUptaR1Pt5k.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um aumento alarmante nos casos de desaparecimento leva uma dupla de caçadores ao Arizona para investigar se um bando de vampiros saiu da hibernação. A caçada com tecnologia de ponta revela um plano nefasto.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AMOR DOENTIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:377e490a1d86efc371122c5881d0d6959d7d35b2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/b2v6R4V4vk3dGApTt42sdR2JjoB.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Samira se muda com o filho de sua pequena cidade rumo a Teerã, para trabalhar e manter sua independência. Mas Hamed, seu ex-marido, que a deixou há seis meses, continua a assediá-la. Ele faz várias acusações contra ela na tentativa obstinada de mandá-la de volta para casa.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A VIDA DE TOGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4BVNPRNEPTFDZDNUJAZDVGRLBGG5LPTJ</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9qkl34olpFVM9nAuYeveO6uKpaA.jpg</thumbnail>
