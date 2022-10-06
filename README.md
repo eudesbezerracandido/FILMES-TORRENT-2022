@@ -96,6 +96,38 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O TELEFONE DO Sr.HARRIGAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46ae50e165363069258cdaa14ee5cf581d420831</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/t7aj48fiakfi0EdC82xPjqi7B37.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Num bairro de uma cidadezinha, um garoto cria uma amizade com um velho bilionário que vive em sua rua, ajudando-o a mexer no seu primeiro iPhone. Quando ele morre, o garoto descobre que nem tudo que está morto se foi para sempre e logo percebe que pode se comunicar com o seu velho amigo ao deixar mensagens de voz pro telefone que foi enterrado com ele.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A VIDA DE TOGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4BVNPRNEPTFDZDNUJAZDVGRLBGG5LPTJ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9qkl34olpFVM9nAuYeveO6uKpaA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em A Vida de Togo, traficantes estão tomando as ruas de Montevidéu e extorquindo os trabalhadores que cuidam dos carros da rua, para que trabalhem para eles. Porém, um deles, Togo, resistirá até as últimas consequências para proteger seu território e seus vizinhos da violência. Defendendo seu ganha-pão honesto, ele tentará mobilizar forças para que os guardadores de carro não sejam obrigados a participar do esquema de venda de drogas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] OS 13 SOBREVIVENTES DA CAVERNA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ILDTMBQBAYE4S3AFUUTCCC5BDXSALLOM</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xF55KYpT70qho6PkJf4NQpgjNdL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Neste documentário cativante, os jovens de uma equipe juvenil de futebol contam como conseguiram sobreviver depois de ficarem presos na caverna Tham Luang em 2018.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CONVITE MALDITO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:490456eba124639099465510631dba359db90793</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/AtiAjYCyUop1uyjJhKzmi3qnNLp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após a morte de sua mãe e sem ter nenhum outro parente conhecido, Evie faz um teste de DNA e descobre um primo perdido que ela não sabia que existia.Convidada pela sua nova família para um casamento, ela sente uma grande atração pelo sexy anfitrião. Mas Evie logo terá que lutar pela sobrevivência ao descobrir os segredos sinistros da história de sua família e as intenções perturbadoras por trás de sua generosidade pecaminosa.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B]  A QUEDA DUBLADO NÃO OFICIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6F9F076C97909D9F57B2248F24F62D9A45953901</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/68SX7S9lisehbuZLNX4CrVMxV1v.jpg</thumbnail>
