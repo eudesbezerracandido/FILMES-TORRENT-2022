@@ -120,11 +120,19 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] OS 13 SOBREVIVENTES DA CAVERNA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] DOCUMENTÁRIO  OS 13 SOBREVIVENTES DA CAVERNA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ILDTMBQBAYE4S3AFUUTCCC5BDXSALLOM</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/xF55KYpT70qho6PkJf4NQpgjNdL.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Neste documentário cativante, os jovens de uma equipe juvenil de futebol contam como conseguiram sobreviver depois de ficarem presos na caverna Tham Luang em 2018.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - PÂNICO A HISTÓRIA POR TRAZ DO FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AXBNQRPO6QF5XGTZW4COPLXUIDWQYSQO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/l2vm6wdXjkxxTQSWOoquVUEz4Qo.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Este documentário combina cenas de uma investigação paranormal com cenas roteirizadas e de arquivo para contar a verdadeira história que inspirou o filme Pânico, um clássico do terror.</info>
 </item>
 
 <item>
