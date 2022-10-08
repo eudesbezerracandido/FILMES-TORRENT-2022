@@ -104,6 +104,46 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - TIME DA REDENÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91f4e227d60ebdb4a96d4ef21be1be5fc50cefee</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8G9XOb9bO9LusWEI2dOAyaCf8Bb.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após o fiasco nos Jogos Olímpicos de 2004, o time de basquete masculino dos EUA busca a redenção e parte para a briga pelo ouro nos Jogos Olímpicos de Pequim de 2008.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MONSTER HIGH-O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c46171a490df4d2b84fc3a89ec99944dcce0dae6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/768OBP28OA4mjavOUAIRlVo14Xu.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A linha de brinquedos Monster High ganha uma versão para o cinema em live-action. As adolescentes Frankie Stein, Draculaura, Cleo de Nile, Clawdeen Wolf e Ghoulia Yelps, filhas de monstros lendários, buscam seu lugar ao sol na escola Monster High.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - CONVERSANDO COM UM SERIAL KILLER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a55d820955a6077a8e61f5f3ba0b79523e567efa</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2ZanSihKwPWeVRCn2LPNrtFYiL0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O serial killer Jeffrey Dahmer confessa seus crimes horríveis em entrevistas desprotegidas, oferecendo uma visão perturbadora de uma mente perturbada.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] LOBISOMEM NA NOITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7QIFXC2LLNL3QDEOQVMH7XL5JKJAR7IY</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/N9jyoeH3wKhiHYNYLE9Pnnls9D.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em uma noite escura e sombria, uma cabala secreta de caçadores de monstros emerge das sombras e se reúne no templo de Bloodstone após a sua morte. Em um estranho e macabro memorial à vida de seu líder, os participantes são lançados em uma misteriosa e mortal competição por uma poderosa relíquia – uma caçada que acabará por colocá-los cara a cara com um monstro perigoso. Inspirado em filmes de terror das décadas de 1930 e 1940, esse especial arrepiante busca evocar sensações de pavor e do macabro, cheio de suspense e de sustos ao longo do caminho, enquanto explora um novo canto do Universo Cinematográfico Marvel.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] LAR DOS ESQUECIDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LPJHRSUQN4NRKY2UVUSLAKG3F7N2V3E6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fApMyuO562IDcpxhilpeehrEJXW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma mulher volta para sua cidade natal com os dois filhos por conta do casamento de sua irmã, mas a festa é interrompida por idosos com sede de sangue.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O TELEFONE DO Sr.HARRIGAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46ae50e165363069258cdaa14ee5cf581d420831</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/t7aj48fiakfi0EdC82xPjqi7B37.jpg</thumbnail>
