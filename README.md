@@ -112,6 +112,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] LUTA PELA LIBERDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:918f6d558c405409694f66ef75dd044423936f6a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4y5DCnVYjmT43jy56qYTERlcYih.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>1930. Quatro agentes especiais do Partido Comunista retornam à China após receberem treinamento especial na União Soviética. Eles são enviados em uma missão secreta chamada "Utrennya", mas no momento em que entram de paraquedas, descobrem que foram vendidos por um traidor e agora estão em águas profundas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UMA GAROTA DE MUITA SORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WFV2RGMR7QUCOK6376SMFW5KW4M36C5G</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9qJOLqZ7Gcx8HeCkt5iYqEyMjJs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ani FaNelli, uma nova-iorquina que parece ter tudo: uma posição procurada em uma revista sofisticada, um guarda-roupa matador e um casamento dos sonhos em Nantucket. Mas quando o diretor de um documentário policial a convida a contar seu lado do chocante incidente que aconteceu quando ela era adolescente na prestigiosa Bradley School, Ani é forçada a enfrentar uma verdade sombria que ameaça desvendar sua vida meticulosamente elaborada.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MONSTER HIGH-O FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c46171a490df4d2b84fc3a89ec99944dcce0dae6</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/768OBP28OA4mjavOUAIRlVo14Xu.jpg</thumbnail>
