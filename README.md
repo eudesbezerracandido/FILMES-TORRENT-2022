@@ -96,6 +96,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SORRIA (HDCAM) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F682382B6CDB7E3FAF1E93DF509DECE618C41AB7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gJbMkl9e2NZcjlKpXuK9QaExobN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após testemunhar um acidente traumático e bizarro envolvendo um paciente, a Dra. Rose Cotter começa a vivenciar eventos assustadores que ela não consegue explicar.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] 100 MEDOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QJI2CKL42CZYHRLIWU775ZVQAHXKYSR7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/o3YitLNoZsucoGrcjehaR9p45Ip.jpg</thumbnail>
