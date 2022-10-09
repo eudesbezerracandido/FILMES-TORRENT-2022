@@ -96,7 +96,15 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] SORRIA (HDCAM) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] MULHER  REI ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6A45B8617CEA58627A474A1FD92C568815391FA5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ml7Ypdeev7s1MK38dQN0OXoZ8p9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nanisca era a comandante do exército do Reino de Daomé, um dos locais mais poderosos da África nos séculos XVII e XIX. Durante o período, o grupo militar era composto apenas por mulheres, entre as guerreiras está a filha de Nanisca, Nawi, juntas elas combateram os colonizadores franceses, tribos rivais e todos aqueles que tentaram escravizar seu povo e destruir suas terras.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SORRIA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F682382B6CDB7E3FAF1E93DF509DECE618C41AB7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gJbMkl9e2NZcjlKpXuK9QaExobN.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
