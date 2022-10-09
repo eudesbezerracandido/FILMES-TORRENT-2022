@@ -117,7 +117,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/4y5DCnVYjmT43jy56qYTERlcYih.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>1930. Quatro agentes especiais do Partido Comunista retornam à China após receberem treinamento especial na União Soviética. Eles são enviados em uma missão secreta chamada "Utrennya", mas no momento em que entram de paraquedas, descobrem que foram vendidos por um traidor e agora estão em águas profundas.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] UMA GAROTA DE MUITA SORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
