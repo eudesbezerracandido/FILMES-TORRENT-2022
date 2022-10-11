@@ -112,6 +112,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] OS 800 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76fabcb8edd76a8fdd8c697cb61ad24ca047fd0a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mx0PP392PYCZ4x0xNryO5ry637X.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Durante a Batalha de Xangai em 1937, quando um grupo de soldados chineses lutaram para defender o armazém de Sihang, ondas de forças japonesas avançavam, cercando oitocentos soldados chineses.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MULHER  REI ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6A45B8617CEA58627A474A1FD92C568815391FA5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ml7Ypdeev7s1MK38dQN0OXoZ8p9.jpg</thumbnail>
