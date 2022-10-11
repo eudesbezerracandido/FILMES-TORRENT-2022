@@ -96,6 +96,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] THEY/THEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5WP7ZO65EVUG2KYWSCFMAOGZI2GJAYWE</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/85TJ4udfUOwFIlvQL6EMFvvbvN5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Vários campistas gays e trans se reúnem em um acampamento para uma semana de programação destinada a ajudá-los a encontrar ‘uma nova sensação de liberdade’. À medida que os métodos do acampamento se tornam cada vez mais psicologicamente perturbadores, os campistas devem trabalhar juntos para se proteger. Quando um misterioso assassino começa a fazer vítimas, as coisas ficam ainda mais perigosas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MEME DO MAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48a781088504340aec93fcce7c8fbd7dc221cd9c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uqXKtm1YSW7e4pzjTKHXB8O86kJ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma adolescente e seu irmão mais novo devem parar um meme aterrorizante da internet trazido à vida pela histeria de seus pais.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MULHER  REI ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6A45B8617CEA58627A474A1FD92C568815391FA5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ml7Ypdeev7s1MK38dQN0OXoZ8p9.jpg</thumbnail>
