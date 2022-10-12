@@ -96,6 +96,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BLACKOUT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4408397f875117cc95fe5d97ec99517ab8e8a8b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xDgnmbdWS59NtTPdzujdZGuPUPZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um homem desperta com amnésia em um hospital mexicano e descobre que é alvo de um cartel. Agora, ele precisa ir atrás da verdade, rápido!</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AMEAÇA A BORDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08ae276a9a0d45437a317c0c62354b26e9a21ada</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1RmugOkBFU5eXu1dbr1zdxChLfQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma festeira tenaz luta para sobreviver após três ladrões tomarem seu iate de luxo. Incapaz de escapar e presa no iate em alto mar, a presa se torna a caçadora enquanto vira a mesa contra os intrusos e resolve o assunto com as próprias mãos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] THEY/THEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5WP7ZO65EVUG2KYWSCFMAOGZI2GJAYWE</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/85TJ4udfUOwFIlvQL6EMFvvbvN5.jpg</thumbnail>
