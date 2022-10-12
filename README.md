@@ -104,6 +104,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BENDER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FLCXXGILCOTRZP6DVGX7FOV3IEGHJ5VA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vt7kmZK7hx6Zbrvsv6YRWHX3gAz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em 1919, o destino promove o encontro do jovem idealista Osip e do vigarista turco Ibrahim Bender. Ambos estão em busca de uma relíquia real, uma joia preciosa que bandidos locais e oficiais também querem obter. Osip aprende com Bender como bajular, enganar, chantagear e brigar. E se apaixona pela garota mais linda da cidade. E, ao que parece, não só por ela, mas também por uma bela estrangeira. Nasce aí o lendário Ostap Bender-Zadunaisky.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AMEAÇA A BORDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08ae276a9a0d45437a317c0c62354b26e9a21ada</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1RmugOkBFU5eXu1dbr1zdxChLfQ.jpg</thumbnail>
