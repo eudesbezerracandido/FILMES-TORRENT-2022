@@ -104,6 +104,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PERSEGUIÇÃO AS BRUXAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4dc55a842f4e60dcc311b8cf3caab76410e8140</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aUG2kbQh5rlQQfAwcn0PSU0Xz7Q.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Numa América moderna onde bruxas existem e bruxaria é ilegal, a jovem Claire (Gideon Adlon) precisa enfrentar seus próprios demônios e preconceitos enquanto ajuda duas bruxas a enganar autoridades para buscar segurança no México.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] VICE-VERSA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4NYI3CISK7FX7PW2CNWVWUOQWD6CSSSV</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4Q5OBXE0JDeyU11bYeHC08cQuE.jpg</thumbnail>
