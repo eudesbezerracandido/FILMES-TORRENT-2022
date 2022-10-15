@@ -112,6 +112,38 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ROSALINA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:643856b8a51568328c9910b48faa66a9d9551724</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/Ad51mrs3azZMzHE6cLrCv9uSztP.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma nova e cômica reviravolta na clássica história de amor de Shakespeare. "Romeu e Julieta", contada da perspectiva da prima de Julieta, Rosalina, que também é o recente interesse amoroso de Romeu. Com o coração partido quando Romeu conhece Julieta e começa a persegui-la, Rosaline planeja frustrar o famoso romance e reconquistar seu namorado.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NÃO! NÃO OLHE! [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KIDKFUVRT2VOQOBBB3YIGNQU23S3JUFT</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5gL1L7q56zyk3NLnqwPjzFkxCfg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A trama segue moradores de uma cidade isolada que testemunham um evento misterioso, estranho, arrepiante e anormal. O vencedor do Oscar Jordan Peele revolucionou e redefiniu o terror moderno com Corra! e depois Nós. Agora, ele nos traz um novo pesadelo pop: o épico de terror, Não! Não Olhe! O filme reúne Peele com o vencedor do Oscar® Daniel Kaluuya (Corra, Judas e o Messias Negro), que se junta a Keke Palmer (As Golpistas, Alice) e o indicado ao Oscar® Steven Yeun (Minari, Okja) como residentes em uma ravina solitária do interior da Califórnia que testemunham uma descoberta estranha e assustadora. Não! Não Olhe!, que co-estrela Michael Wincott (Hitchcock, Westworld) e Brandon Perea (The OA, American Insurrection), é escrito e dirigido por Jordan Peele e é produzido por Ian Cooper (Nós, Candyman) e Jordan Peele para Monkeypaw Productions. O filme será lançado pela Universal Pictures em todo o mundo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CLERKS III [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VZ5AIFL4MNF2NPK6HCNWHFL3GRY5L2LE</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/apzIqZIQLc8fNx5nbbcSSfPFtax.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O terceiro e último da série O Balconista. Dante e Randal estão mais uma vez atrás do balcão da Quick Stop Groceries, de bobeira com Jay e Silent Bob, matando trabalho para jogar hóquei no terraço e ofender clientes. Mas Randal tem um ataque cardíaco fulminante e decide que é hora de fazer algo na vida.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A MALDIÇÃO DE BRIDGE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c3a98832e941390fd0fce8a48e81ea077a3f3c29</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/f4hdxB3gErjNJtfWBU9rMdhiNbU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma adolescente, que acidentalmente libera um espírito antigo e travesso no Halloween, que faz com que as decorações ganhem vida e causem estragos, deve se unir à última pessoa que ela deseja para salvar sua cidade - seu pai.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] VICE-VERSA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4NYI3CISK7FX7PW2CNWVWUOQWD6CSSSV</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4Q5OBXE0JDeyU11bYeHC08cQuE.jpg</thumbnail>
