@@ -96,6 +96,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A PRIMEIRA DAMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa457ae2ebad6a73ac35b9c4cf2ed6de70e2861a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cbg5ZE3zNmMcdyN1ILiJjYSIaf9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A cineasta Ricki Stern dirige seu olhar à ex-primeira-dama do ISIS, Tania Joya, que por 12 anos foi casada com John Georgelas, um americano que chegou ao mais alto posto do ISIS. O documentário narra com exclusividade a história insólita de dois amantes sedentos por poder e sua relação com os ideais e organizações radicais. O ponto de partida é o relato de Tania e seu testemunho como membro do Exército Islâmico, esposa e mãe.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BLACKOUT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4408397f875117cc95fe5d97ec99517ab8e8a8b</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/xDgnmbdWS59NtTPdzujdZGuPUPZ.jpg</thumbnail>
