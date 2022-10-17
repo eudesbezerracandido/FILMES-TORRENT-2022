@@ -128,6 +128,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO -  MARY KAY  FACES DE UM ESCANDALO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1229971ecab356d133bc7540ee906ad40bc10c5d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lBsARmCAiVyjkSgbJfFiPuDy160.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em 1997, a polícia prende a professora Mary Kay Letourneau, de 34 anos, por manter um caso com um aluno de 12 anos. Acusada de estupro de incapaz, Letourneau é massacrada pela opinião pública e condenada pelo crime.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NÃO! NÃO OLHE! [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KIDKFUVRT2VOQOBBB3YIGNQU23S3JUFT</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/5gL1L7q56zyk3NLnqwPjzFkxCfg.jpg</thumbnail>
