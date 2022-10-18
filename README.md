@@ -381,7 +381,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/u0XUBNQWlOvrh0Gd97ARGpIkL0.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Durante a era britânica Malli, uma pequena garota tribal é levada pelo governador britânico Scott Buxton e sua esposa Catherine contra a vontade de seus pais, índios revolucionários, mas o ocorrido nunca é creditado pelo governo britânico. O governo descobre que Komaram Bheem começou sua busca por ela e pode ser um obstáculo para o exército britânico. O governador e sua esposa anunciam um posto especial para qualquer oficial que possa trazer Bheem até eles.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] ANIKULAPO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
