@@ -96,6 +96,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BORREGO - SAIA DO CAMINHO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4RIIQ4GTS5QYULNXLCAMDWPKTU76OMY3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iNSa1kwVsOsfAHwopMLM7PnrDhU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Borrego segue uma jovem botânica que se muda para uma pequena cidade no deserto para estudar uma espécie de planta invasora. Ela deve lutar por sua sobrevivência quando é sequestrada por uma mula de drogas inexperiente após seu avião ultraleve cair no deserto.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AGENTE OCULTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:H7467UIPDS43BSDZGKEL5FLPAND6VXJ6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1f10KUKW7KyNt8bF8NHmwbBQ9fs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Agente Oculto segue Gentry, um dos melhores e mais letais mercenários da CIA – que ninguém sabe a real identidade. Ele embarca em uma missão pela Europa para resgatar seu contratante, Sir Donald Fitzroy, e sua família, de Lloyd, membro de uma gigantesca corporação francesa e ex-oficial da CIA. Porém, o mercenário acaba descobrindo segredos bem sujos da agência e Loyd, por sua vez coloca uma recompensa pela cabeça de Gentry, afim de que seja morto, para que ele consiga roubar um bilhão de dólares de um acordo de negócios petrolíferos na Nigéria. Se isso já não fosse o suficiente, o presidente do país, por sua vez, também quer Gentry morto pelo assassinato de seu irmão. Lloyd força Fitzroy a trair Gentry mantendo sua família refém em um castelo na Normandia. Baseado no romance homônimo de Mark Greaney.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A PRIMEIRA DAMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa457ae2ebad6a73ac35b9c4cf2ed6de70e2861a</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cbg5ZE3zNmMcdyN1ILiJjYSIaf9.jpg</thumbnail>
