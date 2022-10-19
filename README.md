@@ -104,6 +104,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O DESCONHECIDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37GN4JHO7S2SJGRXHFED6P4Q2B6NNNVE</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7HsnzLy45DhUaHll9qQMSBYQGUo.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dois homens que se encontram em um avião e iniciam uma conversa que se transforma em amizade. Para Henry Teague (Sean Harris), desgastado por uma vida inteira de trabalho físico e crimes, este é um sonho realizado: seu novo amigo Mark (Joel Edgerton) pode ser seu salvador e aliado. No entanto, nem tudo é o que parece ser, e cada um carrega segredos que ameaçam arruiná-los – e ao fundo, uma das maiores operações policiais do país se aproxima.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PANAMÁ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26424b56e93a065736e9ebd5d7a836ba86ddafa1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/u9DzgsmssidygWuORgYzhi317vj.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ambientado no selvagem Panamá de 1989, James Becker é um ex-fuzileiro naval, que é enviado disfarçado por seu ex-comandante Stark para executar um acordo de alto valor com adversários não confiáveis. Enquanto navega pelo caos da guerra civil local, Becker deve combater assassinos, cortejar femmes fatales e negociar com o inimigo para concluir sua missão.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A ESCOLA DO BEM E DO MAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:G4FXRFWSHT3MDV7XUKUBF5BMTG6DNO36</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fbo6sHohCSQDOY6RYPQX3zO886y.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A Escola do Bem e do Mal acompanha Sophie e Agatha, duas melhores amigas que acabam ficando em lados opostos de um conto de fadas moderno quando vão para uma escola encantada de heróis e vilões.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AGENTE OCULTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:H7467UIPDS43BSDZGKEL5FLPAND6VXJ6</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1f10KUKW7KyNt8bF8NHmwbBQ9fs.jpg</thumbnail>
