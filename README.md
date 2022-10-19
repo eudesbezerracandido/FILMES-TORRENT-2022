@@ -96,6 +96,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] GUERRA ALIENÍGENA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7WZXDTO25IPEH7CSHN3225G5ZXBPKURC</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4trb7VI220GFVUvFlO0cj11SWyi.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um acidente de meteorito na terra desperta uma criatura alienígena maligna, e logo após outro ser extraterrestre toma uma jovem mulher e pede sua ajuda para caçar a criatura. Eles devem parar e matá-lo antes que ele alcance um segundo meteorito já em nosso planeta.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DIAS DE VERÃO,NOITES DE VERÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:W5JKNCI7XYNVYQT7VQIDWGCOUHLRKFAV</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uWbLmIRX6RxckJZ3I08p6n7d3x.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um grupo de adolescentes que acabou de se formar no ensino médio e na faculdade aproveita o verão de 1983 em Rockaway Beach. Enquanto trabalham em empregos de verão e vivem o calor de amores passageiros, eles se preparam para enfrentar a mudança de vida que vem pela frente quando as férias chegarem a um fim.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BORREGO - SAIA DO CAMINHO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4RIIQ4GTS5QYULNXLCAMDWPKTU76OMY3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/iNSa1kwVsOsfAHwopMLM7PnrDhU.jpg</thumbnail>
