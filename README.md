@@ -104,6 +104,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] AMBULÃNCIA- UM DIA DE CRIME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OE24PTP5MLZJY447TZ4JCQ5I3J26CT54</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kuxjMVuc3VTD7p42TZpJNsSrM1V.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O condecorado veterano Will Sharp, desesperado por dinheiro para cobrir as contas médicas de sua esposa, pede ajuda de uma pessoa que ele sabe que não deveria — seu irmão adotivo Danny. Um criminoso carismático, Danny oferece-lhe uma pontuação: o maior assalto a banco na história de Los Angeles: 32 milhões de dólares. Com a sobrevivência de sua esposa em jogo, Will não pode dizer não.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] GUERRA ALIENÍGENA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7WZXDTO25IPEH7CSHN3225G5ZXBPKURC</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4trb7VI220GFVUvFlO0cj11SWyi.jpg</thumbnail>
