@@ -117,7 +117,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/iNSa1kwVsOsfAHwopMLM7PnrDhU.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Borrego segue uma jovem botânica que se muda para uma pequena cidade no deserto para estudar uma espécie de planta invasora. Ela deve lutar por sua sobrevivência quando é sequestrada por uma mula de drogas inexperiente após seu avião ultraleve cair no deserto.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] O DESCONHECIDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
