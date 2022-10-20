@@ -96,6 +96,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BENEDETTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GOP45XYQK6FPCUBRHVHOTY5UMA6ZIFKI</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4barSHdlYpCEGdUedIB03IXwtfp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No final do século 17, com a peste devastando as terras, Benedetta Carlini ingressou no convento em Pescia, Toscana, como noviça. Capaz de fazer milagres desde tenra idade, o impacto de Benedetta na vida da comunidade é imediato e significativo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] GUERRA ALIENÍGENA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7WZXDTO25IPEH7CSHN3225G5ZXBPKURC</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4trb7VI220GFVUvFlO0cj11SWyi.jpg</thumbnail>
