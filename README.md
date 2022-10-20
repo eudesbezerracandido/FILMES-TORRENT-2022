@@ -128,7 +128,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] AMEAÇA A BORDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] AMEAÇA  ABORDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08ae276a9a0d45437a317c0c62354b26e9a21ada</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nZY9zf7z0Gy3bFOpwf0qOgJKaX7.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
