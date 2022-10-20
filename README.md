@@ -1,6 +1,15 @@
 # FILMES-TORRENT-2022
 
 
+
+<item>
+<title>[COLOR silver][B] ADÃO  NEGRO  HDCAM ( CINEMA ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C41FB822E23610C403B60C489A6A26299C61C181</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lMPPiyVLE09NwzYx5m6UsB1sMfS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/5aGvMSMfE6BqQXR3mG46zjgX8V8.jpg</fanart>
+<info>Quase 5.000 anos depois de ter sido agraciado com os poderes onipotentes dos deuses egípcios - e preso com a mesma rapidez - Adão Negro (Johnson) é libertado de sua tumba terrena, pronto para liberar sua forma única de justiça no mundo moderno.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] PREDADOR - A CAÇADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VUEKOYKBUPRNPEDKV4JRTGEISZLE27VY$nome=PREDADOR A CAÇADA</link>
