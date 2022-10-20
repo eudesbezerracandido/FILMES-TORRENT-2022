@@ -105,6 +105,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B]  RUBIKON: PONTO SEM RETORNO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UEXVA22HP66A7V6H3BG2TJM3GFM7R5OP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/n5Ynx568yHn1hKG2ND7ctoL9jEl.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma catástrofe cobriu tudo na Terra em uma névoa tóxica. A tripulação da estação espacial deve decidir se arrisca suas vidas retornando para procurar sobreviventes ou permanecendo a bordo com o sistema seguro de simbiose de algas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BENEDETTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GOP45XYQK6FPCUBRHVHOTY5UMA6ZIFKI</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4barSHdlYpCEGdUedIB03IXwtfp.jpg</thumbnail>
