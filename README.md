@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] RAYMOND E RAY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e2ea55edd6ea3a1b7388d7575d318a68655389f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fdKZmSQHD17JjGUYkluhpttgJRi.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Dois meio irmãos se reúnem no funeral do pai. Os meio irmãos Raymond e Ray se reencontram quando seu pai distante morre – e descobrem que seu último desejo era que eles cavassem sua cova. Juntos, eles processam quem eles se tornaram como homens, tanto por causa de seu pai quanto apesar dele.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] GAROTA DO SÉCULO 20 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97ac6bc7383b3a52380b6ae034186b8f4eae271d</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/3ZQF0k7OgLlGifUpWNyr4lgqqv6.jpg</thumbnail>
