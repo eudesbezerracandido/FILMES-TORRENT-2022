@@ -11,6 +11,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] GAROTA DO SÉCULO 20 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97ac6bc7383b3a52380b6ae034186b8f4eae271d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3ZQF0k7OgLlGifUpWNyr4lgqqv6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>20th Century Girl é um melodrama desenhado entre os dias do ensino médio e o presente, ambientado em 1999. O ano é 1999 e uma adolescente começa a monitorar o garoto pelo qual a melhor amiga está apaixonada. Tudo vai bem até que um outro amor começa a dar as caras.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ARGENTINA,1985 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07f2d6cba6db4007e34f5c9a436cc7ad87d14e0c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/isLWtcB9TK3wLlTzEny2dPH6beh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma equipe de advogados enfrenta os chefes da sangrenta ditadura militar da Argentina durante a década de 1980 em uma batalha contra as probabilidades e uma corrida contra o tempo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]A LUTA DE UMA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2bd01204214cf52ecfd05dce0ea959d7b30bebf</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/maTuBPCOMEHCUHg1ytgZvsjU7kt.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em The Survivor, acompanhamos a história de Harry Haft (Ben Foster), um boxeador que lutou contra outros prisioneiros nos campos de concentração para sobreviver após a segunda guerra mundial. Assombrado por memórias e pela culpa, ele tenta usar lutas de alto nível contra lendas do boxe como Rocky Marciano como uma maneira de encontrar seu primeiro amor novamente.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PREDADOR - A CAÇADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VUEKOYKBUPRNPEDKV4JRTGEISZLE27VY$nome=PREDADOR A CAÇADA</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e64e03d4f71b6d149240abc8e3d3c74a08d9041$nome=LEGENDADO 4k</link>
