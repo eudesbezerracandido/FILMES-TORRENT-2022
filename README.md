@@ -11,6 +11,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A MADRASTRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FEONS5KBITS3SNOHCKN26M6PK2ZRWILX</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xx3s9HORABYz3F3ZVPtomSANpYu.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Holly está animada para finalmente conhecer os três filhos do seu noivo, Richard, no aniversário do caçula, que será comemorado na casa da ex-esposa. Apesar de estar um pouco nervosa, Holly quer causar boa impressão a todos. No entanto, quando o casal chega à casa, localizada em uma região isolada do interior da Inglaterra, as circunstâncias estão longe de ser ideais.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  JAULA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9a72ecdcdb773b4cd795392d0d18434005487bd</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zGeGuVMUT4uqgvCS6cSJCbTKnaa.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um casal encontra uma criança traumatizada. Mas, para descobrir quem ela é e desvendar seu passado obscuro, será necessário decifrar seu comportamento estranho.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NOITES DE SUSTOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84c435ede75344322b4fbfd1c122ba20d1e1b42f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jaMEBAjQpJdbBZzORtr92E5Rldd.jpg</thumbnail>
