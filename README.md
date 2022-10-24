@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PERIGO NO GRUPO DE MÃES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ZPKYMSI7UASX63NP7QAIUMS2XE5VZFG</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fzd6YA9sWePtMElRDEcAQzUSv3I.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma mãe decide se juntar à associação de pais da escola na esperança de poder se envolver mais no ensino de sua filha. Ela descobre que o conselho escolar é dirigido por uma mãe com uma propensão a dar punhaladas pelas costas - literalmente.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A MADRASTRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FEONS5KBITS3SNOHCKN26M6PK2ZRWILX</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/xx3s9HORABYz3F3ZVPtomSANpYu.jpg</thumbnail>
