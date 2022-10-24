@@ -45,7 +45,7 @@
 <item>
 <title>[COLOR silver][B] A AVÓ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91a9d85ff04fe1833ed089c1dd6f3696568f6b2e</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ozT3LrHVBiA6IDJcQ28hs0hUAVI.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/tZGoxO2rwfmm5m6oeNjLDORALqy.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Susana precisa abandonar sua carreira de modelo em Paris e retornar para Madrid quando descobre que sua avó Pilar - que a criou após a morte de seus pais - sofreu um AVC. Mas ao chegar, ela se vê presa num pesadelo quando percebe que o comportamento estranho de Pilar pode não estar relacionado a doença.</info>
 </item>
