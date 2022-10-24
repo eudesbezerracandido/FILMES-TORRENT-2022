@@ -11,6 +11,46 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] NOITES DE SUSTOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84c435ede75344322b4fbfd1c122ba20d1e1b42f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jaMEBAjQpJdbBZzORtr92E5Rldd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando uma nova loja Spirit Halloween aparece em um shopping deserto, três amigos do ensino médio que pensam que superaram as doçuras ou travessuras se atrevem a passar a noite trancados dentro da loja na noite de Halloween. Mas eles logo descobrem que a loja é assombrada por um espírito maligno furioso que possuiu os personagens animatrônicos assustadores. As crianças embarcam em uma aventura emocionante e assustadora para sobreviver à noite e evitar serem possuídas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A AVÓ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91a9d85ff04fe1833ed089c1dd6f3696568f6b2e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ozT3LrHVBiA6IDJcQ28hs0hUAVI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Susana precisa abandonar sua carreira de modelo em Paris e retornar para Madrid quando descobre que sua avó Pilar - que a criou após a morte de seus pais - sofreu um AVC. Mas ao chegar, ela se vê presa num pesadelo quando percebe que o comportamento estranho de Pilar pode não estar relacionado a doença.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PHOBIAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a35ebfee87179437665b3e25c1dfc25103c611f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zpecci4IooFiwMVGknhm8Jz2FHo.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Cinco pacientes perigosos, que sofrem de fobias extremas em uma instalação de testes do governo, são submetidos ao teste final sob a supervisão de um médico louco e sua busca para transformar o medo em uma arma.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O DIMINGO DAS MAÊS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4a74681cb1dbfd825e91c387be8d232478dcdc28</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/v7IQSERVlm3zfGGDRltP91DgOgk.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>nglaterra, 1924. Jane Fairchild trabalha como doméstica na casa dos Niven. Ela ganha uma folga no Dia das Mães, enquanto o sr. e a sra. Niven participam da celebração do noivado de Paul, filho de seus vizinhos. Jane está feliz com a repentina liberdade em um lindo domingo de primavera. Por quase sete anos, ela foi amante de Paul. Como os Nivens, o rapaz pertence à velha aristocracia inglesa, enquanto Jane ficou órfã quando nasceu. Hoje será o último dia deles como amantes, e também o dia que marcará o início da transformação de Jane. Com Odessa Young, Josh O'Connor, Olivia Colman, Colin Firth e Glenda Jackson. Seleção dos Festivais de Cannes e Toronto e da 45ª Mostra de Cinema de São Paulo, em 2021.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MARTYRS LANE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c52b9d090f35a8495761946d0962634e97c1ab75</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2p9ATFUEiXT75LmMsSCBicnpX8e.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Leah, 10, mora em um grande vicariato, cheio de almas perdidas e necessitados. Durante o dia, a casa fervilha de gente; à noite está escuro, vazio, um espaço para os pesadelos de Leah se infiltrarem. Um pequeno visitante noturno traz conforto a Leah, mas logo ela perceberá que seu pequeno visitante oferece conhecimentos que podem ser muito, muito perigosos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] RAYMOND E RAY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e2ea55edd6ea3a1b7388d7575d318a68655389f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fdKZmSQHD17JjGUYkluhpttgJRi.jpg</thumbnail>
