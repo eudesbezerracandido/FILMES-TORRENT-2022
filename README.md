@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] GONJIAM: MANICÔMIO ASOMBRADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4b0b0246989432d038c0430bedc86a7f3f5eddc</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cHzyFneiUCBT0FWYFqna5XE3lsj.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma equipe de gravações de um programa de internet planeja uma transmissão ao vivo a partir de um manicômio desativado. Para atrair público, o apresentador arranja alguns sustos para a equipe, mas, conforme eles se aprofundam no velho prédio, começam a encontrar mais do que esperavam.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PERIGO NO GRUPO DE MÃES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ZPKYMSI7UASX63NP7QAIUMS2XE5VZFG</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fzd6YA9sWePtMElRDEcAQzUSv3I.jpg</thumbnail>
