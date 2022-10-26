@@ -20,6 +20,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SOBRE NÓS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37e835df627db75daf2c006b67e98f0dd3b1d6cd</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/e7mlMjBrFiujFfri9O82dLZXrxX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um jovem casal retorna ao lugar onde passou sua lua de mel 10 anos depois. Eles vão nessa jornada juntos em busca de uma conexão e descobrindo que o amor verdadeiro que os une estava lá o tempo todo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] LOVE,FALL E ORDER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1516d565c75fc259c8fcfde32efef676dddeb61</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1U7k4jmMwa9nZYdSitEqV4Y7oql.jpg</thumbnail>
