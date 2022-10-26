@@ -20,6 +20,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] LOVE,FALL E ORDER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1516d565c75fc259c8fcfde32efef676dddeb61</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1U7k4jmMwa9nZYdSitEqV4Y7oql.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Claire vai para casa para salvar o Festival de Outono anual de seu pai, na fazenda de abóbora de sua família. Faíscas voam com um antigo rival - o advogado adversário que ela agora enfrenta no tribunal.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DE AGORA EM DIANTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bbad03545b9e3ee2b012eee4c831b43790b39248</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sl7uXQhX8IM5rdiHbRWHdv4pKKB.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma musicista de sucesso que vive em Nova York enfrenta o fato de que sua vida nunca poderia melhorar e considera acabar com tudo. Em um último esforço para encontrar a felicidade e em seu próprio jeito sarcástico, ela enfrenta seu trabalho sem saída, seus aplicativos de namoro, sua infância e sua depressão para voltar do precipício com uma vingança.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PERIGO NO GRUPO DE MÃES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ZPKYMSI7UASX63NP7QAIUMS2XE5VZFG</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/fzd6YA9sWePtMElRDEcAQzUSv3I.jpg</thumbnail>
