@@ -76,6 +76,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O MONASTÉRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TPDERRWLLT3FRQM5R3YKIDIMP4N72V7G</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/y47wBamj9vdqBeGaLEFTrYEPTeC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Na Polônia de 1987, um policial investigando desaparecimentos misteriosos se infiltra em um mosteiro remoto e descobre uma verdade sombria sobre seu clero.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O ENFERMEIRO DA NOITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fadc9779722fe96b5f893f0181f1dcc622174f41</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cTp35hVdiVFEVOTSO7HLhmiXx8f.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A verdadeira história da perseguição e captura de Charlie Cullen, um enfermeiro que é considerado um dos mais prolíficos assassinos em série da história. Agora chamado de 'Anjo da Morte', Cullen era um pai casado e considerado um zelador responsável, mas sua compulsão secreta de tirar vidas levou à morte de até 300 pacientes em 16 anos, espalhados por nove hospitais em Nova Jersey e Pensilvânia. Ele foi pego por dois ex-detetives de homicídios de Newark, auxiliado por uma enfermeira que trabalhou ao lado de Cullen e arriscou seu trabalho e segurança da família para detê-lo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] GONJIAM: MANICÔMIO ASOMBRADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4b0b0246989432d038c0430bedc86a7f3f5eddc</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cHzyFneiUCBT0FWYFqna5XE3lsj.jpg</thumbnail>
