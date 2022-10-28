@@ -12,6 +12,54 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SALA DE ESPIONAGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4DIIV522CAIOR5LAZRKBBBOR5YUXBPFF</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bIIlLOfJiqR9O1N5RJcHI1MmIFK.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um agente de monitoramento encarregado de proteger um traficante de armas mortal-mas logo o agente se encontra no fogo cruzado.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] INGRESSO PARA PARAISO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a8a853740fe9360080da79e08947f4908cb229c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kN3WwFUTvhYsLudncZlEgeh1fCu.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um casal divorciado se une e viaja para Bali, para impedir que sua filha cometa o mesmo erro que eles acham que cometeram a 25 anos atrás.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NOITES BRUTAIS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dda0ac8a3d3f61e4b5d937d6c0eec0fa543e025e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tA5OE1P8GAEuASNtus5zhJrooI4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A história gira em torno de um jantar civilizado em uma casa de campo espetacular que vê quatro amigos - Lucas (Cullen), Adam (Rheon), Chloe (recém-chegado Ines Spiridonov) e Eva (Catalina Sandino Moreno, Maria Full of Grace, série de TV The Caso ) - se reúnem para uma festa de aniversário. No entanto, à medida que a noite progride, segredos e mentiras se forçam à luz, pretensões educadas desaparecem e eventos inesperados e perturbadores começam a se desdobrar em torno deles. Suas amizades resistirão ao teste? Eles podem sobreviver a noite? Ou os segredos deles acabarão por alcançá-los?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ÓRFÃ 2 - A ORIGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e1e4f2c10f261fcebe26b1da8bb146c4015025a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/afceBOjf0vSULOFd7vsgrg6JZn6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Lena Klammer (Isabelle Fuhrman) orquestra uma fuga brilhante de uma unidade psiquiátrica russa e viaja para os Estados Unidos, representando a filha desaparecida de uma família rica. Mas a nova vida de Lena como "Esther" vem com uma ruga inesperada e a coloca contra uma mãe (Julia Stiles) que protegerá sua família a qualquer custo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A LENDA DE LANTERN'SLANE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FXB6IS6O5LRR7B6K72PE4SXIX7EZQ66G</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4xJXC8tRAUKZeS7YoFK9UvEx8hb.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma recém formada e seus distantes amigos do ensino médio voltam para Lantern's Lane, o local de uma malfadada lenda urbana e devem lutar para sobreviver à noite.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail></thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
 <title>[COLOR silver][B] GONJIAM: MANICÔMIO ASOMBRADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4b0b0246989432d038c0430bedc86a7f3f5eddc</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cHzyFneiUCBT0FWYFqna5XE3lsj.jpg</thumbnail>
