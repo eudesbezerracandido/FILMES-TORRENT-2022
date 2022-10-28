@@ -92,6 +92,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ACAMPAMENTO INTERGALÁTICO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5650768cb519a212f6b6dc7b698a2d3691c26ab3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/bm77tBJy28DA1DzP7qExKOPWsEL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O garoto Ronaldo acredita em extraterrestres e um meteorito que caiu do céu quando ele era criança é sua maior prova. Agora, ao lado da irmã Marina, ele tem a chance de desvendar os segredos do universo no Acampamento Intergaláctico.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] GONJIAM: MANICÔMIO ASOMBRADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4b0b0246989432d038c0430bedc86a7f3f5eddc</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cHzyFneiUCBT0FWYFqna5XE3lsj.jpg</thumbnail>
