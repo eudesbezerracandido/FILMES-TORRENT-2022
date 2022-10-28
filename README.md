@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CORRA, QUERIDA, CORRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80a2ed24e6cec3f79607e3b72bfa9faeb0b19aef</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hgep5jT30HJwqfJVNCoPuRzlF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Shari é uma trabalhadora mãe solteira que deixa suas melancolias de lado e resolve voltar ao cenário dos encontros a cegas, após uma pressão dos colegas de trabalho. Seu chefe arranja um encontro com Ethan, que se mostra muito atraente e charmoso. No entanto, algo inesperado acontece. Ethan não consegue esconder sua natureza por muito tempo, e as coisas ficam fora do controle. Shari, então, deve encontrar um modo de escapar. Forçada a navegar pelas ruas de LA, ela percebe que Ethan é mais perigoso e obsessivo do que parece.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NADA DE NOVO NA FRONT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TXADRW3KGEMTSWGOIFR33RV4ULHBE7HR</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qmcKs0Aoft7MBdBoj1haZyPRgM2.jpg</thumbnail>
