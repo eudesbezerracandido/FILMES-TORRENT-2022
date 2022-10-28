@@ -52,11 +52,27 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail></thumbnail>
+<title>[COLOR silver][B] QUATRO GERAÇÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6089cedf2ba31adf87de184a910a3d2799fbb8a6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tmbpeBp9qeCFj94f6NtMd7Sssge.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
+<info> Uma investigação leva um policial a um remoto monastério na Polônia. Mas quando começa a desvendar os segredos desse lugar misterioso, ele descobre que também está conectado a uma força sinistra.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O RETORNO DA LENDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ec17358f3ea0152d662db1a8f24512fbcd2e5df</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/a5TMox6zYw686BbVS8D1UTPUYGI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Henry, um fazendeiro viúvo, e seu filho Wyatt cautelosamente acolhem um homem misterioso e ferido com uma bolsa de dinheiro.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ROUBANDO MUSSOLINI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BHTOP4RDS5O2CA2RZ34NBDSL5L7W23MF</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mo4JxW3rWsOF87XNeAoeewESrMY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No fim da Segunda Guerra Mundial, em Milão, um empresário e contrabandista da bolsa de valores decide unir alguns desajustados para formar um grupo de resistência italiana. O seu mais novo objetivo é roubar o lendário tesouro do fascista Benito Mussolini, direto do quartel general milanês. Porém, mesmo com um plano elaborado, o assalto pode parecer impossível.</info>
 </item>
 
 <item>
