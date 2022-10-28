@@ -12,6 +12,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] NADA DE NOVO NA FRONT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TXADRW3KGEMTSWGOIFR33RV4ULHBE7HR</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qmcKs0Aoft7MBdBoj1haZyPRgM2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>"Nada de Novo no Front" conta a emocionante história de um jovem soldado alemão durante a Primeira Guerra Mundial. Nas trincheiras, lutando pelas próprias vidas, Paul e seus colegas sentem como a euforia inicial da guerra se transforma em desespero e medo. O filme do diretor Edward Berger é baseado no best-seller homônimo de Erich Maria Remarque. Esta será a terceira versão desta história. A primeira venceu o Oscar de Melhor Filme, versão de Lewis Milestone em 1930 e a versão menos conhecida de Delbert Mann, realizada em 1979.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O CÉU DO NORTE SOBRE O VAZIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa104bb968417360d5efd7924c13bfcc4bb34bb4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5Y9h7BNjm3PgR0mk6XjGszaRoWa.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dom Reynaldo é um caçador famoso, mas em declínio. Quando seu rancho e o legado do seu pai são ameaçados, a dinâmica do relacionamento com sua família, seus empregados e a terra fica perigosamente abalada.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SALA DE ESPIONAGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4DIIV522CAIOR5LAZRKBBBOR5YUXBPFF</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/bIIlLOfJiqR9O1N5RJcHI1MmIFK.jpg</thumbnail>
