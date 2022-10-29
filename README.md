@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MORTE,MORTE,MORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4PDXXH5U6DSTMUUP63VX5YOB4MRTWKD5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/veTVl90P4lStxOLYNFn8bXozNcZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um grupo de amigos ricos se reúne para fazer uma grande festa em uma mansão remota. Porém, a noite rapidamente descarrila em algo mais sinistro após eles começarem a ser mortos um por um.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] VENTO SELVAGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:beda499e8344b2832182c38c38230928f7214c80</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/suTCgEyS9KWexoaO1XJuzdgC7IQ.jpg</thumbnail>
