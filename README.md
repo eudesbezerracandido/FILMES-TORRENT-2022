@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] VENTO SELVAGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:beda499e8344b2832182c38c38230928f7214c80</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/suTCgEyS9KWexoaO1XJuzdgC7IQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O corpo de uma menina africânder é encontrado no mato. As tensões éticas e a corrupção saem do controle em uma pequena cidade segregada. Enquanto isso, um policial corrupto não consegue aceitar a prisão injusta de um jovem negro.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CORRA, QUERIDA, CORRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80a2ed24e6cec3f79607e3b72bfa9faeb0b19aef</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hgep5jT30HJwqfJVNCoPuRzlF.jpg</thumbnail>
