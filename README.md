@@ -20,6 +20,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BRIGADA HERÓICA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f8d00f89b8f31e7e8287879fd21d5f37146b509</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gTjZErHBML0uYYgj7YsL7YiUKMV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>História da Brigada Ferroviária Luna que lutou desesperadamente para defender seu país</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] THE POWER-HORROR NA ESCURIDÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DFMHDCLTFK3U37O5LP6DTBIE7IZMV6IK</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/s0aVEjT1DWopUrJehACWZyqpO99.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O ano é 1974. Uma jovem enfermeira é forçada a trabalhar no turno da noite em um hospital decadente enquanto mineiros em greve desligam a energia através da Britânia. Mas entre os corredores, uma presença assustadora está à espreita, ameaçando consumi-la e todos ao seu redor.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] VENTO SELVAGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:beda499e8344b2832182c38c38230928f7214c80</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/suTCgEyS9KWexoaO1XJuzdgC7IQ.jpg</thumbnail>
