@@ -28,6 +28,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O PASSADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=https://www.themoviedb.org/t/p/original/dPvgiDbZ16wrB9CTaYtBBUuF4q8.jpg</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dPvgiDbZ16wrB9CTaYtBBUuF4q8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando um jovem fazendeiro cruza o caminho com uma garota de Lakota de uma reserva próxima, o misterioso desaparecimento dela leva a uma busca que descobre um passado angustiante e sugere um futuro terrível.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BRIGADA HERÓICA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f8d00f89b8f31e7e8287879fd21d5f37146b509</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gTjZErHBML0uYYgj7YsL7YiUKMV.jpg</thumbnail>
