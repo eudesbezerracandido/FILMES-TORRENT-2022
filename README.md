@@ -20,6 +20,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] UM RIO MUITO FRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:UBOOYYY4ZOOMZWDGHRTUDMPFQIS6HYUM</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8jSGDVXQmEhLL4A1vrUCFG2Xmtd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Erica Shaw é contratada para fazer um documentário sobre o multimilionário moribundo, Campbell Bradford. No entanto, o passado de Campbell é envolto em mistério, levando Shaw a fazer descobertas chocantes, que desencadeiam uma força maligna com consequências devastadoras. Um documentarista pesquisa sobre o misterioso benfeitor de uma cidade, e descobre um mal inexplicável enquanto fica em um resort local.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BRIGADA HERÓICA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f8d00f89b8f31e7e8287879fd21d5f37146b509</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gTjZErHBML0uYYgj7YsL7YiUKMV.jpg</thumbnail>
