@@ -12,6 +12,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] JOHN E O POTRINHO MÁGICO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bbb071de5d8f05fdfbd99c9cf425b5a9b4a04a67</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eF66ncsrVgVX0Js5xGezRCapTjD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> John e seu amigo vivem uma série de aventuras imprevisíveis em mundos mágicos. Os dois amigos terão que ser mais espertos que um rei tirano, capturar o pássaro de fogo e encontrar o verdadeiro amor de John.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NO LUGAR ERRADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70897266ceb6f3b786cc5f197c2a2028110defe8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9mxNku6g2JmGmKTGGEOpU4lvVWM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um cozinheiro de metanfetaminas persegue o ex-chefe de polícia de uma pequena cidade para silenciá-lo antes que ele possa prestar depoimento de testemunha ocular contra sua família, mas acaba enfrentando mais do que esperava.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MEN-FACES DO MEDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03b716e9dff462d08a769cb9312587476ad30dd2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1dGu0Ob8FwT3J0JXqEGxVAqRvMG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após uma tragédia pessoal, Harper (Jessie Buckley) decide ir sozinha para um retiro no meio de um belo campo inglês, na esperança de encontrar um lugar para se curar. Mas alguém ou algo da floresta ao redor parece estar perseguindo ela. O que começa como um pavor se torna um pesadelo, habitado por suas memórias e medos mais sombrios.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MORTE,MORTE,MORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4PDXXH5U6DSTMUUP63VX5YOB4MRTWKD5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/veTVl90P4lStxOLYNFn8bXozNcZ.jpg</thumbnail>
