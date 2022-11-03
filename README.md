@@ -12,6 +12,54 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] VEJA COMO ELES CORREM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A22AJBOHHUZZSIP3FQXXUJCGSPGA7T6W</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/az5RKJb8qsILSUztRx0icVlnJWc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nos anos 50, um desesperado produtor de Hollywood tenta transformar uma peça popular britânica em um longa-metragem. Mas quando membros da produção começam a ser assassinados, um inspetor (Sam Rockwell) e sua parceira novata (Saoirse Ronan) se encontram tentando resolver um quebra-cabeças no mundo teatral de Londres e seu submundo sórdido.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] GÊMEO MALIGNO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e278301a88f5b96c4886da8423bbae7a1cb9f759</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pNbExNsfqTs8pXJs05yBRW0nNHg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Traumatizada pela forma violenta que um de seus gêmeos morreu, uma mulher tenta recomeçar sua vida junto de seu marido. Porém, existem alguns segredos tão aterrorizantes que necessitam ser enterrados duas vezes.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PURA PAIXÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc6be925a426c72f10edafab1badf15441cb6a28</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1K9YQaeshrBHLSnsw0a88peolVc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um homem e uma mulher se unem por acaso, por vários meses. Ele é mais jovem do que ela, casado, russo, oficialmente diplomata em Paris. Ela é uma linda professora e pesquisadora, com os pés firmemente no chão. O filme acompanha a evolução desse amor, do começo ao fim.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NOSSA MÃE É PARA SEMPRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:526bdccf6659a043d83dd9e8f2a684a57b3d9747</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/coPl2pKqOtwiq7HttcUlrkYe1y3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um ano após a sua morte, uma mãe superprotetora visita seus três filhos durante as festividades do Día de Muertos. Decepcionada com o que vê, ela decide testar os limites da vida após a morte para colocá-los de volta nos trilhos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] OFICINA DO DIABO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LKIXY5Q6MWNPMW2XFHERJDIVXZCAYYBF</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rowUyokuj4xb17eWvghIry6nLgN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Clayton está desesperado por um papel como demonologista. Ele entra em contato com Eliza, uma especialista em conhecimentos demoníacos para ajudá-lo a se preparar e passa o fim de semana em sua casa. Eliza força Clayton a enfrentar seu passado perturbador, realizar rituais sombrios e sacrificar animais. Ela quer ajudar Clayton, seduzi-lo...ou destruí-lo?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] 36 HORAS DE GUERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PBNNBYCNA3GVNURQOWK234YMEYMWXE4T</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eRUrER9xFIiLp2aMIJjCTEOU3VX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Desdobrando-se ao longo de 36 horas, em três guerras separadas a Guerra Civil Americana, a Primeira Guerra Mundial e o Iraque acompanhamos um pequeno grupo de soldados presos em um espaço confinado, enquanto lutam com a moralidade, a futilidade e uma situação de combate cada vez mais insustentável e perto de um desfecho ruim para todos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] HACKERS NO CONTROLE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1d3fe839801cf722c5a596cfff37cab1ba969fa</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/AqLfJVXgyS10JLTDLfn4cIgdqGc.jpg</thumbnail>
