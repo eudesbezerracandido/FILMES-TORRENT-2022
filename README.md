@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A ÚLTIMA COISA QUE MARY VIU [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TW75XDYN6CJCBI7ZNYQOMJF7FXAODSNO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mA6Vztb6ZkcQq8GiOpePWqQGMDy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Inverno de 1843. Uma jovem mulher está sendo investigada após a morte misteriosa da matriarca de sua família. Sua lembrança dos acontecimentos lança uma nova luz sobre as forças atemporais por trás da tragédia.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] VEJA COMO ELES CORREM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A22AJBOHHUZZSIP3FQXXUJCGSPGA7T6W</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/az5RKJb8qsILSUztRx0icVlnJWc.jpg</thumbnail>
