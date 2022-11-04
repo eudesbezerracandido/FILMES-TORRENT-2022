@@ -12,6 +12,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TERRITÓRIO HOSTIL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3EHCRZRZOHMD434UCZO7YQCFV2AQLNVN</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nJTzX2LmbRlsH2rnWYZCyigTdUd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O ex-POW Jack Calgrove move o Céu e a Terra para se reunir com seus filhos após a Guerra Civil. Depois de voltar para casa, Jack descobre que sua esposa morreu tragicamente e seus filhos, supostamente órfãos, estão indo para o oeste em um trem cruzando as linhas inimigas, com a intenção de serem colocados em novos lares. Calgrove e outro soldado se unem a uma tropa de atiradores nativos americanos e um escravo liberto enquanto tentam parar o trem.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CAÇA IMPLACÁVEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NV7VNPSL74ATWMCXCR5JRDI5OBIUNWKO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/56mBlJ55Z1O9oIOhRTAGIHZHXP7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Will Spann está dirigindo sua futura ex-esposa Lisa para a casa de seus pais quando ela desaparece misteriosamente sem deixar rastros durante uma parada em um posto de gasolina. Um frenético Will envolve a polícia local e os pais de Lisa em uma tentativa desesperada de encontrá-la, mas com o passar do tempo e a suspeita cair sobre ele, ele deve resolver o assunto com suas próprias mãos, investigando o submundo criminoso da cidade enquanto foge das autoridades em um corrida contra o tempo para encontrar Lisa.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MEU POLICIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3ff342a387d265c5a363d9c72f4ec33efed25734</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7TJQmxsfC4LELFzxJmLQyTKvGxe.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Nos anos 50, Tom é um policial que se encontra preso num triângulo amoroso entre seu amante Patrick e sua esposa Marion. Os dois precisam dividi-lo até que um deles quebra o silêncio e a vida de todas é afetada. Em My Policeman, Marion (Emma Corrin) e Tom Burgess (Harry Styles) se encontram na costa de Brighton nos anos 1950 e se apaixonam. Todavia, surge em suas vidas Patrick Hazelwood (David Dawson), um curador do Brighton Museum, que acaba desenvolvendo sentimentos pelo policial Tom. Os homens iniciam um caso apaixonado – apesar da homossexualidade ser ilegal naquele período. Por um tempo, o trio abraça uma dinâmica em comum, até que o ciúme destrói o acordo. Muitos anos depois, Patrick retorna à vida dos agora casados Marion e Tom, desenterrando sentimentos e questões mal resolvidas deixadas de lado – mas que ainda possuem o poder de assombrar a vida dos três. O filme é uma adaptação do romance de 2012 de Bethan Roberts, My Policeman.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ENOLA HOLMES 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d85e550b860c36c08dfe78069a7e84cc7653311e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg</thumbnail>
