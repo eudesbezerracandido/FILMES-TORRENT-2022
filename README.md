@@ -12,6 +12,38 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ENOLA HOLMES 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d85e550b860c36c08dfe78069a7e84cc7653311e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Sucesso da Netflix cujo a continuação está confirmada, mas sem detalhes da produção. O projeto está em desenvolvimento pela empresa.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O CAVALEIRO DO REI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ff2cd0a41200a697d7bf8821665bc40ec42db41</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xrFp16lDpneneQkqLp1NKiYjmLx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Com a morte do rei, um cavaleiro obedece a tradição e se sacrifica para servir seu governante no além. Só que uma súbita tragédia acontece.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] OVERDOSE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c18cc8795d72f2124b8905926ebdc535936d2ad</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lucCmx1bOshDHKP8cBnuSaSc3Lg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A capitã Sara Bellaiche, da Polícia de Toulouse, investiga uma transação de tráfico de drogas ligada ao assassinato de dois adolescentes, investigação liderada por Richard Cross da Criminal de Paris. Forçados a colaborar para encontrar o assassino e impedir a corrida sangrenta, Sara e Richard, apesar de seus métodos opostos, são lançados numa corrida frenética nas estradas da Espanha e da França.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PASSAGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6107b37cb90e06dcc392645a7be510267cbda61a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/81eQIYIR7i5W0XsB2PtvZAt4I9w.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma soldado dos EUA sofre uma lesão cerebral traumática enquanto lutava no Afeganistão e agora luta para se adaptar à vida em casa.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A ÚLTIMA COISA QUE MARY VIU [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TW75XDYN6CJCBI7ZNYQOMJF7FXAODSNO</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mA6Vztb6ZkcQq8GiOpePWqQGMDy.jpg</thumbnail>
