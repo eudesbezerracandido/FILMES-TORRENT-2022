@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A BRAVURA DE MOLLY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MHKIIULT7ZR3DW3OBWUF2OC55LRAALCV</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kHHNF0jHpHgPU7JhrLDql5NMGRG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Situada em 1893. A grávida Molly Johnson, com seus filhos, luta para sobreviver à fome e aos elementos selvagens. Ela forma um vínculo com Yadaka, um aborígene fugitivo que a ajuda no nascimento e no enterro de seu bebê natimorto. Quando o sargento Nate Clintoff descobre que o marido de Molly está desaparecido, ele envia seu assistente Trooper Leslie para investigar, desencadeando uma cadeia de eventos brutais.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TERRITÓRIO HOSTIL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3EHCRZRZOHMD434UCZO7YQCFV2AQLNVN</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nJTzX2LmbRlsH2rnWYZCyigTdUd.jpg</thumbnail>
