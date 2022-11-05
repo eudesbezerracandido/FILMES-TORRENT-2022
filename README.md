@@ -12,6 +12,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A MATRIARCA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7MYIKBRPVEJYHFGMCGKY4SDOR6KIKYLL</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/o57VVZImE6RcZAffPepZyuwNLKs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após sobreviver a uma overdose, uma mulher retorna à casa onde cresceu para enfrentar seus demônios interiores, mas descobre a presença de uma entidade real.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ALICE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PSLBAU7HB54GSKXR7GDIQ7WNOVMKWLLI</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7akDcAHfp7Lkmuq2ygzNzOhWq8M.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Alice passa seus dias escravizada em uma plantação rural da Geórgia ansiando incansavelmente por liberdade. Depois de um confronto violento com o dono da plantação, Paul, Alice foge pelos bosques vizinhos e tropeça em uma estrada desconhecida, logo descobrindo que o ano é, na verdade, 1973.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A BRAVURA DE MOLLY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:MHKIIULT7ZR3DW3OBWUF2OC55LRAALCV</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kHHNF0jHpHgPU7JhrLDql5NMGRG.jpg</thumbnail>
