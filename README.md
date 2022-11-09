@@ -12,6 +12,38 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] JOGADA DE AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ee079047f020ba1c30d7bbce0ef2d467b65f84d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vWgcIHKARoGFtbEPP9Ut7y2fmoP.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Gianni (Pierfrancesco Favino) é um sedutor em série, mas sua vida está destinada a mudar quando conhece Chiara (Miriam Leone), uma bela mulher que sofreu um acidente que a deixou paraplégica.O filme é um remake do francês 'Tout Le Monde Debout' (De Carona Para O Amor).</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] BELEZA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:67638496cb3e7700c13953948dcdd6a5b6562413</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iA5GZWM1NmXtESsXxtXxoK8Pjtx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Beleza é uma histório sobre episódica sobre mulheres muito diferentes e sua difícil tarefa de descobrir o que é a beleza. Cinco mulheres de diferentes idades são confrontadas com a sua auto-imagem e as exigências de si e dos outros.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A FAMILIA NOEL 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77295446f51f99495af55ea9c472b2dba0adffea</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6EV8G1tESAjelFEvrdn1rEMz8Z0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Jules Noel entra no clima do Natal novamente e começa a se preparar para a época mais movimentada do ano, junto com o vovô Noel. Tudo vai bem até que Jules recebe uma carta especial com uma pergunta intrigante. A Família Noel 2 é um filme para toda a família curtir, estrelado por talentosos artistas da Holanda e da região de Flandres.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MEDIAVAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XUG7IK42FEAB3TGPNM2PQT5QVBDLEDLS</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4njdAkiBdC5LnFApeXSkFQ78GdT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Cinebiografia do guerreiro checo do século XV Jan Zizka. Ele é um herói nacional checo e um dos líderes militares mais renomados do país de todos os tempos, sendo conhecido por seu papel na Batalha de Grunwald contra a Ordem Teutônica e as guerras civis na Boêmia, que passou a se tornar a República Checa contemporânea.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A MATRIARCA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7MYIKBRPVEJYHFGMCGKY4SDOR6KIKYLL</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/o57VVZImE6RcZAffPepZyuwNLKs.jpg</thumbnail>
