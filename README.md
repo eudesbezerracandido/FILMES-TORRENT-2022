@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] UMA PROPOSTA NATALINA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1276424CD0AD77B2EEB6332506B278118495B4B4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8qjvH2woK9Ls1s7GWUTyBN0csTi.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após uma chef de cozinha se passar por namorada de um advogado, eles terão que trabalhar juntos e provar que ele é o candidato ideal para assumir a empresa da família.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] JOGADA DE AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ee079047f020ba1c30d7bbce0ef2d467b65f84d</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/vWgcIHKARoGFtbEPP9Ut7y2fmoP.jpg</thumbnail>
