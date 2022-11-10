@@ -12,6 +12,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] UMA QUEDINHA DE NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:38c4a150d8ec2620d71802256a7b12aa2bae0b6f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/p9wwj23RF3Nqjj0EzxsDx0s2aV7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>  Na trama Lohan será uma herdeira mimada de um Hotel de Luxo, que sofre amnésia em um acidente de ski e acaba se apaixonando por um dono de alojamento pobre na véspera de Natal.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] BALA PERDIDA 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5daee7159d545ad85cc9656573d0037c11d3f6d8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mqSZ36rvitkDJdXIFIBmsbG2d1D.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após a morte de Charras, Lino e Julia assumiram e formam a nova equipe de choque da brigada de Stups. Determinado a encontrar os assassinos de seu irmão e seu mentor, Lino continua sua caçada e não deixará ninguém entrar em seu caminho.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A MARCA DA MORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3c5f775eecd8a40cea078221a1053ed499813c0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/As5dKK7fLOlCyVwjqoW5pyiDz6D.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em uma fazenda isolada, uma equipe chega para filmar um filme adulto. Os anfitriões, um casal de idosos, têm um interesse especial por seus jovens hóspedes. Em X: A Marca da Morte, novo filme de terror slasher do diretor Ti West, acompanha um grupo de cineastas pornográficos em sua gravação de um novo longa. Em 1979, Maxine, uma atriz pornô, Wayne seu namorado e produtor e mais um grupo de atores e pessoas vão para o Texas em uma fazenda, propriedade de Howard e Pearl, um casal idoso, para gravar o novo filme pornográfico The Farmer’s Daughters. Quando o grupo chega na propriedade, são recebidos pelo casal – que apresenta estranhas características. Howard é temperamental com o grupo, sempre falando sobre sua espingarda, enquanto Pearl começa a perseguir Maxine silenciosamente. Com as gravações iniciando sem o conhecimento do proprietário do local, Pearl começa a agir estranhamente e pessoas passam a desaparecer. Howard acaba descobrindo o real motivo do filme e o elenco passa a ter que começar a lutar por suas vidas. No entanto, o idoso casal tem mais a esconder do que apenas não querer que sua pequena fazenda seja um cenário de filme adulto.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DESTERRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8b6f61fd01aada805c2d3ee2c4f630b381dafc9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/w3y7C8p2CfenguopR2yCOlIthP0.jpg</thumbnail>
