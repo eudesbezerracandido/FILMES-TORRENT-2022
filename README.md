@@ -12,6 +12,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DESTERRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8b6f61fd01aada805c2d3ee2c4f630b381dafc9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w3y7C8p2CfenguopR2yCOlIthP0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma casa está em chamas. Todas as casas. Uma viagem resulta em várias viagens e essa é sem regresso. Muitas mulheres falam. Contam suas histórias. A perda, a morte e a luta por ser, ao lado dos outros.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UMA PROPOSTA NATALINA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1276424CD0AD77B2EEB6332506B278118495B4B4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8qjvH2woK9Ls1s7GWUTyBN0csTi.jpg</thumbnail>
