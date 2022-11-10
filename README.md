@@ -12,6 +12,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] AO LESTE DAS MONTANHAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c5257094475a63a0dfd9b0b136fb87eac66df6d7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/Oj2hUfkpiq4qLeQE6k4V2Xv4Is.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando o aposentado cirurgião cardíaco Ben Givens descobre que tem um câncer terminal, ele leva seu amado cachorro em uma última caçada, determinado a acabar com sua vida em seus próprios termos. A jornada de Ben, no entanto, toma um rumo inesperado e logo se torna uma aventura contra a qual ele se coloca com estoicismo, inteligência e determinação.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ENTRE ROSAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:920f09da25bdaa41d011f5cc35537c9f8ff25414</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w9nP4DisTtdynffsRAzXdXyvsCo.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Eve foi a maior designer de rosas do mundo. Hoje desatualizada e amarga, ela está à beira da falência. Vera, sua fiel secretária, acha que tem uma ideia brilhante para salvar as rosas Vernet. Envolvendo Samir, Nadège e Fred, três braços quebrados na integração profissional sem nenhuma habilidade hortícola. Enquanto tudo os separa, eles embarcam em uma aventura singular: roubar uma rosa rara.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CORRECTIVE MEASURES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:J5VHGHZPUTAXEMDEBBYLPWIEPHCX5QL2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mIus2B83moSdfIkD4wD7tOaG5Y1.jpg</thumbnail>
