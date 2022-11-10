@@ -20,6 +20,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] VOCÊ NÃO ESTARÁ SÓ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C7E3C0BA284C04119C12CBC66A8B2F1E5ED3AB00</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/Aqj4qpubd5GKfZho6KUBFEBzMtU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em uma aldeia montanhosa isolada na Macedônia do século 19, uma jovem bruxa selvagem mata acidentalmente um camponês. Ela assume a forma de camponesa para ver como é a vida em sua pele, despertando uma profunda curiosidade para experimentar a vida dentro dos corpos dos outros.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] JOGOS PSICOLÓGICOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8534e100f684e74de13595027ed6c3504e236363</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wHGBOBFB6XxEtsFnzPvzVtXYNdM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um casal apaixonado passa um tempo longe da civilização. A chegada repentina da irmã mais nova primeiro, e depois do ex-namorado da garota, viola o idílio campestre.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ENTRE ROSAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:920f09da25bdaa41d011f5cc35537c9f8ff25414</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/w9nP4DisTtdynffsRAzXdXyvsCo.jpg</thumbnail>
