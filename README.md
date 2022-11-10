@@ -33,7 +33,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/wHGBOBFB6XxEtsFnzPvzVtXYNdM.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Um casal apaixonado passa um tempo longe da civilização. A chegada repentina da irmã mais nova primeiro, e depois do ex-namorado da garota, viola o idílio campestre.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] ENTRE ROSAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
