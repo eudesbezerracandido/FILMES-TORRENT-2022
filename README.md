@@ -5,7 +5,7 @@
 
 
 <item>
-<title>[COLOR silver][B] PANTERA NEGRA-WAKANDA PARA SEMPRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] PANTERA NEGRA-WAKANDA PARA SEMPRE ( HDCAM ) V9.A9 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88160C992128A4EA939D8191A6B4273B76C19760</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hraXFMrwg4fWEBBlSpyWhd8Ivue.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
@@ -19,6 +19,22 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/doFGXRBPqUnfEhIsOiVXQYeLB7V.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/5aGvMSMfE6BqQXR3mG46zjgX8V8.jpg</fanart>
 <info>Quase 5.000 anos depois de ter sido agraciado com os poderes onipotentes dos deuses egípcios - e preso com a mesma rapidez - Adão Negro (Johnson) é libertado de sua tumba terrena, pronto para liberar sua forma única de justiça no mundo moderno.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ABAIXO DA TERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:784e195b013106badd3f505fe7d9f0b9696851ba</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ijDuP4AC7wKqU4STc6OOkhCtPvE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Três quilômetros abaixo da terra na cordilheira dos Apalaches, nove mineiros lutam para sobreviver depois que uma explosão os deixa com apenas uma hora de oxigênio</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] FRENTE Á FRENTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2OXUXJDFKY6ZP6URGAYDC5KNXTZ4N5EN</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fqhZOmHlARkWiHZmy6D2DRrrxlZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Shan é um policial justo que é admirado pelos companheiros por ter resolvido muitos casos. Um dia, seu passado volta para assombrá-lo quando sua operação policial é atacada por um misterioso grupo de criminosos liderados por Ngo, seu ex-protegido. Ngo já foi um policial talentoso que admirava e respeitava Shan. No entanto, um terrível acidente o levou à prisão há três anos, transformando-o em um homem furioso, com o objetivo de matar todos que o prejudicaram – incluindo seu ex-mentor.</info>
 </item>
 
 <item>
