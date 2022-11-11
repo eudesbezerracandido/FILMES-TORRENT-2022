@@ -2,6 +2,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] PANTERA NEGRA-WAKANDA PARA SEMPRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88160C992128A4EA939D8191A6B4273B76C19760</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hraXFMrwg4fWEBBlSpyWhd8Ivue.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Rainha Ramonda, Shuri, M'Baku, Okoye e Dora Milaje, lutam para proteger sua nação das potências mundiais intervenientes após a morte do rei T'Challa. Enquanto os wakandanos se esforçam para abraçar seu próximo capítulo, os heróis devem se unir com a ajuda de War Dog Nakia e Everett Ross e forjar um novo caminho para o reino de Wakanda.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] ADÃO  NEGRO  HDCAM ( CINEMA ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C41FB822E23610C403B60C489A6A26299C61C181$nome=ADÃO NEGRO QUALIDADE 1</link>
