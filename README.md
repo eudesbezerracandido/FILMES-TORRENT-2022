@@ -23,6 +23,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MÔNICA, O MY DARLING [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53dd4bbd2bb14a9b5a10b92c35f1e0db4aeda40d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4GvYW5pQPSw4gxSLBnOkXF2bZbf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em Monica, O My Darling, um jovem rapaz tenta desesperadamente se dar bem, contando com aliados improváveis e um plano diabólico e covarde, para planejar o assassinato perfeito. Nesse jogo, a sobrevivência é um elemento chave. E para planejar o melhor assassinato de todos os tempos, nessa comédia dramática e sarcástica o universo dos crimes de colarinho branco se tornará pequeno para as ambições do jovem.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NÃO VÁ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5512348c0ea3e5cb611e629b5cb2cbddad5a0d1d</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zVbVX28f6MvtlbwDknAUXfJjXZK.jpg</thumbnail>
