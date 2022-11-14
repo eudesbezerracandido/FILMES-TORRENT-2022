@@ -23,6 +23,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] NÃO VÁ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5512348c0ea3e5cb611e629b5cb2cbddad5a0d1d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zVbVX28f6MvtlbwDknAUXfJjXZK.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Abandonado inesperadamente pela namorada, Semih precisa confrontar o passado se quiser encontrar respostas sobre seu relacionamento.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] AO 3º DIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4e3e31734c181793da487df3e7db1a19066315f</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/uLmr2q3ZcQ8pqSUxUkekcRbpuAz.jpg</thumbnail>
