@@ -23,6 +23,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] UM LUGAR BEM LONGE DAQUI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2eb6f4e011fd758c62d04eaf592b97aa4369117</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sXvn2D7a9nBwTdUSNj97rUwqMmx.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Abandonada pela família, Kya (Daisy Edgar Jones) se criou sozinha nas margens de um pântano perto de sua cidade natal. Isolada de todos, ela acaba virando novamente o centro das atenções após um assassinato do qual vira a principal suspeita.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] GUNDALA- A ASCENSÃO DE UM HERÓI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1aee9f8be44ea1b4b908e76169c8b4007ada2e3c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6P8SA9p3AXw1C5byhJ85SBfTIgE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Conta história do órfão indonésio Sancaka que passou a vida nas ruas tentando atrair o mínimo de atenção possível, mas quando a ganância e a violência atingem um pico em Jacarta, logo fica claro que ele é a única esperança do povo para a paz.Sancaka é atingido por um raio misterioso quando trabalhava de guarde de segurança de um indústria e a tragédia lhe dá poder para defender a humanidade.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ABAIXO DA TERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:784e195b013106badd3f505fe7d9f0b9696851ba</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ijDuP4AC7wKqU4STc6OOkhCtPvE.jpg</thumbnail>
