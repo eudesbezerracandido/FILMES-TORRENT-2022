@@ -23,6 +23,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] AO 3º DIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4e3e31734c181793da487df3e7db1a19066315f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uLmr2q3ZcQ8pqSUxUkekcRbpuAz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Cecilia e seu filho Martín sofrem um acidente de carro. No terceiro dia após o acidente, ela perambula sozinha por uma rota solitária e não há nenhuma pista de seu filho. Ela não se lembra do que aconteceu durante este tempo e está desesperadamente à procura de seu filho. Em sua busca, ela encontra coincidências com seu caso e outros arquivos policiais, que parecem ser atos de uma caça brutal. Os ciclos continuam e Cecília acabará enfrentando um homem religioso, que é o responsável por esta matança. Para ela, ele é um lunático. Para ele, Cecília é o inimigo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] HERANÇA MALDITA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e726af4eee5dbe7f5c07b89c27f740218fba8f3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uUwIfpIxPUQnETRRqb17lzBWj84.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Após receber uma misteriosa carta, uma mulher viaja até uma isolada ilhota e logo se vê presa em um pesadelo na pequena comunidade de lá.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A LENDA DE BEFANA - O INICIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8c48a8ed13072fe19c44c211854dcd81f9ec6cd4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5v98CBfkfBdgZFnMyX2z6tpbvg7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Monica Bellucci estrela esta prequela de “A Lenda da Befana”, que conta as origens da lendária bruxa natalina. Quando a jovem Paola é salva da fogueira por Dolores (Bellucci), começa o aprendizado da bruxa mais esperada pelas crianças.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UM LUGAR BEM LONGE DAQUI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f2eb6f4e011fd758c62d04eaf592b97aa4369117</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/sXvn2D7a9nBwTdUSNj97rUwqMmx.jpg</thumbnail>
