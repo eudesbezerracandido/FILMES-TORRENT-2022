@@ -23,6 +23,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] UM CRIME ARGENTINO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:87d550d275d95e3275e4926b3e8f6d5f2118d4cc</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6wbDGd8VkQQGb3m9sMxEpZ0w4sw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Rosário nos anos 80. O desaparecimento de um homem durante a ditadura militar. Dois jovens do tribunal devem fazer todo o possível para resolver o caso enquanto enfrentam a corrupção policial e vários perigos que colocam suas vidas em risco.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MÔNICA, O MY DARLING [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53dd4bbd2bb14a9b5a10b92c35f1e0db4aeda40d</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4GvYW5pQPSw4gxSLBnOkXF2bZbf.jpg</thumbnail>
