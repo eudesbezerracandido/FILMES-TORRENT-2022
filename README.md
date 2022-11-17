@@ -6,7 +6,7 @@
 
 <item>
 <title>[COLOR silver][B] PANTERA NEGRA-WAKANDA PARA SEMPRE ( HDCAM ) V9.A9 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:88160C992128A4EA939D8191A6B4273B76C19760$nome=PANTERA NEGRA SERVIDOR 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VWLIX2RIGQXQXD25F2CLE3BAZ5WUSUOY$nome=PANTERA NEGRA SERVIDOR 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D0FFC254C8964A60A5DBF6EB7E2CCBF6BC7CC2B2$nome=PANTERA NEGRA SERVIDOR 2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hraXFMrwg4fWEBBlSpyWhd8Ivue.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
