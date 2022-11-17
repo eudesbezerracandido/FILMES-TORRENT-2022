@@ -47,6 +47,38 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ATERRORIZANTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7GBLJHJCQ5T24XVNND5M46KTPHWQMDE3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qGcQyScUQveMFPHOQCjJaBpRsLa.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um palhaço maníaco chamado Art, aterroriza três jovens na noite de Halloween e todo mundo que está em seu caminho.O filme é baseado em um curta de mesmo nome lançado em 2011 e é um spin off de "All Hallows Eve" de 2013 do mesmo diretor e trazendo de novo no elenco a atriz Katie Maguire.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A NATUREZA SELVAGEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b20aec2b0497004962f1cf39673b37daf81a1135</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/89vDPAvu2a02spYKrXxEv45IL6i.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Oito adolescentes mantidos em campos de concentração nazistas são libertados por russos. Eles são entregues aos cuidados de Jadwiga num local abandonado na floresta polonesa e, além de carregarem diversos traumas, terão que enfrentar fome, sede e um grupo de violentos lobos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TRANCAFIADAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f44eb342c4a8ea69c4e9621444c86ae9a0789e31</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jyw7lSu0bm71jAykAbVwchyVTkR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma mãe fará de tudo para proteger sua filha quando assaltantes invadem as unidades de depósito em que trabalha. Entre os corredores que parecem labirintos, a situação fica cada vez mais perigosa.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] INSIDE MAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RH26FTFBOQDQL3SUGX6V3MY3G5BZD3VE</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7tZONSnzKylgzHJvtoOGjRmYlgU.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um prisioneiro no corredor da morte nos EUA e uma mulher presa em um porão sob um presbitério inglês, cruzam caminhos da maneira mais inesperada possível</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UM CRIME ARGENTINO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:87d550d275d95e3275e4926b3e8f6d5f2118d4cc</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6wbDGd8VkQQGb3m9sMxEpZ0w4sw.jpg</thumbnail>
