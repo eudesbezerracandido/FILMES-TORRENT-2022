@@ -15,11 +15,35 @@
 
 <item>
 <title>[COLOR silver][B] ADÃO  NEGRO  HDCAM ( CINEMA ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C41FB822E23610C403B60C489A6A26299C61C181$nome=ADÃO NEGRO QUALIDADE 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5DE46A6B5453FA680137D8B1D08622E20298E006$nome=ADÃO NEGRO QUALIDADE 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C41FB822E23610C403B60C489A6A26299C61C181$nome=ADÃO NEGRO QUALIDADE 2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/doFGXRBPqUnfEhIsOiVXQYeLB7V.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/5aGvMSMfE6BqQXR3mG46zjgX8V8.jpg</fanart>
 <info>Quase 5.000 anos depois de ter sido agraciado com os poderes onipotentes dos deuses egípcios - e preso com a mesma rapidez - Adão Negro (Johnson) é libertado de sua tumba terrena, pronto para liberar sua forma única de justiça no mundo moderno.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A FLORESTA DO ESCALPE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a3cee72ed32a3a84dae90fcf9c595e2e85b6ec5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2OG6YCYabCBNcmXv5w4AP9uTbsb.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em A Floresta do Escalpe, um caçador do Texas entra na tenebrosa Floresta Buckskin com a missão de salvar um menino perdido. Sem saber ao certo o que o aguarda, sob o contexto do ano de 1820, o caçador de peles precisará desvendar pistas, fugir dos inimigos e proteger o garoto e a si mesmo, sem deixar de ser leal aos seus princípios</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O MILAGRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:640b54790c7467a59c5cb4e0012735e52bd42a90</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qD9E23xFvZ5KjTmEiYf3DuMTNlC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em 1859 uma enfermeira inglesa é chamada a uma pequena vila na Irlanda para investigar o que alguns afirmam ser uma anomalia médica ou um milagre. Lá, ela encontra uma garota de 11 anos que parou de comer há meses e continua viva.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] EM BUSCA DO BILHETE PREMIADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0295b2a68c72292a29e2bfc7765c84095292582f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/x0FBgHdLW4PTEhybUTDrsWasahS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Nesta comédia cheia de ação, cinco desconhecidos enfrentam um mafioso para tentar recuperar seus bilhetes premiados da loteria.</info>
 </item>
 
 <item>
@@ -973,8 +997,8 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] SORRIA ( HDCAM ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F682382B6CDB7E3FAF1E93DF509DECE618C41AB7</link>
+<title>[COLOR silver][B] SORRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65726944c9f5adc33a7d4331d2930482779b1409</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gJbMkl9e2NZcjlKpXuK9QaExobN.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Após testemunhar um acidente traumático e bizarro envolvendo um paciente, a Dra. Rose Cotter começa a vivenciar eventos assustadores que ela não consegue explicar.</info>
