@@ -23,6 +23,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B]UMA HISTÓRIA DE NATAL,NATALINA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SA6HXSQCPUJYWV5CZYIFDT3V2JHDTTUY</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kEqOAXbPKNSOx9QbxmSjtlyYdQM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ralphie (Peter Billingsley) cresceu e precisa lidar com o Natal e tudo o que vem com ele, desta vez no papel de pai.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NATAL COM VOCÊ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b25dc6ce4f4aaca8a179b19af1f7927fbaf99944</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/rU2sCry1YzuBoeMj06eWqTfponC.jpg</thumbnail>
