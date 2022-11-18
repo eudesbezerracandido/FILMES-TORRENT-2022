@@ -23,6 +23,38 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ROUBO ENTRE LADRÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e780145e9b651fa8e6dc055497849c2141c672d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4BjZazpKwzrdTVrCRjZSUWJMHJo.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de planejar um assalto perfeito, Nick está pronto para se dá bem. Mas só que tem um problema, sua garota e a equipe, têm outras idéias. Eles atiram em Nick, mas Nick não morre e em uma corrida por sua vida, busca vingança, um alvo de cada vez.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SPIRITED- UM ENONTRO NATALINO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7dcd8fa3f91cb8973bd43db1de92508787cb9a0c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/z4oo31ZE4hK3uON2ojkV39BAX8C.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A cada véspera de Natal, o Fantasma do Natal Presente (Will Ferrell) seleciona uma alma perdida para ser recuperada em uma visita de três fantasmas. Só que este ano ele escolheu o pão-duro errado. Clint Briggs (Ryan Reynolds) vira esse hóspede espectral do avesso até que o Presente acabe reexaminando o próprio passado, presente e futuro. Pela primeira vez, “Um Conto de Natal” é contado da perspectiva dos fantasmas neste musical engraçadíssimo que revisita a clássica história de Dickens. Dirigida por Sean Anders (“Pai em Dose Dupla” e “De Repente Uma Família”), escrita por Sean Anders e John Morris, com canções originais dos ganhadores de Oscar Benj Pasek e Justin Paul (“La La Land: Cantando Estações”) e coreografias de Chloe Arnold (“The Late Late Show with James Corden”), esta adaptação moderna é um presente de Natal doce com um toque picante.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] OS ODIADOS DOS CASAMENTOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc7a74ce6d7b6ae0e7e851aa396f30c134e62eab</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kQZKw9jetOInPPdSZgbKFxJALHc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma família disfuncional, que não consegue se dar bem, se reúne relutantemente para um casamento familiar. Como seus muitos esqueletos são arrancados do armário, acaba sendo exatamente o que esta família singular precisa para se reconectar.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] FRANK AND PENELOPE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a5cc0bc733bdd5972b8018b6ae395edf10595bec</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5NpXoAi3nEQkEgLO09nmotPfyNa.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Deixando suas vidas despedaçadas em um espelho retrovisor, Frank e Penelope partem ao Oeste sem nenhum destino em mente apenas um com o outro. Mas uma chance imperdível os leva a conhecer a ‘Távola da Verdade’, com um sedutor e carismático líder de um culto que tem afeição por descobrir os segredos mais obscuros dos viajantes e suas próprias ideias sobre o pecado da carne. Os dois, então, que não tinham nada pelo que viver, se veem em uma batalha sangrenta pela vida e pelo amor em um mundo no qual vale a pena morrer.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TERRA DOS SONHOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BL4KVSII2ETWX4MMQ4K25BVRZHHTVLRM</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/xOZt4hAYbBxesIuzFvkJ4sJaym1.jpg</thumbnail>
