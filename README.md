@@ -23,6 +23,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] NATAL COM VOCÊ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b25dc6ce4f4aaca8a179b19af1f7927fbaf99944</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rU2sCry1YzuBoeMj06eWqTfponC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Cansada do trabalho, a pop star Angelina decide viajar e surpreender uma jovem fã em uma pequena cidade de Nova York. Lá, ela não só encontra inspiração para dar uma reviravolta em sua carreira, mas também a chance de viver um grande amor.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ROUBO ENTRE LADRÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e780145e9b651fa8e6dc055497849c2141c672d</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4BjZazpKwzrdTVrCRjZSUWJMHJo.jpg</thumbnail>
