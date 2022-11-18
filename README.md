@@ -23,6 +23,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TERRA DOS SONHOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BL4KVSII2ETWX4MMQ4K25BVRZHHTVLRM</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xOZt4hAYbBxesIuzFvkJ4sJaym1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma jovem descobre um mapa secreto para o mundo dos sonhos de Slumberland e, com a ajuda de um fora-da-lei excêntrico, ela atravessa sonhos e foge de pesadelos, com a esperança de poder ver seu falecido pai novamente.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ZOYA - A GUERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:abcd06a095401b7f27096864e3c58b585846d739</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cqGbwxDHCkRpciXxHzazN7VkMuf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Outono de 1941. A estudante Zoya Kosmodemyanskaya de ontem se ofereceu para uma escola de sabotagem. O destacamento de guerrilheiros, no qual Zoya estava localizada, é emboscada, e Zoya é capturada pelos alemães, enquanto tentava incendiar o celeiro. Interrogatórios e torturas não levaram a lugar nenhum. Ela não disse nada que pudesse atrapalhar a atribuição de outros grupos. Os nazistas não conseguiram nem mesmo alcançar seu nome verdadeiro seu sacrifício não foi em vão. Seu feito inflamou milhões de corações, ajudando nossos soldados a chegar a Berlim.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DESENCANTADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AAY7UBMBNZPQJW3SKJLE52TDAJLFUGBD</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8tuvxhScKT6qs8Js7ghLCLG5gxD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A história é situada 10 anos após o primeiro filme, quando Giselle começa a questionar o seu "felizes para sempre" e acaba desencadeando eventos que mudam a vida de todos, tanto no mundo real, quanto em Andalasia.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A FLORESTA DO ESCALPE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a3cee72ed32a3a84dae90fcf9c595e2e85b6ec5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/2OG6YCYabCBNcmXv5w4AP9uTbsb.jpg</thumbnail>
