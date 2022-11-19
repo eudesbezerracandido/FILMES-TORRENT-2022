@@ -23,6 +23,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] THE PHANTON OF THE OPEN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3D5LMVO4T33AJD3AJD5JORGTSU2FKJM4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6bcrhJQLoLNsYX4UGTOMQkCiACA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Maurice Flitcroft, um sonhador e otimista implacável, conseguiu entrar para o British Open Golf Championship Qualifying em 1976 e, posteriormente, disparou a pior rodada da história do Open tornando-se um herói popular no processo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SAVE THE CINEMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d78d6840006d43773bd11adc3fdcd1fd1e1556d6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4sD0rI1qhVR6mcdz1agjWyCBZjr.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O filme conta a história de Liz Evans, que vive em Carmarthen South West Wales, que inicia uma campanha nos anos 90 para salvar o Cinema/Teatro local (o Lyric Cinema). Com a ajuda de Richard Goodridge, um político local, eles fazem com que Steven Spielberg mostre uma estreia de Jurassic Park no Lyric em uma tentativa de salvar o cinema.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B]UMA HISTÓRIA DE NATAL,NATALINA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SA6HXSQCPUJYWV5CZYIFDT3V2JHDTTUY</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kEqOAXbPKNSOx9QbxmSjtlyYdQM.jpg</thumbnail>
