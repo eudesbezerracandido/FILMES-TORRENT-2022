@@ -31,6 +31,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO -  EM SUAS MÃOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa810d030594b1d4a40ce50b5bfc2c1d6f192a58</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vTd3gRGk8a0rtHOWemdvOakVakR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um documentário que acompanha Zarifa Ghafari, de 26 anos, a prefeita mais jovem do Afeganistão em uma cidade que é conservadora, mesmo para os padrões afegãos. Filmado ao longo de dois anos turbulentos, In Her Hands conta a história da luta de Ghafari pela sobrevivência, tendo como pano de fundo o acelerado desmoronamento de seu país. Enquanto as forças ocidentais anunciam sua retirada da região e o Talibã inicia sua volta ao poder, Zarifa deve tomar a decisão mais difícil de sua vida uma que ecoa em todo o país.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SAVE THE CINEMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d78d6840006d43773bd11adc3fdcd1fd1e1556d6</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4sD0rI1qhVR6mcdz1agjWyCBZjr.jpg</thumbnail>
