@@ -33,6 +33,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - OS DONOS DA VERDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74VBWNSW2IJFXBSZOVHUL2X7NGORWWSH</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/m15HJh1UUiZH2WFPteU6oB8aBRM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O que acontece quando alguém decide por você o que é verdadeiro ou falso? Qual é o preço da liberdade de expressão? E qual é o custo de perdê-la? Na era das Fake News, duvide das certezas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ENXAME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e937a2d2b3b75d8faede3d6bbc9b754196518b39</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hYOloiur1t1O0EDcLKEPSJq2eFL.jpg</thumbnail>
