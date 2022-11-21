@@ -32,6 +32,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A GRANDE AVENTURA DE BLUE NA CIDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CEO6GDPOVEQB7O4UJYR7O4VGCIO27M2L</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gFyB6XHUrvd3FvgN7NQbS0gjYv7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A turma toda de Pistas de Blue está reunida nesta aventura musical especial com nossos queridos amiguinhos e os três apresentadores Josh, Steve e Joe.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DECEIT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5OVDSFNFI6ZN7SJ6FMB2UOKDUCEZF5P4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xqEaDHopE3lY04Db4dQR6UM6gwR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma policial disfarçada torna-se uma isca sexual para um suposto assassino. Na minissérie Deceit, baseada em eventos reais de 1992, acompanhamos a missão para prender Colin Stagg (Sion Daniel Young), o suspeito primário do assassinato da modelo Rachel Nickell, uma jovem de 23 anos, que aconteceu no sul de Londres. Na história, Sadie (Niamh Algar) trabalha infiltrada como Lizzie James, fingindo ser uma amiga de Stagg, na intenção de incentivá-lo a revelar suas fantasias sexuais, o que a polícia acredita ser um dos motivos que resultaram na morte de Rachel. Contudo, Colin se encaixa em um perfil de suspeito comum e não existem evidências suficientes para que seja incriminado pela polícia. Colin está à beira de ser condenado, porém, o mistério que cerca a morte da modelo se prova mais mirabolante do que os investigadores imaginavam quando outras vítimas aparecem igualmente sem vida. A produção foi criada através de entrevistas com testemunhas e, anos depois, novas pistas e suspeitos foram revelados.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] EM CONFINAMENTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1dc15794f52fbdd81c2f9dd631f8efce393ae8d</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qV5vEMXsCKakk2usQ4QLhiJa00h.jpg</thumbnail>
