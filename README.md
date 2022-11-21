@@ -32,6 +32,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ENXAME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e937a2d2b3b75d8faede3d6bbc9b754196518b39</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hYOloiur1t1O0EDcLKEPSJq2eFL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Seis amigas de infância passam um fim de semana em uma casa de campo para celebrar uma despedida de solteira. Depois de muitas bebidas e várias revelações, tudo parece sair do controle quando elas encontram um enxame de abelhas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] LÁ VERÓNICA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ffe910f063bd908c91b4e2a38a1a7959dbcae934</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5zzRVHvTglMHMMVgXTtPl91QKEa.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Verónica, uma modelo muito popular nas redes sociais, cai em desgraça ao descobrir que é a principal suspeita em uma investigação sobre o assassinato de sua primeira filha.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A GRANDE AVENTURA DE BLUE NA CIDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CEO6GDPOVEQB7O4UJYR7O4VGCIO27M2L</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gFyB6XHUrvd3FvgN7NQbS0gjYv7.jpg</thumbnail>
