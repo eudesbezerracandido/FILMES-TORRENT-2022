@@ -24,6 +24,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BILHETE DE FUGA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28d2087b747dc6d069836a70d48040adf88b7ec2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ihss7lYlG9xON9RnOIy2pwLbdLX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Freddy sai correndo com uma sacola cheia de dinheiro e cocaína depois que um roubo de seu ex-chefe do crime dá errado. Com um ferimento potencialmente fatal, ele pega um ônibus em direção ao implacável deserto da Califórnia. Com seu chefe e seus capangas em seus calcanhares e sua vida escorregando por entre seus dedos, ele fica com poucas opções.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] EM CONFINAMENTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1dc15794f52fbdd81c2f9dd631f8efce393ae8d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qV5vEMXsCKakk2usQ4QLhiJa00h.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um encanador testemunha um assassinato, enquanto bandidos buscam por uma fortuna. Ele precisa encontrar um meio de sobreviver quando esse criminosos o prenderem em um porão.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] THE PHANTON OF THE OPEN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3D5LMVO4T33AJD3AJD5JORGTSU2FKJM4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6bcrhJQLoLNsYX4UGTOMQkCiACA.jpg</thumbnail>
