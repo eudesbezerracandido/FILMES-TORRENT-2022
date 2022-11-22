@@ -33,6 +33,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] REEFA -  O ARTISTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29ca07d8ecb7441a087c7a5b0b9655c63b66a9f5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zxnPKCGWLIZDfQe4Je4SlWeUtdS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Israel "Reefa" Hernandez Jr, um imigrante colombiano de 18 anos e artista talentoso, está passando seu último verão em Miami com amigos, família e sua nova garota Frankie antes de se mudar para Nova York com uma bolsa de estudos de arte. Enquanto Israel e seus amigos andam pelas ruas da cidade e pintam as paredes de Wynwood, a meca grafitada de Miami, as ansiedades emergem duplamente: Israel e sua família esperam nervosamente seus Green Cards enquanto ele busca desesperadamente o reconhecimento por sua arte. Em 6 de agosto de 2013, enquanto Israel pinta um último muro que comandaria o respeito imediato de seus pares, um encontro fatal com um policial deixa sua família e amigos devastados, a comunidade de Miami indignada, e o país se recuperando de outro caso de brutalidade policial.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - OS DONOS DA VERDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74VBWNSW2IJFXBSZOVHUL2X7NGORWWSH</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/m15HJh1UUiZH2WFPteU6oB8aBRM.jpg</thumbnail>
