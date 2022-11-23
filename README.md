@@ -23,6 +23,38 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O MELHOR DA NEVE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b27b1520a342130f611d09b37fec8930b368702</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/g8yTNX5aaDZdpg5FG73cLWSWA1y.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um especial de fim de ano apresentado por Tituss Burgess em que equipes de diferentes partes do mundo são transportadas para uma vila encantada e participam de uma competição espirituosa para exibir suas habilidades na arte de esculturas de neve. Com criações de tirar o fôlego e a presença dos ilustres convidados DCapella e Kermit, o Sapo, esta competição repleta de ação é diversão garantida para toda a família.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] HALLOWEEN ENDS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4XQUKS54S5POMSA263AFG7SNBFGUJK7D</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2uqv9MlFznqee0dcO3oHwlu9PNy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Terceiro e último capítulo da nova trilogia de Laurie Strode e Michael Myers, precedido por Halloween (2018) e Halloween Kills (2021). Laurie (Jamie Lee Curtis) agora vive com sua neta Allyson e está terminando seu livro de memórias. Michael Myers nunca mais foi visto. Depois de permitir que a sombra de Michael pairasse ao longo de sua existência por décadas, ela finalmente decidiu se libertar do medo e da raiva e se voltar para a vida. Mas quando um jovem, Corey Cunningham, é acusado de ter assassinado um menino de quem cuidava, uma onda de terror e violência pairam sobre a cidade, forçando Laurie a se juntar com outras pessoas para combater o mal. Mas dessa vez, Laurie terá de lidar com Myers e acabar com ele, de uma vez por todas, para que o mal nunca mais volte para a cidade e ela possa, enfim, ter uma vida normal e sem medo, promovendo a paz para sempre.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UM ESTRANHO EM NOSSA CAMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NHCCNTFK6GJXMXM3IHNNS52RCYV65PWE</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vTw9NlecsL5LYM6JQLogjC1sypD.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma mulher, aparentemente feliz em seu casamento, deixa o marido para começar uma nova vida com sua amante, quem desaparece misteriosamente.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] BIG GOLD BRICK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:GUXIVCQHNJ47IGBVG6EKQA7P72ST4ZMC</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pioc0HaWG2Cf3zoDEGjTgJOSBvv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma obscura comédia de humor negro sobre o jovem escritor Samuel Liston (Emory Cohen) e suas experiências com Floyd Deveraux (Andy Garcia), o enigmático pai de meia-idade que pede a Samuel para escrever sua biografia.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BILHETE DE FUGA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:28d2087b747dc6d069836a70d48040adf88b7ec2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ihss7lYlG9xON9RnOIy2pwLbdLX.jpg</thumbnail>
