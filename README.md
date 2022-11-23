@@ -31,6 +31,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O MILAGRE DA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1842a3845ce216ebc596f6864e5463c3e288d2a7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/evqpNv8f9JgkYMoAQE97i5IjNZ3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O Natal é sobre um bebê milagroso, mas quando a agente Alison e o policial Brock encontram um bebê perdido deitado no presépio, será um milagre para eles, apenas parar de brigar. A magia do Natal pode ajudar esse bebê a encontrar um lar - e talvez até ajudar Alison e Brock a se verem sob uma luz diferente?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] Mr.MALCOLMS LIST [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XJD322JAJU3ZTEPQ2FMI2ITBUIZOP3XG</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/76SeGCukVxqZFAJkke4fkk4uVN9.jpg</thumbnail>
