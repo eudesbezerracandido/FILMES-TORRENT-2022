@@ -31,6 +31,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] Mr.MALCOLMS LIST [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XJD322JAJU3ZTEPQ2FMI2ITBUIZOP3XG</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/76SeGCukVxqZFAJkke4fkk4uVN9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No início de 1800, na Inglaterra, uma jovem (Gemma Chan) se envolve em namoro com um misterioso rico pretendente, o Sr. Malcolm (Sope Dirisu), inconsciente de sua lista inatingível de exigências para sua futura esposa.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] HALLOWEEN ENDS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4XQUKS54S5POMSA263AFG7SNBFGUJK7D</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/2uqv9MlFznqee0dcO3oHwlu9PNy.jpg</thumbnail>
