@@ -49,7 +49,7 @@
 <item>
 <title>[COLOR silver][B] PLANO DE AULA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19bc7e5c508f1e24aabe78dfd30ac402a1ce8342</link>
-<thumbnail>https://ia601504.us.archive.org/22/items/aula_20221123/dadadada.PNG</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/2QE0YczuK6RMTvRY6uBa2t65kY7.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Um ex-policial vai trabalhar em uma escola para investigar a gangue que ele acredita ser responsável pela morte do melhor amigo.</info>
 </item>
