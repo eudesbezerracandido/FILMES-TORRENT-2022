@@ -39,6 +39,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] E ENTÃO NÓS DANÇAMOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:71d2738747291db8ae38719219c5bf65b4f74f08</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aGKXB1VxKxs7FdrewRYndr1vvYH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Merab é bailarino do National Georgian Ensemble desde a infância. No auge de sua carreira, ele precisa lidar com a chegada do carismático Irakli, um talentoso dançarino que se torna seu principal rival e, também, seu amor secreto. Em um cenário conservador e hostil, Merab enfrenta um dilema que divide seu sonho e sua nova paixão.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] Mr.MALCOLMS LIST [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XJD322JAJU3ZTEPQ2FMI2ITBUIZOP3XG</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/76SeGCukVxqZFAJkke4fkk4uVN9.jpg</thumbnail>
