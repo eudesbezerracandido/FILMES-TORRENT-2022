@@ -47,6 +47,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BUSCO NAMORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e6b9db9287717d3a08e0c37dcf69d20aae5b23d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iXGCldSSeZBZHfow0jSTXGJdVh1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Renzo Collazos é jornalista reconhecido da seção política do jornal El Comercio há um ano. Certa manhã, o editor do site pede a ele para administrar um blog dedicado à juventude e escrever semanalmente sobre sua pálida vida social-sentimental-sexual. Collazos aceita, convencido de que não tem nada de importante para contar: não tem companheira; ele ainda mora com a mãe; nas horas vagas ele lê, escreve poesia, se masturba e está farto do fato de seus amigos mais próximos terem se casado (porque ele também queria se casar). Inesperadamente, o blog Wanted Girlfriend se torna um sucesso quando Renzo escreve sobre seus cínicos dilemas amorosos, desde o casamento de sua ex-namorada até as batidas noturnas fracassadas na sexta e no sábado, e ele ganha popularidade. Essa fama faz dele um cara mais egoísta, mais vaidoso, mais estúpido que acaba sabotando seus relacionamentos. Ele arranja uma namorada, mas ela decide acabar com as coisas e seu mundo desmorona novamente. Percebendo o que ele se tornou, ele decide</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PLANO DE AULA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19bc7e5c508f1e24aabe78dfd30ac402a1ce8342</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/2QE0YczuK6RMTvRY6uBa2t65kY7.jpg</thumbnail>
