@@ -31,6 +31,38 @@
 </item>
 
 <item>
+<title>[COLOR silver][B]O BOM GAROTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd24e3c8daae3c8adfecbfc342122cb26e9dfda9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gMhd8XnmOjf8BSDhJ0QPjny72h4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Chema tem uma missão: conquistar Claudia, a novata da escola, e perder a virgindade. Será que ele consegue realizar esse sonho antes da formatura?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AS NADADORAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff7da7a0957535a27464d891308320683af2b23f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/l0s6z3GTRMyBs7ZBh8mKMP6QZ6V.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Da Síria, destruída pela guerra, ? s Olimpíadas do Rio em 2016. Baseado em uma história real, "As Nadadoras" acompanha a incrível trajetória de duas jovens irmãs refugiadas, que já usaram suas habilidades na natação, e seus corações, como heroínas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PLANO DE AULA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19bc7e5c508f1e24aabe78dfd30ac402a1ce8342</link>
+<thumbnail>https://ia601504.us.archive.org/22/items/aula_20221123/dadadada.PNG</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um ex-policial vai trabalhar em uma escola para investigar a gangue que ele acredita ser responsável pela morte do melhor amigo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NOSSO NATAL NA FAZENDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3a7c550a9b4644e3798d06f051c158659b7713a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kW8HI9wOfUvcBemr5NHW2N5V7W8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um pai viúvo herda uma fazenda a poucos dias do Natal e planeja passar um tempinho no campo. Seus filhos, no entanto, criam uma plano para ficar lá para sempre.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O MILAGRE DA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1842a3845ce216ebc596f6864e5463c3e288d2a7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/evqpNv8f9JgkYMoAQE97i5IjNZ3.jpg</thumbnail>
