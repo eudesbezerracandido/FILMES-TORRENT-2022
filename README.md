@@ -23,6 +23,38 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O LOBO E O LEÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58d9a331f697828bc8d0829b86689e643913060e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aSRvK4kLJORBrVdlFn2wrGx8XPv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um filhote de lobo e um filhote de leão perdidos são resgatados por uma garota no coração do deserto canadense. A amizade deles mudará suas vidas para sempre.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] RESURRECTION [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5YCZMMT6IOB7E43V2RYN2GOF2SYD3CQS</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kfRr8Jm1gaEnLTXCIfHkSw8QW6t.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A vida de Margaret está em ordem. Ela é capaz, disciplinada e bem-sucedida. Tudo está sob controle. Isto é, até que David retorna, levando consigo os horrores do passado de Margaret.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CAIXA DE MEMORIAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:181f71b183d9dfa13b6b21c9260e4d94e339b89d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1q7SNPmr3EsX4wODFQDfRYR0NUf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Berlinale 2021. A vida de Alex, filha e neta de emigrantes do Líbano, sofre uma reviravolta quando uma caixa de memórias misteriosas chega à porta de sua casa no Canadá, abrindo a porta para uma época desconhecida do passado de sua mãe.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NATAL EM HARMÔNIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58580a3b2ed90bd8b57d520b4ddb78fd4bd62a51</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nCUN0VPubY818v0F3mPtNrFj4MQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A cantora e compositora Gail consegue uma oportunidade de competir por uma chance única na vida de se tornar um grande sucesso e segue para o cross country – chegando apenas até Harmony Springs, Oklahoma, quando sua viagem, seu orçamento e todas as suas esperanças estão paralisadas. . Com apenas duas semanas para chegar à apresentação dos seus sonhos na véspera de Natal do iHeartRadio, ela segue o conselho do pau para toda obra local, Jeremy, e enfrenta um grupo de crianças desajustadas que esperam se apresentar em uma gala de véspera de Natal de sua família. ter. Gail e Jeremy ficam próximos, mas se ela quiser realizar o sonho de sua vida, ela pode ter que deixá-lo e a cidade que ela aprendeu a amar para trás.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O MELHOR DA NEVE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b27b1520a342130f611d09b37fec8930b368702</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/g8yTNX5aaDZdpg5FG73cLWSWA1y.jpg</thumbnail>
