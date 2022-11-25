@@ -31,6 +31,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B]UM MISTÉRIO DE NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56ed174f71ceedb2e00b2c44b3cd5d7ce5c753a1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2NXBuV3xsweIIZeE89O8qFkoZDZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Holly é uma designer de joias. Depois que encontra uma pulseira perdida, ela decide se unir a Greg - um repórter investigativo - na esperança de encontrar a dona antes da Véspera de Natal.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O DIÁRIO DE NOEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95623018a895a1d214b9fe7d6f364c0df53517c4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8v7nSSNmd5sfLj2MPshfBjJVtwn.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Jacob Turner é um autor do best-seller, que volta para casa no Natal para liquidar a herança de sua afastada mãe. Lá, ele descobre um diário que pode conter segredos de seu próprio passado e de Rachel - uma bela jovem em uma misteriosa jornada própria. Juntos, eles embarcam em uma aventura para enfrentar seu passado e descobrir um futuro totalmente inesperado.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] EMILY THE CRIMINAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:471d19c3db5db36a7dbcb81e89e4f080577f9cb4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iZvzMpREGiqDQ5eYbx8z70qPgst.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Sem sorte e sobrecarregada de dívidas, Emily se envolve em um golpe de cartão de crédito que a leva para o submundo do crime de Los Angeles, levando a consequências mortais.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] LILO,LILO CROCODILO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a2aa3429deac6f7017d7fac72d04d874d157a9b</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/irIS5Tn3TXjNi1R9BpWvGAN4CZ1.jpg</thumbnail>
