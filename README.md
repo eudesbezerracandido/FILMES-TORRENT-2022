@@ -31,6 +31,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] LILO,LILO CROCODILO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a2aa3429deac6f7017d7fac72d04d874d157a9b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/irIS5Tn3TXjNi1R9BpWvGAN4CZ1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando a família Primm se muda para Nova York, seu filho Josh luta para se adaptar à nova escola e aos novos amigos. Tudo isso muda quando ele descobre Lilo – um crocodilo cantor que adora banhos, caviar e boa música – morando no sótão de sua nova casa. Mas quando a existência de Lilo é ameaçada pelo vizinho malvado Sr. Grumps, os Primms devem se unir para mostrar ao mundo que a família pode vir dos lugares mais inesperados.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] RESURRECTION [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5YCZMMT6IOB7E43V2RYN2GOF2SYD3CQS</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kfRr8Jm1gaEnLTXCIfHkSw8QW6t.jpg</thumbnail>
