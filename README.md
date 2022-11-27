@@ -194,7 +194,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/2uqv9MlFznqee0dcO3oHwlu9PNy.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Terceiro e último capítulo da nova trilogia de Laurie Strode e Michael Myers, precedido por Halloween (2018) e Halloween Kills (2021). Laurie (Jamie Lee Curtis) agora vive com sua neta Allyson e está terminando seu livro de memórias. Michael Myers nunca mais foi visto. Depois de permitir que a sombra de Michael pairasse ao longo de sua existência por décadas, ela finalmente decidiu se libertar do medo e da raiva e se voltar para a vida. Mas quando um jovem, Corey Cunningham, é acusado de ter assassinado um menino de quem cuidava, uma onda de terror e violência pairam sobre a cidade, forçando Laurie a se juntar com outras pessoas para combater o mal. Mas dessa vez, Laurie terá de lidar com Myers e acabar com ele, de uma vez por todas, para que o mal nunca mais volte para a cidade e ela possa, enfim, ter uma vida normal e sem medo, promovendo a paz para sempre.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] UM ESTRANHO EM NOSSA CAMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
