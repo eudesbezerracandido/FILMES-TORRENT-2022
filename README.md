@@ -21,6 +21,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] JUNTOS MAIS SEPARADOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd62a7aad537bf70cbdd49a656c414b6c24da168</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/g2tmqC1f6qtXvvnnu45yeoPdwl7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O LOBO E O LEÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58d9a331f697828bc8d0829b86689e643913060e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/aSRvK4kLJORBrVdlFn2wrGx8XPv.jpg</thumbnail>
