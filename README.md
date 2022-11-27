@@ -29,6 +29,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] LIGAÇÃO EXPLOSIVA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2ASQ4CNJTAQNLD7UH22RD33UVZHIWJSG</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xK0ptUk5Q04nzFK75IQhfiUCV3o.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um homem está dirigindo para o trabalho com seus dois filhos quando recebe uma ligação de um número restrito avisando-o de que, se ele se levantar do banco do carro ou cortar a conexão, uma bomba explodirá. O que ele estará disposto a fazer para manter seus filhos seguros?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O LOBO E O LEÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58d9a331f697828bc8d0829b86689e643913060e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/aSRvK4kLJORBrVdlFn2wrGx8XPv.jpg</thumbnail>
