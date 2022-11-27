@@ -29,6 +29,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] AMSTERDÃ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FEH6HE4JQLW7WR46RJCT6C5SR7V62BXK</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/chCrPG0LJeilfJwsWPAfmWiJI2T.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Três amigos - um médico, uma enfermeira e um advogado - tornam-se os principais suspeitos de um assassinato na década de 1930.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O PACIENTE PERDIDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:59747df69735d6d918873da1e4fde6785a545f5a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3ZSZ2wtbABFnFlFgroY3RSlNmP8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR silver][B] GUARDIÕES DA GALAXYA-ESPECIAL DE FESTAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf12ab4fac9d8b9dc41e9c935ec516d56f5e1cba</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8dqXyslZ2hv49Oiob9UjlGSHSTR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Os Guardiões da Galáxia comemoram o Natal para tentarem animar Quill, que ainda está deprimido pela perda de Gamora. Para isso, eles decidem convidar o ator Kevin Bacon para a festa.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B]UM MISTÉRIO DE NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56ed174f71ceedb2e00b2c44b3cd5d7ce5c753a1</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/2NXBuV3xsweIIZeE89O8qFkoZDZ.jpg</thumbnail>
