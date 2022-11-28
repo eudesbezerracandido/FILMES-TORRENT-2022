@@ -21,6 +21,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] OS AERONAUTAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ac7779cc56b0450417833d5b6cd3f6e1618b50e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dEsKxpvT5D2VxCIFWGZ72nxPlr2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ambientado em 1862, The Aeronautas acompanha a história de Amelia Wren (Jones), uma jovem e rica viúva que pilota balões, e o ambicioso cientista James Glaisher (Redmayne). Uma jornada até os limites da existência, onde o ar é rarefeito e as chances de sobrevivência são poucas. À medida que a perigosa subida revela as verdadeiras natureza dos dois, este improvável par descobre coisas um sobre o outro e sobre eles mesmos que pode ajudá-los a encontrarem seus lugares no mundo que deixaram para trás. Baseado no livro "Falling Upwards: How We Took to the Air", de Richard Holmes.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] JUNTOS MAIS SEPARADOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd62a7aad537bf70cbdd49a656c414b6c24da168</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/g2tmqC1f6qtXvvnnu45yeoPdwl7.jpg</thumbnail>
