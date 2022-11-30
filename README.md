@@ -29,6 +29,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DESERTO PARTICULAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0689d84e16d3169d44b3ea1636277de5e69d3025</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jEKDQnXdRG7wRjvPmJwXJJGLN8t.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Daniel é um policial exemplar, mas acaba cometendo um erro que coloca sua carreira de honra em risco. Não vendo mais sentido em continuar vivendo em Curitiba, ele parte em busca de Sara, a mulher com quem se relaciona virtualmente.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MEET CUTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b258840317d06b9972cc60efbc126d791aefb8e1</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/8NBlso3DuV3frqOzLZ4UYPMTqYu.jpg</thumbnail>
