@@ -21,6 +21,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO -  O SKATE ME LEVOU [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e8887477afe6c590c5c75d1c91d84c73bc73c17</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9Rckj6QGD9eadX8VSsOM2lD4gT3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O Documentário conta a trajetória de vida de Roger Mancha, que hoje é técnico da Seleção Brasileira de Skate. Mancha é um dos skatista mais importantes do Skate Brasileiro, responsável por elevar o nível do carrinho em terras tupiniquins, andando em transições, ruas, de base ou de switchstance. Mancha fez parte de equipes icônicas como a internacional City Stars.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MEET CUTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b258840317d06b9972cc60efbc126d791aefb8e1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8NBlso3DuV3frqOzLZ4UYPMTqYu.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O que você faria se pudesse viajar para o passado de seus da pessoa que você ama, curar seus traumas, resolver seus problemas e transformá-la no parceiro perfeito?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] OS AERONAUTAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ac7779cc56b0450417833d5b6cd3f6e1618b50e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/dEsKxpvT5D2VxCIFWGZ72nxPlr2.jpg</thumbnail>
