@@ -21,6 +21,38 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O TROLL DA MONTANHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ede2cca258b256a067032c9dc84071bb9ee6a307</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/p0ubliuZzVEIHWiIJY64Bzyymbc.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nas profundezas da montanha de Dovre, algo gigantesco desperta depois de ficar preso por mil anos. Destruindo tudo em seu caminho, a criatura se aproxima rapidamente da capital da Noruega. Mas como você interrompe algo que você pensava que só existia no folclore norueguês?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] IMERSÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f84c48230ce29f70be20114a578e23135d8571c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gTa2Vt5PSYRbOKG7WygvA6yiTuF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ricardo levou suas filhas para sua casa à beira de um lago no sul do Chile. Enquanto navegam, eles avistam um barco afundando, mas ele se recusa a ajudar as pessoas porque elas parecem suspeitas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NINGUÉM PRECISA SABER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6a253b6047db3d67cff57f22f34a8ff414a2abc</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iLBXTcAyXmvdIgcjXSwOlBmuaSs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Phil, um homem robusto de meia-idade sofre um derrame, fazendo com que ele perca a memória. Millie, que cuida dele, diz falsamente que eles estavam secretamente apaixonados antes do acidente.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TUDO POR UM BAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:536c974a370da2a15525fe6e0cc1a98b01c02d97</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zFMJO70knwhhkyl7becLX5BbiFf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Depois do seu término, Nina e Allen dividiram amigavelmente todos os seus pertences, exceto pelo seu bar preferido. Com a ajuda de amigos e dos funcionários, o ex-casal faz uma competição ridícula para decidir quem ficará com o lugar.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DOCUMENTÁRIO -  O SKATE ME LEVOU [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e8887477afe6c590c5c75d1c91d84c73bc73c17</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9Rckj6QGD9eadX8VSsOM2lD4gT3.jpg</thumbnail>
