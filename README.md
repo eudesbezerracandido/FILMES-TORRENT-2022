@@ -37,6 +37,38 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] NATAL EM HOLLYWOOD [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bcf8aa29ee8e735baf19dd0a37a20c8bea383ffe</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4BSOsZLMDO6sCNAqwFKwvTXo1BM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Jessica é uma jovem e promissora cineasta de Hollywood que ficou conhecida por dirigir filmes natalinos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MEU NOME É VINGANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51d2c8a0da94ddbf5fefa9d6afbedf60ec0f9c6d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tlZGDi8anF7Fcs5HGVaTEMnv1hp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando antigos inimigos matam sua esposa e cunhado, um ex-mafioso e a filha vão a Milão para planejarem a vingança.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UM HOMEM SEM AÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e2e9d35a42e8118843ab63b202c3fd817460a00</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lMNgLp0LdUO6tLIUy43aSoIayxV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Inspirado na vida de Lucio Urtubia, Um Homem de Ação explora a figura do anarquista espanhol que colocou em prática uma lucrativa operação de falsificação de cheques de viagem e entrou na mira do maior banco dos Estados Unidos. O eletrizante Um Homem de Ação acompanha Lucio Urtubia de 1940 a 1980, desde sua origem humilde como pedreiro que virou ladrão de banco até ele assumir o comando de uma operação que afetou um dos maiores bancos do mundo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NATAL SEM FILTRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1145f20f302707b6ff1da50fdedc1be5a8d9e5f7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ovsE4gTvEetIRaZQnCa52otOVU9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Becky, uma menina que se sente ignorada por todos faz um curioso pedido de Natal: ser realmente ouvida por sua família. Mas a confusão toma conta quando ela perde o filtro e começa a dizer tudo o que passa pela sua cabeça!</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NINGUÉM PRECISA SABER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6a253b6047db3d67cff57f22f34a8ff414a2abc</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/iLBXTcAyXmvdIgcjXSwOlBmuaSs.jpg</thumbnail>
