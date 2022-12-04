@@ -29,6 +29,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TEMPESTADE INFINITA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QFRFFQE5WZO5Z3ASLF6SKWJ2TA32KRZW</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jYN6Ezx8jm8BI6g2PANVvmUST3p.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando uma montanhista é pega em uma nevasca, ela encontra um estranho perdido e deve levá-los para baixo da montanha antes do anoitecer.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ERA UMA VEZ UM GÊNIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:184e2030b52e45ed0ac2851d545cd2aeb8a669b8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w1zL4hVb4Ngg02VVxllBDT048Nn.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma fantástica aventura da imaginação onde uma mulher que descobre um gênio em uma lâmpada - e sabe que nenhuma história sobre desejos realizados tem final feliz - se recusa a fazer seus 3 desejos que libertariam o gênio.Ele, em um esforço para convencê-la, narra suas aventuras no tempo com flashbacks das eras de reis e faraós e como amar a mulher errada o forçou a se tornar prisioneiro desta garrafa e, portanto, viver sozinho por toda a eternidade. Ele anseia por liberdade, ela anseia por companhia. O relacionamento deles cresce e, ? medida que sacrificam suas próprias necessidades pelo outro, encontram um no outro o que sempre ansiaram e precisaram.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] IMERSÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f84c48230ce29f70be20114a578e23135d8571c</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gTa2Vt5PSYRbOKG7WygvA6yiTuF.jpg</thumbnail>
@@ -1484,10 +1500,10 @@
 
 <item>
 <title>[COLOR silver][B] SORRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65726944c9f5adc33a7d4331d2930482779b1409</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2974e3b8556d709828d41eb7209c5799aafb8e3e</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gJbMkl9e2NZcjlKpXuK9QaExobN.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Após testemunhar um acidente traumático e bizarro envolvendo um paciente, a Dra. Rose Cotter começa a vivenciar eventos assustadores que ela não consegue explicar.</info>
+<info>Após um traumático acontecimento com uma paciente, uma psiquiatra começa a vivenciar ocorrências aterrorizantes que apenas ela pode ver, e começa a se convencer que está sendo perseguida por uma força sobrenatural maligna.</info>
 </item>
 
 <item>
