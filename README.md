@@ -2,8 +2,6 @@
 
 
 
-
-
 <item>
 <title>[COLOR silver][B] PANTERA NEGRA-WAKANDA PARA SEMPRE ( HDCAM ) V9.A9 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VWLIX2RIGQXQXD25F2CLE3BAZ5WUSUOY</link>
@@ -2510,7 +2508,7 @@
 
 <item>
 <title>[COLOR silver][B]  CÓDIGO IMPERADOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f83d2082eae23f2616a2c1a1734d4b4445523a8</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:P2W7WNVOFRWCVLFNG32E6KRT2BT7QRBM</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/74HVV4JR2rT01S9NDZie4YWBLUD.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Juan é um agente que trabalha para os serviços de inteligência, que também se reporta a uma unidade paralela envolvida em atividades ilegais.</info>
