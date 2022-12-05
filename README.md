@@ -27,6 +27,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O EXÉRCITO DO AMANHÃ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:637deb9150cf253560d998bab65c8652a8688125</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/72f0kFmOutPhSaZkXs0oGDmfvRd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em um mundo pós-apocalíptico, a China presencia a queda de um meteorito infectado com uma planta mortal, então um grupo de homens da cidade atingida forma um esquadrão suicida para salvar a região de um colapso. No entanto, a situação se trata de uma ameaça alienígena vinda de criaturas poderosas que podem acabar com a humanidade, obrigando o soldado sobrevivente Tai Loi (Louis Koo) enfrentar seus piores medos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TEMPESTADE INFINITA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QFRFFQE5WZO5Z3ASLF6SKWJ2TA32KRZW</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jYN6Ezx8jm8BI6g2PANVvmUST3p.jpg</thumbnail>
