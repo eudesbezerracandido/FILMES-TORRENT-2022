@@ -35,6 +35,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] VISITAS EXTRATERRESTRES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:511f8e432102ef5913a4565f914754250f37a0a7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mC0GjHcnrkQRVBmHEVd54dGV1m0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em 2021, um relatório do Pentágono revelou o que o governo negou por décadas: óvnis são reais e podem ser uma ameaça ao nosso planeta. Agora, ex-membros das Forças Armadas americanas quebram o silêncio sobre seus contatos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ERA UMA VEZ UM GÊNIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:184e2030b52e45ed0ac2851d545cd2aeb8a669b8</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/w1zL4hVb4Ngg02VVxllBDT048Nn.jpg</thumbnail>
@@ -48,6 +56,14 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/gTa2Vt5PSYRbOKG7WygvA6yiTuF.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Ricardo levou suas filhas para sua casa à beira de um lago no sul do Chile. Enquanto navegam, eles avistam um barco afundando, mas ele se recusa a ajudar as pessoas porque elas parecem suspeitas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O AMANTE DE LADY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3UQMDH45XML6N4RFWZI3ZHAFDOFBLIG2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aSgl2DxPG3DuQXoaHr500KeULmT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Connie, uma mulher rica e privilegiada, deixa de amar o homem com quem se casou. Ao conhecer Oliver, ela embarca em um tórrido relacionamento que a levará a tomar uma difícil decisão: seguir seu coração ou voltar para o marido e cumprir as expectativas da sociedade.</info>
 </item>
 
 <item>
