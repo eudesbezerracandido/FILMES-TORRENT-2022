@@ -35,6 +35,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] CONFESS,FLETCH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4AGV36RCCSVELKFGQ4WEF3GPAPOGJBTK</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/66dDPP1nX7DbrResrMa5VJs4jeZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O repórter investigativo I.M. Fletch envolve-se numa teia de assassinatos conectada ao mundo das obras de arte. Quando ele mesmo é considerado um dos suspeitos, precisa buscar respostas para provar a sua inocência. Baseado na série de livros de Gregory McDonald, é um reboot do personagem interpretado por Chevy Chase nos anos 1980.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] VISITAS EXTRATERRESTRES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:511f8e432102ef5913a4565f914754250f37a0a7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mC0GjHcnrkQRVBmHEVd54dGV1m0.jpg</thumbnail>
