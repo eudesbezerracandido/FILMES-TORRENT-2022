@@ -35,6 +35,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] VALSA DE NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2d499eec9ee5960de85df7dc13fafa413704718</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/q7j7D50cNqYe0dILye3ASAIOMel.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois que o casamento de Avery é cancelado inesperadamente, o instrutor de dança Roman a ajuda a reconstruir seus sonhos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MISSÃO BAILE DE NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4994e810177b875003c8c28d4c754396080f372</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3BbAPhAZm1iUqQUYqwu92aEG309.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma advogada de sucesso, Lucy se reencontra com seu parceiro de dança de infância, Barrett, enquanto os dois dão ao resort um novo sopro de vida e a paixão entre os dois esquenta.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TEMPESTADE INFINITA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QFRFFQE5WZO5Z3ASLF6SKWJ2TA32KRZW</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jYN6Ezx8jm8BI6g2PANVvmUST3p.jpg</thumbnail>
