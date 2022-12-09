@@ -27,6 +27,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PILOTOS DE GUERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VI23LEL5BN7OPJTCME2KQDUNL7VMOXI2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/c3EnvbwhnT6u7HAiEVunDpNSYv0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Inspirado em eventos reais. Em 2015, o tenente-coronel Oleg Soshnikov e o capitão Konstantin Muravyov são enviados à base aérea de Khmeimim, na Síria. Durante um voo de combate, o caça Su-24 é abatido. Os dois pilotos são ejetados após a aeronave ser atingida, mas apenas um deles retorna para casa vivo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] HELLRAISER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc929b74600cab40ff377409ed96cf78ee098245</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/aJfsJOkKSulyok0FjPoCt6EA1BN.jpg</thumbnail>
