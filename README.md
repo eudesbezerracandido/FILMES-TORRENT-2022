@@ -35,6 +35,38 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] HAWA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:121a8b0e9348aa441fabb94cd3f0ac126b256ff8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/p6DhbsX1EuSJMtuOGsENkIOx1tt.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Hawa, uma menina de 13 anos, vive sozinha com sua avó que está gravemente doente e recusa todas as substitutas que sua avó lhe oferece. Até que um dia ela decide que a única mulher que pode adotá-la é… Michelle Obama.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UM PRESENTE DA TIFFANY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:26c570c189c8b6544fc8f14526666e92bbf5c3ac</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aIKbRDYydwXCvSWFDGu9ZooH27m.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nada se compara à magia e emoção das férias de fim de ano na cidade de Nova York, onde as ruas brilham com as luzes de natal e uma caixa especial da Tiffany pode mudar o rumo da vida de uma pessoa, ou até mesmo de várias vidas. Rachel e Gary estão felizes o suficiente, mas não estão prontos para o grande compromisso de trocar alianças. Ethan e Vanessa, o casal perfeito, estão prestes a oficializar a relação. Quando uma simples mistura de presentes faz com que seus caminhos se cruzem, isso desencadeia uma série de reviravoltas e descobertas inesperadas que os levam para onde realmente deveriam estar. Porque o amor, como a vida, é cheio de surpresas em Um Presente da Tiffany.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PAI A GENTE SÓ TEM UM 3 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22b57b8703c0939be8c1ea0be38faf559b53429e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/k2v9xSPtiyxCNxaRGtj7COwdgG3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando as crianças acidentalmente quebram um presépio da coleção de seu pai, elas devem substituí-lo, mas o problema é que é uma peça antiga única.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] EMANCIPAÇÃO - UMA HISTÓRIA DE LIBERDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f690f10b6390becfb644fb477a1a73dca766157</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/izTIOynukDcN9dp7uPlwBjHr8f5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Emancipação – Uma História de Liberdade conta a triunfante história de um homem escravizado que foge e atravessa os pântanos da Louisiana, nos Estados Unidos, em uma jornada tortuosa para escapar dos proprietários de plantações que quase o mataram. Peter (Will Smith) é o homem em busca da sua liberdade, que escapa da escravidão confiando em sua inteligência, fé inabalável e profundo amor por sua família, fazendo o impossível para se livrar dos caçadores de sangue frio nos implacáveis pântanos da Louisiana. O filme é inspirado nas fotos reais, de 1863, de Peter chicoteado (Whipped Peter), tiradas durante um exame médico do Exército dos EUA, que apareceram, pela primeira vez, na revista Harper’s Weekly. Uma destas fotos, conhecida como As Costas Açoitadas (The Scourged Back), mostra as costas nuas de Peter mutiladas pelas chicotadas de seus escravizadores e acabou contribuindo para a crescente oposição pública à escravidão, se tornando um símbolo das atrocidades cometidas em seu tempo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] VALSA DE NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b2d499eec9ee5960de85df7dc13fafa413704718</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/q7j7D50cNqYe0dILye3ASAIOMel.jpg</thumbnail>
