@@ -19,11 +19,51 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] EMANCIPAÇÃO - UMA HISTÓRIA DE LIBERDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f690f10b6390becfb644fb477a1a73dca766157</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/izTIOynukDcN9dp7uPlwBjHr8f5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Emancipação – Uma História de Liberdade conta a triunfante história de um homem escravizado que foge e atravessa os pântanos da Louisiana, nos Estados Unidos, em uma jornada tortuosa para escapar dos proprietários de plantações que quase o mataram. Peter (Will Smith) é o homem em busca da sua liberdade, que escapa da escravidão confiando em sua inteligência, fé inabalável e profundo amor por sua família, fazendo o impossível para se livrar dos caçadores de sangue frio nos implacáveis pântanos da Louisiana. O filme é inspirado nas fotos reais, de 1863, de Peter chicoteado (Whipped Peter), tiradas durante um exame médico do Exército dos EUA, que apareceram, pela primeira vez, na revista Harper’s Weekly. Uma destas fotos, conhecida como As Costas Açoitadas (The Scourged Back), mostra as costas nuas de Peter mutiladas pelas chicotadas de seus escravizadores e acabou contribuindo para a crescente oposição pública à escravidão, se tornando um símbolo das atrocidades cometidas em seu tempo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O TROLL DA MONTANHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ede2cca258b256a067032c9dc84071bb9ee6a307</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/p0ubliuZzVEIHWiIJY64Bzyymbc.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Nas profundezas da montanha de Dovre, algo gigantesco desperta depois de ficar preso por mil anos. Destruindo tudo em seu caminho, a criatura se aproxima rapidamente da capital da Noruega. Mas como você interrompe algo que você pensava que só existia no folclore norueguês?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ABAIXO DO REI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AYXO4J2J2KQ73UBXJJGTSOXZVL4CPQE3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/j96pQXRWtfaP6EfGZw600f8Ofxm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um rapper famoso, desiludido com a indústria da música e as pressões de ser uma celebridade, deixa a cidade e sua carreira para trás para se encontrar em uma comunidade agrícola de uma pequena cidade.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ARDENTE PACIÊMCIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4BEJWTFIKU46PRIBYFCIKI2LJFPKJRCN</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/plSUrCv17GRqFph7qSKfhT0jwcH.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Ao se tornar carteiro de Pablo Neruda, um jovem mergulhou em um mundo que alimenta seu sonho de ser poeta e conquistar a mulher que sempre quis.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ATÉ O LIMITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:de6fe99f34b377fa53d89df0ebd7f0751ee64d3d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iBynixF4Yhelp6Pe6alO6GgBzWT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um apresentador recebe uma ligação, onde uma pessoa desconhecida ameaça matar toda a família do showman no ar. Para salvar os entes queridos, o radialista terá que jogar um jogo de sobrevivência e a única maneira de vencer é descobrir a identidade do criminoso.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A NOVATA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3XKOH5TJANVQ4CZQ27PKSRYCM4M7OJ56</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aZgdsGk8Oo7bwhVBtg43pM3hbM5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma caloura (Isabelle Fuhrman) se junta ao competitivo time de remo da sua nova universidade e adentra numa obsessiva jornada para o topo, custe o que custar.</info>
 </item>
 
 <item>
@@ -56,14 +96,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/k2v9xSPtiyxCNxaRGtj7COwdgG3.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Quando as crianças acidentalmente quebram um presépio da coleção de seu pai, elas devem substituí-lo, mas o problema é que é uma peça antiga única.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] EMANCIPAÇÃO - UMA HISTÓRIA DE LIBERDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f690f10b6390becfb644fb477a1a73dca766157</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/izTIOynukDcN9dp7uPlwBjHr8f5.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Emancipação – Uma História de Liberdade conta a triunfante história de um homem escravizado que foge e atravessa os pântanos da Louisiana, nos Estados Unidos, em uma jornada tortuosa para escapar dos proprietários de plantações que quase o mataram. Peter (Will Smith) é o homem em busca da sua liberdade, que escapa da escravidão confiando em sua inteligência, fé inabalável e profundo amor por sua família, fazendo o impossível para se livrar dos caçadores de sangue frio nos implacáveis pântanos da Louisiana. O filme é inspirado nas fotos reais, de 1863, de Peter chicoteado (Whipped Peter), tiradas durante um exame médico do Exército dos EUA, que apareceram, pela primeira vez, na revista Harper’s Weekly. Uma destas fotos, conhecida como As Costas Açoitadas (The Scourged Back), mostra as costas nuas de Peter mutiladas pelas chicotadas de seus escravizadores e acabou contribuindo para a crescente oposição pública à escravidão, se tornando um símbolo das atrocidades cometidas em seu tempo.</info>
 </item>
 
 <item>
