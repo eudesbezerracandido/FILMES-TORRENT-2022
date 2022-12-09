@@ -27,6 +27,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] HELLRAISER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc929b74600cab40ff377409ed96cf78ee098245</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aJfsJOkKSulyok0FjPoCt6EA1BN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nesta releitura da seminal franquia Hellraiser de Clive Barker, uma jovem deve enfrentar as forças sádicas e sobrenaturais por trás de uma enigmática caixa de quebra-cabeças responsável pelo desaparecimento de seu irmão.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O TROLL DA MONTANHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ede2cca258b256a067032c9dc84071bb9ee6a307</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/p0ubliuZzVEIHWiIJY64Bzyymbc.jpg</thumbnail>
