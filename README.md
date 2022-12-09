@@ -35,6 +35,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] UM JANTAR PERFEITO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35fb2a5d0991309196d9a989ad1def61e1f3d30e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8QxcXQpWR7ROPNe7vZmsVkFWTzA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Carmine dirige um restaurante para lavar dinheiro sujo e acaba colaborando com Consuelo, uma chef em busca da perfeição. O amor pela comida e o sonho de ganhar uma estrela Michelin darão a eles uma oportunidade de redenção.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ENCOMENDA PARA NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dc349fa1c248837d912fe955afe7cd2f04199af1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4mV4WRHGMYjMSL7G7r9PbVGQcxs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de sofrer uma sabotagem, uma entregadora e um cliente prestativo precisam correr para entregar os presentes de Natal.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O TROLL DA MONTANHA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ede2cca258b256a067032c9dc84071bb9ee6a307</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/p0ubliuZzVEIHWiIJY64Bzyymbc.jpg</thumbnail>
