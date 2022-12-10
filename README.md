@@ -51,6 +51,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] NATAL NO PARAISO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HGV42XGKWYFO5DHFOJENIKAMMVHQVITW</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oGmEWfSuzuqWjqJa2KMuQnK9BqG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Kelsey Grammer, Elizabeth Hurley e Billy Ray Cyrus protagonizam esta história de três irmãs peculiares que vão atrás do pai desaparecido até às Caraíbas e encontram a vida, o amor e o riso.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PILOTOS DE GUERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VI23LEL5BN7OPJTCME2KQDUNL7VMOXI2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/c3EnvbwhnT6u7HAiEVunDpNSYv0.jpg</thumbnail>
