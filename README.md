@@ -27,6 +27,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] APENAS UMA FASE, AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WEIQ5W4UJJW37HE4MGZXMRGWMJRRKWHQ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oEB8ksROkhfReVTaeXOXrlpUdTI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O escritor de sucesso Paul e a cobiçada dubladora Emilia sempre foram considerados pelos amigos o casal dos sonhos absoluto: Harmonioso, feliz, bem-sucedido, com três filhos encantadores chamados Bo, Marie e Fe.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] REPUTAÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb673842aa2e871ac5d93dfcf423e4386538188e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9GYtKMUIoDUNufd7VxodaLMIW5O.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após discriminar racialmente Naima durante uma palestra, o professor de direito Richard Pohl tem o trabalho de orientá-la. O comitê disciplinar exige que ele a ajude a se preparar para uma competição de debates.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NATAL AO VIVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a39a173a6f684c21b1e07dadbaa706f0cece2c7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vI3ICLMa4hZGBmKpXpXflyIjIgm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Os ex-melhores amigos, Belén e Lucio levam a competição ao extremo em desafios loucos e extravagantes durante a festa de Natal da empresa para conseguir um emprego cobiçado em um dos principais programas matinais da TV mexicana.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PILOTOS DE GUERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VI23LEL5BN7OPJTCME2KQDUNL7VMOXI2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/c3EnvbwhnT6u7HAiEVunDpNSYv0.jpg</thumbnail>
