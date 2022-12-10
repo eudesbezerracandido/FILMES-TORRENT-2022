@@ -59,6 +59,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FRANCE SOB OS HOLOFOTES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13ebb6614cc4b6ad9e46f5246fe8bfd59f368cd4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wpFJGrThPtTjFLyEc3r9MdQH7xr.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A vida frenética de uma jornalista estrela de TV, presa entre a celebridade e um espiral de eventos que a derrubarão.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] AS LINHAS TORTAS DE DEUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WZRH5RVVLZTOTJMVPWOUOZNNZ4OY7BAX</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/i7xCXKYkuFxx6UglVbSFaBmrwcO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Alice Gould, uma investigadora particular, finge estar mentalmente doente para entrar em um hospital psiquiátrico e reunir provas para o caso em que está trabalhando: a morte de um paciente em circunstâncias pouco claras.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MATRIMILHAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:37aaffbe3eede721ab73fa713b67122fa217e86f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/b5M8xOeAMrKZLNFMdNThHAEcM9v.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em Matrimilhas, um jovem casal em crise encontra a solução para salvar o relacionamento: um aplicativo para somar e subtrair milhas de acordo com os gestos um do outro. Mas o que começa como um jogo se transforma em caos e falta de controle. O título – que une as palavras “casamento” e “milhas”, como o benefício das companhias aéreas – refere-se a uma dinâmica particular nas relações amorosas, que consiste em somar e subtrair pontos na convivência, com o objetivo de obter uma sorte de crédito por bom comportamento, para depois desfrutar de benefícios ou favores em troca. Assim, a trama do filme segue Minujín e Lopilato como um jovem casal com dois filhos, que há algum tempo vive uma crise e parece ter esgotado todas as instâncias e alternativas para resolver seus problemas. O que parece um jogo inocente se tornará uma obsessão absoluta para eles e eles acabarão em uma situação descontrolada.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] PILOTOS DE GUERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VI23LEL5BN7OPJTCME2KQDUNL7VMOXI2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/c3EnvbwhnT6u7HAiEVunDpNSYv0.jpg</thumbnail>
