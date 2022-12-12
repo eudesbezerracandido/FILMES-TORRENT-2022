@@ -19,6 +19,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] REIS MAGOS VS, PAPAI NOEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TZDHOXAJPZ7LAS5YTMRIP7EQUOYZKC2B</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qaS01Y7eMSZasrMeDmkq1aGhzBN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Acompanha os Três Reis Magos, que estão fartos de o Papai Noel ter cada vez mais destaque deles. E decidem enfrentá-lo sem saber que esta guerra despertará um inimigo comum muito mais perigoso: o Krampus.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] RAINHA DO NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4758734d7322644fed440eb0a282ec58edccc89</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2EiFqwRpT434FFdKYD6wIZAqlM1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ashley sempre foi a Rainha do Natal da sua cidade, até surgir um rival: o charmoso Ben, um rapaz jovem que adora o Natal tanto quanto ela. Mas, quando surgem problemas, eles deverão unir as suas forças para tornar o Natal ainda mais significativo. Também cadastrado no imdv como "Wrapped up in Love".</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] EMANCIPAÇÃO - UMA HISTÓRIA DE LIBERDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f690f10b6390becfb644fb477a1a73dca766157</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/izTIOynukDcN9dp7uPlwBjHr8f5.jpg</thumbnail>
