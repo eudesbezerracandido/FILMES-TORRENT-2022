@@ -27,6 +27,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MUCHO LOCOS NO NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d183cfcf7ac90b1f6b520d8a10485b420b08c714</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xJEJP8efhKgqu6z4dpe8P845VE7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Assim como o filme original, a continuação é ambientada num futuro próximo onde bebidas alcoólicas e drogas são proibidas, exceto durante um dia maravilhoso do ano. Neste ano, o tão aguardado dia vai cair milagrosamente no Natal.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] RAINHA DO NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4758734d7322644fed440eb0a282ec58edccc89</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/2EiFqwRpT434FFdKYD6wIZAqlM1.jpg</thumbnail>
