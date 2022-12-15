@@ -27,6 +27,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MISTÉRIO DA TERRA DOS DOCES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43cb321cf8c5ce3859297bf6e7ae826c0b0e1cda</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xyPRWZk6tWyrCVnSGMR2Sl0H5rY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Pouco antes do Ano Novo, os destinos de Katya e Sonya, duas garotas com condições de vida opostas, se entrelaçam de maneira inesperada. Elas são completamente diferentes: uma mora com seu irmão mais novo em um orfanato, e a segunda mora com seu pai rico e uma governanta em uma mansão rural. A única coisa que Sonya não tem é sua mãe, que desapareceu sem explicações. Mas o destino tem um segredo guardado para as duas. Quando Sonya vai ao circo, Katya e seu irmão também estão lá. O encontro das crianças fará com que vivam uma incrível jornada, enquanto tentam resolver um grande mistério.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O SONHO DE ONTEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d6a90f978d256ddbad4ad58ee81bba585f5b5ae4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wnxUfNb1PHrFaUgyGnLQ1WGSmdA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Perez Prado, o Rei do Mambo, desperta na Cidade do México em 2020. Ele procura Magdalena, o amor da sua vida. Durante a sua aventura conhece Lazaro, um jovem que o guiará através da cidade. Perceberá que a vida noturna e a sua música ainda estão vivas enquanto finalmente encontra Magdalena.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SEM CONTROLE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6ad7c7913cdf739f6241230b4c25b7dae3f68d5</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qhDhGzwoDOLpZ73wv1TJ7BYI2IT.jpg</thumbnail>
