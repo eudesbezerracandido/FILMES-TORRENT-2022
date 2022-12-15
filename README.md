@@ -4,7 +4,7 @@
 
 
 <item>
-<title>[COLOR silver][B] DUAOLOGIA -  AVATAR  2 -O CAMINHO DA ÁGUA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] DUOLOGIA -  AVATAR  2 -O CAMINHO DA ÁGUA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CQJZAQWT6YGXMMVYSXJWRKZ3QW3EZQLV$nome=AVATAR 2</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XE3FSLZO7T7IFVZAZPQSAPZ5ZT6EXPRS$nome=AVATAR 1</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kUAG4ZQcsNbRyiPyAr3hLdsVgAq.jpg</thumbnail>
@@ -26,6 +26,22 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/doFGXRBPqUnfEhIsOiVXQYeLB7V.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/5aGvMSMfE6BqQXR3mG46zjgX8V8.jpg</fanart>
 <info>Quase 5.000 anos depois de ter sido agraciado com os poderes onipotentes dos deuses egípcios - e preso com a mesma rapidez - Adão Negro (Johnson) é libertado de sua tumba terrena, pronto para liberar sua forma única de justiça no mundo moderno.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O  PERDOADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FLLGM7N6L4VMPBJM6676K3KSBVRRCXXA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6qDIG0G0ARjgej8pOoazZqzi3Uz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um casal britânico tem que lidar com as consequências de um acidente aleatório, seus amigos e os marroquinos locais convergem em uma vila luxuosa deserta durante uma festa.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] GONE IN THE NIGHT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:87802557c884a2d3a48f8b39bc8bac2a819acc49</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qFbdnFFYiBKyyZVE56N7KIKLl2e.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando Kath e o namorado dela chegam a uma cabana isolada em uma floresta de sequoias, eles encontram um jovem e misterioso casal que já estava lá. O namorado dela desaparece com a jovem mulher e Kath torna-se obcecada em encontrar uma explicação.</info>
 </item>
 
 <item>
