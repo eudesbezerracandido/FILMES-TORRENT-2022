@@ -19,6 +19,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] PROGRAMA DNA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1df17a4f5d4fd35c9657d56665e7fa070cd8e46</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fS4iDFNLxRJngyzS7n2JoPvfhDp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Após um humilde carteiro ser introduzido ? um programa ultrassecreto de DNA sobre-humano, ele se torna capaz de receber, controlar e enviar informações baseadas nos sentidos dos outros.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UNDER WRAPS: UMA MÚMIA NO HALLOWEEN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42ded78840d22bf70e9ce6e4a15e11e5a365a412</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/y37QvulwOJ1uv0onnDB4ocWEQZn.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Remake do clássico do Disney Channel de 1997. Os amigos Marshall, Gilbert e Amy acidentalmente ressuscitam e libertam uma múmia de seu sarcófago nos dias que antecederam o Halloween. A princípio apavorados, eles rapidamente descobrem que a múmia que eles chamam afetuosamente de 'Harold' é na verdade muito doce e precisa urgentemente de ajuda.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] REIS MAGOS VS, PAPAI NOEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TZDHOXAJPZ7LAS5YTMRIP7EQUOYZKC2B</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/qaS01Y7eMSZasrMeDmkq1aGhzBN.jpg</thumbnail>
