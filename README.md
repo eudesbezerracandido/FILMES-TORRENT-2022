@@ -27,6 +27,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SEM CONTROLE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6ad7c7913cdf739f6241230b4c25b7dae3f68d5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qhDhGzwoDOLpZ73wv1TJ7BYI2IT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Situado no crepúsculo de neon de uma mega-cidade futurista influenciada por chineses, segue duas almas solitárias; Jack, um assassino endurecido, e April, uma cantora de boate. Juntos, eles buscam o significado de ser humano, até confrontá-los, revelando o verdadeiro mistério de sua existência.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] OS BANSHEES DE INISHERIN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a0867a18440a37a307e5052c9b0dc18a986132b</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/rakuuNLbDX0OdQ9QQjnVH6YwVzt.jpg</thumbnail>
