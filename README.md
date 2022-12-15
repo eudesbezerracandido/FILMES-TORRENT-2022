@@ -2,6 +2,16 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] DUAOLOGIA -  AVATAR  2 -O CAMINHO DA ÁGUA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CQJZAQWT6YGXMMVYSXJWRKZ3QW3EZQLV$nome=AVATAR 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XE3FSLZO7T7IFVZAZPQSAPZ5ZT6EXPRS$nome=AVATAR 1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kUAG4ZQcsNbRyiPyAr3hLdsVgAq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/f17iTvqKQBFKq9GOxWStkuOVn8x.jpg</fanart>
+<info>Doze anos depois de explorar Pandora e se juntar aos Na'vi, Jake Sully formou uma família com Neytiri e se estabeleceu entre os clãs do novo mundo. Porém, a paz não durará para sempre.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] PANTERA NEGRA-WAKANDA PARA SEMPRE ( HDCAM ) V9.A9 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VWLIX2RIGQXQXD25F2CLE3BAZ5WUSUOY</link>
