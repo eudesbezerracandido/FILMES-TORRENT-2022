@@ -27,6 +27,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] OS BANSHEES DE INISHERIN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3a0867a18440a37a307e5052c9b0dc18a986132b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rakuuNLbDX0OdQ9QQjnVH6YwVzt.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O filme se passa em uma ilha irlandesa remota, com dois amigos que se envolvem em conflito.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] PARA SEMPRE AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99a52947e01449aeb8c7440468d54bbe31332ba4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yuIsVUUQHvOc5UH5R0pVcXVUTX0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Enquanto Elizabeth tenta manter o restaurante de seu falecido marido, uma vez aclamado, ela é forçada a trabalhar com um consultor para mudar as coisas. Ele reacende sua paixão pela panificação e pela própria vida.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ELE ACRÉDITA EM PAPAI NOEL! [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f5e8579ec64412ab571685a43e91c08a1ccecd8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zMZEycAuLPQ2dBweIzDqUsiS8lp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de cinco meses de namoro, Lisa descobre que Tom adora a data comemorativa que ela mais odeia.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UNDER WRAPS: UMA MÚMIA NO HALLOWEEN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42ded78840d22bf70e9ce6e4a15e11e5a365a412$nome=UNDER WRAPS: UMA MÚMIA NO HALLOWEEN 2</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:561169cd6d59839b79a61dad3e9517a6f8c22118$nome=UNDER WRAPS: UMA MÚMIA NO HALLOWEEN 1</link>
