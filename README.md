@@ -28,7 +28,8 @@
 
 <item>
 <title>[COLOR silver][B] UNDER WRAPS: UMA MÚMIA NO HALLOWEEN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42ded78840d22bf70e9ce6e4a15e11e5a365a412</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42ded78840d22bf70e9ce6e4a15e11e5a365a412$nome=UNDER WRAPS: UMA MÚMIA NO HALLOWEEN 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:561169cd6d59839b79a61dad3e9517a6f8c22118$nome=UNDER WRAPS: UMA MÚMIA NO HALLOWEEN 1</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/y37QvulwOJ1uv0onnDB4ocWEQZn.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Remake do clássico do Disney Channel de 1997. Os amigos Marshall, Gilbert e Amy acidentalmente ressuscitam e libertam uma múmia de seu sarcófago nos dias que antecederam o Halloween. A princípio apavorados, eles rapidamente descobrem que a múmia que eles chamam afetuosamente de 'Harold' é na verdade muito doce e precisa urgentemente de ajuda.</info>
