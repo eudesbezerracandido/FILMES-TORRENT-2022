@@ -5,9 +5,9 @@
 
 <item>
 <title>[COLOR silver][B] DUOLOGIA -  AVATAR  2 -O CAMINHO DA ÁGUA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CQJZAQWT6YGXMMVYSXJWRKZ3QW3EZQLV$nome=AVATAR 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CQJZAQWT6YGXMMVYSXJWRKZ3QW3EZQLV$nome=SERVIDOR 1 AVATAR 2</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XE3FSLZO7T7IFVZAZPQSAPZ5ZT6EXPRS$nome=AVATAR 1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:14139042d3f60d7632b895d368ab3b85b64cc175$nome=AVATAR 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:14139042d3f60d7632b895d368ab3b85b64cc175$nome=SERVIDOR 2 AVATAR 2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kUAG4ZQcsNbRyiPyAr3hLdsVgAq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/f17iTvqKQBFKq9GOxWStkuOVn8x.jpg</fanart>
 <info>Doze anos depois de explorar Pandora e se juntar aos Na'vi, Jake Sully formou uma família com Neytiri e se estabeleceu entre os clãs do novo mundo. Porém, a paz não durará para sempre.</info>
@@ -27,6 +27,14 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/doFGXRBPqUnfEhIsOiVXQYeLB7V.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/5aGvMSMfE6BqQXR3mG46zjgX8V8.jpg</fanart>
 <info>Quase 5.000 anos depois de ter sido agraciado com os poderes onipotentes dos deuses egípcios - e preso com a mesma rapidez - Adão Negro (Johnson) é libertado de sua tumba terrena, pronto para liberar sua forma única de justiça no mundo moderno.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B]  A QUEDA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c69489f19f90ee04c96d80ca6e891b424b25dfc7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/68SX7S9lisehbuZLNX4CrVMxV1v.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Becky e Hunter são duas amigas que buscam aventura e enfrentam grande alturas em suas escaladas. Depois de um grande drama vivido por elas, as duas decidem escalar uma remota torre de rádio abandonada com mais de 2000 pés de altura. Parecia a aventura perfeita para desligar a mente do trágico acontecimento que vivenciaram com o namorado de uma delas. Elas não contavam que ficariam presas e isoladas naquele lugar sem sinal de celular, sem energia e sem pessoas por perto.</info>
 </item>
 
 <item>
@@ -495,7 +503,7 @@
 </item>
 
 <item>
-<title>[COLOR silver][B]UM MISTÉRIO DE NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] UM MISTÉRIO DE NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56ed174f71ceedb2e00b2c44b3cd5d7ce5c753a1</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/2NXBuV3xsweIIZeE89O8qFkoZDZ.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
@@ -1938,14 +1946,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/AtiAjYCyUop1uyjJhKzmi3qnNLp.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Após a morte de sua mãe e sem ter nenhum outro parente conhecido, Evie faz um teste de DNA e descobre um primo perdido que ela não sabia que existia.Convidada pela sua nova família para um casamento, ela sente uma grande atração pelo sexy anfitrião. Mas Evie logo terá que lutar pela sobrevivência ao descobrir os segredos sinistros da história de sua família e as intenções perturbadoras por trás de sua generosidade pecaminosa.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B]  A QUEDA DUBLADO NÃO OFICIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6F9F076C97909D9F57B2248F24F62D9A45953901</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/68SX7S9lisehbuZLNX4CrVMxV1v.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Becky e Hunter são duas amigas que buscam aventura e enfrentam grande alturas em suas escaladas. Depois de um grande drama vivido por elas, as duas decidem escalar uma remota torre de rádio abandonada com mais de 2000 pés de altura. Parecia a aventura perfeita para desligar a mente do trágico acontecimento que vivenciaram com o namorado de uma delas. Elas não contavam que ficariam presas e isoladas naquele lugar sem sinal de celular, sem energia e sem pessoas por perto.</info>
 </item>
 
 <item>
