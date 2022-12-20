@@ -75,7 +75,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/CGgdR5dJyGa3g9j95VuESL9q0Y.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Batoul é uma imigrante marroquina que vive na Bélgica com seu filho adolescente Ismael e seu marido abusivo. Quando Ismael desaparece, Batoul descobre que ele foi radicalizado por um grupo extremista e viajou para a Síria para se juntar aos rebeldes. Tentando localizá-lo e trazê-lo para casa, ela viaja sozinha e se disfarça de jornalista para entrar na zona de combate, mas acaba sendo emboscada e testemunhando a realidade agoniante de uma guerra devastadora. Agora, apenas sua coragem e seu amor incondicional pelo filho permitirão que Batoul supere todos os obstáculos e sobreviva aos perigos mortais do confronto.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] A MALDIÇÃO-DISPERTAR DOS MORTOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
