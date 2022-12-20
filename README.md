@@ -46,6 +46,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] VIAGEM ENTRE ESTRANHOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5c28f847807bebf049a3b2e327e97221c55f5948</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ooTkGnu4P6fc4mlxtA8JXP4U2OV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma viagem cheia de diálogos de Bla Bla, num carro, cheia de situações cômicas e muitas emoções e tensão.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BROMATES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CLRG22MMV4KNDVLRYCMJCHF2T6XEVNHF</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hAaJ1XFp5FELxwJ98IWI598zaMy.jpg</thumbnail>
