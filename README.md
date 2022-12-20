@@ -23,7 +23,7 @@
 
 <item>
 <title>[COLOR silver][B] ADÃO  NEGRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:334011cf4132409d97a8d296f863c3ba7386e811</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QUKU4DVY43ZJ6Z5TTQAMAT3CEPS7GTAN</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/doFGXRBPqUnfEhIsOiVXQYeLB7V.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/5aGvMSMfE6BqQXR3mG46zjgX8V8.jpg</fanart>
 <info>Quase 5.000 anos depois de ter sido agraciado com os poderes onipotentes dos deuses egípcios - e preso com a mesma rapidez - Adão Negro (Johnson) é libertado de sua tumba terrena, pronto para liberar sua forma única de justiça no mundo moderno.</info>
@@ -35,6 +35,38 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/68SX7S9lisehbuZLNX4CrVMxV1v.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Becky e Hunter são duas amigas que buscam aventura e enfrentam grande alturas em suas escaladas. Depois de um grande drama vivido por elas, as duas decidem escalar uma remota torre de rádio abandonada com mais de 2000 pés de altura. Parecia a aventura perfeita para desligar a mente do trágico acontecimento que vivenciaram com o namorado de uma delas. Elas não contavam que ficariam presas e isoladas naquele lugar sem sinal de celular, sem energia e sem pessoas por perto.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] NOVE DIAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e85a07e47ad49f57558c2aee38c7c6f3cc5a56b0</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oMlyNKkdBCJX2t1zKy8dl8t2BXS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em uma casa distante da realidade que conhecemos, um homem recluso (Winston Duke) entrevista possíveis almas humanas, candidatas para renascer.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] BROMATES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CLRG22MMV4KNDVLRYCMJCHF2T6XEVNHF</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hAaJ1XFp5FELxwJ98IWI598zaMy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dois melhores amigos que terminam com suas namoradas ao mesmo tempo, posteriormente decidem morar um com o outro.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A MALDIÇÃO-DISPERTAR DOS MORTOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30e6c438dbf5cedbc2c16bfedfb66e91a9e72779</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/k3IgF9W8ZD6BBdz2bljQAHydFCe.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Sobre uma adolescente que tem a habilidade de trazer a morte usando caracteres chineses, nomes, fotos e pertences, e uma repórter de questões sociais, lutando contra o enorme mal escondido atrás de um conglomerado de TI.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A LOTÉRIA-O SONHO MEXÍCANO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:40407418e82e6850d8f51d19e2eb646d3ef5ec74</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/lR45LDhpjaBdk1JgRnuRXficWnC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Inspirado em fatos verídicos do roubo da “Loteria Mexicana”, essa é a história de um grupo de funcionários públicos que planejam a maior fraude da história usando uma arma poderosa: a magia da televisão.</info>
 </item>
 
 <item>
