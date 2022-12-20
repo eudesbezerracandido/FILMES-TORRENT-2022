@@ -62,6 +62,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A BABÁ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b24bb713f53f6318ab03cd8a93614758a31cd28f</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mPhXHRudGxsXIQq1WM6oVePkFIp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Aisha, uma babá imigrante, monta uma nova vida em Nova York, enquanto cuida do filho de uma família do Upper East Side. Ela é forçada a enfrentar uma verdade oculta que ameaça destruir seu sonho americano.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DESTINOS TRAÇADOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2eefbfa2ea52620f263e08f1f20fdf2d2e2a8f7e</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xfxdIBdNHhPhIVCWWDVfzsKG03Y.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando ambos os seus pedidos de noivado são um fracasso, os românticos incorrigíveis Margot e Griffin encontram-se juntos na véspera de Ano Novo após uma série de eventos fatídicos. Ambos acreditando no amor verdadeiro, eles partem em uma jornada mágica e cômica juntos, apenas para perceber rapidamente que o amor que eles estão procurando o tempo todo pode estar bem na frente deles.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A CONSELHEIRA DO AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E53GFWZXFZKZFJUGSJYEJ536IE53WI7E</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/5UL7NvFUreESbxqvBLAQF7i55Ty.jpg</thumbnail>
