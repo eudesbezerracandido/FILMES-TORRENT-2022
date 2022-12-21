@@ -46,6 +46,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] NATAL OUTRA VEZ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A7JGDS6KBF4USI37WG5BUYON5T76BQ3L</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/u8cbfqsFcXBgoJhnsajx9tMTpTp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Amaldiçoado por uma fada, um homem rabugento acorda um ano no futuro sem se lembrar de nada e percebe que seu maior pesadelo virou realidade: o Natal chegou para ficar.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BRINCANDO COM O NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:672d7caf55ff4066af202d106b1a016cbccbf999</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1S7JONfCpdBGg3IWq4wl9vqmfwm.jpg</thumbnail>
