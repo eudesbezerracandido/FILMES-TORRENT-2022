@@ -46,6 +46,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - VULCÃO WHAKAARI RESGATE NA NOVA ZELÃNDIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4518fc5d56d4258ab052e35236d3412261e529dd</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gSTZ7B1yn6AeTAbxKvwqOkbXKyh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>No Documentário Vulcão Whakaari Resgate na Nova Zelândia Torrent (2022) WEB-DL 1080p Dublado, Com imagens detalhadas, relatos de sobreviventes e das equipes de resgate, este documentário retrata a erupção vulcânica que aconteceu na Nova Zelândia em 2019.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A CASA DA MORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3e53781620b18be0619208335be662f796c17f9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1pkdudkxnK3mBlH3thy3FL7BN0Z.jpg</thumbnail>
