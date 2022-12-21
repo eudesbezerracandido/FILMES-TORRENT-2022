@@ -39,8 +39,8 @@
 
 <item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - VALE DOS CANGURUS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/kbEC5iTG2gekZTTVocSOj14cGxB.jpg</thumbnail>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03430815d482ba2ff92decbf71562a919d5c1d8b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/5pl84OGmiTSKgZNcGF2w3S9W0DB.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Esta série mostra um australiano que cria quase 30 cangurus num santuário. Esta série acompanha um australiano que resgata filhotes de canguru e cria um bando de quase 30 destes animais em um santuário no Outback, perto de Alice Springs. Vamos viajar o planeta e descobrir os segredos dos lugares intocados.</info>
 </item>
