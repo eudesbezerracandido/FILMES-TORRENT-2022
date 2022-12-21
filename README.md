@@ -38,6 +38,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] A CASA DA MORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3e53781620b18be0619208335be662f796c17f9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1pkdudkxnK3mBlH3thy3FL7BN0Z.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um grupo de limpadores de cenas de crime luta para escapar de uma casa de assassinato depois de ficar preso por um antigo demônio nórdico que está determinado a deixá-los loucos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] BRINCANDO COM O NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:672d7caf55ff4066af202d106b1a016cbccbf999</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1S7JONfCpdBGg3IWq4wl9vqmfwm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Danielle (Cindy Busby), uma designer viciada em trabalho, retorna à sua cidade natal de Holly Pines para as férias para ensinar seu filho sobre algumas das adoradas tradições natalinas da cidade, especialmente o trem North Pole Express.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UMA NOITE SOMBRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:721cfd44c9917135437c290467aaf84053f8b207</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nzePP5O9smcQ7QKdKa6jZauby5D.jpg</thumbnail>
