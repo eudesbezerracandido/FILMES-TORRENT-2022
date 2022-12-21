@@ -38,6 +38,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] UMA NOITE SOMBRIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:721cfd44c9917135437c290467aaf84053f8b207</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nzePP5O9smcQ7QKdKa6jZauby5D.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em 1987, em St. Michael, na Áustria, um grupo de amigos do ensino médio descobre um antigo jogo de tabuleiro e começa a jogar. Eles são consumidos por seu novo passatempo viciante. No entanto, as coisas se tornam mortais ... os jogadores começam a enfrentar uma morte perturbadora e os sobreviventes juram nunca mais falar sobre o jogo. Avanço rápido para 2021 e uma série de mortes estranhas na mesma pequena cidade abalaram os habitantes locais ... tendo semelhanças impressionantes com os eventos de mais de trinta anos atrás, os eventos devastadores poderiam estar ligados? Dois detetives com ligações pessoais com a área são reunidos para trabalhar no caso. Quando eles rastreiam os envolvidos no mistério original, todos aqueles anos atrás, as coisas começam a ficar complicadas… fica perigosamente perto de casa.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] CROC! [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:373FDA198F5A14789C13CA84EE80E038FCDB939D</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/u4Xq3M0NMAimB95tgGLblTeVThn.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> No interior da Inglaterra, Lisa e Charlie se preparam para o casamento na Mansão Tudor, o que eles não esperavam é que um crocodilo furioso está à espreita e determinado a arruinar o grande da deles.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NOVE DIAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e85a07e47ad49f57558c2aee38c7c6f3cc5a56b0</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/oMlyNKkdBCJX2t1zKy8dl8t2BXS.jpg</thumbnail>
