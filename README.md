@@ -38,6 +38,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - VALE DOS CANGURUS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kbEC5iTG2gekZTTVocSOj14cGxB.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Esta série mostra um australiano que cria quase 30 cangurus num santuário. Esta série acompanha um australiano que resgata filhotes de canguru e cria um bando de quase 30 destes animais em um santuário no Outback, perto de Alice Springs. Vamos viajar o planeta e descobrir os segredos dos lugares intocados.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A CASA DA MORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3e53781620b18be0619208335be662f796c17f9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1pkdudkxnK3mBlH3thy3FL7BN0Z.jpg</thumbnail>
