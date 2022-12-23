@@ -39,6 +39,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] NOITE INFELIZ (LEGENDADO) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9010d0565920c6e6e84291a6a154d118f560230</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rZSsZpKPcttcdJtEfCuNP2xwwvl.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Para o inferno com "tudo está calmo". Da 87North, os produtores despidos de Anônimo, John Wick, Atômica, Deadpool 2 e Velozes & Furiosos: Hobbs & Shaw, vem aí um feriado escuro como carvão que diz que você deve sempre apostar no vermelho. Quando uma equipe de mercenários invade um complexo familiar rico na véspera de Natal, levando todos de reféns, a equipe não está preparada para um combatente surpresa: Papai Noel (David Harbour, Viúva Negra, série Stranger Things) está no local, e ele está prestes a mostrar por que esse Papai não é nenhum santo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] GLASS ONION- UM MISTÉRIO KNIVES OUT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7fcc8371366560f4872ab585633fb86108060e3d</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zQJcENHbZUpLQ8RKYt9wTzcXCwv.jpg</thumbnail>
