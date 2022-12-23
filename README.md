@@ -38,6 +38,30 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] FINALE-DIVERSÃO MORTAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d84f470ef627c52da374cf9476bb316a14ffbf1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1jpWlltPr9zO3XMXA8gmT3M5TGs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Dois frentistas de um posto de gasolina involuntariamente se tornam as estrelas de um show aterrorizante transmitido ao vivo pela dark web. Mantidos em cativeiro por um mestre de cerimônias sádico, seus instintos de sobrevivência são levados ao limite, enquanto uma audiência invisível decide seu destino.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A LUZ DO DÊMONIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YSW5PDJINGK3WXD53COCORNJ3OZTJ2S3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mYa1vhjTYakyNCB65lR8Y7jujBn.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma freira se prepara para realizar um exorcismo e fica cara a cara com uma força demoníaca com laços misteriosos com seu passado.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UM AMOR COM SABOR DE  NATAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f52df1b9c3f200ef1b89b865bcb71f340c83439</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kIV1ZYWl0EFbB0TXI2MNre6uLUV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Segue Hazel, que vai passar as férias em sua cidade natal, onde um romance começa a florescer com um empreiteiro local que ajuda seu pai na padaria da família, mas alguns mal-entendidos ameaçam separá-los.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DOCUMENTÁRIO - VALE DOS CANGURUS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03430815d482ba2ff92decbf71562a919d5c1d8b</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/5pl84OGmiTSKgZNcGF2w3S9W0DB.jpg</thumbnail>
