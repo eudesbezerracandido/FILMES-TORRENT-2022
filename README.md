@@ -39,6 +39,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O MATADOR-MISSÃO RESGATE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:940c2eeddd69c454a7b2b5b20fa74e919d77657a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9aVY0w3q2bxZX9rcGOGSWiM7mH8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um assassino aposentado cuja esposa viaja com o amigo e pede que ele cuide da filha adolescente do amigo. As coisas dão errado quando ele é forçado a usar um pouco de violência para proteger a garota de delinquentes juvenis, mas então eles são encontrados mortos e a garota é sequestrada.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] FINALE-DIVERSÃO MORTAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d84f470ef627c52da374cf9476bb316a14ffbf1</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1jpWlltPr9zO3XMXA8gmT3M5TGs.jpg</thumbnail>
