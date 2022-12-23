@@ -46,6 +46,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] MERGULHO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ba93a9c36a09b9ba47a6a737b703207c660af4b</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9ZBxUB88P1qQKywVCYxqGKbe75t.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Mariel é uma mergulhadora veterana e competitiva que tem uma última chance nas Olimpíadas. No entanto, quando uma terrível verdade vem à tona, Mariel tem que enfrentar seu maior dilema pessoal: ela está realmente conquistando seu sonho?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A LUZ DO DÊMONIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YSW5PDJINGK3WXD53COCORNJ3OZTJ2S3</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mYa1vhjTYakyNCB65lR8Y7jujBn.jpg</thumbnail>
