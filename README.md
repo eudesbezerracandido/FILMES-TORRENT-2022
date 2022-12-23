@@ -6,8 +6,9 @@
 <item>
 <title>[COLOR silver][B] DUOLOGIA -  AVATAR  2 -O CAMINHO DA ÁGUA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CQJZAQWT6YGXMMVYSXJWRKZ3QW3EZQLV$nome=SERVIDOR 1 AVATAR 2</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XE3FSLZO7T7IFVZAZPQSAPZ5ZT6EXPRS$nome=AVATAR 1</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CC3F949CD84A786463027013351723F816711620$nome=SERVIDOR 2 AVATAR 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F70B6BD37AAC901C01FAA7E8A2FB56E668D228DF$nome=SERVIDOR 3 AVATAR 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XE3FSLZO7T7IFVZAZPQSAPZ5ZT6EXPRS$nome=AVATAR 1</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kUAG4ZQcsNbRyiPyAr3hLdsVgAq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/f17iTvqKQBFKq9GOxWStkuOVn8x.jpg</fanart>
 <info>Doze anos depois de explorar Pandora e se juntar aos Na'vi, Jake Sully formou uma família com Neytiri e se estabeleceu entre os clãs do novo mundo. Porém, a paz não durará para sempre.</info>
