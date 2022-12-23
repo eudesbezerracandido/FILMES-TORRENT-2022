@@ -39,6 +39,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] GLASS ONION- UM MISTÉRIO KNIVES OUT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7fcc8371366560f4872ab585633fb86108060e3d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zQJcENHbZUpLQ8RKYt9wTzcXCwv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Rian Johnson está trabalhando na sequência de seu sucesso de bilheteria Entre Facas e Segredos, com Daniel Craig supostamente retornando no papel do detetive Benoit Blanc.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O MATADOR-MISSÃO RESGATE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:940c2eeddd69c454a7b2b5b20fa74e919d77657a</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9aVY0w3q2bxZX9rcGOGSWiM7mH8.jpg</thumbnail>
