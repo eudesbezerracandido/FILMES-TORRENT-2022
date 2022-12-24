@@ -39,6 +39,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ATÉ OS OSSOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:T2D6YON632GNKN5WKMHCUAKHU5DKMNDF</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/w0dCPc9J2R6wnoO9Joxz6ot703g.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Até os Ossos é a história do primeiro amor de Maren (Taylor Russell), uma jovem mulher aprendendo a sobreviver ? margem da sociedade, e o intenso Lee (Timothée Chalamet), um andarilho sem amarras... Eles se encontram e se unem numa odisseia de mil e quinhentos quilômetros por estradas secundárias, passagens ocultas e alçapões nos Estados Unidos de Ronald Reagan.Mas apesar de seus esforços, todas as estradas os levam de volta aos seus passados traumáticos, e a uma reta final que vai determinar se o amor deles pode sobreviver ? s suas diferenças.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] NOITE INFELIZ (LEGENDADO) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9010d0565920c6e6e84291a6a154d118f560230</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/rZSsZpKPcttcdJtEfCuNP2xwwvl.jpg</thumbnail>
