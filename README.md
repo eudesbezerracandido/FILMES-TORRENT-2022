@@ -20,7 +20,31 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/hraXFMrwg4fWEBBlSpyWhd8Ivue.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Rainha Ramonda, Shuri, M'Baku, Okoye e Dora Milaje, lutam para proteger sua nação das potências mundiais intervenientes após a morte do rei T'Challa. Enquanto os wakandanos se esforçam para abraçar seu próximo capítulo, os heróis devem se unir com a ajuda de War Dog Nakia e Everett Ross e forjar um novo caminho para o reino de Wakanda.</info>
-</item> 
+</item>
+
+<item>
+<title>[COLOR silver][B] MATILDA - O MÚSICAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2cc59c9a0d8b664d851d419d1dbf2f27db2f300</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/x5GR75CM0FbATtHjnAaE7WwUXkX.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A clássica história de Roald Dahl sobre uma garota com poderes mágicos ganhará vida novamente em um filme da Netflix que adaptará tanto o livro quanto o musical da Broadway.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DESCONECTADOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5710abf622c2f44f3b2457d1f7dc537149fabb01</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8Wad2HeJg4Y67dFRGC6oGKqLJWO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Desconectados é uma comédia familiar que conta a história de uma mulher divorciada de 42 anos que tem dois filhos e é viciada em internet. No dia em que está prestes a conseguir o emprego dos sonhos, uma tempestade solar destrói todos os satélites geoestacionários, e o mundo fica sem internet. Então ela tem que aprender a sobreviver offline e a se conectar com seus filhos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] MAIS QUE AMIGOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ZCY5BOW7E2HNV4BCRVGE4CIATPGP7YPT</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fDwxAM6z1Igkwv7b4qobwf46xdM.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma comédia romântica sobre dois amigos gays que percebem que talvez, possivelmente, quem sabe, estejam se apaixonando.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] ADÃO  NEGRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
