@@ -87,6 +87,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] 7 MULHERES E UM MISTÉRIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2182ca327849c3abc35b2b1febb801a033e33f92</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iz2tpJJgSDBS646VYhmNkUmot4l.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O patriarca da família foi esfaqueado. Sete mulheres, todas com motivos para cometer o crime, ficam presas em uma mansão para tentar desvendar o assassinato.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] FELIZ ANO NOSSO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f8c84970d8cb67b7b08c6b6582e640278e8f3979</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qw4R9WRAmf4QkzU4XjkyBbZtGZh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A caminho de uma festa de Ano-Novo, dois estranhos ficam presos em um elevador e acabam criando uma conexão inesperada.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] THE MUSTERS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a36ec0d159a2dac6d95733cc4910d409e1e76722</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kJaEVFhDouD72GKANMkYqzQky9n.jpg</thumbnail>
