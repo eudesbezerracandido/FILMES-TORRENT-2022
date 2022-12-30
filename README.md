@@ -111,6 +111,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] AS APIMENTADAS - TORÇA OU MORRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3741a683732a4ad014bcbeba46dc626fcdad72ef</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/v3EJ27MY8WMm4RU06oX9zh2P9lF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A trama segue um grupo de líderes de torcida enquanto pratica sua coreografia em uma escola abandonada durante a noite de Halloween. Uma por uma, elas são massacradas por um psicopata misterioso.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ATÉ OS OSSOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:T2D6YON632GNKN5WKMHCUAKHU5DKMNDF</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/w0dCPc9J2R6wnoO9Joxz6ot703g.jpg</thumbnail>
