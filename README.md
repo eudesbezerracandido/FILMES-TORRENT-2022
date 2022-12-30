@@ -63,6 +63,38 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ABANDONADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FA3BYMLJXO63CXZOU4TVJFIYI55KRCCX</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kRNZ6aNoYWJcpt5xsVzy36lFHL6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Após dar á luz, Sara (Emma Roberts) e seu marido Alex (John Gallagher Jr.) se mudam para uma casa de fazenda remota, que abriga uma história sombria e trágica. Á medida que o passado de sua casa é revelado, a fragilidade da mãe se transforma em um estado de psicose que põe em risco sua própria segurança e a de seu filho recém-nascido.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TESTE BETA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e063c46a44aad89e3e3f4449deed92532d43e787</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7k9nCIecGo6lnrytPnjggX1yiyl.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um agente casado de Hollywood recebe uma misteriosa carta sobre um encontro sexual anônimo e se vê preso em um mundo sinistro de mentiras, infidelidade e dados digitais.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UMA NOITE NO JARDIM DE INFÂNCIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27ec5a249a2b2c922f3d558dcc5b442f3b906ebf</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cdiSwJWcznX05TSNnLTaFvGia17.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um homem invade uma atividade escolar com a missão de impedir que as professoras e um grupo excêntrico de pais acabem expulsando o filho de sua namorada.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] THE MUSTERS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a36ec0d159a2dac6d95733cc4910d409e1e76722</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kJaEVFhDouD72GKANMkYqzQky9n.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em uma casa assustadora na rua Mockingbird vivem Os Monstros. Eles são honestos e de grande coração, porém não entendem porque os vizinhos desaparecem correndo de pavor quando eles chegam.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ATÉ OS OSSOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:T2D6YON632GNKN5WKMHCUAKHU5DKMNDF</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/w0dCPc9J2R6wnoO9Joxz6ot703g.jpg</thumbnail>
