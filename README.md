@@ -23,6 +23,46 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] M3GAN LEG. HDCAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LZN4MTWCCNGOGJZKW4LPLOJ6C4C2INFX</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ctQ6eS7mLBJhbko2hd6RohGRVEJ.jpg</fanart>
+<info>Uma brilhante roboticista de uma empresa de brinquedos usa inteligência artificial para desenvolver M3GAN, uma boneca realista programada para se relacionar emocionalmente com sua sobrinha recém-órfã. Mas quando a programação da boneca funciona muito bem, ela se torna superprotetora de sua nova amiga... com resultados aterrorizantes.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] A BATALHA DE SHINDISI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da52481ec5a20eb0ae429a171fcf1ef161728e68</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rY4bsuJm07d9XlOq5ysQTl0yuUv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A história do filme é baseada em eventos reais que ocorreram durante a intervenção militar russa na Geórgia em 2008. Shindisi é o nome do lugar onde as forças de ocupação russas cercaram militares georgianos depois que um corredor de paz foi prometido. Isso foi quando os moradores comuns correram riscos para salvar soldados georgianos feridos.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] 90 MINUTOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YFP5MIUGBETWRKVDAZZOXRGPXYLXP3UQ</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sKAj8jKy3C32KUS6VOGBmpeThGE.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Budge, um traficante de drogas, está procurando a tradicional grande pontuação final para tirá-lo de seu negócio de drogas para que ele possa abrir um negócio honesto de conserto de carrocerias com seu amigo Graham. Budge, seu plano é pedir dinheiro emprestado a Joe, um conhecido psicopata. Ele então usará isso para comprar cocaína de gangsters ucranianos que conhece, pois sua namorada Sofia é ucraniana. A desvantagem é que o Budge tem apenas 90 minutos para concluir todas essas etapas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DOCUMENTÁRIO - JACK OSBORNE-EM BUSCA DOS ÓVINS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7JJBZ5MPE5WCOWG4QALHTJW6RANFJZPP</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6DESAF0DIpMxAjQpqkSeOmi70tu.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Jack Osbourne leva os amigos Jason Mewes e Jamie Kennedy em sua busca pela verdade sobre os óvnis. O trio embarca em uma investigação para descobrir se os relatos de fenômenos aéreos inexplicáveis de Utah são reais.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] RÚIDO BRANCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2OX4KCHBLWRN4EADD6MRRYWUW5NRPES4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nNPuuybpp52aABBy59V5Q78xkLh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Jack Gladney (Adam Driver) é um professor universitário que vive com sua quarta esposa Babette (Greta Gerwig) no meio-oeste americano, numa cidadezinha que é evacuada depois de um acidente industrial. Baseado no livro White Noise, de Don DeLillo, o longa aborda os dramas de uma família norte-americana contemporânea, e suas tentativas de lidar com os conflitos mundanos da vida cotidiana, além de buscar compreender os mistérios universais do amor, morte e a necessidade de buscar a felicidade, mesmo em um mundo incerto.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] MATILDA - O MÚSICAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2cc59c9a0d8b664d851d419d1dbf2f27db2f300</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/x5GR75CM0FbATtHjnAaE7WwUXkX.jpg</thumbnail>
