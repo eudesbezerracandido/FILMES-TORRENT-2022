@@ -15,12 +15,12 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] PANTERA NEGRA-WAKANDA PARA SEMPRE ( HDCAM ) V9.A9 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VWLIX2RIGQXQXD25F2CLE3BAZ5WUSUOY</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/hraXFMrwg4fWEBBlSpyWhd8Ivue.jpg</thumbnail>
+<title>[COLOR silver][B] PANTERA NEGRA - WAKANDA PARA SEMPRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:09ce13018624147ef343efab33d02debc28b3e92</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cryEN3sWlgB2wTzcUNVtDGI8bkM.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Rainha Ramonda, Shuri, M'Baku, Okoye e Dora Milaje, lutam para proteger sua nação das potências mundiais intervenientes após a morte do rei T'Challa. Enquanto os wakandanos se esforçam para abraçar seu próximo capítulo, os heróis devem se unir com a ajuda de War Dog Nakia e Everett Ross e forjar um novo caminho para o reino de Wakanda.</info>
-</item>
+<info>A rainha Ramonda, Shuri, M'Baku, Okoye e as poderosas Dora Milaje lutam para proteger sua nação após a morte do rei T'Challa. Com a ajuda da Cão de Guerra Nakia e de Everett Ross, eles tentam encontrar um novo caminho para Wakanda.</info>
+</item> 
 
 <item>
 <title>[COLOR silver][B] M3GAN LEG. HDCAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
