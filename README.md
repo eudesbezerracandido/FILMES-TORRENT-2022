@@ -23,12 +23,13 @@
 </item> 
 
 <item>
-<title>[COLOR silver][B] M3GAN LEG. HDCAM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:LZN4MTWCCNGOGJZKW4LPLOJ6C4C2INFX</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/d9nBoowhjiiYc4FBNtQkPY7c11H.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/ctQ6eS7mLBJhbko2hd6RohGRVEJ.jpg</fanart>
+<title>[COLOR silver][B] M3GAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B1D9DCDA869835F77C9E82DFC52EC74FEB4EE2DB$nome=DUBLADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E75F3301EF81B1A28E4785044C5A564E9A45F531$nome=LEGENDADO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mKOt0XcgYJHI5xKeIY6rfq4Auen.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/jTKHoMmaKHv6IlpKDcouusMZ48Z.jpg</fanart>
 <info>Uma brilhante roboticista de uma empresa de brinquedos usa inteligência artificial para desenvolver M3GAN, uma boneca realista programada para se relacionar emocionalmente com sua sobrinha recém-órfã. Mas quando a programação da boneca funciona muito bem, ela se torna superprotetora de sua nova amiga... com resultados aterrorizantes.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] A BATALHA DE SHINDISI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
