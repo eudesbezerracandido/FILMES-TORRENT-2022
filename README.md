@@ -1,7 +1,22 @@
 # FILMES-TORRENT-2022
 
 
+<item>
+<title>[COLOR silver][B] PREDADOR - A CAÇADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VUEKOYKBUPRNPEDKV4JRTGEISZLE27VY$nome=PREDADOR A CAÇADA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e64e03d4f71b6d149240abc8e3d3c74a08d9041$nome=LEGENDADO 4k</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zRq6O9mnEhYPobffAPVNPm59j93.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ambientado no mundo da Nação Comanche no início de 1700, "O Predador: A Caçada" é a história não contada de uma jovem guerreira altamente qualificada, desesperada para proteger seu povo do perigo iminente. Ela persegue e finalmente confronta sua presa, que acaba sendo um predador alienígena altamente evoluído com um arsenal tecnologicamente avançado, resultando em um confronto brutal e aterrorizante entre os adversários.</info>
+</item>
 
+<item>
+<title>[COLOR silver][B] OLHOS FAMINTOS- O RENASCIMENTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ccf072f0ebfd502464a01e4bdf6143ec5e6971a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/heupe14pwbjTEwyMcnUcs1x8J4O.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Forçada a embarcar numa viagem até um festival de horror na Louisana com seu namorado, Laine começa a experienciar visões perturbadores associadas ao passado da cidade, em particular a uma lenda urbana local conhecida como o Creeper. Com a chegada do festival e o entretenimento sangrento se tornando um frenesi, Laine acredita que algo de outro mundo foi invocado... e ela está no centro de tudo.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] DUOLOGIA -  AVATAR  1/2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
@@ -1820,23 +1835,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/maTuBPCOMEHCUHg1ytgZvsjU7kt.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Em The Survivor, acompanhamos a história de Harry Haft (Ben Foster), um boxeador que lutou contra outros prisioneiros nos campos de concentração para sobreviver após a segunda guerra mundial. Assombrado por memórias e pela culpa, ele tenta usar lutas de alto nível contra lendas do boxe como Rocky Marciano como uma maneira de encontrar seu primeiro amor novamente.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] PREDADOR - A CAÇADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:VUEKOYKBUPRNPEDKV4JRTGEISZLE27VY$nome=PREDADOR A CAÇADA</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e64e03d4f71b6d149240abc8e3d3c74a08d9041$nome=LEGENDADO 4k</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/zRq6O9mnEhYPobffAPVNPm59j93.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Ambientado no mundo da Nação Comanche no início de 1700, "O Predador: A Caçada" é a história não contada de uma jovem guerreira altamente qualificada, desesperada para proteger seu povo do perigo iminente. Ela persegue e finalmente confronta sua presa, que acaba sendo um predador alienígena altamente evoluído com um arsenal tecnologicamente avançado, resultando em um confronto brutal e aterrorizante entre os adversários.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] OLHOS FAMINTOS- O RENASCIMENTO LEG. [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9AD9814026518BB8FF025DFAB164736DD69EE28A</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/heupe14pwbjTEwyMcnUcs1x8J4O.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Forçada a embarcar numa viagem até um festival de horror na Louisana com seu namorado, Laine começa a experienciar visões perturbadores associadas ao passado da cidade, em particular a uma lenda urbana local conhecida como o Creeper. Com a chegada do festival e o entretenimento sangrento se tornando um frenesi, Laine acredita que algo de outro mundo foi invocado... e ela está no centro de tudo.</info>
 </item>
 
 <item>
