@@ -250,7 +250,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/1pkdudkxnK3mBlH3thy3FL7BN0Z.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Um grupo de limpadores de cenas de crime luta para escapar de uma casa de assassinato depois de ficar preso por um antigo demônio nórdico que está determinado a deixá-los loucos.</info>
-</item>
+</item> 
 
 <item>
 <title>[COLOR silver][B] NATAL OUTRA VEZ [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
