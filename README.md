@@ -61,14 +61,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] DOCUMENTÁRIO - JACK OSBORNE-EM BUSCA DOS ÓVINS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7JJBZ5MPE5WCOWG4QALHTJW6RANFJZPP</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6DESAF0DIpMxAjQpqkSeOmi70tu.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Jack Osbourne leva os amigos Jason Mewes e Jamie Kennedy em sua busca pela verdade sobre os óvnis. O trio embarca em uma investigação para descobrir se os relatos de fenômenos aéreos inexplicáveis de Utah são reais.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] RÚIDO BRANCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2OX4KCHBLWRN4EADD6MRRYWUW5NRPES4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/nNPuuybpp52aABBy59V5Q78xkLh.jpg</thumbnail>
@@ -234,14 +226,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/5pl84OGmiTSKgZNcGF2w3S9W0DB.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Esta série mostra um australiano que cria quase 30 cangurus num santuário. Esta série acompanha um australiano que resgata filhotes de canguru e cria um bando de quase 30 destes animais em um santuário no Outback, perto de Alice Springs. Vamos viajar o planeta e descobrir os segredos dos lugares intocados.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] DOCUMENTÁRIO - VULCÃO WHAKAARI RESGATE NA NOVA ZELÃNDIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4518fc5d56d4258ab052e35236d3412261e529dd</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/gSTZ7B1yn6AeTAbxKvwqOkbXKyh.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>No Documentário Vulcão Whakaari Resgate na Nova Zelândia Torrent (2022) WEB-DL 1080p Dublado, Com imagens detalhadas, relatos de sobreviventes e das equipes de resgate, este documentário retrata a erupção vulcânica que aconteceu na Nova Zelândia em 2019.</info>
 </item>
 
 <item>
@@ -742,14 +726,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] DOCUMENTÁRIO -  O SKATE ME LEVOU [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e8887477afe6c590c5c75d1c91d84c73bc73c17</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9Rckj6QGD9eadX8VSsOM2lD4gT3.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>O Documentário conta a trajetória de vida de Roger Mancha, que hoje é técnico da Seleção Brasileira de Skate. Mancha é um dos skatista mais importantes do Skate Brasileiro, responsável por elevar o nível do carrinho em terras tupiniquins, andando em transições, ruas, de base ou de switchstance. Mancha fez parte de equipes icônicas como a internacional City Stars.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] DESERTO PARTICULAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0689d84e16d3169d44b3ea1636277de5e69d3025</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jEKDQnXdRG7wRjvPmJwXJJGLN8t.jpg</thumbnail>
@@ -990,14 +966,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] DOCUMENTÁRIO - OS DONOS DA VERDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74VBWNSW2IJFXBSZOVHUL2X7NGORWWSH</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/m15HJh1UUiZH2WFPteU6oB8aBRM.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>O que acontece quando alguém decide por você o que é verdadeiro ou falso? Qual é o preço da liberdade de expressão? E qual é o custo de perdê-la? Na era das Fake News, duvide das certezas.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] ENXAME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e937a2d2b3b75d8faede3d6bbc9b754196518b39</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hYOloiur1t1O0EDcLKEPSJq2eFL.jpg</thumbnail>
@@ -1043,14 +1011,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/6bcrhJQLoLNsYX4UGTOMQkCiACA.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Maurice Flitcroft, um sonhador e otimista implacável, conseguiu entrar para o British Open Golf Championship Qualifying em 1976 e, posteriormente, disparou a pior rodada da história do Open tornando-se um herói popular no processo.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] DOCUMENTÁRIO -  EM SUAS MÃOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fa810d030594b1d4a40ce50b5bfc2c1d6f192a58</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/vTd3gRGk8a0rtHOWemdvOakVakR.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Um documentário que acompanha Zarifa Ghafari, de 26 anos, a prefeita mais jovem do Afeganistão em uma cidade que é conservadora, mesmo para os padrões afegãos. Filmado ao longo de dois anos turbulentos, In Her Hands conta a história da luta de Ghafari pela sobrevivência, tendo como pano de fundo o acelerado desmoronamento de seu país. Enquanto as forças ocidentais anunciam sua retirada da região e o Talibã inicia sua volta ao poder, Zarifa deve tomar a decisão mais difícil de sua vida uma que ecoa em todo o país.</info>
 </item>
 
 <item>
@@ -1518,14 +1478,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] HACKERS NO CONTROLE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1d3fe839801cf722c5a596cfff37cab1ba969fa</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/AqLfJVXgyS10JLTDLfn4cIgdqGc.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Ao neutralizar uma violação de dados em um ônibus autônomo de tecnologia avançada, a hacker ética Mel Bandison sem querer desmonta uma rede criminosa internacional. De repente, ela vê sua vida virar de cabeça para baixo quando é injustamente acusada de assassinato. Perseguida por criminosos e pela Interpol em uma cidade onde há câmeras por todos os lados, ela pede a ajuda de Thomas, um cara com quem saiu uma vez e que acaba envolvido na situação. Agora ela vai precisar de seu antigo mentor, Buddy Benschop, para tentar provar sua inocência.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] JOHN E O POTRINHO MÁGICO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bbb071de5d8f05fdfbd99c9cf425b5a9b4a04a67</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/eF66ncsrVgVX0Js5xGezRCapTjD.jpg</thumbnail>
@@ -1838,14 +1790,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] DOCUMENTÁRIO-OBI-WAN KENOBI-O RETORNO DO JEDI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3528dc6789dc5b140f1d78dfd01d63eebce9793e</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/lAigwxdmn90bzojW9AX4wfNynVG.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>A produção da Lucasfilm promete levar os fãs aos bastidores da série protagonizada por Ewan McGregor, com imagens inéditas do set, incluindo fotos de Hayden Christensen durante as gravações como Anakin Skywalker e caracterizado como Darth Vader.</info>
-</item> 
-
-<item>
 <title>[COLOR silver][B] A FERA  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e73a542525a93ae63ce59f535de5cd6d915e980</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/crnUUp1cyqwR9NeGhdt0mMQNN0Y.jpg</thumbnail>
@@ -1860,15 +1804,6 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A cinebiografia de Elvis Presley acompanhará décadas da vida do artista (Austin Butler) e sua ascensão à fama, a partir do relacionamento do cantor com seu controlador empresário “Colonel” Tom Parker (Tom Hanks). A história mergulha na dinâmica entre o cantor e seu empresário por mais de 20 anos em parceria, usando a paisagem dos EUA em constante evolução e a perda da inocência de Elvis ao longo dos anos como cantor. No meio de sua jornada e carreira, Elvis encontrará Priscilla Presley (Olivia DeJonge), fonte de sua inspiração e uma das pessoas mais importantes de sua vida.</info>
 </item> 
-
-<item>
-<title>[COLOR silver][B] THOR - AMOR & TROVÃO  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:357cd2df0992cc36ccae21284b68db82cf9fbe7d$nome=THOT AMOR & TROVÃO</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C2AHWY2C4375A55MIA4ZPCRR5WSHB4GR$nome=THOT AMOR & TROVÃO IMAX 4K</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6OEBp0Gqv6DsOgi8diPUslT2kbA.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Thor parte em uma jornada diferente de tudo que já enfrentou – uma busca pela paz interior. Mas sua aposentadoria é interrompida por um assassino galáctico conhecido como Gorr, o Carniceiro de Deus, que busca a extinção dos deuses. Para combater a ameaça, Thor pede a ajuda do Rei Valquíria, Korg e da ex-namorada Jane Foster, que – para surpresa de Thor – inexplicavelmente empunha seu martelo mágico, Mjolnir, como o Poderoso Thor. Juntos, eles embarcam em uma angustiante aventura cósmica para descobrir o mistério da vingança do God Butcher e detê-lo antes que seja tarde demais.</info>
-</item>
 
 <item>
 <title>[COLOR silver][B] JURASSIC WORLD - DOMINÍO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
@@ -2035,14 +1970,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] DOCUMENTÁRIO -  MARY KAY  FACES DE UM ESCANDALO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1229971ecab356d133bc7540ee906ad40bc10c5d</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/lBsARmCAiVyjkSgbJfFiPuDy160.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Em 1997, a polícia prende a professora Mary Kay Letourneau, de 34 anos, por manter um caso com um aluno de 12 anos. Acusada de estupro de incapaz, Letourneau é massacrada pela opinião pública e condenada pelo crime.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] NÃO! NÃO OLHE! [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KIDKFUVRT2VOQOBBB3YIGNQU23S3JUFT</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/5gL1L7q56zyk3NLnqwPjzFkxCfg.jpg</thumbnail>
@@ -2139,14 +2066,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] DOCUMENTÁRIO - TIME DA REDENÇÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91f4e227d60ebdb4a96d4ef21be1be5fc50cefee</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/8G9XOb9bO9LusWEI2dOAyaCf8Bb.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Após o fiasco nos Jogos Olímpicos de 2004, o time de basquete masculino dos EUA busca a redenção e parte para a briga pelo ouro nos Jogos Olímpicos de Pequim de 2008.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] LUTA PELA LIBERDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:918f6d558c405409694f66ef75dd044423936f6a</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4y5DCnVYjmT43jy56qYTERlcYih.jpg</thumbnail>
@@ -2168,14 +2087,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/768OBP28OA4mjavOUAIRlVo14Xu.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A linha de brinquedos Monster High ganha uma versão para o cinema em live-action. As adolescentes Frankie Stein, Draculaura, Cleo de Nile, Clawdeen Wolf e Ghoulia Yelps, filhas de monstros lendários, buscam seu lugar ao sol na escola Monster High.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] DOCUMENTÁRIO - CONVERSANDO COM UM SERIAL KILLER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a55d820955a6077a8e61f5f3ba0b79523e567efa</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/2ZanSihKwPWeVRCn2LPNrtFYiL0.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> O serial killer Jeffrey Dahmer confessa seus crimes horríveis em entrevistas desprotegidas, oferecendo uma visão perturbadora de uma mente perturbada.</info>
 </item>
 
 <item>
@@ -2203,14 +2114,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] DOCUMENTÁRIO - CAÇADORES DE VAMPIROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HPXMPSGZ64B5XM4UXIXEH6S37QQU5BW2</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/tgTslXlyDloCDCaAZUptaR1Pt5k.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Um aumento alarmante nos casos de desaparecimento leva uma dupla de caçadores ao Arizona para investigar se um bando de vampiros saiu da hibernação. A caçada com tecnologia de ponta revela um plano nefasto.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] AMOR DOENTIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:377e490a1d86efc371122c5881d0d6959d7d35b2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/b2v6R4V4vk3dGApTt42sdR2JjoB.jpg</thumbnail>
@@ -2224,22 +2127,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/9qkl34olpFVM9nAuYeveO6uKpaA.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Em A Vida de Togo, traficantes estão tomando as ruas de Montevidéu e extorquindo os trabalhadores que cuidam dos carros da rua, para que trabalhem para eles. Porém, um deles, Togo, resistirá até as últimas consequências para proteger seu território e seus vizinhos da violência. Defendendo seu ganha-pão honesto, ele tentará mobilizar forças para que os guardadores de carro não sejam obrigados a participar do esquema de venda de drogas.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] DOCUMENTÁRIO  OS 13 SOBREVIVENTES DA CAVERNA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ILDTMBQBAYE4S3AFUUTCCC5BDXSALLOM</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/xF55KYpT70qho6PkJf4NQpgjNdL.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Neste documentário cativante, os jovens de uma equipe juvenil de futebol contam como conseguiram sobreviver depois de ficarem presos na caverna Tham Luang em 2018.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] DOCUMENTÁRIO - PÂNICO A HISTÓRIA POR TRAZ DO FILME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AXBNQRPO6QF5XGTZW4COPLXUIDWQYSQO</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/l2vm6wdXjkxxTQSWOoquVUEz4Qo.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Este documentário combina cenas de uma investigação paranormal com cenas roteirizadas e de arquivo para contar a verdadeira história que inspirou o filme Pânico, um clássico do terror.</info>
 </item>
 
 <item>
@@ -2403,14 +2290,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] DOCUMENTÁRIO-UMA VIAGEM AO INFINITO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:YNSVKBU4JFMR2L7WA4MDVQLARCBRF3OO</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/38KllKVpeTLvirHvuLWWy5I71rX.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Nomes importantes da matemática, da física de partículas e da cosmologia mergulham no infinito e em suas desconcertantes implicações para o universo.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] PAIXÃO SUFOCANTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a054f562214f19e7429855b85b8c81755a0c0cd9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kYIPV5vcZOKWiKleJCmZvHAjnBk.jpg</thumbnail>
@@ -2564,14 +2443,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] DOCUMENTÁRIO-COLONIZAÇÃO ESPACIAL-A ULTIMA ESPERANÇA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PKMLCJ4HC2AUA3UKIAUDAAXCFQJLUWFC</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/mHykNHLWiO1ciqlUF7JWfOLzprq.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Dirigido por Rudolph Herzog e produzido por Werner Herzog, este documentário nos leva em uma jornada inesquecível pelo nosso planeta e outros mundos do espaço sideral.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] DESTINOS ATERRORIZANTES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e53f2afde16acf4dbe5263268f99093f8ceddd16</link>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/S/pv-target-images/d867870eaec14fcd96740497e970b084109b9251f2f60bef43c823b54f911ad7._RI_V_TTW_.jpg</thumbnail>
@@ -2669,22 +2540,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] DOCUMENTÁRIO - ANTRAZ EUA SOBE ATAQUE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d7959395e039ef59896b22a154b9cb2cb5d362f</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/p4y4gYJktuu6Y40nzljVPbqFkEG.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Dias depois dos ataques nas Torres Gêmeas, em Nova York, em 11 de setembro de 2001, cartas contendo informações fatais de antraz provocam pânico e tragédia nos EUA. Este documentário segue a investigação subsequente do FBI.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] DOCUMENTÁRIO - BOLCHEVIQUE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DZQ7PRXOZCHMUKOEARX3MCSRUHEG2CUF</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/k445VilKhdBeKQyLprJsyPEpkoV.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>O documentário retrata um fato marcante no território russo: a Revolução Bolchevique, iniciada em 1917, que levou Vladimir Lênin e, posteriormente, Josef Stalin ao comando da então União Soviética. Conta a história da Rússia, as origens do pensamento revolucionário e os padrões usados na implantação do comunismo em diferentes países.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] PINÓQUIO- LIVE ACTION [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BDAIEMF2T53Y74O44A42JS2NDMQIKLDQ</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hVPMjz4GXxxS4dMcaxTComi3KzR.jpg</thumbnail>
@@ -2722,14 +2577,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/bjT1tfmW5HblRFsQNZRkx8XwrTp.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Um grupo de turistas espanhóis em Veneza, desatentos à uma ameaça ao seu redor, precisarão lutar por suas vidas quando um a um começam a desaparecer. Quando um grupo de jovens turistas espanhóis chega a Veneza para uma despedida de solteiro, eles são recebidos por irritados moradores locais que não gostam de estrangeiros e eles logo precisam lutar pela própria vida.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] DOCUMENTÁRIO -UNTOLD- A REGATA DO SÉCULO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PLESFD23RTF3R7QKSYBGZ55OHDVTJYNM</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/uiGi7OAaukIUlZbgracBi9FiIFE.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Na Americas Cup de 1983, a equipe de iatismo dos EUA defendia o título contra a Austrália em meio a acusações de fraude e espionagem. O capitão australiano John Bertrand e sua tripulação relembram até onde os adversários estavam dispostos a chegar.</info>
 </item>
 
 <item>
@@ -2837,14 +2684,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] DOCUMENTÁRIO - BIO VIDAS QUE MARCARAM A SUA VIDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0cb2e2d32fdf12497e554ad9b74155da3a918cd2</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/e4YEkw8GOxk3YEjxLYMjbIto3CK.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Mercedes Sosa é a mulher que mudou os rumos do folclore argentino. O especial conta com valiosos depoimentos de amigos, familiares e ex-colegas como Rodolfo Braceli, que testemunhou mais de cinquenta anos de carreira. Assim, os depoimentos tornam tangível a visão de mundo de Mercedes Sosa, seu legado musical e seus pensamentos sobre política, amor, música e vida.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] DESCOBRINDO O AMOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:REMIIYW6SZH7YOXWYBF5PI5LP6Q7QQXG</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6cJIPLtyWixpm6zt3Nf5wVkWzua.jpg</thumbnail>
@@ -2925,14 +2764,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] DOCUMENTÁRIO - O CASO FIGO A TRANSFERÊNCIA QUE MUDOU O FUTEBOL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:IDX4OAS4QWONNE4BJIVNPLWA3TCRQIYE</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/2GQrzwE7HHBNAGnADKKKeXy7ke4.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Neste revelador documentário esportivo, uma lenda do futebol português relembra a transferência histórica que virou notícia no mundo inteiro.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] TUDO SOBRE SEXO- COM MODERAÇÃO VIU [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1847d5045fb0a997c6da9a4bd576fc5d38d21293</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jctlbKSXur5YRF7VpM1Jfla6AwY.jpg</thumbnail>
@@ -2986,14 +2817,7 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/a3w9A9k7KSzLffT23dMdL0R7oMJ.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Neste reboot do clássico dos anos 1970 com Bud Spencer e Terence Hill, dois irmãos que passaram 25 anos afastados se reúnem para recuperar o amado bugue do pai.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] DOCUMENTÁRIO - JOHN MCAFREE-GÊNIO,POLÊMICO & FUGITIVO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9c4257be3f98a282525b7e5f3e847d1760aeb55c</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/uTqjzvCJSPjpuRRsTy5GNqkI6zN.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Ele foi um gênio da computação que perdeu o controle, inventor de um dos softwares mais exitosos (e odiados) de todos os tempos: o antivírus McAfee. No auge do sucesso, John McAfee chegou a ter uma fortuna de 100 milhões de dólares. Mas, quando o vizinho foi assassinado, ele simplesmente fugiu e ainda levou uma equipe de filmagem. Com acesso a centenas de horas de gravações inéditas de McAfee durante a fuga, esta é a história definitiva de uma personalidade exuberante, um homem que foi candidato a presidente, escapou várias vezes da prisão e ainda disse que hackeou o mundo.</info>
+</item>itiva de uma personalidade exuberante, um homem que foi candidato a presidente, escapou várias vezes da prisão e ainda disse que hackeou o mundo.</info>
 </item>
 
 <item>
@@ -3178,14 +3002,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/cmnU2u5WJjl8R6Q0JX2eBN7RpGY.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Enquanto faz serenata para um casamento que rapidamente acaba, um músico nômade se apaixona pela noiva, que entra em conflito com sua família. Agora ele tem que salvar a vida dela.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] DOCUMENTÁRIO - A VERDADEIRA HISTÓRIA DO ROUBO DO SÉCULO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:73B7422NDDJM62WZDNBUL4GY6ZVIDZFH</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/xrYVZ5b0p0BKg6vZ3scU4iyOwC3.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Em 2006, na Argentina, o Banco Río foi assaltado por seis ladrões. 23 reféns e 300 policiais não puderam prever que o grupo iria levar cerca de 15 milhões de dólares e escaparem ilesos. Este documentário contém entrevistas reveladoras sobre a famosa e arriscada operação.</info>
 </item>
 
 <item>
