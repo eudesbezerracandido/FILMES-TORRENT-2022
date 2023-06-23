@@ -221,14 +221,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] DOCUMENTÁRIO - VALE DOS CANGURUS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03430815d482ba2ff92decbf71562a919d5c1d8b</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/5pl84OGmiTSKgZNcGF2w3S9W0DB.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Esta série mostra um australiano que cria quase 30 cangurus num santuário. Esta série acompanha um australiano que resgata filhotes de canguru e cria um bando de quase 30 destes animais em um santuário no Outback, perto de Alice Springs. Vamos viajar o planeta e descobrir os segredos dos lugares intocados.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] A CASA DA MORTE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e3e53781620b18be0619208335be662f796c17f9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/1pkdudkxnK3mBlH3thy3FL7BN0Z.jpg</thumbnail>
@@ -1139,14 +1131,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/jyw7lSu0bm71jAykAbVwchyVTkR.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Uma mãe fará de tudo para proteger sua filha quando assaltantes invadem as unidades de depósito em que trabalha. Entre os corredores que parecem labirintos, a situação fica cada vez mais perigosa.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] INSIDE MAN 1º TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RH26FTFBOQDQL3SUGX6V3MY3G5BZD3VE</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/7tZONSnzKylgzHJvtoOGjRmYlgU.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Um prisioneiro no corredor da morte nos EUA e uma mulher presa em um porão sob um presbitério inglês, cruzam caminhos da maneira mais inesperada possível</info>
 </item>
 
 <item>
@@ -2661,7 +2645,7 @@
 
 <item>
 <title>[COLOR silver][B] NAS PROFUNDEZAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6F7BQXT5MEZCSOWB5Z4YJPE5W7T5NKHP</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a854adb2abb3aa232526859afffd77fb3aef5697</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/xgIwjxiSGTjAyH1RwtQP6quFTki.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Uma jovem desesperada por uma fuga, conhece um estranho misterioso e atraente que promete uma viagem romântica. O que se segue é engano, desconfiança e violência.</info>
