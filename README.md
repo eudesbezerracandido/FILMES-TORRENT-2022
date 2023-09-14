@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] ASSASSINATO EM YELOSTONE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b22470a9d286a8056938bd894a73a2288d877a9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/muKA4GHl51d4i2l0a7GeXz8ky8N.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um ex-escravo chega a Yellowstone City, Montana, uma antiga cidade desolada em expansão e agora em declínio, procurando um lugar para chamar de lar. No mesmo dia, um garimpeiro local descobre ouro e termina morto</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] OLHOS FAMINTOS- O RENASCIMENTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9ccf072f0ebfd502464a01e4bdf6143ec5e6971a</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/heupe14pwbjTEwyMcnUcs1x8J4O.jpg</thumbnail>
