@@ -29,7 +29,7 @@
 <item>
 <title>[COLOR silver][B] DUOLOGIA -  AVATAR  1/2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XE3FSLZO7T7IFVZAZPQSAPZ5ZT6EXPRS$nome=AVATAR 1</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95F77E0AAAD20BF7FC7F4DE209D6183496E3C824$nome=AVATAR 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fec56aa2a72ed78603804d5d576e3f264a055f66nome=AVATAR 2</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kUAG4ZQcsNbRyiPyAr3hLdsVgAq.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/f17iTvqKQBFKq9GOxWStkuOVn8x.jpg</fanart>
 <info>Doze anos depois de explorar Pandora e se juntar aos Na'vi, Jake Sully formou uma família com Neytiri e se estabeleceu entre os clãs do novo mundo. Porém, a paz não durará para sempre.</info>
