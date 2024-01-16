@@ -3401,14 +3401,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] DOCUMENTÁRIO -  VOÇÊ RADICAL COM RANVEER SINGH E BEAR GRYLLS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3VRLNX4GRXNXCZFD3BPNSLRBVHZVSUVQ</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/pZ7cLgKNF9g3B7z1TXlGYQwClPH.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Neste especial interativo, você ajuda o ator Ranveer Singh e o aventureiro Bear Grylls a enfrentar a natureza selvagem da Sérvia em busca de uma flor.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] QUANDO CHEGAR A CALMARIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:PYJ4TSWNSAYWREDSRBWZQPDCPICZQATF</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/bGVQK3vuidHYey8MMyIvVnoh2zp.jpg</thumbnail>
@@ -4201,14 +4193,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] DOCUMNETÁRIO - OS REFÉNS DE GLADBACK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CHVL7NB6XDWNIQFQMUC3YFAFYA6JY4YX</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/3PZjv1WoTeZKK1Xl5nTVDbKZOWl.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>O documentário Os Reféns de Gladbeck, aborda o caso que aconteceu na então Alemanha Ocidental, em agosto de 1988. Dois ladrões de banco armados controlaram a polícia por 54 horas, e três pessoas morreram durante o ataque: dois adolescentes reféns e um policial envolvido. O episódio chamou a atenção da mídia de toda a região, que acompanhou todos os desdobramentos trágicos.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] ARREMESSANDO ALTO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a7ab71c9c4b0a5e08fc32533f4a2eae57e3ca355</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/25aPHMlZNP5F3fgxUo4XB7xUVz7.jpg</thumbnail>
@@ -4254,14 +4238,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/orXhDQCtC086ccqUdkwOwZqN0kQ.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Em ‘DPA3 Uma Aventura no Fim do Mundo, Pippo (Pedro Henriques Motta), Bento (Anderson Lima) e Sol (Letícia Braga) se vêem em apuros quando Severino (Ronaldo Reis) encontra um objeto em meio aos escombros de um avião. O que parecia uma inofensiva relíquia era, na verdade, uma das faces do ‘Medalhão de Uzur’, responsável por controlar e manipular toda a magia existente no mundo. Assim que coloca o artefato no pescoço, o porteiro tão querido começa a se transformar em uma figura malígna.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] DOCUMNETÁRIO - ED KEMPER-A MENTE DE UM MOSTRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:935c3121a9f317d2cdc682cd02818ab0711a115c</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/9YvVacA0HelpctBK62X1N4Ec4ym.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Ed Kemper parece um gigante gentil que ajuda jovens. Mas por trás de seu sorriso charmoso, há um monstro pervertido. Gravações revelam as fantasias sombrias de um dos assassinos em série mais famosa dos Estados Unidos.</info>
 </item>
 
 <item>
@@ -4321,14 +4297,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] DOCUMENTÁRIO - PLANETA PRÉ-HISTÓRICO 1° TEMPORADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:SLHDQ2JU7OJ2YKRSQQLYSJLLNV7CUVUH</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/iO7MX4bFkufcCYgGZNpLbnJLDU8.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Uma série original Apple de história natural sobre dinossauros.Será focado nos últimos dias dos dinossauros na Terra, há aproximadamente 66 milhões de anos e será produzido pela equipe de história natural da BBC Studios.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] THIS IS THE NIGHT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47bf846231f2ce43e3a55dd0211da82b8861a288</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mZPyZ22kzcmfyt1dQapaSiQenvI.jpg</thumbnail>
@@ -4350,14 +4318,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/w9QODeryktRQktmfZuxGNinna7M.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Dante passa seus dias entre fábricas, skates e cadáveres, mas a única coisa que realmente importa para ele é a banda de death metal que formou com seus melhores amigos. Lucy, a namorada de seu irmão em coma, chega para visitá-lo. Sua presença causa caos, confusão e esperança.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] DOCUMENTÁRIO - A GRANDE INVASÃO DO BALÃO BOMBA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1d35f4c8110dfd8a88ccbccd2173965bf44e6eee</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4ETu00IumFstWEtgGleB9zWwsme.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Na Segunda Guerra Mundial, o Japão lançou mais de nove mil balões com bombas no oceano Pacífico para atacar os Estados Unidos. O historiador Martin Morgan lidera uma caçada para encontrar estas bombas em solo americano.</info>
 </item>
 
 <item>
@@ -4894,14 +4854,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/original/dJfB8epuL4fRUghv1Cal1kO8M6O.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A filha adolescente de um fanático religioso tenta escapar de sua conturbada vida familiar quando três estranhos aparecem perto de sua remota fazenda e interrompem um delirante pacto de suicídio.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] DOCUMENTÁRIO - VINICIOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4839a0c63833772e80afb2330ec59ec04e51a87</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/6pdf0u3K0kL4u45sjCuf8UP9WXy.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>A montagem de um pocket show em homenagem a Vinicius de Moraes por dois atores (Camila Morgado e Ricardo Blat) é o ponto de partida para reconstituição de sua tragetória. O documentário mostra a vida, a obra, a família, os amigos, os amores de Vinicius de Moraes, autor centenas de poesias e letras de música. A essência criativa do artista e filósofo do cotidiano e as transformações do Rio de Janeiro através de raras imagens de arquivo, entrevistas e interpretações de muitos de seus clássicos.</info>
 </item>
 
 <item>
@@ -5465,14 +5417,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] NEYMAR- O CAOS PERFEITO ( DOCUMENTÁRIO ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c44bc5d227e855337f1f1bad80d09b406b276ea2</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/aMKNSwbkuCE3VoT3BfwVjQgrdmX.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Um dos atletas mais famosos e bem pagos da história como você nunca viu antes. Neymar é um herói em campo e uma figura polêmica fora. Esta série documental em três partes, mostra o lado pessoal do astro do futebol, acompanha sua ascensão à fama no Santos, seus dias de glória no FC Barcelona e a montanha-russa com a Seleção Brasileira e o Paris Saint Germain. O documentário também revela a máquina de marketing por trás do jogador, comandada pelo seu pai. Repleta de estrelas, a série traz ainda entrevistas com muitas outras lendas, que avaliam o lugar de Neymar na história do esporte.</info>
-</item> 
-
-<item>
 <title>[COLOR silver][B] CLIFFORD- O GIGANTE CÃO VERMELHO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:NNLBQMQYGBANRVEVAPHYHKFVDZ3WTP2J</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/g51VeVAIM7q9ZqpZRlPEqqhLThR.jpg</thumbnail>
@@ -5622,14 +5566,6 @@ item>
 <thumbnail>https://www.themoviedb.org/t/p/original/vXHzO26mJaOt4VO7ZFiM6No5ScT.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>A história segue Virtuoso, um assassino profissional (Anson Mount) que deve rastrear e matar seu último alvo para satisfazer uma dívida pendente com seu mentor (Anthony Hopkins). Ao contrário de seus outros "trabalhos", essa tarefa oferece poucas informações preciosas. Ele não deu nenhum nome ou foto, apenas que seu alvo será em um restaurante rústico em uma cidade agonizante, às 17h.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] DOCUMENTÁRIO - MAGNATAS DO ESPAÇO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5075e6f2d07ca9ddcad3244cef8266007917ffd</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/pUG2LJddHfFLoBwQcctzhN68nT9.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Uma nova era da exploração espacial teve início quando os empresários de maior sucesso do mundo arriscaram bilhões de dólares para lançar uma revolução em viagens espaciais.</info>
 </item>
 
 <item>
@@ -5921,14 +5857,6 @@ item>
 </item>
 
 <item>
-<title>[COLOR silver][B] DOCUMENTÁRIO - ABERCROMBIE E FITCH- ASCENSÃO E QUEDA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:OPLXKWCXLAKMFVG47DLA5L4FAZYXQP2S</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/8Zi3lyy7hOw2VGeLJ0A813oSGis.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Este documentário explora o reinado da A&F na cultura pop na virada do milênio e mostra como a marca prosperou através da exclusão.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] NAKED SINGULARITY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:Z4BCGFSGAYTXPPZZMEJKYQI2Z6WYVGJH</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/iJwnO2Tou9hwgy1olFn3JcCj7Sx.jpg</thumbnail>
@@ -6001,14 +5929,6 @@ item>
 </item>
 
 <item>
-<title>[COLOR silver][B] DOCUMENTÁRIO -  O MISTÉRIO DE MERILYN MONROE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43decd355eef266689cc258d35bf2146bc39182f</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/vXuUH4IGkB3B2gJWkLStSLGRewa.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Mergulhe no mistério que envolve a morte de Marilyn Monroe ouvindo entrevistas inéditas com seus amigos mais íntimos neste documentário.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] SILVERTON-CERTO FECHADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bcccfcebc180044d2a3b3359bb5fe98b419b0fdd</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mp2GAIoW9czkSlyZHlqii9Bc6i6.jpg</thumbnail>
@@ -6030,22 +5950,6 @@ item>
 <thumbnail>https://www.themoviedb.org/t/p/original/moLnqJmZ00i2opS0bzCVcaGC0iI.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Amanda (Sandra Oh) e sua filha vivem uma vida tranquila numa fazenda do interior dos Estados Unidos, mas quando as cinzas de sua mãe chegam da Coréia, ela começa a ser assombrada pela ideia de que está se transformando nela.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] DOCUMENTÁRIO-SERIAL KILLER-PLAHAÇO ASSASSINO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B6WEIHR4ZWGWNIRZD43FDJXKATGCG3BU</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/vRhDeXlivrQX2ZYjEmj8x1uADg2.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Depois de uma temporada focada no serial killer Ted Bundy, Conversando com um Assassino está de volta. Desta vez, a série documental irá explorar o caso de John Wayne Gacy, mais conhecido como o palhaço assassino. Traçando um histórico cronológico em paralelo com o perfil de John Wayne a produção teve acesso a mais de 60 horas de conversas com o assassino que, até então, nunca haviam sido disponibilizadas para o público. Durante os anos 1970, Gacy assassinou 33 homens e os enterrou em um espaço pequeno em sua casa localizada no subúrbio de Chicago. Nas conversas recuperadas para a série, o assassino revisita os assassinatos que cometeu, seu julgamento e também o estado mental após a resolução de tudo. Além disso, os episódios buscam explicar como a cultura da década de 70 permitiu que Gacy permanecesse impune e irrastreável por anos até ser preso.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] DOCUMENTÁRIO- A URSA POLAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EHJWR4LTUV4APRRR2LIH2CAEZGYIE35V</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4mJhqONvdgUMz8rOMO5NZdn8HQS.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/c1Z52TENkjEaqHmrrNds6s2LI59.jpg</fanart>
-<info>Conheça uma nova mãe enquanto ela se prepara para navegar na maternidade no mundo desafiador que os ursos polares enfrentam hoje.</info>
 </item>
 
 <item>
@@ -6134,14 +6038,6 @@ item>
 <thumbnail>https://www.themoviedb.org/t/p/original/tlu71AgaL3EQBBCNGsAwZLPbV5D.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> Fresh gira em torno da jovem Noa (Daisy Edgar-Jones), quem conhece o sedutor Steve (Sebastian Stan) em um supermercado e, devido à frustração com aplicativos de namoro, arrisca e lhe dá seu número. Após o primeiro encontro, Noa aceita o convite de Steve para passarem um final de semana juntos — contudo, o momento a sós mostrará como o seu novo amante tem escondido alguns apetites incomuns.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] DOCUMENTÁRIO- OS PARQUES NACIONAIS FASCINANTES DO MUNDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4KUSQF4P6HYFXSDMECU27XRW3M2SGAG7</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/4jDsKHRBhqVPDgFeE7GSpDuP3U1.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> Narrada pelo ex-presidente Barack Obama, esta série documental destaca alguns dos parques nacionais mais espetaculares do planeta.</info>
 </item>
 
 <item>
@@ -6241,14 +6137,6 @@ item>
 </item>
 
 <item>
-<title>[COLOR silver][B] DOCUMENTÁRIO( TONY HAWK )ATÉ RODINHAS CAIREM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:575553b9971646783fd0a74dd503e3e6b9e5cc22</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/rvAiniDPs5sxucbRC0stls4yNdY.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Centrado em entrevistas íntimas com o próprio Tony Hawk, o documentário é um olhar abrangente sobre a vida do skatista, sua carreira lendária e o relacionamento com o esporte com o qual ele é sinônimo há décadas.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] UM JANTAR ENTRE ESPIÕES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:675725fcc63fbd1334f5a3d39f755cb24bed4869</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/bfHTsg7YpUd7YkLSXEeTKjeg7BE.jpg</thumbnail>
@@ -6318,14 +6206,6 @@ item>
 <thumbnail>https://www.themoviedb.org/t/p/original/gQM1LFshFpfqbla0GMvUUxb2iNV.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Descontente com seu emprego e seu namorado de longa-data, uma jovem (Danielle Macdonald) decide largar tudo e correr atrás de seu antigo sonho de virar cantora de ópera.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] DOCUMENTÁRIO - ANIMAIS FANTASTICOS,UMA HÍTORIA NATURAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:WBOPM5N444HYPUBIJNFP6NKJVECVBX4Q</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/gNxONX7C2sIpyj9bRfprdeFgKCs.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info> No filme Animais Fantásticos: Uma História Natural WEB-DL 1080p Dual Áudio, Stephen Fry embarca em uma jornada para descobrir as histórias de criaturas fantásticas que inspiraram mitos e lendas de nossos antepassados, assim como a literatura e o cinema.</info>
 </item>
 
 <item>
@@ -6479,22 +6359,6 @@ item>
 <thumbnail>https://www.themoviedb.org/t/p/original/pz5ZrXSymSrVybrKnTwiPQ4Cg1U.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Brenner Baker, uma militar da Divisão de Patrulheiros do Exército Americano, e seu marido Dillon decidem acampar numa floresta do Alabama. Durante uma caminhada, eles encontram um esconderijo de um cartel do narcotráfico no meio do nada. O casal é atacado pela facção criminosa e deixado na floresta para morrer. Mas o que os membros do cartel não imaginavam é que estariam cometendo um erro terrível ao não confirmarem se Brenner estava realmente morta. Agora, sozinha, ela partirá em busca de vingança, destruindo todos que ficarem em seu caminho.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] DOCUMENTÁRIO - ASSALTO AO BANCO CENTRAL ( NACIONAL ) [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31bcc162ece58b02db64c53fb6498c3fcc778f9a</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/qzYfiX3t8b9Kg7RhAHl5WDi5usI.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Em 2005, através de um túnel, ladrões invadem o cofre do Banco Central do Brasil localizado em Fortaleza, no Ceará, e roubam mais de 160 milhões de reais. Com depoimentos inéditos, esta série documental examina o assalto histórico e revela as trágicas consequências de um golpe milionário que parecia perfeito.</info>
-</item>
-
-<item>
-<title>[COLOR silver][B] DOCUMENTÁRIO - FAROFA DA GKEY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:686291903a9d8128cb613efb61cdece3ffc10cb7</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/vXJIFS0aUE07M9lHRJr31Ngty1A.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Porque tem gente que fala que a Farofa é melhor que Carnaval? Ícone, fenômeno. No Farofa da GKAY o documentário, você vai poder conferir como é produzir a maior festa reality já transmitida. Aperte o play e esteja por dentro de todos os kikikis que impactaram mais de 66 milhões de pessoas.</info>
 </item>
 
 <item>
