@@ -5,6 +5,17 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] VÉSPER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:faa2b0b52f7674eff5ba36aa9f200a2916ea7c9c$nome=LEGENDADO</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E480371111EF5BE8F50F8679790929A88ED7843E$nome=DUBLADO NÃO OFICIAL</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/ndZu4mf9cqaZw7iwQda9dlbBpzk.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info></info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DUOLOGIA -  AVATAR  1/2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:XE3FSLZO7T7IFVZAZPQSAPZ5ZT6EXPRS$nome=AVATAR 1</link>
